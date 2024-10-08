@@ -40,4 +40,7 @@ export default defineConfig({
         emptyOutDir: true, // Clear the 'public' folder before each build (except copied files)
     },
     base: '/mototote-selector/', // Update with the actual GitHub Pages repository name
+    define: {
+        'process.env.NODE_ENV': JSON.stringify('production')
+    }
 });
