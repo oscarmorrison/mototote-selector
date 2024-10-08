@@ -2,9 +2,11 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-    plugins: [react()],
+    plugins: [
+        react(),
+    ],
     build: {
-        outDir: 'public', // Output directory set to 'public'
+        outDir: 'public', // Set output to 'public'
         lib: {
             entry: 'src/main.jsx',
             name: 'mototote-widget',
@@ -17,12 +19,12 @@ export default defineConfig({
                     react: 'React',
                     'react-dom': 'ReactDOM',
                 },
-                assetFileNames: 'assets/[name].[ext]', // Organize assets inside public/assets
+                assetFileNames: 'assets/[name].[ext]', // Organize assets inside 'assets'
                 entryFileNames: 'assets/[name].js',
                 chunkFileNames: 'assets/[name].js',
             },
         },
-        emptyOutDir: false, // Prevents Vite from clearing out the 'public' folder, so existing files like index.html won't be deleted
+        emptyOutDir: true, // Clear the 'public' folder before each build (except copied files)
     },
-    base: 'mototote-selector', // Update this to the actual GitHub Pages repository name
+    base: '/mototote-selector/', // Update with the actual GitHub Pages repository name
 });
