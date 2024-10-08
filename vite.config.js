@@ -1,6 +1,8 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 import { viteStaticCopy } from 'vite-plugin-static-copy';
+import EnvironmentPlugin from 'vite-plugin-environment';
+
 
 export default defineConfig({
     plugins: [
@@ -16,7 +18,10 @@ export default defineConfig({
                     dest: 'data'               // Destination is 'data' in the 'public' folder
                 }
             ]
-        })
+        }),
+        EnvironmentPlugin({
+            NODE_ENV: 'production'
+        }),
     ],
     build: {
         outDir: 'public', // Set output to 'public'
@@ -40,7 +45,4 @@ export default defineConfig({
         emptyOutDir: true, // Clear the 'public' folder before each build (except copied files)
     },
     base: '/mototote-selector/', // Update with the actual GitHub Pages repository name
-    define: {
-        'process.env.NODE_ENV': JSON.stringify('production')
-    }
 });
