@@ -3,7 +3,6 @@ import react from '@vitejs/plugin-react';
 import { viteStaticCopy } from 'vite-plugin-static-copy';
 import EnvironmentPlugin from 'vite-plugin-environment';
 
-
 export default defineConfig({
     plugins: [
         react(),
@@ -31,7 +30,6 @@ export default defineConfig({
             fileName: 'mototote-widget.js',
         },
         rollupOptions: {
-            external: ['react', 'react-dom'],
             output: {
                 globals: {
                     react: 'React',
