@@ -1,51 +1,51 @@
-name: Build and Deploy to GitHub Pages
-
+name: publish-to-github-pages
 on:
   push:
     branches:
-      - main  # Change this to 'master' if your default branch is 'master'
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout 🛎️
         uses: actions/checkout@v4
-        
-      - name: Setup Node.js
+
+      - name: Setup Node.js ⚙️ - Use Node 22
         uses: actions/setup-node@v3
         with:
-          node-version: '22'  # Specify Node.js version 22
-        
-      - name: Install dependencies
-        run: yarn install  # Install project dependencies
-        
-      - name: Build project
-        run: yarn build  # Run the build command
-        
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
-        
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: ./public  # Specify the path to the built site
-          name: github-pages  # Ensure the artifact is named "github-pages"
+          node-version: '22'
 
-  # Deployment job
+      - name: Install dependencies 🔧
+        run: yarn install
+
+      - name: Build with Vite 🏗️
+        run: yarn build
+
+      - name: Upload artifact 📡
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
     needs: build
-    permissions:
-      id-token: write  # Grant permission to write ID tokens
-      contents: read    # Grant permission to read repository contents
-      pages: write      # Grant permission to write to GitHub Pages
+
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Publish to GitHub Pages 🚀
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
