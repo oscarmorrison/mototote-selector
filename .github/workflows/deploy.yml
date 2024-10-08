@@ -1,0 +1,36 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Triggers the action on pushes to the 'main' branch (or use 'master' if that's your default branch)
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      # Set up Node.js 22 and install dependencies
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v3
+        with:
+          node-version: 22  # Specify Node.js 22
+
+      - name: Install dependencies
+        run: yarn install
+
+      # Build the project using 'yarn build'
+      - name: Build the project
+        run: yarn build
+
+      # Deploy the contents of the 'public' directory to the 'gh-pages' branch
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public  # The directory to publish (your 'public' folder)
+          keep_files: false      # If true, keeps existing files in the gh-pages branch
+          force_orphan: true     # Ensure a clean branch (avoid merge conflicts)
