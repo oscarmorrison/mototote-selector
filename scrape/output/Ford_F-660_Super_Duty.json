@@ -1,0 +1,19 @@
+{
+    "Year": 2002,
+    "Make": "Ford",
+    "ModelTrim": "F-660 Super Duty",
+    "TowingCapacity": {
+        "Id": 23493,
+        "Year": 2002,
+        "TypeDesc": "Truck",
+        "MfgDesc": "Ford",
+        "MakeTrim": "F-660 Super Duty",
+        "DriveTypeDesc": "Not Available",
+        "Engine": "All",
+        "Trans": null,
+        "Notes": "To determine maximum trailer weight, subtract your vehicle's GVWR from the maximum GCWR; GVWR is 26000.",
+        "TowDesc": "Bumper Pull - Weight Carrying",
+        "GearRatio": null,
+        "TowCapacity": 14000
+    }
+}

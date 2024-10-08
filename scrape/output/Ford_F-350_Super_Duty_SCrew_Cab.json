@@ -1,0 +1,19 @@
+{
+    "Year": 2003,
+    "Make": "Ford",
+    "ModelTrim": "F-350 Super Duty SCrew Cab",
+    "TowingCapacity": {
+        "Id": 22042,
+        "Year": 2003,
+        "TypeDesc": "Truck",
+        "MfgDesc": "Ford",
+        "MakeTrim": "F-350 Super Duty SCrew Cab",
+        "DriveTypeDesc": "Not Available",
+        "Engine": "6.8L V-10",
+        "Trans": "Manual",
+        "Notes": "Trailer weights for all TRUCK models assume a 1000 lbs. second-unit body weight. Be sure combined weight of vehicle and trailer does not exceed the GCWR.",
+        "TowDesc": "Fifth Wheel",
+        "GearRatio": "3.73:1",
+        "TowCapacity": 9700
+    }
+}

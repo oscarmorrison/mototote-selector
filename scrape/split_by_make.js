@@ -7,20 +7,32 @@ function loadLargeJson(filePath) {
     return JSON.parse(data);
 }
 
-// Function to organize data by Year only
-function organizeByYear(data) {
+// Function to sanitize file names
+function sanitizeFileName(fileName) {
+    // Normalize the file name by removing unwanted characters and standardizing the format
+    return fileName
+        .replace(/[\/:*?"<>|]/g, '') // Remove invalid characters
+        .replace(/\s+/g, '_') // Replace spaces with underscores
+        .replace(/_+/g, '_') // Replace multiple underscores with a single underscore
+        .replace(/_\(.*?\)/g, '') // Remove anything in parentheses
+        .replace(/_+/g, '_') // Clean up any remaining underscores
+        .replace(/^_+|_+$/g, ''); // Trim leading and trailing underscores
+}
+
+// Function to organize data by Make
+function organizeByMake(data) {
     const organizedData = {};
 
     data.forEach((vehicle) => {
-        const year = vehicle.Year;
+        const make = vehicle.Make;
 
         // Initialize the structure if it doesn't exist
-        if (!organizedData[year]) {
-            organizedData[year] = [];
+        if (!organizedData[make]) {
+            organizedData[make] = [];
         }
 
-        // Push the vehicle data into the right year
-        organizedData[year].push(vehicle);
+        // Push the vehicle data into the right make
+        organizedData[make].push(vehicle);
     });
 
     return organizedData;
@@ -33,25 +45,48 @@ function createJsonFiles(outputDir, organizedData) {
         fs.mkdirSync(outputDir, { recursive: true });
     }
 
-    Object.keys(organizedData).forEach((year) => {
-        const fileName = `${year}.json`;
-        const filePath = path.join(outputDir, fileName);
+    const allMakes = []; // Array to store all makes
 
-        // Write each year data to a file
-        fs.writeFileSync(filePath, JSON.stringify(organizedData[year], null, 4));
-        console.log(`Created file: ${filePath}`);
+    Object.keys(organizedData).forEach((make) => {
+        const safeMake = sanitizeFileName(make);
+        allMakes.push(safeMake); // Add the make to the allMakes array
+        const modelTrimFiles = {}; // Object to store model trims and their associated file names
+
+        organizedData[make].forEach(vehicle => {
+            const modelTrim = vehicle.ModelTrim;
+            const safeModelTrim = sanitizeFileName(modelTrim);
+            const makeTrimFileName = `${safeMake}_${safeModelTrim}.json`;
+            const makeTrimFilePath = path.join(outputDir, makeTrimFileName);
+
+            // Write each make_trim to a file
+            fs.writeFileSync(makeTrimFilePath, JSON.stringify(vehicle, null, 4));
+            console.log(`Created file: ${makeTrimFilePath}`);
+
+            // Store the model trim and its associated file name
+            modelTrimFiles[modelTrim] = makeTrimFileName;
+        });
+
+        // Create MAKE.json with model trims as keys and file names as values
+        const makeFileName = `${safeMake}.json`;
+        const makeFilePath = path.join(outputDir, makeFileName);
+        fs.writeFileSync(makeFilePath, JSON.stringify(modelTrimFiles, null, 4));
+        console.log(`Created file: ${makeFilePath}`);
     });
+
+    // Create MAKES.json with a list of all makes
+    const makesFilePath = path.join(outputDir, 'MAKES.json');
+    fs.writeFileSync(makesFilePath, JSON.stringify(allMakes, null, 4));
+    console.log(`Created file: ${makesFilePath}`);
 }
 
 // Main function to execute the process
 function splitJsonFile(inputFilePath, outputDir) {
     try {
         const data = loadLargeJson(inputFilePath);
-        const organizedData = organizeByYear(data);
+        const organizedData = organizeByMake(data);
         createJsonFiles(outputDir, organizedData);
-        console.log('JSON file split successfully!');
     } catch (error) {
-        console.error('Error splitting the JSON file:', error);
+        console.error('Error processing the file:', error);
     }
 }
 
