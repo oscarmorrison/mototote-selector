@@ -8,7 +8,7 @@ export default defineConfig({
         viteStaticCopy({
             targets: [
                 {
-                    src: 'index.html', // Source index.html
+                    src: './src/webpage/index.html', // Source index.html
                     dest: '.'          // Destination is the root of the 'public' folder
                 },
                 {
