@@ -24,20 +24,15 @@ export default defineConfig({
     ],
     build: {
         outDir: 'public',
-        lib: {
-            entry: 'src/main.jsx',
-            name: 'mototote-widget',
-            fileName: 'mototote-widget.js',
-        },
         rollupOptions: {
             output: {
+                entryFileNames: 'assets/mototote-widget.js', // Specify the output filename
+                chunkFileNames: 'assets/[name].js',
+                assetFileNames: 'assets/[name].[ext]',
                 globals: {
                     react: 'React',
                     'react-dom': 'ReactDOM',
                 },
-                assetFileNames: 'assets/[name].[ext]',
-                entryFileNames: 'assets/[name].js',
-                chunkFileNames: 'assets/[name].js',
             },
         },
         emptyOutDir: true,
