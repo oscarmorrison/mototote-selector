@@ -9,12 +9,12 @@ export default defineConfig({
         viteStaticCopy({
             targets: [
                 {
-                    src: './src/webpage/index.html', // Source index.html
-                    dest: '.'          // Destination is the root of the 'public' folder
+                    src: './src/webpage/index.html',
+                    dest: '.'
                 },
                 {
-                    src: 'scrape/output/**/*', // Source all files in 'scrape/output' directory
-                    dest: 'data'               // Destination is 'data' in the 'public' folder
+                    src: 'scrape/output/**/*',
+                    dest: 'data'
                 }
             ]
         }),
@@ -23,7 +23,7 @@ export default defineConfig({
         }),
     ],
     build: {
-        outDir: 'public', // Set output to 'public'
+        outDir: 'public',
         lib: {
             entry: 'src/main.jsx',
             name: 'mototote-widget',
@@ -35,12 +35,12 @@ export default defineConfig({
                     react: 'React',
                     'react-dom': 'ReactDOM',
                 },
-                assetFileNames: 'assets/[name].[ext]', // Organize assets inside 'assets'
+                assetFileNames: 'assets/[name].[ext]',
                 entryFileNames: 'assets/[name].js',
                 chunkFileNames: 'assets/[name].js',
             },
         },
-        emptyOutDir: true, // Clear the 'public' folder before each build (except copied files)
+        emptyOutDir: true,
     },
-    base: '/mototote-selector/', // Update with the actual GitHub Pages repository name
+    base: '/mototote-selector/',
 });
