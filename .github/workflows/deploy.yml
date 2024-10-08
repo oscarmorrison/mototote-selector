@@ -3,47 +3,57 @@ name: Build and Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change this to 'master' if your default branch is 'master'
+      - main  # Or 'master' if that's your default branch
 
 jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        
-      - name: Setup Node.js
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Set up Node.js 22
+      - name: Set up Node.js 22
         uses: actions/setup-node@v3
         with:
-          node-version: '22'  # Specify Node.js version 22
-        
+          node-version: 22
+
       - name: Install dependencies
-        run: yarn install  # Install project dependencies
-        
-      - name: Build project
-        run: yarn build  # Run the build command
-        
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
-        
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        run: yarn install
+
+      # Build the project using yarn build
+      - name: Build the project
+        run: yarn build
+
+      # Upload build artifacts to pass to deploy job
+      - name: Upload production-ready files
+        uses: actions/upload-artifact@v3
         with:
-          path: ./public  # Specify the path to the built site
+          name: production-files
+          path: public   # This is where the build output will be
 
   # Deployment job
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     permissions:
-      id-token: write  # Grant permission to write ID tokens
-      contents: read    # Grant permission to read repository contents
+      contents: read    # Read permissions for repo contents
+      pages: write      # Write permissions for deploying to GitHub Pages
+      id-token: write   # Permissions for OIDC authentication
+
     steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: production-files
+
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4  # Deploy to GitHub Pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Pass the GITHUB_TOKEN explicitly
