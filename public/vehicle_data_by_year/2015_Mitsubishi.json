@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2015,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Outlander",
+        "TowingCapacity": {
+            "Id": 3362,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Outlander",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Outlander",
+        "TowingCapacity": {
+            "Id": 3363,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Outlander",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

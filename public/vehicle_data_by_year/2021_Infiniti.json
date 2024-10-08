@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2021,
+        "Make": "Infiniti",
+        "ModelTrim": "QX50",
+        "TowingCapacity": {
+            "Id": 498721,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX50",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 VC-Turbo",
+            "Trans": "Continuously Variable Transmission with Manual Shift Mode",
+            "Notes": "Requires: Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Infiniti",
+        "ModelTrim": "QX80",
+        "TowingCapacity": {
+            "Id": 498733,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX80",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V8",
+            "Trans": "7-Speed Automatic",
+            "Notes": "Note: Use of a weight-distributing hitch system is recommended when towing over 5000 pounds (2267 kg).",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 8500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Infiniti",
+        "ModelTrim": "QX80",
+        "TowingCapacity": {
+            "Id": 498731,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX80",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "5.6L V8",
+            "Trans": "7-Speed Automatic",
+            "Notes": "Note: Use of a weight-distributing hitch system is recommended when towing over 5000 pounds (2267 kg).",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 8500
+        }
+    }
+]

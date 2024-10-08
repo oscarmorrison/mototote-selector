@@ -1,0 +1,363 @@
+[
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "4Runner",
+        "TowingCapacity": {
+            "Id": 24016,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "4Runner",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Highlander",
+        "TowingCapacity": {
+            "Id": 24018,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Highlander",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package required. All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Highlander",
+        "TowingCapacity": {
+            "Id": 24017,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Highlander",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All I-4",
+            "Trans": null,
+            "Notes": "Optional towing package required. All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Land Cruiser",
+        "TowingCapacity": {
+            "Id": 24019,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Land Cruiser",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "S-Runner",
+        "TowingCapacity": {
+            "Id": 24023,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "S-Runner",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Sequoia",
+        "TowingCapacity": {
+            "Id": 24021,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Sequoia",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Sequoia",
+        "TowingCapacity": {
+            "Id": 24020,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Sequoia",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Sienna",
+        "TowingCapacity": {
+            "Id": 24022,
+            "Year": 2002,
+            "TypeDesc": "Van",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Sienna",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package required. All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tacoma",
+        "TowingCapacity": {
+            "Id": 24025,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tacoma",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package required. All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tacoma",
+        "TowingCapacity": {
+            "Id": 24024,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tacoma",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All I-4",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x2 B-Cab",
+        "TowingCapacity": {
+            "Id": 24027,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x2 B-Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Automatic",
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x2 B-Cab",
+        "TowingCapacity": {
+            "Id": 24026,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x2 B-Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Manual",
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5250
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x2 C-Cab",
+        "TowingCapacity": {
+            "Id": 24029,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x2 C-Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Automatic",
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4900
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x2 C-Cab",
+        "TowingCapacity": {
+            "Id": 24028,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x2 C-Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Manual",
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4950
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x2 C-Cab (SR5,LTD)",
+        "TowingCapacity": {
+            "Id": 24030,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x2 C-Cab (SR5,LTD)",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x4 B-Cab",
+        "TowingCapacity": {
+            "Id": 24031,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x4 B-Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x4 C-Cab",
+        "TowingCapacity": {
+            "Id": 24033,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x4 C-Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Automatic",
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4950
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x4 C-Cab",
+        "TowingCapacity": {
+            "Id": 24032,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x4 C-Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Manual",
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra 4x4 C-Cab (SR5,LTD)",
+        "TowingCapacity": {
+            "Id": 24034,
+            "Year": 2002,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra 4x4 C-Cab (SR5,LTD)",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicle tongue weight is 10% of Maximum Towing Capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7100
+        }
+    }
+]

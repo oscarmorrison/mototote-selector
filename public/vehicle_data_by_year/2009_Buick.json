@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2009,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 9305,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 9306,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    }
+]

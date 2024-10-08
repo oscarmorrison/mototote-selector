@@ -1,0 +1,135 @@
+[
+    {
+        "Year": 2020,
+        "Make": "Honda",
+        "ModelTrim": "Odyssey",
+        "TowingCapacity": {
+            "Id": 29681,
+            "Year": 2020,
+            "TypeDesc": "Minivan",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Odyssey",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5-Liter i-VTEC Direct-Injection",
+            "Trans": "10-Speed Automatic",
+            "Notes": "Requires: Towing Package including ATF cooler.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.61",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Honda",
+        "ModelTrim": "Passport",
+        "TowingCapacity": {
+            "Id": 29081,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Passport",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5L VTEC V-6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Honda",
+        "ModelTrim": "Passport",
+        "TowingCapacity": {
+            "Id": 29082,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Passport",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L VTEC V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: ATF Cooler.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 29084,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L VTEC V6",
+            "Trans": "9-Speed Automatic (9AT) with Shift-By-Wire (SBW) and Paddle Shifters",
+            "Notes": "Requires: ATF Cooler for max towing of 5000 pounds.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 29083,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5L VTEC V6",
+            "Trans": "6-Speed Automatic (6AT)",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.25",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Honda",
+        "ModelTrim": "Ridgeline",
+        "TowingCapacity": {
+            "Id": 29634,
+            "Year": 2020,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Ridgeline",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L VTEC V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Heavy-Duty Transmission Cooler and accessory trailering equipment.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Honda",
+        "ModelTrim": "Ridgeline",
+        "TowingCapacity": {
+            "Id": 29633,
+            "Year": 2020,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Ridgeline",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5L VTEC V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 3500
+        }
+    }
+]

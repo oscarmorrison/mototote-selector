@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2014,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe",
+        "TowingCapacity": {
+            "Id": 4512,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2014,
+        "Make": "Hyundai",
+        "ModelTrim": "Tucson",
+        "TowingCapacity": {
+            "Id": 4513,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Tucson",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

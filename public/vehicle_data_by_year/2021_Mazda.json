@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2021,
+        "Make": "Mazda",
+        "ModelTrim": "CX-5 (AWD)",
+        "TowingCapacity": {
+            "Id": 498204,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-5 (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "SKYACTIV-G 2.5L I4",
+            "Trans": "SKYACTIV-Drive 6-Speed Automatic",
+            "Notes": "Requires: Sport, Touring, Carbon Edition, and Grand Touring AWD trims.  Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.62",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Mazda",
+        "ModelTrim": "CX-5 (FWD)",
+        "TowingCapacity": {
+            "Id": 498201,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-5 (FWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "SKYACTIV-G 2.5L I4",
+            "Trans": "SKYACTIV-Drive 6-Speed Automatic",
+            "Notes": "Requires: Sport, Touring, Carbon Edition, and Grand Touring FWD trims.  Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Mazda",
+        "ModelTrim": "CX-5 (Turbo AWD)",
+        "TowingCapacity": {
+            "Id": 498206,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-5 (Turbo AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "SKYACTIV-G 2.5T Dynamic Pressure Turbo I4",
+            "Trans": "SKYACTIV-Drive 6-Speed Automatic",
+            "Notes": "Requires: Carbon Edition Turbo, GTR or Signature trim level.  Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.41",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Mazda",
+        "ModelTrim": "CX-5 (Turbo FWD)",
+        "TowingCapacity": {
+            "Id": 498207,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-5 (Turbo FWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "SKYACTIV-G 2.5L I4",
+            "Trans": "SKYACTIV-Drive 6-Speed Automatic",
+            "Notes": "Requires: Carbon Edition Turbo FWD trim.  Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Mazda",
+        "ModelTrim": "CX-9  (AWD)",
+        "TowingCapacity": {
+            "Id": 498194,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-9  (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "SKYACTIV-G 2.5T Dynamic Pressure Turbo I4",
+            "Trans": "SKYACTIV-Drive 6-Speed Automatic",
+            "Notes": "Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Mazda",
+        "ModelTrim": "CX-9 (FWD)",
+        "TowingCapacity": {
+            "Id": 498193,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-9 (FWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "SKYACTIV-G 2.5T Dynamic Pressure Turbo I4",
+            "Trans": "SKYACTIV-Drive 6-Speed Automatic",
+            "Notes": "Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    }
+]

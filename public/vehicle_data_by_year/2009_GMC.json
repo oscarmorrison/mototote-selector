@@ -1,0 +1,4828 @@
+[
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 10558,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 10559,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 10560,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 10556,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 10557,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 10570,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 10571,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 10572,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 10583,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 10574,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 10573,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 10584,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 10585,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10564,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 3200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10565,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10578,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10566,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10579,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10567,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10569,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "With ZQ8 Sport Suspension",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10568,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10580,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10582,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "With ZQ8 Sport Suspension",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 3800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 10581,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 10561,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 3400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 10562,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 10575,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 3100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 10576,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 10563,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 10577,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10800,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.2L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10801,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.2L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10802,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.2L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10805,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.2L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10806,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.2L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10807,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.2L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10803,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10804,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10808,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Envoy",
+        "TowingCapacity": {
+            "Id": 10809,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Envoy",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheel Base Passenger Van",
+        "TowingCapacity": {
+            "Id": 10590,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheel Base Passenger Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheel Base Passenger Van",
+        "TowingCapacity": {
+            "Id": 10591,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheel Base Passenger Van",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10586,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10587,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10588,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10589,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Long Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10598,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Long Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Long Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10599,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Long Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Long Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10600,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Long Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 8200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Long Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10601,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Long Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10592,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10593,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10594,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 8400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10595,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheelbase Passenger Van",
+        "TowingCapacity": {
+            "Id": 10596,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheelbase Passenger Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheelbase Passenger Van",
+        "TowingCapacity": {
+            "Id": 10597,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheelbase Passenger Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10607,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10608,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 7100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10609,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 8200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10610,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheelbase Passenger Van",
+        "TowingCapacity": {
+            "Id": 10611,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheelbase Passenger Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10602,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10603,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10604,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 8400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheelbase Cargo Van",
+        "TowingCapacity": {
+            "Id": 10605,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheelbase Cargo Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheelbase Passenger Van",
+        "TowingCapacity": {
+            "Id": 10606,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheelbase Passenger Van",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10661,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10662,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10671,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10663,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10664,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10672,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10673,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10665,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10667,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10669,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10674,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10676,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10678,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10666,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10668,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10670,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10675,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10677,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10694,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10695,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10693,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Four Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10696,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10697,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10698,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Flex Fuel Model",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10699,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10647,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10648,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73.1",
+            "TowCapacity": 4900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10649,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10650,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10655,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10656,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10651,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10652,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10657,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10658,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10653,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10654,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10659,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10660,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10628,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10629,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10630,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10631,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10639,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10632,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Four Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10634,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10635,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10633,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Four Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10640,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10641,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10642,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10643,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10636,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10637,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10638,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10644,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10645,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10646,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10679,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10680,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10687,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10681,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 5100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10682,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10688,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10683,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Four Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10684,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Four Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10685,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10686,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10689,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10690,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10691,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10692,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10612,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10613,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10622,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10614,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10615,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10623,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10616,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Four Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10618,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed Flex Fuel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10619,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10620,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed Flex Fuel Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10621,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Six Speed Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10617,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Four Speed",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 8200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10624,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10625,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10626,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10627,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10734,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10735,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10737,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10738,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10736,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 14500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10739,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10716,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10717,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10719,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10720,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10718,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10721,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 13900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10728,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10729,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10731,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10732,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10730,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10733,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 13800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10710,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10711,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10713,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10714,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10712,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 10715,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 14500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10722,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10723,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 1300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10725,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10726,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10724,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Longbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Longbed",
+        "TowingCapacity": {
+            "Id": 10727,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Longbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10764,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10767,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10765,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10768,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 11800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10770,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10773,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10771,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 11900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10774,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 11600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10766,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10769,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 16200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10772,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 14800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab",
+        "TowingCapacity": {
+            "Id": 10775,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10752,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10755,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10753,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10756,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10758,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10761,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10759,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10762,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 11700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10754,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10757,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 16300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10760,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 14900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab",
+        "TowingCapacity": {
+            "Id": 10763,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 16100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10740,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10743,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10741,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10744,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10746,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10749,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10747,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10750,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10742,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10745,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 16800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10748,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Single Rear Wheel",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 15400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab",
+        "TowingCapacity": {
+            "Id": 10751,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Dually",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 16500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10702,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10703,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10706,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali Crew Cab Shortbed",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10707,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali Crew Cab Shortbed",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10704,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10705,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10708,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali Crew Cab Shortbed",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 10709,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali Crew Cab Shortbed",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Two-Mode Hybrid",
+        "TowingCapacity": {
+            "Id": 10700,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Two-Mode Hybrid",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Two-Mode Hybrid",
+        "TowingCapacity": {
+            "Id": 10701,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Two-Mode Hybrid",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 5900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10776,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10777,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10778,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 5400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10779,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10780,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10782,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10783,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10781,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 10784,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Denali",
+        "TowingCapacity": {
+            "Id": 10787,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Denali",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Denali",
+        "TowingCapacity": {
+            "Id": 10788,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Denali",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Denali XL",
+        "TowingCapacity": {
+            "Id": 10789,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Denali XL",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Denali XL",
+        "TowingCapacity": {
+            "Id": 10790,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Denali XL",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Two-Mode Hybrid",
+        "TowingCapacity": {
+            "Id": 10785,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Two-Mode Hybrid",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Two-Mode Hybrid",
+        "TowingCapacity": {
+            "Id": 10786,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Two-Mode Hybrid",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 10791,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 5100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 10792,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 10793,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 10795,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5400
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 10796,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Cooling Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 10794,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 10797,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL 2500 Long Wheelbase",
+        "TowingCapacity": {
+            "Id": 10798,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL 2500 Long Wheelbase",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL 2500 Long Wheelbase",
+        "TowingCapacity": {
+            "Id": 10799,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL 2500 Long Wheelbase",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9300
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2015,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 2528,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 2525,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 2526,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 2527,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

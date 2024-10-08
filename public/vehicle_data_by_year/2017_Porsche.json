@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2017,
+        "Make": "Porsche",
+        "ModelTrim": "Cayenne",
+        "TowingCapacity": {
+            "Id": 1343,
+            "Year": 2017,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Porsche",
+            "MakeTrim": "Cayenne",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    },
+    {
+        "Year": 2017,
+        "Make": "Porsche",
+        "ModelTrim": "Macan",
+        "TowingCapacity": {
+            "Id": 1344,
+            "Year": 2017,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Porsche",
+            "MakeTrim": "Macan",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4409
+        }
+    }
+]

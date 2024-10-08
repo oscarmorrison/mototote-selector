@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2013,
+        "Make": "Audi",
+        "ModelTrim": "Q5",
+        "TowingCapacity": {
+            "Id": 4655,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": null,
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Audi",
+        "ModelTrim": "Q7",
+        "TowingCapacity": {
+            "Id": 4656,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q7",
+            "DriveTypeDesc": "Not Available",
+            "Engine": null,
+            "Trans": null,
+            "Notes": "With dealer insted hitch",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Audi",
+        "ModelTrim": "Q7",
+        "TowingCapacity": {
+            "Id": 4657,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q7",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6600
+        }
+    }
+]

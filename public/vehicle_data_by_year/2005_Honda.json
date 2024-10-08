@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2005,
+        "Make": "Honda",
+        "ModelTrim": "Odyssey",
+        "TowingCapacity": {
+            "Id": 17969,
+            "Year": 2005,
+            "TypeDesc": "Van",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Odyssey",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Honda",
+        "ModelTrim": "Odyssey",
+        "TowingCapacity": {
+            "Id": 17970,
+            "Year": 2005,
+            "TypeDesc": "Van",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Odyssey",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 17971,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 17972,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

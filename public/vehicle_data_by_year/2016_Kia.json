@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2016,
+        "Make": "Kia",
+        "ModelTrim": "Sorrento",
+        "TowingCapacity": {
+            "Id": 2421,
+            "Year": 2016,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorrento",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.3L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2016,
+        "Make": "Kia",
+        "ModelTrim": "Sorrento",
+        "TowingCapacity": {
+            "Id": 2423,
+            "Year": 2016,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorrento",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2016,
+        "Make": "Kia",
+        "ModelTrim": "Sorrento",
+        "TowingCapacity": {
+            "Id": 2422,
+            "Year": 2016,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorrento",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2016,
+        "Make": "Kia",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 2424,
+            "Year": 2016,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

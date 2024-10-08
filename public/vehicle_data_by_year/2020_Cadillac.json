@@ -1,0 +1,306 @@
+[
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade",
+        "TowingCapacity": {
+            "Id": 29013,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V8",
+            "Trans": "10-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23",
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade",
+        "TowingCapacity": {
+            "Id": 29012,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "6.2L V8",
+            "Trans": "10-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23",
+            "TowCapacity": 8300
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade ESV",
+        "TowingCapacity": {
+            "Id": 498245,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade ESV",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V8",
+            "Trans": "10-Speed Automatic",
+            "Notes": "Requires: 22-Inch Wheels",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23",
+            "TowCapacity": 7800
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade ESV",
+        "TowingCapacity": {
+            "Id": 29015,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade ESV",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V8",
+            "Trans": "10-Speed Automatic",
+            "Notes": "Requires: 20-Inch Wheels",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23",
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade ESV",
+        "TowingCapacity": {
+            "Id": 29014,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade ESV",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "6.2L V8",
+            "Trans": "10-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.23",
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT4",
+        "TowingCapacity": {
+            "Id": 498254,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT4",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Towing amount with Base Cooling System.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.47",
+            "TowCapacity": 2500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT4",
+        "TowingCapacity": {
+            "Id": 498255,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT4",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Heavy Duty Cooling System.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.47",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT4",
+        "TowingCapacity": {
+            "Id": 498256,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT4",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.0L I4 Turbo",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Towing amount with Base Cooling System",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.47",
+            "TowCapacity": 2500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT4",
+        "TowingCapacity": {
+            "Id": 498257,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT4",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.0L I4 Turbo",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Heavy Duty Cooling System.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.47",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT5",
+        "TowingCapacity": {
+            "Id": 29017,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT5",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.0L I4 Turbo",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.47",
+            "TowCapacity": 1000
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT5",
+        "TowingCapacity": {
+            "Id": 498253,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT5",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Max Weight without Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.47",
+            "TowCapacity": 1000
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT5",
+        "TowingCapacity": {
+            "Id": 29016,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT5",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Trailering Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.49",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT6",
+        "TowingCapacity": {
+            "Id": 499300,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT6",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT6",
+        "TowingCapacity": {
+            "Id": 499301,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT6",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Tow package not included.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 1000
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT6",
+        "TowingCapacity": {
+            "Id": 499302,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT6",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Cadillac",
+        "ModelTrim": "XT6",
+        "TowingCapacity": {
+            "Id": 499303,
+            "Year": 2020,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "XT6",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Tow package not included.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 1000
+        }
+    }
+]

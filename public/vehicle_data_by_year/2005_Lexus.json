@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2005,
+        "Make": "Lexus",
+        "ModelTrim": "GX 470",
+        "TowingCapacity": {
+            "Id": 18007,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "GX 470",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Lexus",
+        "ModelTrim": "LX 470",
+        "TowingCapacity": {
+            "Id": 18008,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "LX 470",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Lexus",
+        "ModelTrim": "RX 330",
+        "TowingCapacity": {
+            "Id": 18009,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "RX 330",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Lexus",
+        "ModelTrim": "RX 330",
+        "TowingCapacity": {
+            "Id": 18010,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "RX 330",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2019,
+        "Make": "BMW",
+        "ModelTrim": "X1",
+        "TowingCapacity": {
+            "Id": 27494,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X1",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.0L I-4 Turbo-charged",
+            "Trans": null,
+            "Notes": "Some models may require tow package for max tow capacity. See manufacturer or dealer for details.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "BMW",
+        "ModelTrim": "X3",
+        "TowingCapacity": {
+            "Id": 27495,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X3",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": "Trailer requires brakes",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "BMW",
+        "ModelTrim": "X4",
+        "TowingCapacity": {
+            "Id": 27496,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X4",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": "Some models may require tow package for max tow capacity. See manufacturer or dealer for details.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "BMW",
+        "ModelTrim": "X5",
+        "TowingCapacity": {
+            "Id": 27497,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": "6,600 with third party hitch.  Tow package or upgraded tow package required for maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "BMW",
+        "ModelTrim": "X6",
+        "TowingCapacity": {
+            "Id": 27498,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X6",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": "Some models may require tow package for max tow capacity. See manufacturer or dealer for details.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "BMW",
+        "ModelTrim": "X7",
+        "TowingCapacity": {
+            "Id": 27499,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X7",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": "5,950 with third party hitch. Tow package or upgraded tow package required for maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7500
+        }
+    }
+]

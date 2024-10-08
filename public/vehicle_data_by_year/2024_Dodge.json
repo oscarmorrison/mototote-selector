@@ -1,0 +1,135 @@
+[
+    {
+        "Year": 2024,
+        "Make": "Dodge",
+        "ModelTrim": "Durango (AWD)",
+        "TowingCapacity": {
+            "Id": 545273,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.7L HEMI V8",
+            "Trans": "TorqueFlite 8-Speed Automatic (8HP70)",
+            "Notes": "Requires: Optional towing package to achieve maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.09",
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Dodge",
+        "ModelTrim": "Durango (AWD)",
+        "TowingCapacity": {
+            "Id": 545275,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.7L HEMI V8",
+            "Trans": "TorqueFlite 8-Speed Automatic (8HP70)",
+            "Notes": "Requires: Tow N Go package.  Optional towing package to achieve maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.09",
+            "TowCapacity": 8700
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Dodge",
+        "ModelTrim": "Durango (AWD)",
+        "TowingCapacity": {
+            "Id": 545276,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L HEMI Hellcat V8",
+            "Trans": "TorqueFlite 8-Speed Automatic (8HP95)",
+            "Notes": "Requires: SRT Hellcat trim level. Optional towing package to achieve maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.70",
+            "TowCapacity": 8700
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Dodge",
+        "ModelTrim": "Durango (AWD)",
+        "TowingCapacity": {
+            "Id": 545274,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.4L V8",
+            "Trans": "TorqueFlite 8-Speed Automatic (8HP70)",
+            "Notes": "Requires: SRT 392 trim level and optional towing package to achieve maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.70",
+            "TowCapacity": 8700
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Dodge",
+        "ModelTrim": "Durango (AWD)",
+        "TowingCapacity": {
+            "Id": 545272,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "Pentastar 3.6L V6",
+            "Trans": "TorqueFlite 8-Speed Automatic (845TE)",
+            "Notes": "Requires: Optional towing package to achieve maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.45",
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Dodge",
+        "ModelTrim": "Durango (RWD)",
+        "TowingCapacity": {
+            "Id": 545281,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango (RWD)",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "5.7L HEMI V8",
+            "Trans": "TorqueFlite 8-Speed Automatic (8HP70)",
+            "Notes": "Requires: Optional towing package to achieve maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.09",
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Dodge",
+        "ModelTrim": "Durango (RWD)",
+        "TowingCapacity": {
+            "Id": 545280,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango (RWD)",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "Pentastar 3.6L V6",
+            "Trans": "TorqueFlite 8-Speed Automatic (845TE)",
+            "Notes": "Requires: Optional towing package to achieve maximum towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.27",
+            "TowCapacity": 6200
+        }
+    }
+]

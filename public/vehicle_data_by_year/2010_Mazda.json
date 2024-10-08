@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2010,
+        "Make": "Mazda",
+        "ModelTrim": "CX7",
+        "TowingCapacity": {
+            "Id": 9177,
+            "Year": 2010,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX7",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.3L I-4 Turbocharged",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2010,
+        "Make": "Mazda",
+        "ModelTrim": "CX9",
+        "TowingCapacity": {
+            "Id": 9178,
+            "Year": 2010,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX9",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2010,
+        "Make": "Mazda",
+        "ModelTrim": "Tribute",
+        "TowingCapacity": {
+            "Id": 9179,
+            "Year": 2010,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "Tribute",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

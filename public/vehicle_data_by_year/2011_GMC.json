@@ -1,0 +1,4334 @@
+[
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 6735,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 6736,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 6733,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 6734,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 6758,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 6759,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 6760,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 6777,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 6761,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 6762,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "With ZQ8 Sport Suspension",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 3800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Crew Cab",
+        "TowingCapacity": {
+            "Id": 6778,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 6748,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 3200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 6749,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 6772,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 6750,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 6773,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 6751,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 6752,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "With ZQ8 Sport Suspension",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Extended Cab",
+        "TowingCapacity": {
+            "Id": 6774,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Extended Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 6740,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 3400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 6741,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 6766,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 3100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 6767,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.9L I-4",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 2100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 6742,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Canyon Regular Cab",
+        "TowingCapacity": {
+            "Id": 6768,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Canyon Regular Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6786,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6787,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6789,
+            "Year": 2011,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6788,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheel Base",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 1500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6790,
+            "Year": 2011,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 1500 Short Wheel Base",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Long Wheel Base",
+        "TowingCapacity": {
+            "Id": 6804,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Long Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Long Wheel Base",
+        "TowingCapacity": {
+            "Id": 6805,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Long Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Long Wheel Base",
+        "TowingCapacity": {
+            "Id": 6806,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Long Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6796,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6797,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6799,
+            "Year": 2011,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6800,
+            "Year": 2011,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 2500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6798,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 2500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6 Turbo Diesel V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheel Base",
+        "TowingCapacity": {
+            "Id": 6822,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheel Base",
+        "TowingCapacity": {
+            "Id": 6823,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheel Base",
+        "TowingCapacity": {
+            "Id": 6825,
+            "Year": 2011,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheel Base",
+        "TowingCapacity": {
+            "Id": 6824,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6 Turbo Diesel V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Long Wheel Base",
+        "TowingCapacity": {
+            "Id": 6826,
+            "Year": 2011,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Long Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6 Turbo Diesel V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6812,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6813,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6815,
+            "Year": 2011,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6814,
+            "Year": 2011,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6 Turbo Diesel V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Savana 3500 Short Wheel Base",
+        "TowingCapacity": {
+            "Id": 6816,
+            "Year": 2011,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Savana 3500 Short Wheel Base",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6 Turbo Diesel V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6907,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6908,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6916,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6909,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6910,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6912,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6917,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6918,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6919,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6913,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6914,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6915,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6920,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6921,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box",
+        "TowingCapacity": {
+            "Id": 6922,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Crew Cab Short Box XFE",
+        "TowingCapacity": {
+            "Id": 6911,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Crew Cab Short Box XFE",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Denali Crew Cab Short Bed",
+        "TowingCapacity": {
+            "Id": 6923,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Denali Crew Cab Short Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Denali Crew Cab Short Bed",
+        "TowingCapacity": {
+            "Id": 6924,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Denali Crew Cab Short Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Denali Crew Cab Short Bed",
+        "TowingCapacity": {
+            "Id": 6925,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Denali Crew Cab Short Bed",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Denali Crew Cab Short Bed",
+        "TowingCapacity": {
+            "Id": 6926,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Denali Crew Cab Short Bed",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6959,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Long Bed",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6960,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Long Bed",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6961,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Long Bed",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6962,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Long Bed",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6866,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6867,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6868,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6885,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6869,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6870,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6871,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6872,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6886,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6887,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6888,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6873,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6874,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6875,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6876,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6889,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6890,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6941,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6942,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6949,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6943,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 5100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6944,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6950,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6945,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6947,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 10000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6946,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6948,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6951,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6952,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6953,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 6954,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6841,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6842,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6843,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 4100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6849,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 5100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6844,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.23:1",
+            "TowCapacity": 4700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6845,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6850,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.8L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6846,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6847,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6848,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 9100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6851,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 6400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6852,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 7100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6853,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6854,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 1500 Regular Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7038,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7039,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7040,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7042,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7043,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7044,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7041,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7045,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 15600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6991,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6992,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6995,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6996,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6993,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6997,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 16700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7022,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7023,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7024,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7026,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7027,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7028,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7025,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7029,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 16500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6975,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6976,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6977,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6979,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6980,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6981,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6978,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Extended Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6982,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Extended Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7008,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 10200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7009,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7011,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7012,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7010,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Long Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
+        "TowingCapacity": {
+            "Id": 7013,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500 Regular Cab Long Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7134,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7135,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7141,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 8700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7142,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7136,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 21500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7143,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 21000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7130,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7131,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7132,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7137,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7138,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7139,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7133,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7140,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 16800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7122,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7123,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7124,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 14000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7126,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7127,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7128,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.30:1",
+            "TowCapacity": 13700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7125,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7129,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7086,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7087,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7093,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 8900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7094,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7088,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 21500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7095,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 21300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7082,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7083,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7084,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7089,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7090,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7091,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7085,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7092,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Extended Cab Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 16900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7059,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7060,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7065,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7066,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7067,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 21700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7057,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7058,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7061,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7062,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7063,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 14200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7064,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17400
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6998,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6994,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali 2500 Crew Cab Standard Bed",
+        "TowingCapacity": {
+            "Id": 6999,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali 2500 Crew Cab Standard Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 15600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali 3500 Crew Cab Long Bed Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7113,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali 3500 Crew Cab Long Bed Dual Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 21300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali 3500 Crew Cab Long Bed Dual Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7121,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali 3500 Crew Cab Long Bed Dual Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 21000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7100,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 17100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Denali 3500 Crew Cab Standard Bed Single Rear Wheel",
+        "TowingCapacity": {
+            "Id": 7105,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Denali 3500 Crew Cab Standard Bed Single Rear Wheel",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.6L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 16800
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Two-Mode Hybrid",
+        "TowingCapacity": {
+            "Id": 6965,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Two-Mode Hybrid",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Sierra Two-Mode Hybrid",
+        "TowingCapacity": {
+            "Id": 6966,
+            "Year": 2011,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra Two-Mode Hybrid",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 5900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Terrain",
+        "TowingCapacity": {
+            "Id": 6780,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Terrain",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0 V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 7152,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 5600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 7153,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 7154,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 7156,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 7157,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5700
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon",
+        "TowingCapacity": {
+            "Id": 7158,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": "Other accessories required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Denali",
+        "TowingCapacity": {
+            "Id": 7172,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Denali",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8300
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Denali",
+        "TowingCapacity": {
+            "Id": 7173,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Denali",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Two-Mode Hybrid",
+        "TowingCapacity": {
+            "Id": 7155,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Two-Mode Hybrid",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Two-Mode Hybrid",
+        "TowingCapacity": {
+            "Id": 7159,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Two-Mode Hybrid",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "6.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 7166,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 5100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 7167,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5600
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 7168,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 7169,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.08:1",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 7170,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL",
+        "TowingCapacity": {
+            "Id": 7171,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 8000
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL Denali",
+        "TowingCapacity": {
+            "Id": 7174,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL Denali",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL Denali",
+        "TowingCapacity": {
+            "Id": 7175,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL Denali",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7800
+        }
+    }
+]

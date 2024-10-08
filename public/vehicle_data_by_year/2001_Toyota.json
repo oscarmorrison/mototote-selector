@@ -1,0 +1,420 @@
+[
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "4Runner",
+        "TowingCapacity": {
+            "Id": 25854,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "4Runner",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "4Runner",
+        "TowingCapacity": {
+            "Id": 25855,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "4Runner",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "Maximum hitch weight is 10 percent of tow limit.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Land Cruiser",
+        "TowingCapacity": {
+            "Id": 25856,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Land Cruiser",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Land Cruiser",
+        "TowingCapacity": {
+            "Id": 25857,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Land Cruiser",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "Not to exceed 12000 lbs. GCWR with appropriate hitch.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "S-Runner",
+        "TowingCapacity": {
+            "Id": 25862,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "S-Runner",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Sequoia",
+        "TowingCapacity": {
+            "Id": 25859,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Sequoia",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Sequoia",
+        "TowingCapacity": {
+            "Id": 25858,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Sequoia",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Sienna",
+        "TowingCapacity": {
+            "Id": 25860,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Sienna",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": "Sienna's (CE and LE) 3500 lbs. maximum is achieved with an optional towing package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Sienna",
+        "TowingCapacity": {
+            "Id": 25861,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Sienna",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": "Maximum hitch weight is 10 percent of tow limit; With optional tow package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tacoma",
+        "TowingCapacity": {
+            "Id": 25864,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tacoma",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tacoma",
+        "TowingCapacity": {
+            "Id": 25866,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tacoma",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "Maximum hitch weight is 10 percent of tow limit.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tacoma",
+        "TowingCapacity": {
+            "Id": 25863,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tacoma",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All I-4",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tacoma",
+        "TowingCapacity": {
+            "Id": 25865,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tacoma",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All I-4",
+            "Trans": null,
+            "Notes": "Maximum hitch weight is 10 percent of tow limit.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra B-Cab",
+        "TowingCapacity": {
+            "Id": 25868,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra B-Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Automatic",
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra B-Cab",
+        "TowingCapacity": {
+            "Id": 25867,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra B-Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Manual",
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5250
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra B-Cab",
+        "TowingCapacity": {
+            "Id": 25869,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra B-Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra C-Cab",
+        "TowingCapacity": {
+            "Id": 25871,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra C-Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Automatic",
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4900
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra C-Cab",
+        "TowingCapacity": {
+            "Id": 25870,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra C-Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Manual",
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4950
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra C-Cab",
+        "TowingCapacity": {
+            "Id": 25873,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra C-Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Automatic",
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4950
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra C-Cab",
+        "TowingCapacity": {
+            "Id": 25872,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra C-Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Manual",
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra C-Cab (SR5, LTD)",
+        "TowingCapacity": {
+            "Id": 25874,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra C-Cab (SR5, LTD)",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra C-Cab (SR5, LTD)",
+        "TowingCapacity": {
+            "Id": 25875,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra C-Cab (SR5, LTD)",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "All vehicles' tongue weight is 10 percent of maximum towing capacity.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7100
+        }
+    }
+]

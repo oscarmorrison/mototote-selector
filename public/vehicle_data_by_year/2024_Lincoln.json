@@ -1,0 +1,173 @@
+[
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Aviator",
+        "TowingCapacity": {
+            "Id": 550121,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Aviator",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.0L V-6 Twin-Turbocharged",
+            "Trans": "10-Speed Automatic",
+            "Notes": "Note: When properly equipped with available Class IV Trailer Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.58",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Aviator",
+        "TowingCapacity": {
+            "Id": 550122,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Aviator",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "3.0L V-6 Twin-Turbocharged",
+            "Trans": "10-Speed Automatic",
+            "Notes": "Note: When properly equipped with available Class IV Trailer Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.58",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Corsair",
+        "TowingCapacity": {
+            "Id": 550141,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Corsair",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "Turbocharged 2.0L I-4",
+            "Trans": "8-Speed Automatic with SelectShift",
+            "Notes": "Requires: Factory-Installed Class II Trailer Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.81",
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Corsair",
+        "TowingCapacity": {
+            "Id": 550142,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Corsair",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "Turbocharged 2.0L I-4",
+            "Trans": "8-Speed Automatic with SelectShift",
+            "Notes": "Requires: Factory-Installed Class II Trailer Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.81",
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Corsair Grand Touring Plug-In Hybrid",
+        "TowingCapacity": {
+            "Id": 550144,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Corsair Grand Touring Plug-In Hybrid",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "Atkinson-cycle 2.5L I4",
+            "Trans": "eCVT Automatic",
+            "Notes": "Requires: Factory-Installed Class II Trailer Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "2.91",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Nautilus",
+        "TowingCapacity": {
+            "Id": 550145,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Nautilus",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L Turbocharged I-4",
+            "Trans": "8-Speed Automatic with SelectShift",
+            "Notes": "Requires: Trailer Tow Class I Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.81",
+            "TowCapacity": 1750
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Nautilus (HEV)",
+        "TowingCapacity": {
+            "Id": 550146,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Nautilus (HEV)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L Turbocharged I-4 with HEV",
+            "Trans": "CVT Automatic with Power Split Electric",
+            "Notes": "Requires: Trailer Tow Class I Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.37",
+            "TowCapacity": 1750
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Navigator",
+        "TowingCapacity": {
+            "Id": 550132,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Navigator",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.5L V-6 Twin-Turbocharged",
+            "Trans": "10-Speed Automatic",
+            "Notes": "Requires: Class IV Heavy-Duty Trailer Towing Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 8300
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Lincoln",
+        "ModelTrim": "Navigator L",
+        "TowingCapacity": {
+            "Id": 550139,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Navigator L",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.5L V-6 Twin-Turbocharged",
+            "Trans": "10-Speed Automatic",
+            "Notes": "Requires: Class IV Heavy-Duty Trailer Towing Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 8100
+        }
+    }
+]

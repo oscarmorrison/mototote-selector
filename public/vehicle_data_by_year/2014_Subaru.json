@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2014,
+        "Make": "Subaru",
+        "ModelTrim": "Outback",
+        "TowingCapacity": {
+            "Id": 4596,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Outback",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L H4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2700
+        }
+    },
+    {
+        "Year": 2014,
+        "Make": "Subaru",
+        "ModelTrim": "Outback",
+        "TowingCapacity": {
+            "Id": 4597,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Outback",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6R H6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2014,
+        "Make": "Subaru",
+        "ModelTrim": "Tribeca",
+        "TowingCapacity": {
+            "Id": 4594,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Tribeca",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6L H6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2014,
+        "Make": "Subaru",
+        "ModelTrim": "Tribeca",
+        "TowingCapacity": {
+            "Id": 4595,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Tribeca",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6L H6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

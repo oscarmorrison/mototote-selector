@@ -1,0 +1,97 @@
+[
+    {
+        "Year": 2012,
+        "Make": "Suzuki",
+        "ModelTrim": "Equator Crew Cab",
+        "TowingCapacity": {
+            "Id": 6631,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Suzuki",
+            "MakeTrim": "Equator Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Suzuki",
+        "ModelTrim": "Equator Crew Cab",
+        "TowingCapacity": {
+            "Id": 6632,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Suzuki",
+            "MakeTrim": "Equator Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Suzuki",
+        "ModelTrim": "Equator Extended Cab",
+        "TowingCapacity": {
+            "Id": 6629,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Suzuki",
+            "MakeTrim": "Equator Extended Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Suzuki",
+        "ModelTrim": "Equator Extended Cab",
+        "TowingCapacity": {
+            "Id": 6630,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Suzuki",
+            "MakeTrim": "Equator Extended Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Suzuki",
+        "ModelTrim": "Grand Vitara",
+        "TowingCapacity": {
+            "Id": 6633,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Suzuki",
+            "MakeTrim": "Grand Vitara",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3000
+        }
+    }
+]

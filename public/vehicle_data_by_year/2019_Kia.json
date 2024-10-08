@@ -1,0 +1,135 @@
+[
+    {
+        "Year": 2019,
+        "Make": "Kia",
+        "ModelTrim": "Sedona",
+        "TowingCapacity": {
+            "Id": 28678,
+            "Year": 2019,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sedona",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Kia",
+        "ModelTrim": "Sorento",
+        "TowingCapacity": {
+            "Id": 28680,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorento",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Kia",
+        "ModelTrim": "Sorento",
+        "TowingCapacity": {
+            "Id": 28679,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorento",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Kia",
+        "ModelTrim": "Sorento",
+        "TowingCapacity": {
+            "Id": 28682,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorento",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Kia",
+        "ModelTrim": "Sorento",
+        "TowingCapacity": {
+            "Id": 28681,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorento",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Kia",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 28684,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity With trailer brakes",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Kia",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 28683,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity With trailer brakes",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

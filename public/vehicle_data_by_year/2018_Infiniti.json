@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2018,
+        "Make": "Infiniti",
+        "ModelTrim": "QX60",
+        "TowingCapacity": {
+            "Id": 17263,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX60",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Infiniti",
+        "ModelTrim": "QX61",
+        "TowingCapacity": {
+            "Id": 17264,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX61",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "2017 tow rating; 2018 rating not available at press time.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8000
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2007,
+        "Make": "Hyundai",
+        "ModelTrim": "Entourage",
+        "TowingCapacity": {
+            "Id": 14026,
+            "Year": 2007,
+            "TypeDesc": "Van",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Entourage",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.8L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe",
+        "TowingCapacity": {
+            "Id": 14027,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.7L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2700
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe",
+        "TowingCapacity": {
+            "Id": 14028,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required, Optional towing package necessary.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Hyundai",
+        "ModelTrim": "Tuscon",
+        "TowingCapacity": {
+            "Id": 14029,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Tuscon",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.7L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

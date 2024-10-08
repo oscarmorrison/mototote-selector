@@ -1,0 +1,97 @@
+[
+    {
+        "Year": 2023,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Eclipse Cross (AWD)",
+        "TowingCapacity": {
+            "Id": 526290,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Eclipse Cross (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "1.5L MIVEC I4 Turbo",
+            "Trans": "CVT with 8-Speed Sport Mode",
+            "Notes": "Requires: Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 1500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Eclipse Cross (FWD)",
+        "TowingCapacity": {
+            "Id": 526286,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Eclipse Cross (FWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "1.5L MIVEC I4 Turbo",
+            "Trans": "CVT with 8-Speed Sport Mode",
+            "Notes": "Requires: Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 1500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Outlander (AWD)",
+        "TowingCapacity": {
+            "Id": 526300,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Outlander (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "MIVEC 2.5L I4",
+            "Trans": "Continuously Variable Transmission (CVT)",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Outlander (FWD)",
+        "TowingCapacity": {
+            "Id": 526299,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Outlander (FWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "MIVEC 2.5L I4",
+            "Trans": "Continuously Variable Transmission (CVT)",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Outlander PHEV (AWD)",
+        "TowingCapacity": {
+            "Id": 526298,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Outlander PHEV (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.4L I4 / Plug-In Hybrid",
+            "Trans": "1-Speed Direct Drive",
+            "Notes": "Requires: Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 1500
+        }
+    }
+]

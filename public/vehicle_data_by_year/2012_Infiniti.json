@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2012,
+        "Make": "Infiniti",
+        "ModelTrim": "FX35",
+        "TowingCapacity": {
+            "Id": 6556,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "FX35",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Infiniti",
+        "ModelTrim": "FX50",
+        "TowingCapacity": {
+            "Id": 6557,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "FX50",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Infiniti",
+        "ModelTrim": "QX56",
+        "TowingCapacity": {
+            "Id": 6555,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX56",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8500
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2025,
+        "Make": "Kia",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 554208,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.5L I4 Gasoline Direct Injection (GDI)",
+            "Trans": "8-Speed Automatic",
+            "Notes": "Requires: Brake System",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2500
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Kia",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 554207,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.5L I4 Gasoline Direct Injection (GDI)",
+            "Trans": "8-Speed Automatic",
+            "Notes": "Requires: Brake System",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2500
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Kia",
+        "ModelTrim": "Sportage HEV",
+        "TowingCapacity": {
+            "Id": 555046,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage HEV",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "1.6L GDI 4-Cylinder Hybrid",
+            "Trans": "6-Speed Automatic",
+            "Notes": "Requires: Brake System",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Kia",
+        "ModelTrim": "Sportage PHEV",
+        "TowingCapacity": {
+            "Id": 555047,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage PHEV",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "1.6L GDI 4-Cylinder Turbo PHEV",
+            "Trans": "6-Speed Automatic",
+            "Notes": "Requires: Brake System",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    }
+]

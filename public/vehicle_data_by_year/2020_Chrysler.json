@@ -1,0 +1,97 @@
+[
+    {
+        "Year": 2020,
+        "Make": "Chrysler",
+        "ModelTrim": "Pacifica",
+        "TowingCapacity": {
+            "Id": 492934,
+            "Year": 2020,
+            "TypeDesc": "Minivan",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Pacifica",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Trailer Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3600
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Chrysler",
+        "ModelTrim": "Pacifica",
+        "TowingCapacity": {
+            "Id": 29679,
+            "Year": 2020,
+            "TypeDesc": "Minivan",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Pacifica",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Trailer Tow Package.  The Trailer-Tow Package is not available on the Pacifica Hybrid.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3600
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Chrysler",
+        "ModelTrim": "Pacifica",
+        "TowingCapacity": {
+            "Id": 492933,
+            "Year": 2020,
+            "TypeDesc": "Minivan",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Pacifica",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Not Equipped with Trailer-Tow Package. The Trailer-Tow Package is not available on the Pacifica Hybrid.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 1500
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Chrysler",
+        "ModelTrim": "Voyager",
+        "TowingCapacity": {
+            "Id": 29680,
+            "Year": 2020,
+            "TypeDesc": "Minivan",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Voyager",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Trailer Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3600
+        }
+    },
+    {
+        "Year": 2020,
+        "Make": "Chrysler",
+        "ModelTrim": "Voyager",
+        "TowingCapacity": {
+            "Id": 492936,
+            "Year": 2020,
+            "TypeDesc": "Minivan",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Voyager",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Not Equipped with Trailer Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 1500
+        }
+    }
+]
