@@ -32,6 +32,9 @@ jobs:
       - name: Build with Vite 🏗️
         run: yarn build
 
+      - name: List build files in public directory 📂
+        run: ls -R ./public
+
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
         with:
