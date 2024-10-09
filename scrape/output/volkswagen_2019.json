@@ -1,59 +1,59 @@
 [
     {
-        "Year": 2018,
-        "Make": "Volkswagon",
+        "Year": 2019,
+        "Make": "Volkswagen",
         "ModelTrim": "Atlas",
         "TowingCapacity": {
-            "Id": 17410,
-            "Year": 2018,
+            "Id": 28838,
+            "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Volkswagon",
+            "MfgDesc": "Volkswagen",
             "MakeTrim": "Atlas",
             "DriveTypeDesc": "Not Available",
-            "Engine": "2.0L I-4 Turbocharged",
+            "Engine": "2.0L I-4 Turbo-charged",
             "Trans": null,
-            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
         }
     },
     {
-        "Year": 2018,
-        "Make": "Volkswagon",
+        "Year": 2019,
+        "Make": "Volkswagen",
         "ModelTrim": "Atlas",
         "TowingCapacity": {
-            "Id": 17411,
-            "Year": 2018,
+            "Id": 28840,
+            "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Volkswagon",
+            "MfgDesc": "Volkswagen",
             "MakeTrim": "Atlas",
             "DriveTypeDesc": "All-Wheel Drive",
             "Engine": "3.6L V-6",
             "Trans": null,
-            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
         }
     },
     {
-        "Year": 2018,
-        "Make": "Volkswagon",
-        "ModelTrim": "Tiguan Limited",
+        "Year": 2019,
+        "Make": "Volkswagen",
+        "ModelTrim": "Atlas",
         "TowingCapacity": {
-            "Id": 17412,
-            "Year": 2018,
+            "Id": 28839,
+            "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Volkswagon",
-            "MakeTrim": "Tiguan Limited",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "2.0L I-4 Turbocharged",
+            "MfgDesc": "Volkswagen",
+            "MakeTrim": "Atlas",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
             "Trans": null,
-            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
-            "TowCapacity": 2200
+            "TowCapacity": 5000
         }
     }
 ]
