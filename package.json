@@ -1,11 +1,13 @@
 {
   "name": "mototote-selector",
   "private": true,
+  "license": "UNLICENSED",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "clean-build": "rm -rf ./public",
     "lint": "eslint .",
     "preview": "vite preview"
   },

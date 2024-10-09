@@ -46,10 +46,28 @@ function createJsonFiles(outputDir, organizedData) {
         fs.mkdirSync(outputDir, { recursive: true });
     }
 
+    const makesData = []; // Array to hold makes and their corresponding years
+
     Object.keys(organizedData).forEach((year) => {
         Object.keys(organizedData[year]).forEach((make) => {
             const normalizedMake = normalizeName(make); // Normalize the make name
             const normalizedYear = normalizeName(year); // Normalize the year name
+
+            // Check if the make already exists in the makesData array
+            let makeEntry = makesData.find(entry => entry.normalizedName === normalizedMake);
+            if (!makeEntry) {
+                // If it doesn't exist, create a new entry
+                makeEntry = {
+                    name: make, // Original make name
+                    normalizedName: normalizedMake, // Normalized make name
+                    years: [] // Array to hold the years
+                };
+                makesData.push(makeEntry); // Add the new entry to the array
+            }
+            // Add the year to the make entry if it doesn't already exist
+            if (!makeEntry.years.includes(normalizedYear)) {
+                makeEntry.years.push(normalizedYear);
+            }
 
             const fileName = `${normalizedMake}_${normalizedYear}.json`; // Update file naming convention
             const filePath = path.join(outputDir, fileName); // Use the output directory for the file path
@@ -59,6 +77,11 @@ function createJsonFiles(outputDir, organizedData) {
             console.log(`Created file: ${filePath}`);
         });
     });
+
+    // Write the MAKES.json file
+    const makesFilePath = path.join(outputDir, 'MAKES.json');
+    fs.writeFileSync(makesFilePath, JSON.stringify(makesData, null, 4));
+    console.log(`Created file: ${makesFilePath}`);
 }
 
 // Main function to execute the process
