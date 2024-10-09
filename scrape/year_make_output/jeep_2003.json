@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2003,
+        "Make": "Jeep",
+        "ModelTrim": "Grand Cherokee",
+        "TowingCapacity": {
+            "Id": 22211,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Grand Cherokee",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Manual-transmission version tows 1500 lbs less.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "Jeep",
+        "ModelTrim": "Grand Cherokee",
+        "TowingCapacity": {
+            "Id": 22212,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Grand Cherokee",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "Manual-transmission version tows 1500 lbs less.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "Jeep",
+        "ModelTrim": "Liberty",
+        "TowingCapacity": {
+            "Id": 22213,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Liberty",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "Jeep",
+        "ModelTrim": "Liberty",
+        "TowingCapacity": {
+            "Id": 22214,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Liberty",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": "Requires trailer towing package; Manual-transmission version tows 1500 lbs less.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "Jeep",
+        "ModelTrim": "Wranger",
+        "TowingCapacity": {
+            "Id": 22216,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wranger",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler",
+        "TowingCapacity": {
+            "Id": 22215,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L I-4",
+            "Trans": null,
+            "Notes": "Requires trailer towing package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

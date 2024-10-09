@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2003,
+        "Make": "BMW",
+        "ModelTrim": "X5",
+        "TowingCapacity": {
+            "Id": 20669,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L I-6",
+            "Trans": null,
+            "Notes": "Maximum towing capacity for trailer without brakes is 1650, with brakes off-road is 3300.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "BMW",
+        "ModelTrim": "X5",
+        "TowingCapacity": {
+            "Id": 20668,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.4L V-8",
+            "Trans": null,
+            "Notes": "Automatic transmission required; Maximum towing capacity for trailer without brakes is 1650, with brakes off-road is 3300.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "BMW",
+        "ModelTrim": "X5 46is",
+        "TowingCapacity": {
+            "Id": 20667,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X5 46is",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.6L V-8",
+            "Trans": null,
+            "Notes": "Automatic transmission required; Maximum towing capacity for trailer without brakes is 1650, with brakes off-road is 3300.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    }
+]

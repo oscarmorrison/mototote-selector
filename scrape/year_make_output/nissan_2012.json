@@ -1,0 +1,439 @@
+[
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Armada",
+        "TowingCapacity": {
+            "Id": 6600,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Armada",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8200
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Armada",
+        "TowingCapacity": {
+            "Id": 6601,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Armada",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9000
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier Crew Cab",
+        "TowingCapacity": {
+            "Id": 6605,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier Crew Cab",
+        "TowingCapacity": {
+            "Id": 6606,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6100
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier KC",
+        "TowingCapacity": {
+            "Id": 6602,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier KC",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.5L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier KC",
+        "TowingCapacity": {
+            "Id": 6603,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier KC",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier KC",
+        "TowingCapacity": {
+            "Id": 6604,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier KC",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 6300
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Murano",
+        "TowingCapacity": {
+            "Id": 6607,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Murano",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Pathfinder",
+        "TowingCapacity": {
+            "Id": 6608,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Pathfinder",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Pathfinder",
+        "TowingCapacity": {
+            "Id": 6609,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Pathfinder",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Quest",
+        "TowingCapacity": {
+            "Id": 6610,
+            "Year": 2012,
+            "TypeDesc": "Van",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Quest",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Crew Cab",
+        "TowingCapacity": {
+            "Id": 6616,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Crew Cab",
+        "TowingCapacity": {
+            "Id": 6618,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "With Premium Utility Package",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Crew Cab",
+        "TowingCapacity": {
+            "Id": 6617,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 7300
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Crew Cab",
+        "TowingCapacity": {
+            "Id": 6619,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "With Premium Utility Package",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan KC Short Bed",
+        "TowingCapacity": {
+            "Id": 6611,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan KC Short Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan KC Short Bed",
+        "TowingCapacity": {
+            "Id": 6613,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan KC Short Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "With Premium Utility Package",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan KC Short Bed",
+        "TowingCapacity": {
+            "Id": 6612,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan KC Short Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan KC Short Bed",
+        "TowingCapacity": {
+            "Id": 6614,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan KC Short Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "With Premium Utility Package",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan KC Short Bed Pro 4X",
+        "TowingCapacity": {
+            "Id": 6615,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan KC Short Bed Pro 4X",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Long Bed Crew Cab",
+        "TowingCapacity": {
+            "Id": 6620,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Long Bed Crew Cab",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9300
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Long Bed Crew Cab",
+        "TowingCapacity": {
+            "Id": 6621,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Long Bed Crew Cab",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 9100
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Nissan",
+        "ModelTrim": "Xterra",
+        "TowingCapacity": {
+            "Id": 6622,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Xterra",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    }
+]

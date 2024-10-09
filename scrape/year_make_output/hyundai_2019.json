@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2019,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe",
+        "TowingCapacity": {
+            "Id": 28657,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.0L I-4 Turbo-charged",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe",
+        "TowingCapacity": {
+            "Id": 28656,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

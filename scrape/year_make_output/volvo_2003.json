@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2003,
+        "Make": "Volvo",
+        "ModelTrim": "XC90",
+        "TowingCapacity": {
+            "Id": 22296,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC90",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L I-5",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "Volvo",
+        "ModelTrim": "XC90",
+        "TowingCapacity": {
+            "Id": 22297,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC90",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.9L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    }
+]

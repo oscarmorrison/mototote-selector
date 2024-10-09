@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2022,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 498208,
+            "Year": 2022,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V6 SIDI",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Trailer Towing Package (V92)",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.49",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2022,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 498209,
+            "Year": 2022,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V6 SIDI",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.49",
+            "TowCapacity": 1500
+        }
+    },
+    {
+        "Year": 2022,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 498211,
+            "Year": 2022,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V6 SIDI",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Trailer Towing Package (V92)",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.49",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2022,
+        "Make": "Buick",
+        "ModelTrim": "Enclave",
+        "TowingCapacity": {
+            "Id": 498212,
+            "Year": 2022,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Enclave",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V6 SIDI",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.49",
+            "TowCapacity": 1500
+        }
+    },
+    {
+        "Year": 2022,
+        "Make": "Buick",
+        "ModelTrim": "Envision",
+        "TowingCapacity": {
+            "Id": 498205,
+            "Year": 2022,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Envision",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L Turbo ECOTEC I4",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.47",
+            "TowCapacity": 1500
+        }
+    },
+    {
+        "Year": 2022,
+        "Make": "Buick",
+        "ModelTrim": "Envision",
+        "TowingCapacity": {
+            "Id": 498192,
+            "Year": 2022,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Buick",
+            "MakeTrim": "Envision",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.0L Turbo ECOTEC I4",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.47",
+            "TowCapacity": 1500
+        }
+    }
+]

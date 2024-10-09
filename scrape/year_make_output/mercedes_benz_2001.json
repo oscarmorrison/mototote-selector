@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2001,
+        "Make": "Mercedes-Benz",
+        "ModelTrim": "ML 320",
+        "TowingCapacity": {
+            "Id": 25823,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "ML 320",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.2L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Mercedes-Benz",
+        "ModelTrim": "ML 430",
+        "TowingCapacity": {
+            "Id": 25824,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "ML 430",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.3L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Mercedes-Benz",
+        "ModelTrim": "ML 55 AMG",
+        "TowingCapacity": {
+            "Id": 25825,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "ML 55 AMG",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.5L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    }
+]

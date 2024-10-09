@@ -1,0 +1,97 @@
+[
+    {
+        "Year": 2012,
+        "Make": "Subaru",
+        "ModelTrim": "Forester",
+        "TowingCapacity": {
+            "Id": 6626,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Forester",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L H4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2400
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Subaru",
+        "ModelTrim": "Outback",
+        "TowingCapacity": {
+            "Id": 6627,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Outback",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L H4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2700
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Subaru",
+        "ModelTrim": "Outback",
+        "TowingCapacity": {
+            "Id": 6628,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Outback",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6R H6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Subaru",
+        "ModelTrim": "Tribeca",
+        "TowingCapacity": {
+            "Id": 6624,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Tribeca",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6L H6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2400
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Subaru",
+        "ModelTrim": "Tribeca",
+        "TowingCapacity": {
+            "Id": 6625,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Tribeca",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6L H6",
+            "Trans": null,
+            "Notes": "Towing Package Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

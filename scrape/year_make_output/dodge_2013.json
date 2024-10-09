@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2013,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 5130,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6 V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 5128,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "3.6 V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 5131,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "5.7 V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 5129,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "5.7 V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Dodge",
+        "ModelTrim": "Grand Caravan",
+        "TowingCapacity": {
+            "Id": 5125,
+            "Year": 2013,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Grand Caravan",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3600
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Dodge",
+        "ModelTrim": "Journey",
+        "TowingCapacity": {
+            "Id": 5126,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Journey",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2500
+        }
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "S60 B5 (AWD)",
+        "TowingCapacity": {
+            "Id": 526527,
+            "Year": 2023,
+            "TypeDesc": "Car",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "S60 B5 (AWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "S60 B5 (FWD)",
+        "TowingCapacity": {
+            "Id": 526526,
+            "Year": 2023,
+            "TypeDesc": "Car",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "S60 B5 (FWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "S60 T8 Recharge Plug-In Hybrid (AWD)",
+        "TowingCapacity": {
+            "Id": 526570,
+            "Year": 2023,
+            "TypeDesc": "Car",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "S60 T8 Recharge Plug-In Hybrid (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Supercharged Turbo with Electric Motor",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "Note: Towing amount is without Polestar trim level",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "S60 T8 Recharge Plug-In Hybrid (AWD)",
+        "TowingCapacity": {
+            "Id": 526571,
+            "Year": 2023,
+            "TypeDesc": "Car",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "S60 T8 Recharge Plug-In Hybrid (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Supercharged Turbo with Electric Motor",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "Requires: Polestar trim level",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "V60 T5 Cross Country (AWD)",
+        "TowingCapacity": {
+            "Id": 526572,
+            "Year": 2023,
+            "TypeDesc": "Station Wagon",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "V60 T5 Cross Country (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "V60 T8 Recharge Plug-In Hybrid (AWD)",
+        "TowingCapacity": {
+            "Id": 526573,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "V60 T8 Recharge Plug-In Hybrid (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Supercharged Turbo with Electric Motor",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "V90 B6 Cross Country (AWD)",
+        "TowingCapacity": {
+            "Id": 526574,
+            "Year": 2023,
+            "TypeDesc": "Station Wagon",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "V90 B6 Cross Country (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Supercharged Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "Requires: Towing Pack",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "V90 B6 Cross Country (AWD)",
+        "TowingCapacity": {
+            "Id": 526575,
+            "Year": 2023,
+            "TypeDesc": "Station Wagon",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "V90 B6 Cross Country (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Supercharged Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "Note: Without Towing Pack",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC40 B4 (FWD)",
+        "TowingCapacity": {
+            "Id": 526682,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC40 B4 (FWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC40 B5 (AWD)",
+        "TowingCapacity": {
+            "Id": 526681,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC40 B5 (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC40 Recharge Pure Electric",
+        "TowingCapacity": {
+            "Id": 526683,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC40 Recharge Pure Electric",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "Permanent-Magnet Synchronous Motor",
+            "Trans": "1-Speed Direct-Drive Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC60 B5 (AWD)",
+        "TowingCapacity": {
+            "Id": 526727,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC60 B5 (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC60 B5 (FWD)",
+        "TowingCapacity": {
+            "Id": 526684,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC60 B5 (FWD)",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC60 B6 (AWD)",
+        "TowingCapacity": {
+            "Id": 526730,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC60 B6 (AWD)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC60 T8 Recharge Plug-In Hybrid",
+        "TowingCapacity": {
+            "Id": 526731,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC60 T8 Recharge Plug-In Hybrid",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Supercharged Turbo / Plug-In Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC90",
+        "TowingCapacity": {
+            "Id": 526732,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC90",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "Note: GVWR is 6150-lbs with a 7-seat configuration",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC90",
+        "TowingCapacity": {
+            "Id": 526742,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC90",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo / Mild Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Volvo",
+        "ModelTrim": "XC90 Recharge Plug-In Hybrid",
+        "TowingCapacity": {
+            "Id": 526736,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volvo",
+            "MakeTrim": "XC90 Recharge Plug-In Hybrid",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 Turbo/ Plug-In Hybrid",
+            "Trans": "Geartronic 8-Speed Automatic",
+            "Notes": "Note: GVWR is 6,500-lbs with 7-seat configuration",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 5000
+        }
+    }
+]

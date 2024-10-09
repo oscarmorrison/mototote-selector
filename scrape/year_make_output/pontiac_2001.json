@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2001,
+        "Make": "Pontiac",
+        "ModelTrim": "Aztec",
+        "TowingCapacity": {
+            "Id": 25849,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Pontiac",
+            "MakeTrim": "Aztec",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "Requires towing package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Pontiac",
+        "ModelTrim": "Montana",
+        "TowingCapacity": {
+            "Id": 25850,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Pontiac",
+            "MakeTrim": "Montana",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "Requires towing package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

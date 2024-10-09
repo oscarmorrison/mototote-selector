@@ -1,0 +1,135 @@
+[
+    {
+        "Year": 2000,
+        "Make": "Mazda",
+        "ModelTrim": "B2500",
+        "TowingCapacity": {
+            "Id": 26800,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "B2500",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L I-4",
+            "Trans": "Automatic",
+            "Notes": "Rating lower with manual transmission; Also, Cab Plus rating lower.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2240
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Mazda",
+        "ModelTrim": "B3000",
+        "TowingCapacity": {
+            "Id": 26802,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "B3000",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.0L V-6",
+            "Trans": "Automatic",
+            "Notes": "Rating lower with manual transmission; Also, Cab Plus rating lower; Requires load-equilizing hitch for more than 2000 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4360
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Mazda",
+        "ModelTrim": "B3000",
+        "TowingCapacity": {
+            "Id": 26801,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "B3000",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L V-6",
+            "Trans": "Automatic",
+            "Notes": "Rating lower with manual transmission; Also, Cab Plus rating lower; Requires load-equilizing hitch for more than 2000 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Mazda",
+        "ModelTrim": "B4000",
+        "TowingCapacity": {
+            "Id": 26804,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "B4000",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": "Automatic",
+            "Notes": "Rating lower with manual transmission; Requires special axle ratio and trailer towing package; Requires load-equilizing hitch for more than 2000 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5700
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Mazda",
+        "ModelTrim": "B4000",
+        "TowingCapacity": {
+            "Id": 26803,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "B4000",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L V-6",
+            "Trans": "Automatic",
+            "Notes": "Rating lower with manual transmission; Also, Cab Plus rating lower; Requires load-equilizing hitch for more than 2000 lbs; Requires special axle ratio and trailer towing package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Mazda",
+        "ModelTrim": "MPassenger Van",
+        "TowingCapacity": {
+            "Id": 26806,
+            "Year": 2000,
+            "TypeDesc": "Van",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "MPassenger Van",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": "Requires trailer towing package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Mazda",
+        "ModelTrim": "MPassenger Van",
+        "TowingCapacity": {
+            "Id": 26805,
+            "Year": 2000,
+            "TypeDesc": "Van",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "MPassenger Van",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": "Requires trailer towing package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4300
+        }
+    }
+]

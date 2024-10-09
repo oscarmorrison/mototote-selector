@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2008,
+        "Make": "Land Rover",
+        "ModelTrim": "Land Rover LR2",
+        "TowingCapacity": {
+            "Id": 12698,
+            "Year": 2008,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Land Rover LR2",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.2L I-6",
+            "Trans": null,
+            "Notes": "Trailer Brakes Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2008,
+        "Make": "Land Rover",
+        "ModelTrim": "Land Rover LR3",
+        "TowingCapacity": {
+            "Id": 12699,
+            "Year": 2008,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Land Rover LR3",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.4L V-8",
+            "Trans": null,
+            "Notes": "Trailer Brakes Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    },
+    {
+        "Year": 2008,
+        "Make": "Land Rover",
+        "ModelTrim": "Range Rover",
+        "TowingCapacity": {
+            "Id": 12700,
+            "Year": 2008,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Range Rover",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.4L V-8",
+            "Trans": null,
+            "Notes": "Trailer Brakes Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    },
+    {
+        "Year": 2008,
+        "Make": "Land Rover",
+        "ModelTrim": "Range Rover Sport",
+        "TowingCapacity": {
+            "Id": 12701,
+            "Year": 2008,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Range Rover Sport",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.2L V-8 Super Charged",
+            "Trans": null,
+            "Notes": "Trailer Brakes Required",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    }
+]

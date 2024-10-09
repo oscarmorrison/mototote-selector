@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2016,
+        "Make": "Subaru",
+        "ModelTrim": "Outback",
+        "TowingCapacity": {
+            "Id": 2471,
+            "Year": 2016,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Outback",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L H-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2700
+        }
+    },
+    {
+        "Year": 2016,
+        "Make": "Subaru",
+        "ModelTrim": "Outback",
+        "TowingCapacity": {
+            "Id": 2472,
+            "Year": 2016,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Outback",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6R H-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3000
+        }
+    }
+]

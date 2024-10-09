@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2007,
+        "Make": "Land Rover",
+        "ModelTrim": "LR3",
+        "TowingCapacity": {
+            "Id": 14074,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "LR3",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.4L V-8",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7700
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Land Rover",
+        "ModelTrim": "Range Rover",
+        "TowingCapacity": {
+            "Id": 14076,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Range Rover",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.4L V-8",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7700
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Land Rover",
+        "ModelTrim": "Range Rover Sport",
+        "TowingCapacity": {
+            "Id": 14075,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Range Rover Sport",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.4L V-8",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7700
+        }
+    }
+]

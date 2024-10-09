@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2007,
+        "Make": "Infiniti",
+        "ModelTrim": "FX 35",
+        "TowingCapacity": {
+            "Id": 14030,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "FX 35",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Infiniti",
+        "ModelTrim": "FX 45",
+        "TowingCapacity": {
+            "Id": 14031,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "FX 45",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.5 V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Infiniti",
+        "ModelTrim": "QX 56",
+        "TowingCapacity": {
+            "Id": 14032,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX 56",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.6 V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": "Optional towing package necessary.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9000
+        }
+    }
+]

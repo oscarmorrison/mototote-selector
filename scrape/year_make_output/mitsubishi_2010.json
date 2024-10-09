@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2010,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Endeavor",
+        "TowingCapacity": {
+            "Id": 9194,
+            "Year": 2010,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Endeavor",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.8L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2010,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Outlander",
+        "TowingCapacity": {
+            "Id": 9192,
+            "Year": 2010,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Outlander",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2010,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Outlander",
+        "TowingCapacity": {
+            "Id": 9193,
+            "Year": 2010,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Outlander",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

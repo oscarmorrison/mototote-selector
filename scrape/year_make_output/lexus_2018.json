@@ -1,0 +1,97 @@
+[
+    {
+        "Year": 2018,
+        "Make": "Lexus",
+        "ModelTrim": "GX 460",
+        "TowingCapacity": {
+            "Id": 17286,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "GX 460",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Lexus",
+        "ModelTrim": "LX 570",
+        "TowingCapacity": {
+            "Id": 17287,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "LX 570",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.7L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Lexus",
+        "ModelTrim": "NX 200t",
+        "TowingCapacity": {
+            "Id": 17283,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "NX 200t",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.0L I-4 Turbocharged",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Lexus",
+        "ModelTrim": "RX 350",
+        "TowingCapacity": {
+            "Id": 17284,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "RX 350",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Lexus",
+        "ModelTrim": "RX 450h",
+        "TowingCapacity": {
+            "Id": 17285,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "RX 450h",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

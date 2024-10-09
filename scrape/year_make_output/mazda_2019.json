@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2019,
+        "Make": "Mazda",
+        "ModelTrim": "CX-5",
+        "TowingCapacity": {
+            "Id": 28715,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.0L",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Mazda",
+        "ModelTrim": "CX-9",
+        "TowingCapacity": {
+            "Id": 28716,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-9",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

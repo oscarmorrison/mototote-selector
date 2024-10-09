@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2007,
+        "Make": "Kia",
+        "ModelTrim": "Sedona",
+        "TowingCapacity": {
+            "Id": 14071,
+            "Year": 2007,
+            "TypeDesc": "Van",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sedona",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.8L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Kia",
+        "ModelTrim": "Sorento",
+        "TowingCapacity": {
+            "Id": 14072,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorento",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.8L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Kia",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 14073,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.7L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

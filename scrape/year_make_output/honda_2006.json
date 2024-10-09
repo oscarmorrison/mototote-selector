@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2006,
+        "Make": "Honda",
+        "ModelTrim": "Odyssey",
+        "TowingCapacity": {
+            "Id": 15900,
+            "Year": 2006,
+            "TypeDesc": "Van",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Odyssey",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2006,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 15901,
+            "Year": 2006,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": "Automatic Transmission",
+            "Notes": "Towing Package Required. Weight given is for boats only.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2006,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 15903,
+            "Year": 2006,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": "Automatic Transmission",
+            "Notes": "Towing Package Required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2006,
+        "Make": "Honda",
+        "ModelTrim": "Ridgeline",
+        "TowingCapacity": {
+            "Id": 15902,
+            "Year": 2006,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Ridgeline",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    }
+]

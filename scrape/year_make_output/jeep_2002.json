@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2002,
+        "Make": "Jeep",
+        "ModelTrim": "Grand Cherokee",
+        "TowingCapacity": {
+            "Id": 23954,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Grand Cherokee",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L I-6",
+            "Trans": null,
+            "Notes": "Trailer towing package required. Brakes required on all trailers weighing more than 1000 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Jeep",
+        "ModelTrim": "Grand Cherokee",
+        "TowingCapacity": {
+            "Id": 23955,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Grand Cherokee",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "Trailer towing package required. Brakes required on all trailers weighing more than 1000 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Jeep",
+        "ModelTrim": "Liberty",
+        "TowingCapacity": {
+            "Id": 23956,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Liberty",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": "Brakes are required on all trailers weighing more than 1000 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Jeep",
+        "ModelTrim": "Liberty",
+        "TowingCapacity": {
+            "Id": 23957,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Liberty",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": "Trailer towing package required. Brakes required on all trailers weighing more than 1000 lbs. Manual transmission version tows 1500 lbs. less.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler",
+        "TowingCapacity": {
+            "Id": 23958,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L I-4",
+            "Trans": null,
+            "Notes": "Wrangler rating is 1000 lbs with automatic transmission. Brakes required on all trailers weighing more than 1000 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler",
+        "TowingCapacity": {
+            "Id": 23959,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

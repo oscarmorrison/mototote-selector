@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2023,
+        "Make": "Honda",
+        "ModelTrim": "Odyssey",
+        "TowingCapacity": {
+            "Id": 510142,
+            "Year": 2023,
+            "TypeDesc": "Minivan",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Odyssey",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": "10-Speed Automatic",
+            "Notes": "Requires: Towing Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.61",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Honda",
+        "ModelTrim": "Passport",
+        "TowingCapacity": {
+            "Id": 510143,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Passport",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5L VTEC V-6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Honda",
+        "ModelTrim": "Passport",
+        "TowingCapacity": {
+            "Id": 510145,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Passport",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L VTEC V-6 engine",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: ATF Cooler.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 510147,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L VTEC V-6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: ATF Cooler for max towing of 5000 pounds.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 510146,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5L VTEC V-6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Honda",
+        "ModelTrim": "Ridgeline",
+        "TowingCapacity": {
+            "Id": 510148,
+            "Year": 2023,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Ridgeline",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L VTEC V-6 engine",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Heavy-Duty Transmission Cooler and Towing requires accessory towing equipment.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.33",
+            "TowCapacity": 5000
+        }
+    }
+]

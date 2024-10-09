@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2003,
+        "Make": "Land Rover",
+        "ModelTrim": "Discovery",
+        "TowingCapacity": {
+            "Id": 22219,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Discovery",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5500
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "Land Rover",
+        "ModelTrim": "Freelander",
+        "TowingCapacity": {
+            "Id": 22221,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Freelander",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L V-6",
+            "Trans": null,
+            "Notes": "Maximum trailer weight without brakes is 1650.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2500
+        }
+    },
+    {
+        "Year": 2003,
+        "Make": "Land Rover",
+        "ModelTrim": "Ranger Rover",
+        "TowingCapacity": {
+            "Id": 22220,
+            "Year": 2003,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Ranger Rover",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.4L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7700
+        }
+    }
+]

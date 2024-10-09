@@ -1,0 +1,97 @@
+[
+    {
+        "Year": 2013,
+        "Make": "Jeep",
+        "ModelTrim": "Grand Cherokee",
+        "TowingCapacity": {
+            "Id": 5560,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Grand Cherokee",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Jeep",
+        "ModelTrim": "Grand Cherokee",
+        "TowingCapacity": {
+            "Id": 5562,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Grand Cherokee",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Jeep",
+        "ModelTrim": "Grand Cherokee",
+        "TowingCapacity": {
+            "Id": 5561,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Grand Cherokee",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.7L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7400
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Jeep",
+        "ModelTrim": "Grand Cherokee",
+        "TowingCapacity": {
+            "Id": 5563,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Grand Cherokee",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.7L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2013,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler",
+        "TowingCapacity": {
+            "Id": 5564,
+            "Year": 2013,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

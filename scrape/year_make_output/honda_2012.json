@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2012,
+        "Make": "Honda",
+        "ModelTrim": "Odyssey",
+        "TowingCapacity": {
+            "Id": 6547,
+            "Year": 2012,
+            "TypeDesc": "Van",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Odyssey",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 6548,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Honda",
+        "ModelTrim": "Pilot",
+        "TowingCapacity": {
+            "Id": 6549,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Pilot",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Honda",
+        "ModelTrim": "Ridgeline",
+        "TowingCapacity": {
+            "Id": 6550,
+            "Year": 2012,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Honda",
+            "MakeTrim": "Ridgeline",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    }
+]

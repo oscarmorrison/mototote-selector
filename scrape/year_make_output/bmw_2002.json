@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2002,
+        "Make": "BMW",
+        "ModelTrim": "X5",
+        "TowingCapacity": {
+            "Id": 22301,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L I-6",
+            "Trans": "Automatic",
+            "Notes": "Maximum towing weight for trailers without brakes is 1650; off-road trailering is 3300 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "BMW",
+        "ModelTrim": "X5",
+        "TowingCapacity": {
+            "Id": 22300,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L I-6",
+            "Trans": "Manual",
+            "Notes": "Maximum towing weight for trailers without brakes is 1650; off-road trailering is 3300 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "BMW",
+        "ModelTrim": "X5",
+        "TowingCapacity": {
+            "Id": 22299,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.4L V-8",
+            "Trans": "Automatic",
+            "Notes": "Maximum towing weight for trailers without brakes is 1650; off-road trailering is 3300 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "BMW",
+        "ModelTrim": "X5 46is",
+        "TowingCapacity": {
+            "Id": 22302,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "BMW",
+            "MakeTrim": "X5 46is",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.6L V-8",
+            "Trans": "Automatic",
+            "Notes": "Maximum towing weight for trailers without brakes is 1650; off-road trailering is 3300 lbs.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    }
+]

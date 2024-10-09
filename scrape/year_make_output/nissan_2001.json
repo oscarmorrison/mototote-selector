@@ -1,0 +1,192 @@
+[
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier",
+        "TowingCapacity": {
+            "Id": 25838,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier",
+        "TowingCapacity": {
+            "Id": 25837,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier",
+        "TowingCapacity": {
+            "Id": 25839,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier",
+        "TowingCapacity": {
+            "Id": 25840,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Pathfinder",
+        "TowingCapacity": {
+            "Id": 25841,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Pathfinder",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Pathfinder",
+        "TowingCapacity": {
+            "Id": 25842,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Pathfinder",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Quest",
+        "TowingCapacity": {
+            "Id": 25843,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Quest",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Xterra",
+        "TowingCapacity": {
+            "Id": 25844,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Xterra",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Xterra",
+        "TowingCapacity": {
+            "Id": 25845,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Xterra",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2001,
+        "Make": "Nissan",
+        "ModelTrim": "Xterra",
+        "TowingCapacity": {
+            "Id": 25846,
+            "Year": 2001,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Xterra",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

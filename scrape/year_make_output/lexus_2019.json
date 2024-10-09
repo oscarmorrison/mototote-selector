@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2019,
+        "Make": "Lexus",
+        "ModelTrim": "GX 460",
+        "TowingCapacity": {
+            "Id": 28699,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "GX 460",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Lexus",
+        "ModelTrim": "LX 570",
+        "TowingCapacity": {
+            "Id": 28700,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "LX 570",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.7L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Lexus",
+        "ModelTrim": "RX 350",
+        "TowingCapacity": {
+            "Id": 28697,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "RX 350",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2019,
+        "Make": "Lexus",
+        "ModelTrim": "RX 450h Hybrid",
+        "TowingCapacity": {
+            "Id": 28698,
+            "Year": 2019,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "RX 450h Hybrid",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]
