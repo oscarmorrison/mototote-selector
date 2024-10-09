@@ -3,9 +3,10 @@ import './Widget.css'; // Import the CSS file directly
 
 const Widget = () => {
     // User selected
-    const [make, setMake] = useState('');
-    const [model, setModel] = useState('');
-    const [year, setYear] = useState('');
+    const [chosenMake, setChosenMake] = useState('');
+    const [chosenYear, setChosenYear] = useState('');
+    const [chosenModel, setChosenModel] = useState('');
+
     // Data driven
     const [models, setModels] = useState([]);
     const [makes, setMakes] = useState([]);
@@ -38,38 +39,22 @@ const Widget = () => {
         const selectedMake = e.target.value;
         console.log('Make: ', selectedMake);
         console.log('Make: ', makes[selectedMake]);
-        setMake(makes[selectedMake]);
-        setModel('');
-        setYear('');
-
-//         if (selectedMake) {
-//             try {
-//                 // Fetch the models from the specified relative URL
-//                 const response = await fetch(`./data/${selectedMake}.json`);
-//                 if (!response.ok) {
-//                     throw new Error('Network response was not ok');
-//                 }
-//                 const models = await response.json();
-//                 setModels(models);
-//             } catch (error) {
-//                 console.error('Error fetching models:', error);
-//                 setModels([]); // Reset models on error
-//             }
-//         }
+        setChosenMake(makes[selectedMake]);
+        setChosenYear('');
+        setChosenModel('');
     };
 
     const handleYearChange = async (e) => {
         const selectedYear = e.target.value;
-        setYear(selectedYear);
+        setChosenYear(selectedYear);
     
         if (selectedYear) {
             try {
-                const response = await fetch(`./data/${make.normalizedName}_${selectedYear}.json`);
+                const response = await fetch(`./data/${chosenMake.normalizedName}_${selectedYear}.json`);
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
                 }
                 const models = await response.json();
-                console.log('models', models);
                 setModels(models);
             } catch (error) {
                 console.error('Error fetching models:', error);
@@ -78,7 +63,12 @@ const Widget = () => {
         }
     };
 
-    console.log('User selected', make.normalizedName, year);
+    const handleModelChange = async (e) => {
+        const selectedModel = e.target.value;
+        setChosenModel(selectedModel);
+    };
+
+    console.log("models", models);
 
     return (
         <Fragment>
@@ -89,8 +79,10 @@ const Widget = () => {
             </p>
             <form onSubmit={() => null}>
                 <div>
-                    <MakeSelector make={make} makes={makes} handleMakeChange={handleMakeChange} />
-                    {!!make && <YearSelector year={year} years={make.years} handleYearChange={handleYearChange} />}
+                    <MakeSelector chosenMake={chosenMake} makes={makes} handleMakeChange={handleMakeChange} />
+                    {!!chosenMake && <YearSelector chosenYear={chosenYear} years={chosenMake.years} handleYearChange={handleYearChange} />}
+                    {!!(models && models.length) && <ModelSelector chosenModel={chosenModel} models={models} handleModelChange={handleModelChange} />}
+
                 </div>
             </form>
         </Fragment>
@@ -98,7 +90,7 @@ const Widget = () => {
 };
 
 const MakeSelector = (props) => {
-    const value = props.make && props.make.normalizedName || '';
+    const value = props.chosenMake && props.chosenMake.normalizedName || '';
     return (
         <Fragment>
             <label htmlFor='make'>Make</label>
@@ -115,7 +107,7 @@ const MakeSelector = (props) => {
 };
 
 const YearSelector = (props) => {
-    const { year, years } = props;
+    const { chosenYear, years } = props;
     if (! years || years.length === 0) {
         return null;
     }
@@ -123,7 +115,7 @@ const YearSelector = (props) => {
     return (
         <Fragment>
             <label htmlFor='make'>Year</label>
-            <select id='make' value={props.year} onChange={props.handleYearChange} required>
+            <select id='make' value={chosenYear} onChange={props.handleYearChange} required>
                 <option value='' disabled>Select the year</option>
                 {years.sort().reverse().map(year => (
                     <option key={year} value={year}>
@@ -133,6 +125,23 @@ const YearSelector = (props) => {
             </select>
         </Fragment>
     );
-}
+};
+
+const ModelSelector = (props) => {
+    const { models } = props;
+    return (
+        <Fragment>
+            <label htmlFor='model'>Model</label>
+            <select id='model' value={props.chosenModel} onChange={props.handleModelChange} required>
+                <option value='' disabled>Select the model</option>
+                {models.sort().map(model => (
+                    <option key={model.ModelTrim} value={model.modelTrim}>
+                        {model.ModelTrim}
+                    </option>
+                ))}
+            </select>
+        </Fragment>
+    );
+};
 
 export default Widget;
