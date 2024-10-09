@@ -36,6 +36,8 @@ const Widget = () => {
 
     const handleMakeChange = async (e) => {
         const selectedMake = e.target.value;
+        console.log('Make: ', selectedMake);
+        console.log('Make: ', makes[selectedMake]);
         setMake(makes[selectedMake]);
         setModel('');
         setYear('');
@@ -59,9 +61,24 @@ const Widget = () => {
     const handleYearChange = async (e) => {
         const selectedYear = e.target.value;
         setYear(selectedYear);
+    
+        if (selectedYear) {
+            try {
+                const response = await fetch(`./data/${make.normalizedName}_${selectedYear}.json`);
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                const models = await response.json();
+                console.log('models', models);
+                setModels(models);
+            } catch (error) {
+                console.error('Error fetching models:', error);
+                setModels([]); // Reset models on error
+            }
+        }
     };
 
-    console.log(make);
+    console.log('User selected', make.normalizedName, year);
 
     return (
         <Fragment>
@@ -72,8 +89,8 @@ const Widget = () => {
             </p>
             <form onSubmit={() => null}>
                 <div>
-                    <MakeSelector makes={makes} handleMakeChange={handleMakeChange} />
-                    {makes && <YearSelector years={make.years} handleYearChange={handleYearChange} />}
+                    <MakeSelector make={make} makes={makes} handleMakeChange={handleMakeChange} />
+                    {!!make && <YearSelector year={year} years={make.years} handleYearChange={handleYearChange} />}
                 </div>
             </form>
         </Fragment>
@@ -81,10 +98,11 @@ const Widget = () => {
 };
 
 const MakeSelector = (props) => {
+    const value = props.make && props.make.normalizedName || '';
     return (
         <Fragment>
             <label htmlFor='make'>Make</label>
-            <select id='make' value={props.make} onChange={props.handleMakeChange} required>
+            <select id='make' value={value} onChange={props.handleMakeChange} required>
                 <option value='' disabled>Select a make</option>
                 {Object.keys(props.makes).sort().map(makeKey => (
                     <option key={makeKey} value={props.makes[makeKey].normalizedName}>
@@ -97,15 +115,15 @@ const MakeSelector = (props) => {
 };
 
 const YearSelector = (props) => {
-    const { years } = props;
+    const { year, years } = props;
     if (! years || years.length === 0) {
         return null;
     }
-    console.log(years);
+
     return (
         <Fragment>
             <label htmlFor='make'>Year</label>
-            <select id='make' value={props.make} onChange={props.handleYearChange} required>
+            <select id='make' value={props.year} onChange={props.handleYearChange} required>
                 <option value='' disabled>Select the year</option>
                 {years.sort().reverse().map(year => (
                     <option key={year} value={year}>
