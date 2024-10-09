@@ -1,0 +1,135 @@
+[
+    {
+        "Year": 2000,
+        "Make": "Toyota",
+        "ModelTrim": "4Runner",
+        "TowingCapacity": {
+            "Id": 26838,
+            "Year": 2000,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "4Runner",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.7L I-4",
+            "Trans": null,
+            "Notes": "Maximum hitch weight is 10 percent of tow limit.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra",
+        "TowingCapacity": {
+            "Id": 26841,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Automatic",
+            "Notes": "With optional towing package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5200
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra",
+        "TowingCapacity": {
+            "Id": 26840,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Manual",
+            "Notes": "With optional towing package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5250
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra",
+        "TowingCapacity": {
+            "Id": 26844,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Automatic",
+            "Notes": "With optional towing package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4900
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra",
+        "TowingCapacity": {
+            "Id": 26843,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.4L V-6",
+            "Trans": "Manual",
+            "Notes": "With optional towing package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4950
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra",
+        "TowingCapacity": {
+            "Id": 26839,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "With optional towing package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Toyota",
+        "ModelTrim": "Tundra",
+        "TowingCapacity": {
+            "Id": 26842,
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Toyota",
+            "MakeTrim": "Tundra",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": null,
+            "Notes": "With optional towing package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6900
+        }
+    }
+]

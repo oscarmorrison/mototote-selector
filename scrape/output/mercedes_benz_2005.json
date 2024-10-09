@@ -1,0 +1,97 @@
+[
+    {
+        "Year": 2005,
+        "Make": "Mercedes-Benz",
+        "ModelTrim": "G-Class",
+        "TowingCapacity": {
+            "Id": 17475,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "G-Class",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.4L V-8 Supercharged",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Mercedes-Benz",
+        "ModelTrim": "GST",
+        "TowingCapacity": {
+            "Id": 17476,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "GST",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Mercedes-Benz",
+        "ModelTrim": "GST",
+        "TowingCapacity": {
+            "Id": 17477,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "GST",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Mercedes-Benz",
+        "ModelTrim": "ML350",
+        "TowingCapacity": {
+            "Id": 17478,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "ML350",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Mercedes-Benz",
+        "ModelTrim": "ML500",
+        "TowingCapacity": {
+            "Id": 17479,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "ML500",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.0L V-8",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6200
+        }
+    }
+]

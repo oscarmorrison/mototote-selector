@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2000,
+        "Make": "Oldsmobile",
+        "ModelTrim": "Bravada",
+        "TowingCapacity": {
+            "Id": 26830,
+            "Year": 2000,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Oldsmobile",
+            "MakeTrim": "Bravada",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.3L V-6",
+            "Trans": null,
+            "Notes": "Frame mounted hitch required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Oldsmobile",
+        "ModelTrim": "Silhouette",
+        "TowingCapacity": {
+            "Id": 26831,
+            "Year": 2000,
+            "TypeDesc": "Van",
+            "MfgDesc": "Oldsmobile",
+            "MakeTrim": "Silhouette",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.4L V-6",
+            "Trans": null,
+            "Notes": "Requires frame mounted hitch and towing package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

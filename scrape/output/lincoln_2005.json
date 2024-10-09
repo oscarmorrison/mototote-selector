@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2005,
+        "Make": "Lincoln",
+        "ModelTrim": "Aviator",
+        "TowingCapacity": {
+            "Id": 17685,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Aviator",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Lincoln",
+        "ModelTrim": "Aviator",
+        "TowingCapacity": {
+            "Id": 17686,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Aviator",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "4.6L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7100
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Lincoln",
+        "ModelTrim": "Navigator",
+        "TowingCapacity": {
+            "Id": 17705,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Navigator",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.4L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8600
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Lincoln",
+        "ModelTrim": "Navigator",
+        "TowingCapacity": {
+            "Id": 17706,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Navigator",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.4L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8300
+        }
+    }
+]

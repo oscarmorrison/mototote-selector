@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2014,
+        "Make": "Volkswagen",
+        "ModelTrim": "Tiguan",
+        "TowingCapacity": {
+            "Id": 4647,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volkswagen",
+            "MakeTrim": "Tiguan",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.0L I-4 Turbocharged",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2200
+        }
+    },
+    {
+        "Year": 2014,
+        "Make": "Volkswagen",
+        "ModelTrim": "Touareg",
+        "TowingCapacity": {
+            "Id": 4648,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Volkswagen",
+            "MakeTrim": "Touareg",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "All",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    }
+]

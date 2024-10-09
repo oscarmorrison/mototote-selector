@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2025,
+        "Make": "Hyundai",
+        "ModelTrim": "Palisade",
+        "TowingCapacity": {
+            "Id": 555045,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Palisade",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.8L GDI V6",
+            "Trans": "SHIFTRONIC 8-Speed Automatic",
+            "Notes": "Requires: Brake System.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Hyundai",
+        "ModelTrim": "Palisade",
+        "TowingCapacity": {
+            "Id": 555044,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Palisade",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.8L GDI V6",
+            "Trans": "SHIFTRONIC 8-Speed Automatic",
+            "Notes": "Requires: Brake System.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Hyundai",
+        "ModelTrim": "Tucson",
+        "TowingCapacity": {
+            "Id": 555042,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Tucson",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.5L I4",
+            "Trans": "SHIFTRONIC 8-Speed Automatic",
+            "Notes": "Requires: Brake System.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Hyundai",
+        "ModelTrim": "Tucson",
+        "TowingCapacity": {
+            "Id": 555043,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Tucson",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.5L Smartstream I4 GDI/MPI",
+            "Trans": "SHIFTRONIC  8-Speed Automatic",
+            "Notes": "Requires: Brake System.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    }
+]

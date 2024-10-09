@@ -1,0 +1,135 @@
+[
+    {
+        "Year": 2024,
+        "Make": "Infiniti",
+        "ModelTrim": "QX50",
+        "TowingCapacity": {
+            "Id": 545320,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX50",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L I4 VC-Turbo",
+            "Trans": "Continuously Variable Transmission with Manual Shift Mode",
+            "Notes": "Requires: Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3000
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Infiniti",
+        "ModelTrim": "QX60",
+        "TowingCapacity": {
+            "Id": 545321,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX60",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Infiniti",
+        "ModelTrim": "QX60",
+        "TowingCapacity": {
+            "Id": 545322,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX60",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.5L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Max towing without Trailer Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Infiniti",
+        "ModelTrim": "QX60",
+        "TowingCapacity": {
+            "Id": 545323,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX60",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Tow Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Infiniti",
+        "ModelTrim": "QX60",
+        "TowingCapacity": {
+            "Id": 545324,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX60",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.5L V6",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Note: Max towing without Trailer Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Infiniti",
+        "ModelTrim": "QX80",
+        "TowingCapacity": {
+            "Id": 545403,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX80",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V8",
+            "Trans": "7-Speed Automatic",
+            "Notes": "Note: Use of a weight-distributing hitch system is recommended when towing over 5000 pounds (2267 kg).",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 8500
+        }
+    },
+    {
+        "Year": 2024,
+        "Make": "Infiniti",
+        "ModelTrim": "QX80",
+        "TowingCapacity": {
+            "Id": 545396,
+            "Year": 2024,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Infiniti",
+            "MakeTrim": "QX80",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "5.6L V8",
+            "Trans": "7-Speed Automatic",
+            "Notes": "Note: Use of a weight-distributing hitch system is recommended when towing over 5000 pounds (2267 kg).",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 8500
+        }
+    }
+]

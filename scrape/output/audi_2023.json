@@ -1,0 +1,306 @@
+[
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "e-tron",
+        "TowingCapacity": {
+            "Id": 525921,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "e-tron",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "Dual Asynchronous Electric Motors",
+            "Trans": "1-Speed Direct-Drive Automatic",
+            "Notes": "Required: Towing Package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q3",
+        "TowingCapacity": {
+            "Id": 525923,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q3",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L 40 TFSI I4 Turbo",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.33",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q3",
+        "TowingCapacity": {
+            "Id": 525922,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q3",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L 45 TFSI I4 Turbo",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "Requires: 45 S line Premium trim level",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.53",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q4 e-tron",
+        "TowingCapacity": {
+            "Id": 525930,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q4 e-tron",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "Rear permanently excited synchronous motor",
+            "Trans": "Single-Speed Automatic",
+            "Notes": "Requires: 50 trim level",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2650
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q4 e-tron (RWD)",
+        "TowingCapacity": {
+            "Id": 525928,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q4 e-tron (RWD)",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "Rear permanently excited synchronous motor",
+            "Trans": "Single-Speed Automatic",
+            "Notes": "Requires: 40 trim level",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2200
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q5",
+        "TowingCapacity": {
+            "Id": 525932,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q5",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L 40 TFSI I4 Turbo",
+            "Trans": "7-Speed S tronic Automatic",
+            "Notes": "Requires: Q5 40 trim level.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "5.3",
+            "TowCapacity": 2750
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q5",
+        "TowingCapacity": {
+            "Id": 525931,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q5",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L 45 TFSI Turbo I4 Mild Hybrid",
+            "Trans": "7-Speed S tronic Dual-Clutch Automatic",
+            "Notes": "Requires: Q5 45 S trim level.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "5.3",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q5 55e (Plug-In Hybrid)",
+        "TowingCapacity": {
+            "Id": 550435,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q5 55e (Plug-In Hybrid)",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L 55 TFSI I4 e Plug-in Hybrid",
+            "Trans": "7-Speed S tronic Automatic",
+            "Notes": "Note for California Only: The Audi Q5e has a plug-in hybrid drive system that is not designed technically for towing a trailer or the installation of a trailer hitch.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q5 Sportback",
+        "TowingCapacity": {
+            "Id": 525933,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q5 Sportback",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L 45 TFSI Turbo I4 Mild Hybrid",
+            "Trans": "7-Speed S tronic Dual-Clutch Automatic",
+            "Notes": "Note: Add Trailer hitch to experience max tow capacity of 4400 pounds.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q7",
+        "TowingCapacity": {
+            "Id": 525938,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q7",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.0L 45 TFSI I4 Turbo",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "Require: 45 TFSI Engine.  Note: Some models may require tow package for max tow capacity. See mfg/dealer for details.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.76",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q7",
+        "TowingCapacity": {
+            "Id": 525939,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q7",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.0L 55 TFSI V6 Turbo Mild Hybrid",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "Requires: 55 TFSI Engine and Towing Package that includes the tow hitch receiver and towing seven pin connector.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.2",
+            "TowCapacity": 7700
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "Q8",
+        "TowingCapacity": {
+            "Id": 525947,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "Q8",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.0L TFSI Turbocharged V6 Mild Hybrid",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 7700
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "RS Q8",
+        "TowingCapacity": {
+            "Id": 525948,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "RS Q8",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "4.0 TFSI V8 Twin-Turbo Mild Hybrid",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 7700
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "SQ5",
+        "TowingCapacity": {
+            "Id": 525934,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "SQ5",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.0L TFSI V6 Turbo",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "Note: Towing amount is for all SQ5 trim levels",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.20",
+            "TowCapacity": 4400
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "SQ7",
+        "TowingCapacity": {
+            "Id": 525946,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "SQ7",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "4.0 TFSI V8 Twin-Turbo Mild Hybrid",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 7700
+        }
+    },
+    {
+        "Year": 2023,
+        "Make": "Audi",
+        "ModelTrim": "SQ8",
+        "TowingCapacity": {
+            "Id": 525950,
+            "Year": 2023,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Audi",
+            "MakeTrim": "SQ8",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "4.0 TFSI V8 Twin-Turbo Mild Hybrid",
+            "Trans": "8-Speed Tiptronic Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 7700
+        }
+    }
+]

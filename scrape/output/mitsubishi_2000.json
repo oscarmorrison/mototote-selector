@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2000,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Montero",
+        "TowingCapacity": {
+            "Id": 26817,
+            "Year": 2000,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Montero",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Tow rating with trailer brakes; 1500 lbs. maximum rating without.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Montero Sport ES",
+        "TowingCapacity": {
+            "Id": 26818,
+            "Year": 2000,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Montero Sport ES",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": "Tow rating with trailer brakes; 1500 lbs. maximum rating without.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2300
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Mitsubishi",
+        "ModelTrim": "Montero Sport LS, XLS",
+        "TowingCapacity": {
+            "Id": 26819,
+            "Year": 2000,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mitsubishi",
+            "MakeTrim": "Montero Sport LS, XLS",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.0L V-6",
+            "Trans": null,
+            "Notes": "Tow rating with trailer brakes; 1500 lbs. maximum rating without.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    }
+]

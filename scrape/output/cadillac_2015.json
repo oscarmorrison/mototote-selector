@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2015,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade",
+        "TowingCapacity": {
+            "Id": 2529,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8300
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade",
+        "TowingCapacity": {
+            "Id": 2530,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade ESV",
+        "TowingCapacity": {
+            "Id": 2531,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade ESV",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8100
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Cadillac",
+        "ModelTrim": "Escalade ESV",
+        "TowingCapacity": {
+            "Id": 2532,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "Escalade ESV",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "6.2L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Cadillac",
+        "ModelTrim": "SRX",
+        "TowingCapacity": {
+            "Id": 2534,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "SRX",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2015,
+        "Make": "Cadillac",
+        "ModelTrim": "SRX",
+        "TowingCapacity": {
+            "Id": 2533,
+            "Year": 2015,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Cadillac",
+            "MakeTrim": "SRX",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "3.6L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

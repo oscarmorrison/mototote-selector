@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2007,
+        "Make": "GMC",
+        "ModelTrim": "Acadia",
+        "TowingCapacity": {
+            "Id": 14015,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Acadia",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6 V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "GMC",
+        "ModelTrim": "Yukon Denali",
+        "TowingCapacity": {
+            "Id": 14016,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon Denali",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "6.2 V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 7900
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "GMC",
+        "ModelTrim": "Yukon XL Denali",
+        "TowingCapacity": {
+            "Id": 14017,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Yukon XL Denali",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "6.2 V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.42:1",
+            "TowCapacity": 7900
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2002,
+        "Make": "Chrysler",
+        "ModelTrim": "Town and Country",
+        "TowingCapacity": {
+            "Id": 22741,
+            "Year": 2002,
+            "TypeDesc": "Van",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Town and Country",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3800
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Chrysler",
+        "ModelTrim": "Town and Country",
+        "TowingCapacity": {
+            "Id": 22743,
+            "Year": 2002,
+            "TypeDesc": "Van",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Town and Country",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "3.8L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Chrysler",
+        "ModelTrim": "Town and Country",
+        "TowingCapacity": {
+            "Id": 22742,
+            "Year": 2002,
+            "TypeDesc": "Van",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Town and Country",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.8L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3800
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Chrysler",
+        "ModelTrim": "Voyager",
+        "TowingCapacity": {
+            "Id": 22744,
+            "Year": 2002,
+            "TypeDesc": "Van",
+            "MfgDesc": "Chrysler",
+            "MakeTrim": "Voyager",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2017,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe",
+        "TowingCapacity": {
+            "Id": 1298,
+            "Year": 2017,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2017,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe sport",
+        "TowingCapacity": {
+            "Id": 1300,
+            "Year": 2017,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe sport",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.0L I-4 Turbocharged",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2017,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe sport",
+        "TowingCapacity": {
+            "Id": 1299,
+            "Year": 2017,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe sport",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

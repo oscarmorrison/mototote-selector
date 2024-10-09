@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2012,
+        "Make": "Mazda",
+        "ModelTrim": "CX7",
+        "TowingCapacity": {
+            "Id": 6587,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX7",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.3L Turbocharged",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2012,
+        "Make": "Mazda",
+        "ModelTrim": "CX9",
+        "TowingCapacity": {
+            "Id": 6588,
+            "Year": 2012,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX9",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

@@ -1,0 +1,667 @@
+[
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Caliber",
+        "TowingCapacity": {
+            "Id": 9585,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Caliber",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.4L I-4",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Charger",
+        "TowingCapacity": {
+            "Id": 9586,
+            "Year": 2009,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Charger",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Charger",
+        "TowingCapacity": {
+            "Id": 9587,
+            "Year": 2009,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Charger",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.7L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9602,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "4 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9603,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "4 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 4800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9601,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "6 Speed Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.21:1",
+            "TowCapacity": 3200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9607,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "4 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 4600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9606,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "6 Speed Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 3800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9604,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 5850
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9605,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7050
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9608,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 5650
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Crew Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9609,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Crew Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 6850
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9593,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "4 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4700
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9594,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "4 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 5000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9592,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "6 Speed Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.21:1",
+            "TowCapacity": 3350
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9598,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "4 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 4800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9597,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "6 Speed Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 3950
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9595,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9596,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7200
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9599,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 5800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Dakota Extended Cab Shortbed",
+        "TowingCapacity": {
+            "Id": 9600,
+            "Year": 2009,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Dakota Extended Cab Shortbed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73:1",
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 9610,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.7L V-6",
+            "Trans": "4 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 3800
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 9611,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.21:1",
+            "TowCapacity": 4550
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 9612,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 9615,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 5900
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 9613,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.21:1",
+            "TowCapacity": 5950
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 9614,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 9850
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 9616,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7250
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango",
+        "TowingCapacity": {
+            "Id": 9617,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.7L V-8",
+            "Trans": "5 Speed Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:0",
+            "TowCapacity": 8750
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Durango Hybrid",
+        "TowingCapacity": {
+            "Id": 9618,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Durango Hybrid",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.7L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Grand Caravan",
+        "TowingCapacity": {
+            "Id": 9588,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Grand Caravan",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.3L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Grand Caravan",
+        "TowingCapacity": {
+            "Id": 9589,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Grand Caravan",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.8L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Grand Caravan",
+        "TowingCapacity": {
+            "Id": 9590,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Grand Caravan",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3600
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Journey",
+        "TowingCapacity": {
+            "Id": 9591,
+            "Year": 2009,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Journey",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2009,
+        "Make": "Dodge",
+        "ModelTrim": "Sprinter",
+        "TowingCapacity": {
+            "Id": 9834,
+            "Year": 2009,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge",
+            "MakeTrim": "Sprinter",
+            "DriveTypeDesc": "Not Available",
+            "Engine": null,
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 5000
+        }
+    }
+]

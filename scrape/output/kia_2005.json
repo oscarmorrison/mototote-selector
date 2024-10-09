@@ -1,0 +1,116 @@
+[
+    {
+        "Year": 2005,
+        "Make": "Kia",
+        "ModelTrim": "Sedona",
+        "TowingCapacity": {
+            "Id": 17995,
+            "Year": 2005,
+            "TypeDesc": "Van",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sedona",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Kia",
+        "ModelTrim": "Sedona",
+        "TowingCapacity": {
+            "Id": 17996,
+            "Year": 2005,
+            "TypeDesc": "Van",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sedona",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Kia",
+        "ModelTrim": "Sorento",
+        "TowingCapacity": {
+            "Id": 17997,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorento",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Kia",
+        "ModelTrim": "Sorento",
+        "TowingCapacity": {
+            "Id": 17998,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sorento",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Estimate.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Kia",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 17999,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.0L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2005,
+        "Make": "Kia",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 18000,
+            "Year": 2005,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Kia",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "2.0L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2025,
+        "Make": "Subaru",
+        "ModelTrim": "Forester",
+        "TowingCapacity": {
+            "Id": 551980,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Forester",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.5L BOXER",
+            "Trans": "Lineartronic CVT",
+            "Notes": "Note: Trailer brakes may be needed. Some safety features, including X-MODE, Blind-Spot Detection, and Rear Cross-Traffic Alert may not function properly when towing. Sport, Limited and Touring trims have 8-Speed Manual Mode.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 1500
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Subaru",
+        "ModelTrim": "Forester",
+        "TowingCapacity": {
+            "Id": 551981,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Subaru",
+            "MakeTrim": "Forester",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.5L BOXER",
+            "Trans": "Lineartronic CVT",
+            "Notes": "Requires: Wilderness trim level.   Note: Trailer brakes may be needed. Some safety features, including X-MODE, Blind-Spot Detection, and Rear Cross-Traffic Alert may not function properly when towing",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 3000
+        }
+    }
+]

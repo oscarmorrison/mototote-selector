@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2014,
+        "Make": "Mazda",
+        "ModelTrim": "CX-5",
+        "TowingCapacity": {
+            "Id": 4550,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.0L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2014,
+        "Make": "Mazda",
+        "ModelTrim": "CX-5",
+        "TowingCapacity": {
+            "Id": 4551,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-5",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.5L I-4",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2014,
+        "Make": "Mazda",
+        "ModelTrim": "CX-9",
+        "TowingCapacity": {
+            "Id": 4552,
+            "Year": 2014,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Mazda",
+            "MakeTrim": "CX-9",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.7L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

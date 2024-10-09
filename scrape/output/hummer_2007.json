@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2007,
+        "Make": "Hummer",
+        "ModelTrim": "H2",
+        "TowingCapacity": {
+            "Id": 14022,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hummer",
+            "MakeTrim": "H2",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "6.0L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 6700
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Hummer",
+        "ModelTrim": "H2 SUT",
+        "TowingCapacity": {
+            "Id": 14023,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hummer",
+            "MakeTrim": "H2 SUT",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "6.0L V-8",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 6600
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Hummer",
+        "ModelTrim": "H3",
+        "TowingCapacity": {
+            "Id": 14025,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hummer",
+            "MakeTrim": "H3",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.7 I-5",
+            "Trans": "Automatic Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Hummer",
+        "ModelTrim": "H3",
+        "TowingCapacity": {
+            "Id": 14024,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hummer",
+            "MakeTrim": "H3",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.7 I-5",
+            "Trans": "Manual Transmission",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

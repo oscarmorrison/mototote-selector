@@ -1,0 +1,97 @@
+[
+    {
+        "Year": 2025,
+        "Make": "Lexus",
+        "ModelTrim": "NX",
+        "TowingCapacity": {
+            "Id": 551037,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "NX",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.4L I4 Turbocharged",
+            "Trans": "8-Speed Automatic",
+            "Notes": "Requires: 350 AWD or 350 F Sport Handling trim levels.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Lexus",
+        "ModelTrim": "NX",
+        "TowingCapacity": {
+            "Id": 551036,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "NX",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.5L I4",
+            "Trans": "8-Speed Automatic",
+            "Notes": "Requires: 250 AWD trim level.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Lexus",
+        "ModelTrim": "NX",
+        "TowingCapacity": {
+            "Id": 551035,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "NX",
+            "DriveTypeDesc": "Front-Wheel Drive",
+            "Engine": "2.5L I4",
+            "Trans": "8-Speed Automatic",
+            "Notes": "Requires: 250 FWD trim level.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Lexus",
+        "ModelTrim": "NX Hybrid",
+        "TowingCapacity": {
+            "Id": 551038,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "NX Hybrid",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.5L I4 Hybrid Drive",
+            "Trans": "Continuously Variable Transmission (ECVT)",
+            "Notes": "Requires: 350h trim level.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2025,
+        "Make": "Lexus",
+        "ModelTrim": "NX Hybrid",
+        "TowingCapacity": {
+            "Id": 551039,
+            "Year": 2025,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lexus",
+            "MakeTrim": "NX Hybrid",
+            "DriveTypeDesc": "All-Wheel Drive",
+            "Engine": "2.5L I4 Plug-In Hybrid Drive",
+            "Trans": "Continuously Variable Transmission (ECVT)",
+            "Notes": "Requires: 450h trim level.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    }
+]

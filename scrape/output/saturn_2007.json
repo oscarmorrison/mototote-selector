@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2007,
+        "Make": "Saturn",
+        "ModelTrim": "Outlook",
+        "TowingCapacity": {
+            "Id": 14137,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Saturn",
+            "MakeTrim": "Outlook",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.6 V-6",
+            "Trans": null,
+            "Notes": "Optional towing package necessary.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Saturn",
+        "ModelTrim": "Relay",
+        "TowingCapacity": {
+            "Id": 14138,
+            "Year": 2007,
+            "TypeDesc": "Van",
+            "MfgDesc": "Saturn",
+            "MakeTrim": "Relay",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.9L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2007,
+        "Make": "Saturn",
+        "ModelTrim": "Vue",
+        "TowingCapacity": {
+            "Id": 14139,
+            "Year": 2007,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Saturn",
+            "MakeTrim": "Vue",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Trailer brakes required.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    }
+]

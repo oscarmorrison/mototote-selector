@@ -1,0 +1,553 @@
+[
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Compass (4WD)",
+        "TowingCapacity": {
+            "Id": 491613,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Compass (4WD)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.4L Tigershark MultiAir2 I4",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Trailer Tow Group (4WD only)",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator High Altitude",
+        "TowingCapacity": {
+            "Id": 491558,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator High Altitude",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.0L L EcoDiesel V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator High Altitude",
+        "TowingCapacity": {
+            "Id": 491556,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator High Altitude",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "6-Speed Manual",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator High Altitude",
+        "TowingCapacity": {
+            "Id": 491557,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator High Altitude",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Mojave",
+        "TowingCapacity": {
+            "Id": 491559,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Mojave",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "6-Speed Manual",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10",
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Mojave",
+        "TowingCapacity": {
+            "Id": 491560,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Mojave",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Overland",
+        "TowingCapacity": {
+            "Id": 491552,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Overland",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.0L L EcoDiesel V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Overland",
+        "TowingCapacity": {
+            "Id": 491550,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Overland",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "6-Speed Manual",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Overland",
+        "TowingCapacity": {
+            "Id": 491551,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Overland",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Rubicon",
+        "TowingCapacity": {
+            "Id": 491555,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Rubicon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.0L L EcoDiesel V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Rubicon",
+        "TowingCapacity": {
+            "Id": 491553,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Rubicon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "6-Speed Manual",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10",
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Rubicon",
+        "TowingCapacity": {
+            "Id": 491554,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Rubicon",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10",
+            "TowCapacity": 7000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Sport",
+        "TowingCapacity": {
+            "Id": 491565,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Sport",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.0L L EcoDiesel V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Sport",
+        "TowingCapacity": {
+            "Id": 491561,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Sport",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "6-Speed Manual",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 4000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Sport",
+        "TowingCapacity": {
+            "Id": 491562,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Sport",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 4500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Sport",
+        "TowingCapacity": {
+            "Id": 491563,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Sport",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "Requires: Trailer Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Gladiator Sport",
+        "TowingCapacity": {
+            "Id": 491564,
+            "Year": 2021,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Gladiator Sport",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "Requires: Trailer Tow Package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10",
+            "TowCapacity": 7650
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Renegade (4WD)",
+        "TowingCapacity": {
+            "Id": 491610,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Renegade (4WD)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "1.3L MultiAir2 Turbo I4",
+            "Trans": "9-Speed Automatic",
+            "Notes": "Requires: Trailhawk  trim level and Trailer Tow Group package",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.56",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Renegade (4WD)",
+        "TowingCapacity": {
+            "Id": 491609,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Renegade (4WD)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.4L Tigershark MultiAir2 I4",
+            "Trans": "9-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler (2-Door)",
+        "TowingCapacity": {
+            "Id": 491694,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler (2-Door)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.0L Turbo I4",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler (2-Door)",
+        "TowingCapacity": {
+            "Id": 491693,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler (2-Door)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "6-Speed Manual",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler (2-Door)",
+        "TowingCapacity": {
+            "Id": 491695,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler (2-Door)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "",
+            "TowCapacity": 2000
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler (4-Door)",
+        "TowingCapacity": {
+            "Id": 491697,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler (4-Door)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.0L Turbo I4",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.45",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler (4-Door)",
+        "TowingCapacity": {
+            "Id": 491699,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler (4-Door)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.0L EcoDiesel V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler (4-Door)",
+        "TowingCapacity": {
+            "Id": 491696,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler (4-Door)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "6-Speed Manual",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.45",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler (4-Door)",
+        "TowingCapacity": {
+            "Id": 491698,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler (4-Door)",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "3.6L Pentastar V6",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.45",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler Sahara 4xe",
+        "TowingCapacity": {
+            "Id": 492717,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler Sahara 4xe",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.0L Turbo I4 (PHEV)",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler Sahara 4xe",
+        "TowingCapacity": {
+            "Id": 492720,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler Sahara 4xe",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.0L Turbo I4 (PHEV)",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.73",
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2021,
+        "Make": "Jeep",
+        "ModelTrim": "Wrangler Sahara 4xe",
+        "TowingCapacity": {
+            "Id": 492719,
+            "Year": 2021,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Jeep",
+            "MakeTrim": "Wrangler Sahara 4xe",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "2.0L Turbo I4 (PHEV)",
+            "Trans": "8-Speed Automatic",
+            "Notes": "",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10",
+            "TowCapacity": 3500
+        }
+    }
+]

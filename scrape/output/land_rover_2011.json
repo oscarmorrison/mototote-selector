@@ -1,0 +1,78 @@
+[
+    {
+        "Year": 2011,
+        "Make": "Land Rover",
+        "ModelTrim": "Land Rover LR2",
+        "TowingCapacity": {
+            "Id": 7788,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Land Rover LR2",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.2L I-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "Land Rover",
+        "ModelTrim": "Land Rover LR4",
+        "TowingCapacity": {
+            "Id": 7789,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Land Rover LR4",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "Land Rover",
+        "ModelTrim": "Range Rover",
+        "TowingCapacity": {
+            "Id": 7790,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Range Rover",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.0L V-8",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "Land Rover",
+        "ModelTrim": "Range Rover Sport",
+        "TowingCapacity": {
+            "Id": 7791,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Land Rover",
+            "MakeTrim": "Range Rover Sport",
+            "DriveTypeDesc": "Not Available",
+            "Engine": null,
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    }
+]

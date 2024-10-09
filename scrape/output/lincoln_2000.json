@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2000,
+        "Make": "Lincoln",
+        "ModelTrim": "Navigator",
+        "TowingCapacity": {
+            "Id": 26798,
+            "Year": 2000,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Navigator",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.4L V-8",
+            "Trans": null,
+            "Notes": "Requires optional Class III Trailer Tow Package with load-equilizing hitch.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8900
+        }
+    },
+    {
+        "Year": 2000,
+        "Make": "Lincoln",
+        "ModelTrim": "Navigator",
+        "TowingCapacity": {
+            "Id": 26799,
+            "Year": 2000,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Lincoln",
+            "MakeTrim": "Navigator",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.4L V-8",
+            "Trans": null,
+            "Notes": "Requires optional Class III Trailer Tow Package with load-equilizing hitch.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8100
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2018,
+        "Make": "Porsche",
+        "ModelTrim": "Cayenne S",
+        "TowingCapacity": {
+            "Id": 17343,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Porsche",
+            "MakeTrim": "Cayenne S",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "ALL",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 7716
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Porsche",
+        "ModelTrim": "Macan",
+        "TowingCapacity": {
+            "Id": 17344,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Porsche",
+            "MakeTrim": "Macan",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "ALL",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 4409
+        }
+    }
+]

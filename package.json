@@ -9,7 +9,10 @@
     "build": "vite build",
     "clean-build": "rm -rf ./public",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "scrape:clean": "rm scrape/output/*",
+    "scrape:split": "node scrape/split_by_year_and_make.js scrape/outputdata_v1.json scrape/output",
+    "scrape:clean-and-split": "npm run scrape:clean && npm run scrape:split"
   },
   "dependencies": {
     "@emotion/css": "^11.13.4",

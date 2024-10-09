@@ -1,0 +1,59 @@
+[
+    {
+        "Year": 2011,
+        "Make": "KIA",
+        "ModelTrim": "Sedona",
+        "TowingCapacity": {
+            "Id": 7785,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "KIA",
+            "MakeTrim": "Sedona",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.8L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "KIA",
+        "ModelTrim": "Sorrento",
+        "TowingCapacity": {
+            "Id": 7786,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "KIA",
+            "MakeTrim": "Sorrento",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3500
+        }
+    },
+    {
+        "Year": 2011,
+        "Make": "KIA",
+        "ModelTrim": "Sportage",
+        "TowingCapacity": {
+            "Id": 7787,
+            "Year": 2011,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "KIA",
+            "MakeTrim": "Sportage",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "2.7L V-6",
+            "Trans": null,
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2000
+        }
+    }
+]

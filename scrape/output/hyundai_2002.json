@@ -1,0 +1,40 @@
+[
+    {
+        "Year": 2002,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe",
+        "TowingCapacity": {
+            "Id": 23946,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.7L V-6",
+            "Trans": null,
+            "Notes": "Trailer must be equipped with brakes.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2700
+        }
+    },
+    {
+        "Year": 2002,
+        "Make": "Hyundai",
+        "ModelTrim": "Santa Fe",
+        "TowingCapacity": {
+            "Id": 23947,
+            "Year": 2002,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Hyundai",
+            "MakeTrim": "Santa Fe",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "2.7L V-6",
+            "Trans": null,
+            "Notes": "Trailer must be equipped with brakes.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 2700
+        }
+    }
+]

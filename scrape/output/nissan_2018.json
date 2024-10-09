@@ -1,0 +1,800 @@
+[
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Armada",
+        "TowingCapacity": {
+            "Id": 17301,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Armada",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 8500
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier DR Crew Cab 5 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17306,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier DR Crew Cab 5 FT  Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6610
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier DR Extended Cab 6 FT 1 IN Bed",
+        "TowingCapacity": {
+            "Id": 17314,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier DR Extended Cab 6 FT 1 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6690
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier PRO-4X Crew Cab 5 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17310,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier PRO-4X Crew Cab 5 FT  Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6290
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier PRO-4X Extended Cab 6 FT 1 IN",
+        "TowingCapacity": {
+            "Id": 17315,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier PRO-4X Extended Cab 6 FT 1 IN",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6450
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier S/SV Crew Cab 5 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17302,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier S/SV Crew Cab 5 FT  Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6640
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier S/SV Crew Cab 5 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17303,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier S/SV Crew Cab 5 FT  Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6370
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier S/SV Extended Cab 6 FT 1 IN Bed",
+        "TowingCapacity": {
+            "Id": 17311,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier S/SV Extended Cab 6 FT 1 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "2.5L I-4",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 3790
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier SL Crew Cab 5 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17307,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier SL Crew Cab 5 FT  Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6480
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier SL Crew Cab 5 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17308,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier SL Crew Cab 5 FT  Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6240
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier SL Crew Cab 6 FT 1 IN Bed",
+        "TowingCapacity": {
+            "Id": 17309,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier SL Crew Cab 6 FT 1 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6110
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier SV Crew Cab 6 FT 1 INBed",
+        "TowingCapacity": {
+            "Id": 17304,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier SV Crew Cab 6 FT 1 INBed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6500
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier SV Crew Cab 6 FT 1 INBed",
+        "TowingCapacity": {
+            "Id": 17305,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier SV Crew Cab 6 FT 1 INBed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6240
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier SV Extended Cab 6 FT 1 IN Bed",
+        "TowingCapacity": {
+            "Id": 17312,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier SV Extended Cab 6 FT 1 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6710
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Frontier SV Extended Cab 6 FT 1 IN Bed",
+        "TowingCapacity": {
+            "Id": 17313,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Frontier SV Extended Cab 6 FT 1 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "4.0L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6510
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Pathfinder",
+        "TowingCapacity": {
+            "Id": 17316,
+            "Year": 2018,
+            "TypeDesc": "Sport Utility Vehicle",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Pathfinder",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.5L V-6",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 6000
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Crew Cab 5 FT 7 IN Bed",
+        "TowingCapacity": {
+            "Id": 17321,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Crew Cab 5 FT 7 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9400
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Crew Cab 5 FT 7 IN Bed",
+        "TowingCapacity": {
+            "Id": 17322,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Crew Cab 5 FT 7 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9230
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17319,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9420
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17320,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9250
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Regular Cab 8 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17317,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Regular Cab 8 FT  Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9740
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan Regular Cab 8 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17318,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan Regular Cab 8 FT  Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 9560
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17339,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 12310
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17340,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 11900
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17341,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 12030
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17342,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 11330
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17335,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 11260
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17336,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 11390
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17337,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 10990
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17338,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Crew Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 11120
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17331,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 12510
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17332,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 12630
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17333,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 12160
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17334,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 12160
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17327,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 11380
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17328,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 11510
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17329,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 11060
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+        "TowingCapacity": {
+            "Id": 17330,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Extended Cab 6 FT 6 IN Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.6L V-8",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 11180
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Regular Cab 8 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17323,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Regular Cab 8 FT  Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 12640
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Regular Cab 8 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17324,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Regular Cab 8 FT  Bed",
+            "DriveTypeDesc": "2 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 12760
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Regular Cab 8 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17325,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Regular Cab 8 FT  Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": null,
+            "TowCapacity": 12360
+        }
+    },
+    {
+        "Year": 2018,
+        "Make": "Nissan",
+        "ModelTrim": "Titan XD Regular Cab 8 FT  Bed",
+        "TowingCapacity": {
+            "Id": 17326,
+            "Year": 2018,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Nissan",
+            "MakeTrim": "Titan XD Regular Cab 8 FT  Bed",
+            "DriveTypeDesc": "4 Wheel Drive",
+            "Engine": "5.0L V-8 Turbo Diesel",
+            "Trans": null,
+            "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": null,
+            "TowCapacity": 12480
+        }
+    }
+]
