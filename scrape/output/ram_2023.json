@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Big Horn Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+{
+    "1500 Big Horn Crew Cab 5ft-7in Box": [
+        {
             "Id": 501401,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 7950
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Big Horn Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501402,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 9650
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Big Horn Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501399,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8170
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Big Horn Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501400,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -74,12 +56,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 9870
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Big Horn Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+    ],
+    "1500 Big Horn Crew Cab 6ft-4in Box": [
+        {
             "Id": 501396,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 7710
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Big Horn Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501397,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -112,12 +86,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 9410
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+    ],
+    "1500 Classic Crew Cab 5ft-7in SRW": [
+        {
             "Id": 501325,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 4350
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501326,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501305,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 4540
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501306,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7590
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501327,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501329,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -225,13 +171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8090
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501328,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -244,13 +185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10180
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501330,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -263,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10270
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501307,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -282,13 +213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8260
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501309,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8290
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501308,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10430
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501310,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -340,12 +256,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 10460
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 6ft-4in SRW",
-        "TowingCapacity": {
+    ],
+    "1500 Classic Crew Cab 6ft-4in SRW": [
+        {
             "Id": 501321,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -358,13 +271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8030
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 6ft-4in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501323,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -377,13 +285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8060
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 6ft-4in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501322,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -396,13 +299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10080
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 6ft-4in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501324,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -415,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10110
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 6ft-4in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501260,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -434,13 +327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8210
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 6ft-4in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501262,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -453,13 +341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8240
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 6ft-4in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501261,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -472,13 +355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10390
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Crew Cab 6ft-4in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501263,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -492,12 +370,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 10420
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+    ],
+    "1500 Classic Quad Cab 6ft-4in Box SRW": [
+        {
             "Id": 501311,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -510,13 +385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 4390
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501312,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -529,13 +399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7440
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501250,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -548,13 +413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 4610
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501251,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -567,13 +427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7660
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501313,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -586,13 +441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8030
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501315,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -605,13 +455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8160
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501314,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -624,13 +469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501316,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -643,13 +483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10330
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501252,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -662,13 +497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8310
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501254,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -681,13 +511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8340
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501253,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -700,13 +525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10490
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Quad Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501255,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -720,12 +540,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 10520
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+    ],
+    "1500 Classic Regular Cab 8ft Box SRW": [
+        {
             "Id": 501317,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -738,13 +555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 4530
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501318,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -757,13 +569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7080
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501256,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -776,13 +583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 4720
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501259,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -795,13 +597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7270
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501320,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -814,13 +611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8250
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501319,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -833,13 +625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10420
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501257,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -852,13 +639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8440
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501258,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -872,12 +654,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 10620
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic SSV Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+    ],
+    "1500 Classic SSV Crew Cab 5ft-7in SRW": [
+        {
             "Id": 501331,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -890,13 +669,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8020
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic SSV Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501333,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -909,13 +683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8020
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic SSV Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501332,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -928,13 +697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Classic SSV Crew Cab 5ft-7in SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501334,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -948,12 +712,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 10200
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+    ],
+    "1500 Crew Cab 5ft-7in Box": [
+        {
             "Id": 501398,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -966,13 +727,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8280
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501419,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -985,13 +741,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 6370
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501420,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1004,13 +755,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7370
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501385,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1023,13 +769,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 6490
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501386,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1042,13 +783,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7490
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501421,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1061,13 +797,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8120
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501422,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1080,13 +811,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11220
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501387,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1099,13 +825,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8370
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501389,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1118,13 +839,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11470
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501423,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1137,13 +853,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501424,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1156,13 +867,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11220
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501390,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1175,13 +881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8270
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501391,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1195,12 +896,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 11370
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+    ],
+    "1500 Crew Cab 6ft-4in Box": [
+        {
             "Id": 501411,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1213,13 +911,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 6170
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501412,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1232,13 +925,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7170
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501349,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1251,13 +939,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 6470
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501350,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1270,13 +953,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7470
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501413,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1289,13 +967,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8180
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501414,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1308,13 +981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11280
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501351,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1327,13 +995,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8370
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501352,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1346,13 +1009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11470
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501415,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1365,13 +1023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 7810
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501416,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1384,13 +1037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10910
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501353,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1403,13 +1051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8230
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501354,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1423,12 +1066,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 11330
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab 6ft-4in Box": [
+        {
             "Id": 501335,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1441,13 +1081,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8480
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501336,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1460,13 +1095,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 10180
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501337,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1479,13 +1109,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 12560
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501403,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1498,13 +1123,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 6530
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501404,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1517,13 +1137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7530
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501339,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1536,13 +1151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 6760
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501338,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1555,13 +1165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55",
             "TowCapacity": 7740
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501405,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1574,13 +1179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8370
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501406,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1593,13 +1193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11470
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501340,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1612,13 +1207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501343,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1631,13 +1221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501407,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1650,13 +1235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8220
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501408,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1669,13 +1249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11320
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501342,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1688,13 +1263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21",
             "TowCapacity": 8420
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501341,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1707,13 +1277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92",
             "TowCapacity": 11520
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 Quad Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 501344,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1727,12 +1292,9 @@
             "GearRatio": "3.92",
             "TowCapacity": 12750
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "1500 TRX Crew Cab 5ft-7in Box",
-        "TowingCapacity": {
+    ],
+    "1500 TRX Crew Cab 5ft-7in Box": [
+        {
             "Id": 501509,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1746,12 +1308,9 @@
             "GearRatio": "3.55",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+    ],
+    "2500 Crew Cab 6ft-4in Box": [
+        {
             "Id": 545898,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1764,13 +1323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14870
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545902,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1783,13 +1337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14860
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545899,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1802,13 +1351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 10570
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545900,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1821,13 +1365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17070
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545903,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1840,13 +1379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17060
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545871,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1859,13 +1393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15180
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545874,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1878,13 +1407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15170
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545872,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1897,13 +1421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17380
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545875,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1916,13 +1435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17370
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545901,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1935,13 +1449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19980
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545904,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1954,13 +1463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19170
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545907,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1973,13 +1477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14920
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545873,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1992,13 +1491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19980
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545876,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2012,12 +1506,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 19980
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+    ],
+    "2500 Crew Cab 8ft Box": [
+        {
             "Id": 545909,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2030,13 +1521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14690
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545914,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2049,13 +1535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545911,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2068,13 +1549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 16890
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545915,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2087,13 +1563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 16900
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545879,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2106,13 +1577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15050
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545882,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2125,13 +1591,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15040
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545880,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2144,13 +1605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17250
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545883,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2163,13 +1619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17240
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545913,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2182,13 +1633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 18150
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545916,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2201,13 +1647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 17040
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545881,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2220,13 +1661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19980
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Crew Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545884,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2240,12 +1676,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 19970
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Mega Cab 6ft-4in Box",
-        "TowingCapacity": {
+    ],
+    "2500 Mega Cab 6ft-4in Box": [
+        {
             "Id": 545891,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2258,13 +1691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14460
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Mega Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545894,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2277,13 +1705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14460
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Mega Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545892,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2296,13 +1719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 16660
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Mega Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545895,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2315,13 +1733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 16660
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Mega Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545893,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2334,13 +1747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15570
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Mega Cab 6ft-4in Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545896,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2354,12 +1762,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 14510
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+    ],
+    "2500 Regular Cab 8ft Box": [
+        {
             "Id": 545885,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2372,13 +1777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15210
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545888,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2391,13 +1791,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545886,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2410,13 +1805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17410
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545889,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2429,13 +1819,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17400
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545858,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2448,13 +1833,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15530
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545861,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2467,13 +1847,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15530
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545859,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2486,13 +1861,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17730
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545862,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2505,13 +1875,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17730
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545887,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2524,13 +1889,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19970
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545890,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2543,13 +1903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19970
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545860,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2562,13 +1917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19980
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "2500 Regular Cab 8ft Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545863,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2582,12 +1932,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 19980
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+    ],
+    "3500 Crew Cab 6ft-4in Box SRW": [
+        {
             "Id": 549554,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2600,13 +1947,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14770
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549555,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2619,13 +1961,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 16970
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549550,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2638,13 +1975,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549551,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2657,13 +1989,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17300
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549557,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2676,13 +2003,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 23540
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549553,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2695,13 +2017,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 24070
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549556,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2714,13 +2031,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 20220
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 6ft-4in Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549552,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2734,12 +2046,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 20510
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+    ],
+    "3500 Crew Cab 8ft Box DRW": [
+        {
             "Id": 549578,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2752,13 +2061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14820
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549579,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2771,13 +2075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17220
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549571,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2790,13 +2089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15170
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549572,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2809,13 +2103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17570
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549581,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2828,13 +2117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 32700
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549582,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2847,13 +2131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 34010
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549575,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2866,13 +2145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 33060
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549576,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2885,13 +2159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 34460
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549580,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2904,13 +2173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19670
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549577,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2923,13 +2187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 21670
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549574,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2942,13 +2201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549573,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2962,12 +2216,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 22000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box SRW",
-        "TowingCapacity": {
+    ],
+    "3500 Crew Cab 8ft Box SRW": [
+        {
             "Id": 549567,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2980,13 +2231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14570
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549568,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -2999,13 +2245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 16770
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549558,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3018,13 +2259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14930
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549559,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3037,13 +2273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17130
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549569,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3056,13 +2287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 25080
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549561,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3075,13 +2301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 25540
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549570,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3094,13 +2315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 20010
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Crew Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549560,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3114,12 +2330,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 20360
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4in Box DRW",
-        "TowingCapacity": {
+    ],
+    "3500 Mega Cab 6ft-4in Box DRW": [
+        {
             "Id": 549587,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3132,13 +2345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14750
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4in Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549588,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3151,13 +2359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17150
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4in Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549590,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3170,13 +2373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 32560
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4in Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549591,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3189,13 +2387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 32920
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4in Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549592,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3208,13 +2401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 19490
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4in Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549589,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3228,12 +2416,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 21490
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4In Box SRW",
-        "TowingCapacity": {
+    ],
+    "3500 Mega Cab 6ft-4In Box SRW": [
+        {
             "Id": 549585,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3246,13 +2431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14460
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4In Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549583,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3265,13 +2445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 16660
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4In Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549586,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3284,13 +2459,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 24070
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Mega Cab 6ft-4In Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549584,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3304,12 +2474,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 19820
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab 8ft Box DRW": [
+        {
             "Id": 549544,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3322,13 +2489,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15350
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549545,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3341,13 +2503,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17750
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549542,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3360,13 +2517,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15810
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549538,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3379,13 +2531,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 18210
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549548,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3398,13 +2545,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 33250
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549549,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3417,13 +2559,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 34650
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549540,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3436,13 +2573,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 33690
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549541,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3455,13 +2587,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 37090
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549546,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3474,13 +2601,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 20220
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549547,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3493,13 +2615,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 22220
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549543,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3512,13 +2629,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 20660
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549539,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3532,12 +2644,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 22660
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab 8ft Box SRW": [
+        {
             "Id": 549534,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3550,13 +2659,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15120
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549535,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3569,13 +2673,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17320
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549530,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3588,13 +2687,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 15470
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549531,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3607,13 +2701,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 17670
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549537,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3626,13 +2715,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 25950
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549533,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3645,13 +2729,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 26800
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549536,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3664,13 +2743,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 20540
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Ram",
-        "ModelTrim": "3500 Regular Cab 8ft Box SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549532,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -3684,5 +2758,5 @@
             "GearRatio": "3.73",
             "TowCapacity": 20940
         }
-    }
-]
+    ]
+}

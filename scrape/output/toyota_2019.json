@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 28784,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 28785,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander Hybrid",
-        "TowingCapacity": {
+    ],
+    "Highlander Hybrid": [
+        {
             "Id": 28786,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 28787,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Rav4 Adventure",
-        "TowingCapacity": {
+    ],
+    "Rav4 Adventure": [
+        {
             "Id": 28789,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +77,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Rav4 Adventure",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28788,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +92,9 @@
             "GearRatio": null,
             "TowCapacity": 2900
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+    ],
+    "Sequoia Platinum": [
+        {
             "Id": 28792,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28793,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +122,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5/TRD Sport/Ltd",
-        "TowingCapacity": {
+    ],
+    "Sequoia SR5/TRD Sport/Ltd": [
+        {
             "Id": 28790,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5/TRD Sport/Ltd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28791,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +152,9 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 28794,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +168,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Limited Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Limited Double Cab": [
+        {
             "Id": 28811,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -225,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Limited Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28812,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -245,12 +198,9 @@
             "GearRatio": null,
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma PRO Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma PRO Double Cab": [
+        {
             "Id": 28810,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -264,12 +214,9 @@
             "GearRatio": null,
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma SR/SR5 Access Cab": [
+        {
             "Id": 28796,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -282,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28797,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -301,13 +243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28798,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -320,13 +257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28799,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -340,12 +272,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma SR/SR5 Double Cab": [
+        {
             "Id": 28795,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -358,13 +287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28804,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -378,12 +302,9 @@
             "GearRatio": null,
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Off-Road Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma SR/SR5 Off-Road Access Cab": [
+        {
             "Id": 28802,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -397,12 +318,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Sport Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma SR/SR5 Sport Access Cab": [
+        {
             "Id": 28800,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -415,13 +333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR/SR5 Sport Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28801,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -435,12 +348,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma SR5 Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma SR5 Double Cab": [
+        {
             "Id": 28803,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -454,12 +364,9 @@
             "GearRatio": null,
             "TowCapacity": 6700
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma TRD Off-Road Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma TRD Off-Road Double Cab": [
+        {
             "Id": 28808,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -472,13 +379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma TRD Off-Road Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28809,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -492,12 +394,9 @@
             "GearRatio": null,
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma TRD Sport Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma TRD Sport Double Cab": [
+        {
             "Id": 28807,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -511,12 +410,9 @@
             "GearRatio": null,
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma TRD Sport Double Cab Lg Bed",
-        "TowingCapacity": {
+    ],
+    "Tacoma TRD Sport Double Cab Lg Bed": [
+        {
             "Id": 28806,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -530,12 +426,9 @@
             "GearRatio": null,
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma TRD Sport Double Cab STD Bed",
-        "TowingCapacity": {
+    ],
+    "Tacoma TRD Sport Double Cab STD Bed": [
+        {
             "Id": 28805,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -549,12 +442,9 @@
             "GearRatio": null,
             "TowCapacity": 6700
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra 1794 CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra 1794 CrewMax": [
+        {
             "Id": 28824,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -567,13 +457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra 1794 CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28837,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -587,12 +472,9 @@
             "GearRatio": null,
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Limited CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra Limited CrewMax": [
+        {
             "Id": 28822,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -605,13 +487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Limited CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28835,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -625,12 +502,9 @@
             "GearRatio": null,
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Limited Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Limited Double Cab Standard Bed": [
+        {
             "Id": 28819,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -643,13 +517,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Limited Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28831,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -663,12 +532,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Platinum CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra Platinum CrewMax": [
+        {
             "Id": 28823,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -681,13 +547,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Platinum CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28836,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -701,12 +562,9 @@
             "GearRatio": null,
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra SR Double Cab Long Bed": [
+        {
             "Id": 28818,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -719,13 +577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28830,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -739,12 +592,9 @@
             "GearRatio": null,
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra SR Double Cab Standard Bed": [
+        {
             "Id": 28813,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -757,13 +607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28826,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -776,13 +621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28815,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -795,13 +635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28829,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -815,12 +650,9 @@
             "GearRatio": null,
             "TowCapacity": 9900
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra SR5 CrewMax": [
+        {
             "Id": 28820,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -833,13 +665,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28832,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -852,13 +679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28821,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -871,13 +693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28833,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -891,12 +708,9 @@
             "GearRatio": null,
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra SR5 Double Cab Long Bed": [
+        {
             "Id": 28817,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -909,13 +723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28825,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -929,12 +738,9 @@
             "GearRatio": null,
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra SR5 Double Cab Standard Bed": [
+        {
             "Id": 28814,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -947,13 +753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28827,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -966,13 +767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28816,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -985,13 +781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra SR5 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28828,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1005,12 +796,9 @@
             "GearRatio": null,
             "TowCapacity": 9900
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra TRD Pro CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra TRD Pro CrewMax": [
+        {
             "Id": 28834,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1024,5 +812,5 @@
             "GearRatio": null,
             "TowCapacity": 9200
         }
-    }
-]
+    ]
+}

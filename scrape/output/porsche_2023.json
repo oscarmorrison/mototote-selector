@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+{
+    "Cayenne": [
+        {
             "Id": 526323,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526322,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526325,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526324,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Porsche",
-        "ModelTrim": "Macan",
-        "TowingCapacity": {
+    ],
+    "Macan": [
+        {
             "Id": 526327,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4409
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Porsche",
-        "ModelTrim": "Macan",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526326,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +86,5 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    }
-]
+    ]
+}

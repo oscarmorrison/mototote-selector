@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 20641,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20640,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20643,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20642,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 20650,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 20644,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia",
-        "TowingCapacity": {
+    ],
+    "Sequoia": [
+        {
             "Id": 20649,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20648,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 20645,
             "Year": 2004,
             "TypeDesc": "Van",
@@ -169,12 +134,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma",
-        "TowingCapacity": {
+    ],
+    "Tacoma": [
+        {
             "Id": 20647,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -187,13 +149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20646,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -207,12 +164,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Access Cab": [
+        {
             "Id": 20653,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -225,13 +179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20652,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -244,13 +193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20656,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -263,13 +207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20655,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -283,12 +222,9 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab": [
+        {
             "Id": 20658,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -301,13 +237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20657,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -321,12 +252,9 @@
             "GearRatio": null,
             "TowCapacity": 6800
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab": [
+        {
             "Id": 20651,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -339,13 +267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20654,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -359,5 +282,5 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    }
-]
+    ]
+}

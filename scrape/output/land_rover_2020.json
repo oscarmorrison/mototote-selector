@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 110",
-        "TowingCapacity": {
+{
+    "Defender 110": [
+        {
             "Id": 492152,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7715
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 110",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492153,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 7715
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 110 (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Defender 110 (MHEV)": [
+        {
             "Id": 492154,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": "",
             "TowCapacity": 7715
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 90",
-        "TowingCapacity": {
+    ],
+    "Defender 90": [
+        {
             "Id": 29118,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7715
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 90",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492150,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 7715
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 90 (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Defender 90 (MHEV)": [
+        {
             "Id": 492151,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +90,9 @@
             "GearRatio": "",
             "TowCapacity": 7715
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery",
-        "TowingCapacity": {
+    ],
+    "Discovery": [
+        {
             "Id": 29119,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8201
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29120,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +120,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery Sport",
-        "TowingCapacity": {
+    ],
+    "Discovery Sport": [
+        {
             "Id": 492159,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +136,9 @@
             "GearRatio": "",
             "TowCapacity": 1800
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery Sport (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Discovery Sport (MHEV)": [
+        {
             "Id": 492157,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery Sport (MHEV)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29121,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery Sport (MHEV)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492156,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +180,9 @@
             "GearRatio": "",
             "TowCapacity": 2200
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery Sport (PHEV)",
-        "TowingCapacity": {
+    ],
+    "Discovery Sport (PHEV)": [
+        {
             "Id": 492158,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +196,9 @@
             "GearRatio": "",
             "TowCapacity": 1600
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+    ],
+    "Range Rover": [
+        {
             "Id": 29122,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492147,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492149,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +240,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover (MHEV)": [
+        {
             "Id": 492148,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +256,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover (PHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover (PHEV)": [
+        {
             "Id": 29124,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,12 +272,9 @@
             "GearRatio": "",
             "TowCapacity": 5511
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque",
-        "TowingCapacity": {
+    ],
+    "Range Rover Evoque": [
+        {
             "Id": 29123,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3968
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492165,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,12 +302,9 @@
             "GearRatio": "",
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport": [
+        {
             "Id": 29126,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29127,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29129,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -435,12 +346,9 @@
             "GearRatio": "",
             "TowCapacity": 6613
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport (MHEV)": [
+        {
             "Id": 29125,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -454,12 +362,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport (PHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport (PHEV)": [
+        {
             "Id": 29128,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -473,12 +378,9 @@
             "GearRatio": "",
             "TowCapacity": 5511
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar",
-        "TowingCapacity": {
+    ],
+    "Range Rover Velar": [
+        {
             "Id": 29130,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -491,13 +393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5291
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492166,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -510,13 +407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5511
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492167,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -530,5 +422,5 @@
             "GearRatio": "",
             "TowCapacity": 5511
         }
-    }
-]
+    ]
+}

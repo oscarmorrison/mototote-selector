@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+{
+    "Ascent": [
+        {
             "Id": 497936,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497937,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+    ],
+    "Crosstrek": [
+        {
             "Id": 497939,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497938,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek (Plug-In Hybrid)",
-        "TowingCapacity": {
+    ],
+    "Crosstrek (Plug-In Hybrid)": [
+        {
             "Id": 497947,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 1000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+    ],
+    "Forester": [
+        {
             "Id": 497894,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497895,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497940,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+    ],
+    "Outback": [
+        {
             "Id": 549258,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549259,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,5 +148,5 @@
             "GearRatio": "",
             "TowCapacity": 2700
         }
-    }
-]
+    ]
+}

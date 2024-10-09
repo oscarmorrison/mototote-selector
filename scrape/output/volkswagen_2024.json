@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas",
-        "TowingCapacity": {
+{
+    "Atlas": [
+        {
             "Id": 549089,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549088,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas Cross Sport",
-        "TowingCapacity": {
+    ],
+    "Atlas Cross Sport": [
+        {
             "Id": 549218,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas Cross Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549217,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +58,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

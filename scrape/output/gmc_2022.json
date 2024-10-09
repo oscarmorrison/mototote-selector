@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+{
+    "Acadia": [
+        {
             "Id": 478979,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478981,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478970,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478977,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478980,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.49",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478982,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.49",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478972,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.49",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478978,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +112,9 @@
             "GearRatio": "3.49",
             "TowCapacity": 1000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Canyon Crew Cab": [
+        {
             "Id": 479488,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479491,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479498,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479489,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479492,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -244,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479499,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -263,13 +197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479490,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -283,12 +212,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Canyon Extended Cab": [
+        {
             "Id": 479484,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479482,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479485,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -339,13 +255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479483,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -359,12 +270,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Extended Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Savana 2500 Extended Wheelbase": [
+        {
             "Id": 479542,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -377,13 +285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Extended Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479543,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -396,13 +299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Extended Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479544,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -416,12 +314,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Regular Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Savana 2500 Regular Wheelbase": [
+        {
             "Id": 479530,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -434,13 +329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479539,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -453,13 +343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479531,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -472,13 +357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479540,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -491,13 +371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479532,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -510,13 +385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479541,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -530,12 +400,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Extended Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Savana 3500 Extended Wheelbase": [
+        {
             "Id": 479536,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -548,13 +415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Extended Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479548,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -567,13 +429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Extended Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479537,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -586,13 +443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Extended Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479549,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -605,13 +457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Extended Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479538,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -624,13 +471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Extended Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479550,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -644,12 +486,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Regular Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Savana 3500 Regular Wheelbase": [
+        {
             "Id": 479533,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -662,13 +501,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479545,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -681,13 +515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479534,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -700,13 +529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479546,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -719,13 +543,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479535,
             "Year": 2022,
             "TypeDesc": "Passenger Van",
@@ -738,13 +557,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Regular Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 479547,
             "Year": 2022,
             "TypeDesc": "Cargo Van",
@@ -758,12 +572,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 6200
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab Short Bed": [
+        {
             "Id": 482386,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -776,13 +587,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482387,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -795,13 +601,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482388,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -814,13 +615,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482360,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -833,13 +629,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482361,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -852,13 +643,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482362,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -871,13 +657,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482389,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -890,13 +671,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482390,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -909,13 +685,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482363,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -928,13 +699,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482365,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -947,13 +713,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482367,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -966,13 +727,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482364,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -985,13 +741,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482366,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1004,13 +755,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482368,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1023,13 +769,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482391,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1042,13 +783,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482392,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1061,13 +797,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482393,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1080,13 +811,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482394,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1099,13 +825,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482395,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1118,13 +839,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482396,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1137,13 +853,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482399,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1156,13 +867,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482404,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1175,13 +881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482397,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1194,13 +895,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482400,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1213,13 +909,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482401,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1232,13 +923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482402,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1251,13 +937,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482403,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1270,13 +951,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482405,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1289,13 +965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482406,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1308,13 +979,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482407,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1327,13 +993,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482369,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1346,13 +1007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482370,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1365,13 +1021,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482371,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1384,13 +1035,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482372,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1403,13 +1049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482373,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1422,13 +1063,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482374,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1442,12 +1078,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab Standard Bed": [
+        {
             "Id": 482417,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1460,13 +1093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482418,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1479,13 +1107,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482419,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1498,13 +1121,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482420,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1517,13 +1135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482422,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1536,13 +1149,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482423,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1555,13 +1163,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482421,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1574,13 +1177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482424,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1593,13 +1191,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482425,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1612,13 +1205,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482426,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1631,13 +1219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482427,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1650,13 +1233,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482428,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1669,13 +1247,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482432,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1688,13 +1261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482434,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1707,13 +1275,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482436,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1726,13 +1289,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482429,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1745,13 +1303,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482430,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1764,13 +1317,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482431,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1783,13 +1331,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482433,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1802,13 +1345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482435,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1821,13 +1359,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482437,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1841,12 +1374,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Double Cab Standard Bed": [
+        {
             "Id": 482344,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1859,13 +1389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482345,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1878,13 +1403,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482346,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1897,13 +1417,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482313,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1916,13 +1431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482314,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1935,13 +1445,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482315,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1954,13 +1459,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482347,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1973,13 +1473,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482348,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -1992,13 +1487,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482349,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2011,13 +1501,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482350,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2030,13 +1515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482351,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2049,13 +1529,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482352,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2068,13 +1543,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482316,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2087,13 +1557,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482317,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2106,13 +1571,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482318,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2125,13 +1585,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482319,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2144,13 +1599,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482320,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2163,13 +1613,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482321,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2182,13 +1627,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482353,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2201,13 +1641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482354,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2220,13 +1655,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482355,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2239,13 +1669,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482357,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2258,13 +1683,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482358,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2277,13 +1697,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482356,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2296,13 +1711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "373",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482322,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2315,13 +1725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482323,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2334,13 +1739,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482324,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2353,13 +1753,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482325,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2372,13 +1767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482326,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2391,13 +1781,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 482327,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2411,12 +1796,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Regular Cab Long Bed": [
+        {
             "Id": 481252,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2429,13 +1811,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481253,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2448,13 +1825,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481256,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2467,13 +1839,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481182,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2486,13 +1853,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481183,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2505,13 +1867,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481184,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2524,13 +1881,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481258,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2543,13 +1895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481260,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2562,13 +1909,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481261,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2581,13 +1923,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.23",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481185,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2600,13 +1937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481186,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2619,13 +1951,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481187,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2639,12 +1966,9 @@
             "GearRatio": "3.23",
             "TowCapacity": 9700
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Regular Cab Standard Bed": [
+        {
             "Id": 481108,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2657,13 +1981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481109,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2676,13 +1995,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481110,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2695,13 +2009,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481072,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2714,13 +2023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481075,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2733,13 +2037,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 481076,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2753,12 +2052,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 HD Crew Cab Long Bed": [
+        {
             "Id": 483162,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2771,13 +2067,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483161,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2790,13 +2081,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16550
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483165,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2809,13 +2095,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16550
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483156,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2828,13 +2109,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483155,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2847,13 +2123,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16840
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483159,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2866,13 +2137,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16840
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483163,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2885,13 +2151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483164,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2904,13 +2165,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483166,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2923,13 +2179,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483157,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2942,13 +2193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483158,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2961,13 +2207,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483160,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2981,12 +2222,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 18500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 HD Crew Cab Standard Bed": [
+        {
             "Id": 483134,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -2999,13 +2237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483133,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3018,13 +2251,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16650
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483137,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3037,13 +2265,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16650
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483141,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3056,13 +2279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483140,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3075,13 +2293,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16940
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483139,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3094,13 +2307,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16940
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483135,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3113,13 +2321,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483136,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3132,13 +2335,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483138,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3151,13 +2349,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483142,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3170,13 +2363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483143,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3189,13 +2377,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483144,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3209,12 +2392,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 18500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 HD Double Cab Long Bed": [
+        {
             "Id": 483130,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3227,13 +2407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483127,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3246,13 +2421,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16650
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483128,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3265,13 +2435,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16650
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483126,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3284,13 +2449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483121,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3303,13 +2463,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16930
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483122,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3322,13 +2477,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16930
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483129,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3341,13 +2491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483131,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3360,13 +2505,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 17750
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483132,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3379,13 +2519,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 17750
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483123,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3398,13 +2533,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483124,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3417,13 +2547,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 18040
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483125,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3437,12 +2562,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 18040
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 HD Double Cab Standard Bed": [
+        {
             "Id": 483117,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3455,13 +2577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483116,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3474,13 +2591,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16740
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483115,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3493,13 +2605,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16740
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483114,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3512,13 +2619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483109,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3531,13 +2633,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 17050
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483110,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3550,13 +2647,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 17050
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483118,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3569,13 +2661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483119,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3588,13 +2675,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 17890
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483120,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3607,13 +2689,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 17890
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483111,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3626,13 +2703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483112,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3645,13 +2717,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 18200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483113,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3665,12 +2732,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 18200
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 HD Regular Cab Long Bed": [
+        {
             "Id": 483108,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3683,13 +2747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483103,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3702,13 +2761,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 17060
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483104,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3721,13 +2775,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 17060
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483102,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3740,13 +2789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483097,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3759,13 +2803,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 17370
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483098,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3778,13 +2817,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 17370
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483107,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3797,13 +2831,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483105,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3816,13 +2845,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 18190
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483106,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3835,13 +2859,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 18190
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483099,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3854,13 +2873,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483100,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3873,13 +2887,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 18510
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 HD Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483101,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3893,12 +2902,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 18510
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 483498,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3911,13 +2917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483510,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3930,13 +2931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 16240
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483499,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3949,13 +2945,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16410
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483511,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3968,13 +2959,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16120
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483502,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -3987,13 +2973,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16410
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483512,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4006,13 +2987,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16120
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483492,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4025,13 +3001,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483504,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4044,13 +3015,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483493,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4063,13 +3029,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483505,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4082,13 +3043,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483494,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4101,13 +3057,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483506,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4120,13 +3071,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483500,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4139,13 +3085,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483513,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4158,13 +3099,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483501,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4177,13 +3113,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 21040
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483514,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4196,13 +3127,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 31180
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483503,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4215,13 +3141,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 21040
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483515,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4234,13 +3155,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 31180
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483495,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4253,13 +3169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483507,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4272,13 +3183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483496,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4291,13 +3197,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 21330
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483508,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4310,13 +3211,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 31400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483497,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4329,13 +3225,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 21330
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483509,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4349,12 +3240,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 31400
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel": [
+        {
             "Id": 483486,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4367,13 +3255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483487,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4386,13 +3269,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16530
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483490,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4405,13 +3283,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16530
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483480,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4424,13 +3297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483481,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4443,13 +3311,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483482,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4462,13 +3325,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483488,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4481,13 +3339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483489,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4500,13 +3353,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 21300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483491,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4519,13 +3367,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 21300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483483,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4538,13 +3381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483484,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4557,13 +3395,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 21500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483485,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4577,12 +3410,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 21500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel": [
+        {
             "Id": 483474,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4595,13 +3425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 16390
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483475,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4614,13 +3439,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16270
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483476,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4633,13 +3453,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16270
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483468,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4652,13 +3467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483469,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4671,13 +3481,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483470,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4690,13 +3495,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483477,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4709,13 +3509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483478,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4728,13 +3523,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 31340
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483479,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4747,13 +3537,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 31340
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483471,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4766,13 +3551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483472,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4785,13 +3565,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 31500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483473,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4805,12 +3580,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 31500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 483462,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4823,13 +3595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483463,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4842,13 +3609,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483464,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4861,13 +3623,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483456,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4880,13 +3637,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483457,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4899,13 +3651,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483458,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4918,13 +3665,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483465,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4937,13 +3679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483466,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4956,13 +3693,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 21210
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483467,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4975,13 +3707,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 21210
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483459,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -4994,13 +3721,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483460,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5013,13 +3735,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 21490
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483461,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5033,12 +3750,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 21490
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel": [
+        {
             "Id": 483450,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5051,13 +3765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483451,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5070,13 +3779,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16710
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483452,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5089,13 +3793,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16710
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483440,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5108,13 +3807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483442,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5127,13 +3821,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483445,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5146,13 +3835,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483453,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5165,13 +3849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483454,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5184,13 +3863,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 31760
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483455,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5203,13 +3877,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 31760
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483447,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5222,13 +3891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483448,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5241,13 +3905,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 32000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483449,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5261,12 +3920,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 36000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 483429,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5279,13 +3935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483430,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5298,13 +3949,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 16950
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483431,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5317,13 +3963,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 16950
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483426,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5336,13 +3977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483427,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5355,13 +3991,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73",
             "TowCapacity": 17200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483428,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5374,13 +4005,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.73",
             "TowCapacity": 17200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483432,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5393,13 +4019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483433,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5412,13 +4033,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 21500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483434,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5431,13 +4047,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "3.42",
             "TowCapacity": 21500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483423,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5450,13 +4061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483424,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5469,13 +4075,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42",
             "TowCapacity": 21500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 483425,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5489,12 +4090,9 @@
             "GearRatio": "3.42",
             "TowCapacity": 21500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Terrain",
-        "TowingCapacity": {
+    ],
+    "Terrain": [
+        {
             "Id": 478984,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -5507,13 +4105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Terrain",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478983,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -5527,12 +4120,9 @@
             "GearRatio": "3.47",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+    ],
+    "Yukon": [
+        {
             "Id": 478882,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5545,13 +4135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478883,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5564,13 +4149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478876,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5583,13 +4163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478877,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5602,13 +4177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478884,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5621,13 +4191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478885,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5640,13 +4205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478878,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5659,13 +4219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478879,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5678,13 +4233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478880,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5697,13 +4247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478881,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5716,13 +4261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478874,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5735,13 +4275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478875,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5755,12 +4290,9 @@
             "GearRatio": "3.23",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+    ],
+    "Yukon XL": [
+        {
             "Id": 478899,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5773,13 +4305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478900,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5792,13 +4319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478888,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5811,13 +4333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478889,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5830,13 +4347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478901,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5849,13 +4361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478902,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5868,13 +4375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478890,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5887,13 +4389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478891,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5906,13 +4403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478897,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5925,13 +4417,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478898,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5944,13 +4431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478886,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5963,13 +4445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 478887,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -5983,5 +4460,5 @@
             "GearRatio": "3.23",
             "TowCapacity": 7900
         }
-    }
-]
+    ]
+}

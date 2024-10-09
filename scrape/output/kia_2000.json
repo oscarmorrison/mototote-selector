@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Kia",
-        "ModelTrim": "Sportage All Models",
-        "TowingCapacity": {
+{
+    "Sportage All Models": [
+        {
             "Id": 26792,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

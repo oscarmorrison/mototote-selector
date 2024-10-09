@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mariner",
-        "TowingCapacity": {
+{
+    "Mariner": [
+        {
             "Id": 15979,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 5 Passenger",
-        "TowingCapacity": {
+    ],
+    "Mountaineer 5 Passenger": [
+        {
             "Id": 15980,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5340
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15982,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5160
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15981,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7240
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15983,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 7060
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 7 Passenger",
-        "TowingCapacity": {
+    ],
+    "Mountaineer 7 Passenger": [
+        {
             "Id": 15984,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5260
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15986,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15985,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7160
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15987,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +130,5 @@
             "GearRatio": null,
             "TowCapacity": 6980
         }
-    }
-]
+    ]
+}

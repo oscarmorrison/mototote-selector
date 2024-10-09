@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Volkswagen",
-        "ModelTrim": "Touareg",
-        "TowingCapacity": {
+{
+    "Touareg": [
+        {
             "Id": 12857,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

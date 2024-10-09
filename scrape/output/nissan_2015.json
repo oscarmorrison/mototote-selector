@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 3364,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3365,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab": [
+        {
             "Id": 3366,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3367,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC",
-        "TowingCapacity": {
+    ],
+    "Frontier KC": [
+        {
             "Id": 3368,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3369,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 3370,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 3371,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +120,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 3372,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -169,12 +136,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab Long Bed": [
+        {
             "Id": 3385,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -187,13 +151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3386,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -207,12 +166,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab S",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab S": [
+        {
             "Id": 3378,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -225,13 +181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab S",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3379,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -245,12 +196,9 @@
             "GearRatio": null,
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab SL",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab SL": [
+        {
             "Id": 3383,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -263,13 +211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab SL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3384,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -283,12 +226,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab SV",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab SV": [
+        {
             "Id": 3380,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -301,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab SV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3381,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -321,12 +256,9 @@
             "GearRatio": null,
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed PRO 4X",
-        "TowingCapacity": {
+    ],
+    "Titan KC Short Bed PRO 4X": [
+        {
             "Id": 3377,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -340,12 +272,9 @@
             "GearRatio": null,
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed S",
-        "TowingCapacity": {
+    ],
+    "Titan KC Short Bed S": [
+        {
             "Id": 3373,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -358,13 +287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed S",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3374,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -378,12 +302,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed SV",
-        "TowingCapacity": {
+    ],
+    "Titan KC Short Bed SV": [
+        {
             "Id": 3375,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -396,13 +317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed SV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3376,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -416,12 +332,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Ttian Crew Cab PRO 4X",
-        "TowingCapacity": {
+    ],
+    "Ttian Crew Cab PRO 4X": [
+        {
             "Id": 3382,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -435,12 +348,9 @@
             "GearRatio": null,
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 3387,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -454,5 +364,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "S60 B5 (AWD)",
-        "TowingCapacity": {
+{
+    "S60 B5 (AWD)": [
+        {
             "Id": 549086,
             "Year": 2024,
             "TypeDesc": "Car",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "S60 B5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "S60 B5 (FWD)": [
+        {
             "Id": 549087,
             "Year": 2024,
             "TypeDesc": "Car",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T8 Recharge Plug-In Hybrid (AWD)",
-        "TowingCapacity": {
+    ],
+    "S60 T8 Recharge Plug-In Hybrid (AWD)": [
+        {
             "Id": 549084,
             "Year": 2024,
             "TypeDesc": "Car",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T8 Recharge Plug-In Hybrid (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549085,
             "Year": 2024,
             "TypeDesc": "Car",
@@ -74,12 +60,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T5 Cross Country (AWD)",
-        "TowingCapacity": {
+    ],
+    "V60 T5 Cross Country (AWD)": [
+        {
             "Id": 549082,
             "Year": 2024,
             "TypeDesc": "Station Wagon",
@@ -93,12 +76,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T8 Recharge Plug-In Hybrid (AWD)",
-        "TowingCapacity": {
+    ],
+    "V60 T8 Recharge Plug-In Hybrid (AWD)": [
+        {
             "Id": 549083,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +92,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "V90 B6 Cross Country (AWD)",
-        "TowingCapacity": {
+    ],
+    "V90 B6 Cross Country (AWD)": [
+        {
             "Id": 549080,
             "Year": 2024,
             "TypeDesc": "Station Wagon",
@@ -130,13 +107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "V90 B6 Cross Country (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549081,
             "Year": 2024,
             "TypeDesc": "Station Wagon",
@@ -150,12 +122,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 B5 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC40 B5 (AWD)": [
+        {
             "Id": 549078,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +138,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 Recharge Pure Electric",
-        "TowingCapacity": {
+    ],
+    "XC40 Recharge Pure Electric": [
+        {
             "Id": 549079,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 Recharge Pure Electric",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549077,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +168,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 B5 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 B5 (AWD)": [
+        {
             "Id": 549075,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +184,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T8 Recharge Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "XC60 T8 Recharge Plug-In Hybrid": [
+        {
             "Id": 549076,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +200,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 547959,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+        },
+        {
             "Id": 548022,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +230,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Volvo",
-        "ModelTrim": "XC90 Recharge Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "XC90 Recharge Plug-In Hybrid": [
+        {
             "Id": 547734,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,5 +246,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

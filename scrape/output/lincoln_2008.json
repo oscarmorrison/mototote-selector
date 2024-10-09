@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Lincoln",
-        "ModelTrim": "Mark LT Long Bed",
-        "TowingCapacity": {
+{
+    "Mark LT Long Bed": [
+        {
             "Id": 12707,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Lincoln",
-        "ModelTrim": "Mark LT Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12709,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Lincoln",
-        "ModelTrim": "Mark LT Short Bed",
-        "TowingCapacity": {
+    ],
+    "Mark LT Short Bed": [
+        {
             "Id": 12706,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Lincoln",
-        "ModelTrim": "Mark LT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12708,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -74,5 +58,5 @@
             "GearRatio": null,
             "TowCapacity": 8700
         }
-    }
-]
+    ]
+}

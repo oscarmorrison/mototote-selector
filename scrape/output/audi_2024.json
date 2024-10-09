@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q3",
-        "TowingCapacity": {
+{
+    "Q3": [
+        {
             "Id": 550470,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.33",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q3",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550469,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "3.53",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q4 e-tron",
-        "TowingCapacity": {
+    ],
+    "Q4 e-tron": [
+        {
             "Id": 550466,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": "",
             "TowCapacity": 2650
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q4 e-tron (RWD)",
-        "TowingCapacity": {
+    ],
+    "Q4 e-tron (RWD)": [
+        {
             "Id": 550465,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": "",
             "TowCapacity": 2650
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q5",
-        "TowingCapacity": {
+    ],
+    "Q5": [
+        {
             "Id": 550437,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +76,9 @@
             "GearRatio": "5.3",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q5 55e (Plug-In Hybrid)",
-        "TowingCapacity": {
+    ],
+    "Q5 55e (Plug-In Hybrid)": [
+        {
             "Id": 550436,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +92,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q5 Sportback",
-        "TowingCapacity": {
+    ],
+    "Q5 Sportback": [
+        {
             "Id": 550433,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +108,9 @@
             "GearRatio": "",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+    ],
+    "Q7": [
+        {
             "Id": 550471,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +123,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.76",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550472,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +138,9 @@
             "GearRatio": "3.2",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q8",
-        "TowingCapacity": {
+    ],
+    "Q8": [
+        {
             "Id": 550176,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +154,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "Q8 e-tron (AWD)",
-        "TowingCapacity": {
+    ],
+    "Q8 e-tron (AWD)": [
+        {
             "Id": 550473,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +170,9 @@
             "GearRatio": "",
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "RS Q8",
-        "TowingCapacity": {
+    ],
+    "RS Q8": [
+        {
             "Id": 550474,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +186,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "SQ5",
-        "TowingCapacity": {
+    ],
+    "SQ5": [
+        {
             "Id": 550434,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +202,9 @@
             "GearRatio": "3.20",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "SQ7",
-        "TowingCapacity": {
+    ],
+    "SQ7": [
+        {
             "Id": 551554,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +218,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Audi",
-        "ModelTrim": "SQ8 e-tron",
-        "TowingCapacity": {
+    ],
+    "SQ8 e-tron": [
+        {
             "Id": 551557,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,5 +234,5 @@
             "GearRatio": "",
             "TowCapacity": 3300
         }
-    }
-]
+    ]
+}

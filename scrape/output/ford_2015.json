@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Edge",
-        "TowingCapacity": {
+{
+    "Edge": [
+        {
             "Id": 2881,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Edge",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2882,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Escape",
-        "TowingCapacity": {
+    ],
+    "Escape": [
+        {
             "Id": 2883,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Escape",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2884,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+    ],
+    "Expedition": [
+        {
             "Id": 2885,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2886,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2887,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2888,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +116,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+    ],
+    "Expedition EL": [
+        {
             "Id": 2889,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2890,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2891,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2892,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +174,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+    ],
+    "Explorer": [
+        {
             "Id": 2893,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2894,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2895,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +218,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+    ],
+    "F-150 Long Bed Regular Cab": [
+        {
             "Id": 2926,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -301,13 +233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2925,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -320,13 +247,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2928,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -339,13 +261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2927,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -358,13 +275,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2942,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -377,13 +289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2941,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -396,13 +303,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2944,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -415,13 +317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2943,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -434,13 +331,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2922,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -453,13 +345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2921,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -472,13 +359,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2924,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -491,13 +373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2923,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -510,13 +387,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2940,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -529,13 +401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2939,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -548,13 +415,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2936,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -567,13 +429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2935,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -586,13 +443,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.15:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2938,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -605,13 +457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2937,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -624,13 +471,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2953,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -643,13 +485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2951,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -662,13 +499,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2954,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -681,13 +513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2956,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -700,13 +527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2952,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -719,13 +541,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2955,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -738,13 +555,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2930,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -757,13 +569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2929,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -776,13 +583,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2932,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -795,13 +597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2931,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -814,13 +611,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2934,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -833,13 +625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2933,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -852,13 +639,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2947,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -871,13 +653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2945,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -890,13 +667,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2948,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -909,13 +681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2946,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -928,13 +695,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2950,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -947,13 +709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2949,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -967,12 +724,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+    ],
+    "F-150 Long Bed Supercab": [
+        {
             "Id": 2993,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -985,13 +739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2992,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1004,13 +753,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2995,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1023,13 +767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2994,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1042,13 +781,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3003,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1061,13 +795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3002,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1080,13 +809,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.15:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3005,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1099,13 +823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3004,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1118,13 +837,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3014,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1137,13 +851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3012,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1156,13 +865,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3015,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1175,13 +879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3017,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1194,13 +893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3013,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1213,13 +907,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3016,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1232,13 +921,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3018,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1251,13 +935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2997,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1270,13 +949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2996,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1289,13 +963,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2999,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1308,13 +977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2998,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1327,13 +991,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3001,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1346,13 +1005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3000,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1365,13 +1019,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3007,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1384,13 +1033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3006,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1403,13 +1047,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3009,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1422,13 +1061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3008,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1441,13 +1075,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3011,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1460,13 +1089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Long Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3010,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1480,12 +1104,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10900
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Raptor Supercab",
-        "TowingCapacity": {
+    ],
+    "F-150 Raptor Supercab": [
+        {
             "Id": 2991,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1499,12 +1120,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Raptor Supercrew Cab",
-        "TowingCapacity": {
+    ],
+    "F-150 Raptor Supercrew Cab": [
+        {
             "Id": 3050,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1518,12 +1136,9 @@
             "GearRatio": null,
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+    ],
+    "F-150 Short Bed Regular Cab": [
+        {
             "Id": 2902,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1536,13 +1151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2901,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1555,13 +1165,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2904,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1574,13 +1179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2903,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1593,13 +1193,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2912,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1612,13 +1207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2911,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1631,13 +1221,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2914,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1650,13 +1235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2913,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1669,13 +1249,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2898,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1688,13 +1263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2897,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1707,13 +1277,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2900,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1726,13 +1291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2899,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1745,13 +1305,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2910,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1764,13 +1319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2909,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1783,13 +1333,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2906,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1802,13 +1347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2905,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1821,13 +1361,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2908,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1840,13 +1375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2907,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1859,13 +1389,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2917,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1878,13 +1403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2915,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1897,13 +1417,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2918,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1916,13 +1431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2920,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1935,13 +1445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2916,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1954,13 +1459,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2919,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1974,12 +1474,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+    ],
+    "F-150 Short Bed Supercrew Cab": [
+        {
             "Id": 3022,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1992,13 +1489,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3021,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2011,13 +1503,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3024,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2030,13 +1517,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3023,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2049,13 +1531,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3035,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2068,13 +1545,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3034,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2087,13 +1559,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3037,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2106,13 +1573,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3036,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2125,13 +1587,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3020,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2144,13 +1601,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3019,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2163,13 +1615,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3033,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2182,13 +1629,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3032,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2201,13 +1643,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3030,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2220,13 +1657,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3029,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2239,13 +1671,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.15:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3031,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2258,13 +1685,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3046,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2277,13 +1699,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3044,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2296,13 +1713,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3047,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2315,13 +1727,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3049,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2334,13 +1741,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3045,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2353,13 +1755,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3048,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2372,13 +1769,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3041,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2391,13 +1783,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3040,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2410,13 +1797,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3043,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2429,13 +1811,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3042,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2448,13 +1825,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3026,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2467,13 +1839,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3025,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2486,13 +1853,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3028,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2505,13 +1867,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3027,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2524,13 +1881,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3039,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2543,13 +1895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Short Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3038,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2563,12 +1910,9 @@
             "GearRatio": "3.31:1",
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+    ],
+    "F-150 Standard Bed Supercab": [
+        {
             "Id": 2962,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2581,13 +1925,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2961,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2600,13 +1939,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2964,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2619,13 +1953,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2963,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2638,13 +1967,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2976,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2657,13 +1981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2975,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2676,13 +1995,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2978,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2695,13 +2009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2977,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2714,13 +2023,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2958,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2733,13 +2037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2957,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2752,13 +2051,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2960,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2771,13 +2065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2959,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2790,13 +2079,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2974,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2809,13 +2093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2973,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2828,13 +2107,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2970,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2847,13 +2121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2969,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2866,13 +2135,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.15:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2972,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2885,13 +2149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2971,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2904,13 +2163,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2987,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2923,13 +2177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2985,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2942,13 +2191,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2988,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2961,13 +2205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2990,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2980,13 +2219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2986,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2999,13 +2233,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2989,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3018,13 +2247,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2982,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3037,13 +2261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2981,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3056,13 +2275,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2984,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3075,13 +2289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2983,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3094,13 +2303,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2966,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3113,13 +2317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2965,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3132,13 +2331,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2968,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3151,13 +2345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2967,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3170,13 +2359,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2980,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3189,13 +2373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2979,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3209,12 +2388,9 @@
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+    ],
+    "F-150 Standard Bed Supercrew Cab": [
+        {
             "Id": 3054,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3227,13 +2403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3053,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3246,13 +2417,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3052,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3265,13 +2431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3051,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3284,13 +2445,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3062,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3303,13 +2459,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3061,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3322,13 +2473,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.15:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3064,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3341,13 +2487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3063,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3360,13 +2501,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3073,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3379,13 +2515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3071,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3398,13 +2529,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3074,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3417,13 +2543,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3072,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3436,13 +2557,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3076,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3455,13 +2571,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3075,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3474,13 +2585,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3056,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3493,13 +2599,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3055,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3512,13 +2613,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3058,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3531,13 +2627,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3057,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3550,13 +2641,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3060,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3569,13 +2655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3059,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3588,13 +2669,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3066,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3607,13 +2683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3065,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3626,13 +2697,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3068,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3645,13 +2711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3067,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3664,13 +2725,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3070,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3683,13 +2739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Standard Bed Supercrew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3069,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3703,12 +2754,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10800
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250 Crew Cab Single Rear Wheel": [
+        {
             "Id": 3109,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3721,13 +2769,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3172,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3740,13 +2783,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3110,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3759,13 +2797,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3173,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3778,13 +2811,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3112,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3797,13 +2825,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3176,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3816,13 +2839,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3113,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3835,13 +2853,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3177,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3854,13 +2867,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3174,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3873,13 +2881,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3175,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3892,13 +2895,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3111,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3911,13 +2909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3178,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3930,13 +2923,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3179,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3949,13 +2937,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3114,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3969,12 +2952,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250 Regular Cab Single Rear Wheel": [
+        {
             "Id": 3128,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3987,13 +2967,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3077,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4006,13 +2981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3129,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4025,13 +2995,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3079,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4044,13 +3009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3132,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4063,13 +3023,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3080,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4082,13 +3037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3133,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4101,13 +3051,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3131,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4120,13 +3065,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3130,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4139,13 +3079,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3078,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4158,13 +3093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3134,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4177,13 +3107,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3135,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4196,13 +3121,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3081,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4216,12 +3136,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250 SuperCab Single Rear Wheel": [
+        {
             "Id": 3150,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4234,13 +3151,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3093,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4253,13 +3165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3151,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4272,13 +3179,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3095,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4291,13 +3193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3154,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4310,13 +3207,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3096,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4329,13 +3221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3155,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4348,13 +3235,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3152,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4367,13 +3249,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3153,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4386,13 +3263,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3094,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4405,13 +3277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3156,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4424,13 +3291,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3157,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4443,13 +3305,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3097,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4463,12 +3320,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Dual Rear Wheel": [
+        {
             "Id": 3121,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4481,13 +3335,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3188,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4500,13 +3349,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3122,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4519,13 +3363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3189,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4538,13 +3377,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3124,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4557,13 +3391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3191,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4576,13 +3405,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3125,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4595,13 +3419,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3192,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4614,13 +3433,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3190,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4633,13 +3447,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 23800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3123,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4652,13 +3461,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 19500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3193,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4671,13 +3475,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 23000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3194,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4690,13 +3489,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 26500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3126,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4710,12 +3504,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 19000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Single Rear Wheel": [
+        {
             "Id": 3115,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4728,13 +3519,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3180,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4747,13 +3533,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3116,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4766,13 +3547,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3181,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4785,13 +3561,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3118,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4804,13 +3575,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3184,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4823,13 +3589,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3119,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4842,13 +3603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3185,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4861,13 +3617,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3182,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4880,13 +3631,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3183,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4899,13 +3645,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3117,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4918,13 +3659,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3186,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4937,13 +3673,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3187,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4956,13 +3687,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3120,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4976,12 +3702,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 3087,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4994,13 +3717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3144,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5013,13 +3731,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3088,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5032,13 +3745,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3145,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5051,13 +3759,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3090,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5070,13 +3773,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3147,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5089,13 +3787,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3091,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5108,13 +3801,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3148,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5127,13 +3815,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3146,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5146,13 +3829,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 24500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3089,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5165,13 +3843,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 19000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3149,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5184,13 +3857,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 24100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3092,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5204,12 +3872,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 19000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Regular Cab Single Rear Wheel": [
+        {
             "Id": 3136,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5222,13 +3887,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3082,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5241,13 +3901,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3137,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5260,13 +3915,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3084,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5279,13 +3929,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3140,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5298,13 +3943,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3085,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5317,13 +3957,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3141,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5336,13 +3971,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3139,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5355,13 +3985,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3138,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5374,13 +3999,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3083,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5393,13 +4013,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3142,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5412,13 +4027,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3143,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5431,13 +4041,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3086,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5451,12 +4056,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 SuperCab Dual Rear Wheel": [
+        {
             "Id": 3103,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5469,13 +4071,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3166,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5488,13 +4085,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3104,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5507,13 +4099,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3167,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5526,13 +4113,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3106,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5545,13 +4127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3169,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5564,13 +4141,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3107,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5583,13 +4155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3170,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5602,13 +4169,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3168,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5621,13 +4183,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 24000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3105,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5640,13 +4197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 19000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3171,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5659,13 +4211,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 23600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3108,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5679,12 +4226,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 19000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 SuperCab Single Rear Wheel": [
+        {
             "Id": 3158,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5697,13 +4241,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3098,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5716,13 +4255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3159,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5735,13 +4269,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3100,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5754,13 +4283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3162,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5773,13 +4297,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3101,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5792,13 +4311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3163,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5811,13 +4325,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3160,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5830,13 +4339,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3161,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5849,13 +4353,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3099,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5868,13 +4367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3164,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5887,13 +4381,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3165,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5906,13 +4395,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3102,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5926,12 +4410,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-450 Crew Cab Dual Rear Wheel": [
+        {
             "Id": 3195,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5945,12 +4426,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 26500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-450 Dual Rear Wheel": [
+        {
             "Id": 3127,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -5964,12 +4442,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 19000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "Flex",
-        "TowingCapacity": {
+    ],
+    "Flex": [
+        {
             "Id": 2896,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -5983,12 +4458,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base LR Van",
-        "TowingCapacity": {
+    ],
+    "T-150 Long Wheel Base LR Van": [
+        {
             "Id": 3212,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6001,13 +4473,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3213,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6020,13 +4487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3210,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6039,13 +4501,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3211,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6058,13 +4515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3208,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6077,13 +4529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3209,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6097,12 +4544,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base MR Van",
-        "TowingCapacity": {
+    ],
+    "T-150 Long Wheel Base MR Van": [
+        {
             "Id": 3218,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6115,13 +4559,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3219,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6134,13 +4573,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3216,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6153,13 +4587,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3217,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6172,13 +4601,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3214,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6191,13 +4615,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3215,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6211,12 +4630,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Van",
-        "TowingCapacity": {
+    ],
+    "T-150 MWB LR Van": [
+        {
             "Id": 3200,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6229,13 +4645,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3201,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6248,13 +4659,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3198,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6267,13 +4673,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3199,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6286,13 +4687,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3196,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6305,13 +4701,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3197,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6325,12 +4716,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Wagon",
-        "TowingCapacity": {
+    ],
+    "T-150 MWB LR Wagon": [
+        {
             "Id": 3277,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -6343,13 +4731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3278,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -6362,13 +4745,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3275,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -6381,13 +4759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB LR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3276,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -6401,12 +4774,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 5100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Van",
-        "TowingCapacity": {
+    ],
+    "T-150 MWB MR Van": [
+        {
             "Id": 3206,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6419,13 +4789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3207,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6438,13 +4803,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3204,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6457,13 +4817,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3205,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6476,13 +4831,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3202,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6495,13 +4845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3203,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6515,12 +4860,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Wagon",
-        "TowingCapacity": {
+    ],
+    "T-150 MWB MR Wagon": [
+        {
             "Id": 3281,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -6533,13 +4875,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3282,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -6552,13 +4889,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3279,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -6571,13 +4903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-150 MWB MR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3280,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -6591,12 +4918,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+    ],
+    "T-250 Long Wheel Base EL HR Van": [
+        {
             "Id": 3266,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6609,13 +4933,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3267,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6628,13 +4947,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3264,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6647,13 +4961,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3265,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6666,13 +4975,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3262,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6685,13 +4989,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3263,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6705,12 +5004,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base HR Van",
-        "TowingCapacity": {
+    ],
+    "T-250 Long Wheel Base HR Van": [
+        {
             "Id": 3248,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6723,13 +5019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3249,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6742,13 +5033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3246,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6761,13 +5047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3247,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6780,13 +5061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3244,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6799,13 +5075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3245,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6819,12 +5090,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base LR Van",
-        "TowingCapacity": {
+    ],
+    "T-250 Long Wheel Base LR Van": [
+        {
             "Id": 3236,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6837,13 +5105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3237,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6856,13 +5119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3234,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6875,13 +5133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3235,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6894,13 +5147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3232,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6913,13 +5161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3233,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6933,12 +5176,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base MR Van",
-        "TowingCapacity": {
+    ],
+    "T-250 Long Wheel Base MR Van": [
+        {
             "Id": 3242,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6951,13 +5191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3243,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6970,13 +5205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3240,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -6989,13 +5219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3241,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7008,13 +5233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3238,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7027,13 +5247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3239,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7047,12 +5262,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB LR Van",
-        "TowingCapacity": {
+    ],
+    "T-250 MWB LR Van": [
+        {
             "Id": 3224,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7065,13 +5277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3225,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7084,13 +5291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3222,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7103,13 +5305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3223,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7122,13 +5319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3220,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7141,13 +5333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3221,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7161,12 +5348,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB MR Van",
-        "TowingCapacity": {
+    ],
+    "T-250 MWB MR Van": [
+        {
             "Id": 3230,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7179,13 +5363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3231,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7198,13 +5377,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3228,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7217,13 +5391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3229,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7236,13 +5405,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3226,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7255,13 +5419,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-250 MWB MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3227,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7275,12 +5434,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL EHR Wagon",
-        "TowingCapacity": {
+    ],
+    "T-350 Long Wheel Base EL EHR Wagon": [
+        {
             "Id": 3303,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7293,13 +5449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL EHR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3304,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7312,13 +5463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL EHR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3301,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7331,13 +5477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL EHR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3302,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7351,12 +5492,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 3800
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+    ],
+    "T-350 Long Wheel Base EL HR Van": [
+        {
             "Id": 3273,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7369,13 +5507,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3274,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7388,13 +5521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3270,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7407,13 +5535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3271,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7426,13 +5549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3272,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7445,13 +5563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3268,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7464,13 +5577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base EL HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3269,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7484,12 +5592,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Van",
-        "TowingCapacity": {
+    ],
+    "T-350 Long Wheel Base HR Van": [
+        {
             "Id": 3260,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7502,13 +5607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3261,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7521,13 +5621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3258,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7540,13 +5635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3259,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7560,12 +5650,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Wagon",
-        "TowingCapacity": {
+    ],
+    "T-350 Long Wheel Base HR Wagon": [
+        {
             "Id": 3299,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7578,13 +5665,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3300,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7597,13 +5679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3297,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7616,13 +5693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3298,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7635,13 +5707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3295,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7654,13 +5721,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base HR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3296,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7674,12 +5736,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Van",
-        "TowingCapacity": {
+    ],
+    "T-350 Long Wheel Base LR Van": [
+        {
             "Id": 3252,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7692,13 +5751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3253,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7711,13 +5765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3250,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7730,13 +5779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3251,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7750,12 +5794,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Wagon",
-        "TowingCapacity": {
+    ],
+    "T-350 Long Wheel Base LR Wagon": [
+        {
             "Id": 3287,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7768,13 +5809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 3700
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3288,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7787,13 +5823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3285,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7806,13 +5837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3286,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7825,13 +5851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3283,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7844,13 +5865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base LR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3284,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7864,12 +5880,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 4600
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Van",
-        "TowingCapacity": {
+    ],
+    "T-350 Long Wheel Base MR Van": [
+        {
             "Id": 3256,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7882,13 +5895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3257,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7901,13 +5909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3254,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7920,13 +5923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3255,
             "Year": 2015,
             "TypeDesc": "Cargo Van",
@@ -7940,12 +5938,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Wagon",
-        "TowingCapacity": {
+    ],
+    "T-350 Long Wheel Base MR Wagon": [
+        {
             "Id": 3293,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7958,13 +5953,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3294,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7977,13 +5967,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3291,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -7996,13 +5981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3292,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -8015,13 +5995,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3289,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -8034,13 +6009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Ford",
-        "ModelTrim": "T-350 Long Wheel Base MR Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3290,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -8054,5 +6024,5 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

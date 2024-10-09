@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "BMW",
-        "ModelTrim": "X3 30si",
-        "TowingCapacity": {
+{
+    "X3 30si": [
+        {
             "Id": 11029,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "BMW",
-        "ModelTrim": "X5 30si",
-        "TowingCapacity": {
+    ],
+    "X5 30si": [
+        {
             "Id": 11030,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "BMW",
-        "ModelTrim": "X5 48si",
-        "TowingCapacity": {
+    ],
+    "X5 48si": [
+        {
             "Id": 11031,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    }
-]
+    ]
+}

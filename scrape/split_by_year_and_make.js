@@ -7,24 +7,29 @@ function loadLargeJson(filePath) {
     return JSON.parse(data);
 }
 
-// Function to organize data by Year and Make
-function organizeByYearAndMake(data) {
+// Function to organize data by Year, Make, and Model, consolidating variations and keying by model name
+function organizeByYearMakeAndModel(data) {
     const organizedData = {};
 
     data.forEach((vehicle) => {
         const year = vehicle.Year;
-        const make = vehicle.Make; // Get the make of the vehicle
+        const make = vehicle.Make;
+        const modelTrim = vehicle.ModelTrim;
+        const towingCapacity = vehicle.TowingCapacity;
 
         // Initialize the structure if it doesn't exist
         if (!organizedData[year]) {
             organizedData[year] = {};
         }
         if (!organizedData[year][make]) {
-            organizedData[year][make] = [];
+            organizedData[year][make] = {};
+        }
+        if (!organizedData[year][make][modelTrim]) {
+            organizedData[year][make][modelTrim] = [];
         }
 
-        // Push the vehicle data into the right year and make
-        organizedData[year][make].push(vehicle);
+        // Push the towing capacity variations into the model's entry, keyed by the model name
+        organizedData[year][make][modelTrim].push(towingCapacity);
     });
 
     return organizedData;
@@ -69,11 +74,17 @@ function createJsonFiles(outputDir, organizedData) {
                 makeEntry.years.push(normalizedYear);
             }
 
-            const fileName = `${normalizedMake}_${normalizedYear}.json`; // Update file naming convention
-            const filePath = path.join(outputDir, fileName); // Use the output directory for the file path
+            const modelData = {}; // Object to store model data keyed by model name
 
-            // Write each year and make data to a file
-            fs.writeFileSync(filePath, JSON.stringify(organizedData[year][make], null, 4));
+            Object.keys(organizedData[year][make]).forEach((modelTrim) => {
+                modelData[modelTrim] = organizedData[year][make][modelTrim]; // Key the variations by model name
+            });
+
+            const fileName = `${normalizedMake}_${normalizedYear}.json`; // File naming by make and year
+            const filePath = path.join(outputDir, fileName);
+
+            // Write the models keyed by their name into the file
+            fs.writeFileSync(filePath, JSON.stringify(modelData, null, 4));
             console.log(`Created file: ${filePath}`);
         });
     });
@@ -88,7 +99,7 @@ function createJsonFiles(outputDir, organizedData) {
 function splitJsonFile(inputFilePath, outputDir) {
     try {
         const data = loadLargeJson(inputFilePath);
-        const organizedData = organizeByYearAndMake(data); // Call the updated function
+        const organizedData = organizeByYearMakeAndModel(data); // Call the updated function
         createJsonFiles(outputDir, organizedData);
         console.log('JSON file split successfully!');
     } catch (error) {

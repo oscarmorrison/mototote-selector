@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+{
+    "Aspen Limited": [
+        {
             "Id": 9574,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9575,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9578,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5750
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9576,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9577,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9579,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9580,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +98,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited Hybrid",
-        "TowingCapacity": {
+    ],
+    "Aspen Limited Hybrid": [
+        {
             "Id": 9581,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +114,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+    ],
+    "Town and Country": [
+        {
             "Id": 9582,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9583,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9584,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -207,5 +158,5 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    }
-]
+    ]
+}

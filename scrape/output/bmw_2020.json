@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X1",
-        "TowingCapacity": {
+{
+    "X1": [
+        {
             "Id": 29000,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X2",
-        "TowingCapacity": {
+    ],
+    "X2": [
+        {
             "Id": 29001,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X3 M40i",
-        "TowingCapacity": {
+    ],
+    "X3 M40i": [
+        {
             "Id": 499014,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X3 PHEV xDrive30e",
-        "TowingCapacity": {
+    ],
+    "X3 PHEV xDrive30e": [
+        {
             "Id": 499017,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X3 sDrive30i",
-        "TowingCapacity": {
+    ],
+    "X3 sDrive30i": [
+        {
             "Id": 499013,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X3 xDrive30i",
-        "TowingCapacity": {
+    ],
+    "X3 xDrive30i": [
+        {
             "Id": 29002,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X4 M40i",
-        "TowingCapacity": {
+    ],
+    "X4 M40i": [
+        {
             "Id": 499012,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X4 xDrive30i",
-        "TowingCapacity": {
+    ],
+    "X4 xDrive30i": [
+        {
             "Id": 29003,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X5 M50i",
-        "TowingCapacity": {
+    ],
+    "X5 M50i": [
+        {
             "Id": 29005,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +142,9 @@
             "GearRatio": "",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X5 sDrive40i",
-        "TowingCapacity": {
+    ],
+    "X5 sDrive40i": [
+        {
             "Id": 499000,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +158,9 @@
             "GearRatio": "",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive40i": [
+        {
             "Id": 29004,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +174,9 @@
             "GearRatio": "",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive50i",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive50i": [
+        {
             "Id": 499001,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +190,9 @@
             "GearRatio": "",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X6 M50i",
-        "TowingCapacity": {
+    ],
+    "X6 M50i": [
+        {
             "Id": 29007,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +206,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X6 sDrive40i",
-        "TowingCapacity": {
+    ],
+    "X6 sDrive40i": [
+        {
             "Id": 498991,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +222,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X6 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X6 xDrive40i": [
+        {
             "Id": 29006,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +238,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X7 M50i",
-        "TowingCapacity": {
+    ],
+    "X7 M50i": [
+        {
             "Id": 498992,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +254,9 @@
             "GearRatio": "",
             "TowCapacity": 7507
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X7 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X7 xDrive40i": [
+        {
             "Id": 29008,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +270,9 @@
             "GearRatio": "",
             "TowCapacity": 7507
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "BMW",
-        "ModelTrim": "X7 xDrive50i",
-        "TowingCapacity": {
+    ],
+    "X7 xDrive50i": [
+        {
             "Id": 29009,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,5 +286,5 @@
             "GearRatio": "",
             "TowCapacity": 7507
         }
-    }
-]
+    ]
+}

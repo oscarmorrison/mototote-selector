@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Palisade",
-        "TowingCapacity": {
+{
+    "Palisade": [
+        {
             "Id": 498609,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Palisade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29085,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+    ],
+    "Santa Fe": [
+        {
             "Id": 498649,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1653
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498650,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498651,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3501
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498629,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498630,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3501
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498646,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498647,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498648,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1653
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29086,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498626,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +170,9 @@
             "GearRatio": "",
             "TowCapacity": 2800
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe Sport",
-        "TowingCapacity": {
+    ],
+    "Santa Fe Sport": [
+        {
             "Id": 29087,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +186,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe XL",
-        "TowingCapacity": {
+    ],
+    "Santa Fe XL": [
+        {
             "Id": 29088,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +202,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+    ],
+    "Tucson": [
+        {
             "Id": 498614,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498610,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.06",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498613,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29089,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,5 +260,5 @@
             "GearRatio": "3.06",
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

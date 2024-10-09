@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2025,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+{
+    "MDX": [
+        {
             "Id": 551718,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4,17",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551717,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4,17",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551716,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +42,5 @@
             "GearRatio": "4,17",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

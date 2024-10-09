@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2017,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery sport",
-        "TowingCapacity": {
+{
+    "Discovery sport": [
+        {
             "Id": 1312,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Land Rover",
-        "ModelTrim": "Land Rover LR4",
-        "TowingCapacity": {
+    ],
+    "Land Rover LR4": [
+        {
             "Id": 1313,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+    ],
+    "Range Rover": [
+        {
             "Id": 1314,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover sport",
-        "TowingCapacity": {
+    ],
+    "Range Rover sport": [
+        {
             "Id": 1315,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

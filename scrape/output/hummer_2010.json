@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Hummer",
-        "ModelTrim": "H2",
-        "TowingCapacity": {
+{
+    "H2": [
+        {
             "Id": 9111,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Hummer",
-        "ModelTrim": "H2 SUT",
-        "TowingCapacity": {
+    ],
+    "H2 SUT": [
+        {
             "Id": 9112,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Hummer",
-        "ModelTrim": "H3",
-        "TowingCapacity": {
+    ],
+    "H3": [
+        {
             "Id": 9113,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Hummer",
-        "ModelTrim": "H3",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9114,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Hummer",
-        "ModelTrim": "H3 Alpha",
-        "TowingCapacity": {
+    ],
+    "H3 Alpha": [
+        {
             "Id": 9115,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +76,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Hummer",
-        "ModelTrim": "H3T",
-        "TowingCapacity": {
+    ],
+    "H3T": [
+        {
             "Id": 9116,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +91,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Hummer",
-        "ModelTrim": "H3T",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9117,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +106,9 @@
             "GearRatio": null,
             "TowCapacity": 2900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Hummer",
-        "ModelTrim": "H3T Alpha",
-        "TowingCapacity": {
+    ],
+    "H3T Alpha": [
+        {
             "Id": 9118,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,5 +122,5 @@
             "GearRatio": null,
             "TowCapacity": 5900
         }
-    }
-]
+    ]
+}

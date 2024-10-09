@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G-Glass",
-        "TowingCapacity": {
+{
+    "G-Glass": [
+        {
             "Id": 17299,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC Coupe",
-        "TowingCapacity": {
+    ],
+    "GLC Coupe": [
+        {
             "Id": 17290,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC SUV",
-        "TowingCapacity": {
+    ],
+    "GLC SUV": [
+        {
             "Id": 17291,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 350 4Matic SUV",
-        "TowingCapacity": {
+    ],
+    "GLE 350 4Matic SUV": [
+        {
             "Id": 17295,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 350 SUV",
-        "TowingCapacity": {
+    ],
+    "GLE 350 SUV": [
+        {
             "Id": 17294,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": null,
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 550e 4Matic",
-        "TowingCapacity": {
+    ],
+    "GLE 550e 4Matic": [
+        {
             "Id": 17296,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": null,
             "TowCapacity": 4410
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE Coupe",
-        "TowingCapacity": {
+    ],
+    "GLE Coupe": [
+        {
             "Id": 17292,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE SUV AMG",
-        "TowingCapacity": {
+    ],
+    "GLE SUV AMG": [
+        {
             "Id": 17293,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLS 450/550 4Matic",
-        "TowingCapacity": {
+    ],
+    "GLS 450/550 4Matic": [
+        {
             "Id": 17297,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +142,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLS 63 AMG",
-        "TowingCapacity": {
+    ],
+    "GLS 63 AMG": [
+        {
             "Id": 17298,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,5 +158,5 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    }
-]
+    ]
+}

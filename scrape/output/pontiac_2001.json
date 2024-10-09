@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Pontiac",
-        "ModelTrim": "Aztec",
-        "TowingCapacity": {
+{
+    "Aztec": [
+        {
             "Id": 25849,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Pontiac",
-        "ModelTrim": "Montana",
-        "TowingCapacity": {
+    ],
+    "Montana": [
+        {
             "Id": 25850,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

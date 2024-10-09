@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Lincoln",
-        "ModelTrim": "Mark LT",
-        "TowingCapacity": {
+{
+    "Mark LT": [
+        {
             "Id": 14081,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5316
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Lincoln",
-        "ModelTrim": "Mark LT",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14082,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -36,12 +28,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5602
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 14083,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14084,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +58,5 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8750
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Suzuki",
-        "ModelTrim": "Equator Crew Cab",
-        "TowingCapacity": {
+{
+    "Equator Crew Cab": [
+        {
             "Id": 9222,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Suzuki",
-        "ModelTrim": "Equator Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9223,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Suzuki",
-        "ModelTrim": "Equator Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Equator Extended Cab": [
+        {
             "Id": 9220,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Suzuki",
-        "ModelTrim": "Equator Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9221,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Suzuki",
-        "ModelTrim": "Grand Vitara",
-        "TowingCapacity": {
+    ],
+    "Grand Vitara": [
+        {
             "Id": 9224,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Suzuki",
-        "ModelTrim": "Grand Vitara",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9225,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Suzuki",
-        "ModelTrim": "XL7",
-        "TowingCapacity": {
+    ],
+    "XL7": [
+        {
             "Id": 9226,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +104,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

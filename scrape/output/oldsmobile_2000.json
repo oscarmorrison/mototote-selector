@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+{
+    "Bravada": [
+        {
             "Id": 26830,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Silhouette",
-        "TowingCapacity": {
+    ],
+    "Silhouette": [
+        {
             "Id": 26831,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

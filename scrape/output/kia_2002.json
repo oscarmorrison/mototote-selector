@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Kia",
-        "ModelTrim": "Sedona",
-        "TowingCapacity": {
+{
+    "Sedona": [
+        {
             "Id": 23960,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Kia",
-        "ModelTrim": "Sportage All Models",
-        "TowingCapacity": {
+    ],
+    "Sportage All Models": [
+        {
             "Id": 23961,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

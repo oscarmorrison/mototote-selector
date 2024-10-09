@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+{
+    "Aviator": [
+        {
             "Id": 550121,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.58",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550122,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "3.58",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+    ],
+    "Corsair": [
+        {
             "Id": 550141,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550142,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": "3.81",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair Grand Touring Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "Corsair Grand Touring Plug-In Hybrid": [
+        {
             "Id": 550144,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "2.91",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+    ],
+    "Nautilus": [
+        {
             "Id": 550145,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +90,9 @@
             "GearRatio": "3.81",
             "TowCapacity": 1750
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus (HEV)",
-        "TowingCapacity": {
+    ],
+    "Nautilus (HEV)": [
+        {
             "Id": 550146,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +106,9 @@
             "GearRatio": "3.37",
             "TowCapacity": 1750
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 550132,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +122,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+    ],
+    "Navigator L": [
+        {
             "Id": 550139,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +138,5 @@
             "GearRatio": "3.73",
             "TowCapacity": 8100
         }
-    }
-]
+    ]
+}

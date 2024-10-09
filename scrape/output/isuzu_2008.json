@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender",
-        "TowingCapacity": {
+{
+    "Ascender": [
+        {
             "Id": 12664,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12665,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12666,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12667,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 5700
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "i290",
-        "TowingCapacity": {
+    ],
+    "i290": [
+        {
             "Id": 12668,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "i290",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12669,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +86,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 2200
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "i370",
-        "TowingCapacity": {
+    ],
+    "i370": [
+        {
             "Id": 12671,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "i370",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12670,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Isuzu",
-        "ModelTrim": "i370",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12672,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +130,5 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 5500
         }
-    }
-]
+    ]
+}

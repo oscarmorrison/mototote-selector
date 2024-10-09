@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+{
+    "Santa Fe": [
+        {
             "Id": 28657,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28656,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

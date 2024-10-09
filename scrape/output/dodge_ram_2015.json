@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+{
+    "1500 Long Bed Regular Cab": [
+        {
             "Id": 3408,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8240
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3409,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3416,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8030
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3417,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 9030
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3401,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4790
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3402,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7280
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3410,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4610
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3411,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -149,13 +111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7110
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3403,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -168,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 7050
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3404,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -187,13 +139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3405,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -206,13 +153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10650
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3406,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -225,13 +167,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8490
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3407,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -244,13 +181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10640
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3412,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -263,13 +195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3413,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -282,13 +209,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10430
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3414,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -301,13 +223,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3415,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -321,12 +238,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 10450
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab": [
+        {
             "Id": 3455,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -339,13 +253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7950
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3456,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -358,13 +267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3463,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -377,13 +281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7690
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3464,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -396,13 +295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8690
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3448,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -415,13 +309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4620
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3449,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -434,13 +323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3457,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -453,13 +337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3458,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -472,13 +351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7440
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3450,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -491,13 +365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6790
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3451,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -510,13 +379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8840
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3453,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -529,13 +393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8210
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3452,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -548,13 +407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10360
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3454,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -567,13 +421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10360
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3459,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -586,13 +435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8670
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3460,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -605,13 +449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10220
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3461,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -624,13 +463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8060
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3462,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -644,12 +478,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 10210
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "1500 Short Bed Crew Cab": [
+        {
             "Id": 3425,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -662,13 +493,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7840
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3426,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -681,13 +507,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8840
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3433,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -700,13 +521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7660
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3434,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -719,13 +535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8560
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3418,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -738,13 +549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4490
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3419,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -757,13 +563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7480
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3427,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -776,13 +577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4190
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3428,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -795,13 +591,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7180
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3420,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -814,13 +605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6770
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3421,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -833,13 +619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8820
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3422,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -852,13 +633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10370
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3423,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -871,13 +647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8170
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3424,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -890,13 +661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10320
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3429,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -909,13 +675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8610
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3430,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -928,13 +689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10160
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3431,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -947,13 +703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3432,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -967,12 +718,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 10150
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+    ],
+    "1500 Short Bed Regular Cab": [
+        {
             "Id": 3389,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -985,13 +733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4960
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3390,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1004,13 +747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7310
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3395,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1023,13 +761,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4770
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3396,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1042,13 +775,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7060
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3391,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1061,13 +789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 7160
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3392,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1080,13 +803,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 9140
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3393,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1099,13 +817,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8630
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3394,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1118,13 +831,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 9180
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3397,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1137,13 +845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9050
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3398,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1156,13 +859,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8970
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3399,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1175,13 +873,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8420
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Short Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3400,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1195,12 +888,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8970
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "1500 Standard Bed Crew Cab": [
+        {
             "Id": 3440,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1213,13 +903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7880
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3441,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1232,13 +917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8880
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3446,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1251,13 +931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7590
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3447,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1270,13 +945,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8390
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3435,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1289,13 +959,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6740
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3436,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1308,13 +973,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8790
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3437,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1327,13 +987,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10340
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3438,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1346,13 +1001,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8070
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3439,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1365,13 +1015,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10220
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3442,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1384,13 +1029,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3443,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1403,13 +1043,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3444,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1422,13 +1057,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Standard Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3445,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1442,12 +1072,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 9850
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "2500 Long Bed Crew Cab": [
+        {
             "Id": 3489,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1460,13 +1087,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11360
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3490,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1479,13 +1101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13360
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3495,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1498,13 +1115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11020
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3496,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1517,13 +1129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13010
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3491,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1536,13 +1143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12810
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3492,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1555,13 +1157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15810
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3497,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1574,13 +1171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12440
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3498,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1593,13 +1185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15440
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3494,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1612,13 +1199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17360
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3493,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1631,13 +1213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16290
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3500,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1650,13 +1227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17020
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3499,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1670,12 +1242,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 15940
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+    ],
+    "2500 Long Bed Regular Cab": [
+        {
             "Id": 3465,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1688,13 +1257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11870
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3466,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1707,13 +1271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13870
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3471,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1726,13 +1285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3472,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1745,13 +1299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3467,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1764,13 +1313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3468,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1783,13 +1327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3473,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1802,13 +1341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12930
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3474,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1821,13 +1355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15930
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3470,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1840,13 +1369,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17970
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3469,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1859,13 +1383,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16900
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3476,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1878,13 +1397,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17520
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Long Bed Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3475,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1898,12 +1412,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 16440
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+    ],
+    "2500 Mega Cab": [
+        {
             "Id": 3501,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1916,13 +1427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11040
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3502,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1935,13 +1441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13040
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3507,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1954,13 +1455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10770
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3508,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1973,13 +1469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12770
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3503,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -1992,13 +1483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12480
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3504,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2011,13 +1497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15480
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3509,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2030,13 +1511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12230
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3510,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2049,13 +1525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15230
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3506,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2068,13 +1539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17170
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3505,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2087,13 +1553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3512,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2106,13 +1567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15190
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3511,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2126,12 +1582,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 14520
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "2500 Short Bed Crew Cab": [
+        {
             "Id": 3477,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2144,13 +1597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11510
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3478,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2163,13 +1611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13510
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3483,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2182,13 +1625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3484,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2201,13 +1639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3479,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2220,13 +1653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12940
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3480,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2239,13 +1667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15940
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3485,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2258,13 +1681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12610
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3486,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2277,13 +1695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15610
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3482,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2296,13 +1709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17510
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3481,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2315,13 +1723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16450
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3488,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2334,13 +1737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17180
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Short Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3487,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2354,12 +1752,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 16120
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Dual Rear Wheel Mega Cab": [
+        {
             "Id": 3609,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2372,13 +1767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12210
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3610,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2391,13 +1781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15710
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3619,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2410,13 +1795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12020
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3620,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2429,13 +1809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15520
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3613,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2448,13 +1823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16770
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3616,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2467,13 +1837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 20620
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3614,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2486,13 +1851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 18770
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3617,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2505,13 +1865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 23620
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3615,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2524,13 +1879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 21770
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3618,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2543,13 +1893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 29120
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3611,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2562,13 +1907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15720
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3612,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2581,13 +1921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 17720
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3623,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2600,13 +1935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16460
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3626,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2619,13 +1949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 20320
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3624,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2638,13 +1963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 18460
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3627,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2657,13 +1977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 23320
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3625,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2676,13 +1991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 21460
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3628,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2695,13 +2005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 28820
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3621,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2714,13 +2019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15420
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Dual Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3622,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2734,12 +2034,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17420
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Long Bed Dual Rear Wheel Crew Cab": [
+        {
             "Id": 3575,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2752,13 +2049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3576,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2771,13 +2063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15950
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3585,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2790,13 +2077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3586,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2809,13 +2091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3579,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2828,13 +2105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3582,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2847,13 +2119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 20860
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3580,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2866,13 +2133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 19000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3583,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2885,13 +2147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 23860
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3581,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2904,13 +2161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 22000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3584,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2923,13 +2175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 29360
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3577,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2942,13 +2189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15960
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3578,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2961,13 +2203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 17960
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3589,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2980,13 +2217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16660
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3592,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -2999,13 +2231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 20510
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3590,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3018,13 +2245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 18660
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3593,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3037,13 +2259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 23510
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3591,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3056,13 +2273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 21660
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3594,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3075,13 +2287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 29010
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3587,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3094,13 +2301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15610
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3588,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3114,12 +2316,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17610
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Long Bed Dual Rear Wheel Regular Cab": [
+        {
             "Id": 3527,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3132,13 +2331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13020
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3528,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3151,13 +2345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16520
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3537,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3170,13 +2359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12460
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3538,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3189,13 +2373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16140
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3531,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3208,13 +2387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17550
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3534,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3227,13 +2401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 21410
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3535,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3246,13 +2415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 24410
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3532,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3265,13 +2429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 19550
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3533,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3284,13 +2443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 22550
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3536,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3303,13 +2457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 30000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3529,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3322,13 +2471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16520
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3530,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3341,13 +2485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 18510
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3541,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3360,13 +2499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17180
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3544,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3379,13 +2513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 21030
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3542,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3398,13 +2527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 19180
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3545,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3417,13 +2541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 24030
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3543,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3436,13 +2555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 22180
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3546,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3455,13 +2569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 29530
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3539,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3474,13 +2583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16130
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Dual Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3540,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3494,12 +2598,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 18130
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Long Bed Single Rear Wheel Crew Cab": [
+        {
             "Id": 3561,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3512,13 +2613,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11410
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3562,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3531,13 +2627,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13410
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3568,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3550,13 +2641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11020
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3569,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3569,13 +2655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13020
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3563,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3588,13 +2669,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12830
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3564,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3607,13 +2683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15830
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3570,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3626,13 +2697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12470
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3571,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3645,13 +2711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15470
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3566,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3664,13 +2725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17360
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3567,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3683,13 +2739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17210
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3565,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3702,13 +2753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16320
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3573,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3721,13 +2767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17010
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3574,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3740,13 +2781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16860
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3572,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3760,12 +2796,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 15960
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Long Bed Single Rear Wheel Regular Cab": [
+        {
             "Id": 3513,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3778,13 +2811,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11910
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3514,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3797,13 +2825,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13910
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3520,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3816,13 +2839,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11560
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3521,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3835,13 +2853,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13560
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3515,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3854,13 +2867,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13370
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3516,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3873,13 +2881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16370
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3522,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3892,13 +2895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12970
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3523,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3911,13 +2909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15970
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3518,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3930,13 +2923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17910
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3519,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3949,13 +2937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17770
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3517,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3968,13 +2951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16870
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3525,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -3987,13 +2965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17560
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3526,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4006,13 +2979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17420
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Long Bed Single Rear Wheel Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3524,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4026,12 +2994,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 16520
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Short Bed Single Rear Wheel Crew Cab": [
+        {
             "Id": 3547,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4044,13 +3009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11520
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3548,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4063,13 +3023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13520
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3554,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4082,13 +3037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3555,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4101,13 +3051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3549,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4120,13 +3065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12970
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3550,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4139,13 +3079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15970
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3556,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4158,13 +3093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12640
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3557,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4177,13 +3107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15640
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3552,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4196,13 +3121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17490
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3553,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4215,13 +3135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17350
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3551,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4234,13 +3149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16450
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3559,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4253,13 +3163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3560,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4272,13 +3177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17050
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Short Bed Single Rear Wheel Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3558,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4292,12 +3192,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 16160
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Single Rear Wheel Mega Cab": [
+        {
             "Id": 3595,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4310,13 +3207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11270
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3596,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4329,13 +3221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13270
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3602,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4348,13 +3235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10990
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3603,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4367,13 +3249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12990
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3597,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4386,13 +3263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12710
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3598,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4405,13 +3277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15710
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3604,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4424,13 +3291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3605,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4443,13 +3305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3600,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4462,13 +3319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17160
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3601,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4481,13 +3333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17020
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3599,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4500,13 +3347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16120
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3607,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4519,13 +3361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3608,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4538,13 +3375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16660
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Single Rear Wheel Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3606,
             "Year": 2015,
             "TypeDesc": "Truck",
@@ -4558,5 +3390,5 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 15760
         }
-    }
-]
+    ]
+}

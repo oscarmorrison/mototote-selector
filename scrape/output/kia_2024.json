@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+{
+    "Sorento": [
+        {
             "Id": 545568,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545566,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545569,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545571,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545567,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +70,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sorento HEV",
-        "TowingCapacity": {
+    ],
+    "Sorento HEV": [
+        {
             "Id": 545575,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +86,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sorento PHEV",
-        "TowingCapacity": {
+    ],
+    "Sorento PHEV": [
+        {
             "Id": 545576,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +102,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 545565,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545563,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +132,9 @@
             "GearRatio": "",
             "TowCapacity": 2500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sportage HEV",
-        "TowingCapacity": {
+    ],
+    "Sportage HEV": [
+        {
             "Id": 545561,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +148,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Sportage PHEV",
-        "TowingCapacity": {
+    ],
+    "Sportage PHEV": [
+        {
             "Id": 545562,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +164,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+    ],
+    "Telluride": [
+        {
             "Id": 545559,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545560,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545557,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545558,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,5 +222,5 @@
             "GearRatio": "",
             "TowCapacity": 5500
         }
-    }
-]
+    ]
+}

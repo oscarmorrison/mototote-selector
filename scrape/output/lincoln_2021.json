@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+{
+    "Aviator": [
+        {
             "Id": 490116,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.58",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490117,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.58",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490118,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.58",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490119,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "3.58",
             "TowCapacity": 6700
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator Grand Touring Hybrid",
-        "TowingCapacity": {
+    ],
+    "Aviator Grand Touring Hybrid": [
+        {
             "Id": 490120,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": "3.31",
             "TowCapacity": 5600
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+    ],
+    "Corsair": [
+        {
             "Id": 490527,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490530,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490526,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490529,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490528,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +144,9 @@
             "GearRatio": "3.81",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair Grand Touring Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "Corsair Grand Touring Plug-In Hybrid": [
+        {
             "Id": 490536,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +160,9 @@
             "GearRatio": "2.91",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+    ],
+    "Nautilus": [
+        {
             "Id": 490562,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.80",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490564,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.80",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490561,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.80",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490563,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.80",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490565,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.65",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490566,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +246,9 @@
             "GearRatio": "3.65",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 490193,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -339,13 +261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490194,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490204,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -377,13 +289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490205,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -397,12 +304,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+    ],
+    "Navigator L": [
+        {
             "Id": 490262,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490263,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -434,13 +333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490255,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -453,13 +347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490256,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -473,5 +362,5 @@
             "GearRatio": "3.73",
             "TowCapacity": 8100
         }
-    }
-]
+    ]
+}

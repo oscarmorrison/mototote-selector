@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+{
+    "Cayenne": [
+        {
             "Id": 7845,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

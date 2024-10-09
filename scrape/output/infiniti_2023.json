@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Infiniti",
-        "ModelTrim": "QX50",
-        "TowingCapacity": {
+{
+    "QX50": [
+        {
             "Id": 525951,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Infiniti",
-        "ModelTrim": "QX60",
-        "TowingCapacity": {
+    ],
+    "QX60": [
+        {
             "Id": 525961,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Infiniti",
-        "ModelTrim": "QX60",
-        "TowingCapacity": {
+        },
+        {
             "Id": 525962,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Infiniti",
-        "ModelTrim": "QX60",
-        "TowingCapacity": {
+        },
+        {
             "Id": 525959,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Infiniti",
-        "ModelTrim": "QX60",
-        "TowingCapacity": {
+        },
+        {
             "Id": 525960,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Infiniti",
-        "ModelTrim": "QX80",
-        "TowingCapacity": {
+    ],
+    "QX80": [
+        {
             "Id": 525964,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Infiniti",
-        "ModelTrim": "QX80",
-        "TowingCapacity": {
+        },
+        {
             "Id": 525963,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +102,5 @@
             "GearRatio": "",
             "TowCapacity": 8500
         }
-    }
-]
+    ]
+}

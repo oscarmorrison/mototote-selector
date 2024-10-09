@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "S60",
-        "TowingCapacity": {
+{
+    "S60": [
+        {
             "Id": 14189,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "S60",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14190,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "S80",
-        "TowingCapacity": {
+    ],
+    "S80": [
+        {
             "Id": 14191,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "S80",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14192,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "V50",
-        "TowingCapacity": {
+    ],
+    "V50": [
+        {
             "Id": 14193,
             "Year": 2007,
             "TypeDesc": "Station Wagon",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "V50",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14194,
             "Year": 2007,
             "TypeDesc": "Station Wagon",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "V70",
-        "TowingCapacity": {
+    ],
+    "V70": [
+        {
             "Id": 14195,
             "Year": 2007,
             "TypeDesc": "Station Wagon",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "XC70",
-        "TowingCapacity": {
+    ],
+    "XC70": [
+        {
             "Id": 14196,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Volvo",
-        "ModelTrim": "XC70",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14197,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +134,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

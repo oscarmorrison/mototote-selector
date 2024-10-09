@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Land Rover",
-        "ModelTrim": "Land Rover LR2",
-        "TowingCapacity": {
+{
+    "Land Rover LR2": [
+        {
             "Id": 12698,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Land Rover",
-        "ModelTrim": "Land Rover LR3",
-        "TowingCapacity": {
+    ],
+    "Land Rover LR3": [
+        {
             "Id": 12699,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+    ],
+    "Range Rover": [
+        {
             "Id": 12700,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport": [
+        {
             "Id": 12701,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

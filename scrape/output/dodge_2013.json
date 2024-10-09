@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2013,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+{
+    "Durango": [
+        {
             "Id": 5130,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5128,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5131,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5129,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Dodge",
-        "ModelTrim": "Grand Caravan",
-        "TowingCapacity": {
+    ],
+    "Grand Caravan": [
+        {
             "Id": 5125,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Dodge",
-        "ModelTrim": "Journey",
-        "TowingCapacity": {
+    ],
+    "Journey": [
+        {
             "Id": 5126,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +88,5 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    }
-]
+    ]
+}

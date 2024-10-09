@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-150",
-        "TowingCapacity": {
+{
+    "Econoline E-150": [
+        {
             "Id": 26132,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26133,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -36,12 +28,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-250",
-        "TowingCapacity": {
+    ],
+    "Econoline E-250": [
+        {
             "Id": 26134,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-250",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26135,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-250",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26136,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -93,12 +72,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-250 Natural Gas Vehicle",
-        "TowingCapacity": {
+    ],
+    "Econoline E-250 Natural Gas Vehicle": [
+        {
             "Id": 26137,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -112,12 +88,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350",
-        "TowingCapacity": {
+    ],
+    "Econoline E-350": [
+        {
             "Id": 26138,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26139,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26140,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26141,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -187,13 +145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26142,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -206,13 +159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26143,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -225,13 +173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26144,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -245,12 +188,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350 extd",
-        "TowingCapacity": {
+    ],
+    "Econoline E-350 extd": [
+        {
             "Id": 26145,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -264,12 +204,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline E-350 Natural Gas Vehicle",
-        "TowingCapacity": {
+    ],
+    "Econoline E-350 Natural Gas Vehicle": [
+        {
             "Id": 26146,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -283,12 +220,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-150",
-        "TowingCapacity": {
+    ],
+    "Econoline Wagon E-150": [
+        {
             "Id": 26147,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -301,13 +235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26148,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -321,12 +250,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350",
-        "TowingCapacity": {
+    ],
+    "Econoline Wagon E-350": [
+        {
             "Id": 26149,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -339,13 +265,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26150,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -358,13 +279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26151,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -377,13 +293,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26152,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -396,13 +307,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26153,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -415,13 +321,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26154,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -435,12 +336,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350 extd",
-        "TowingCapacity": {
+    ],
+    "Econoline Wagon E-350 extd": [
+        {
             "Id": 26155,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -453,13 +351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350 extd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26156,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -472,13 +365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350 extd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26157,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -491,13 +379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Econoline Wagon E-350 extd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26158,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -511,12 +394,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 9200
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Eonoline E-150",
-        "TowingCapacity": {
+    ],
+    "Eonoline E-150": [
+        {
             "Id": 26159,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -530,12 +410,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 6900
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+    ],
+    "Excursion": [
+        {
             "Id": 26161,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -548,13 +425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26160,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -567,13 +439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26163,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -586,13 +453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26162,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -605,13 +467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26164,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -625,12 +482,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+    ],
+    "Expedition": [
+        {
             "Id": 26166,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -643,13 +497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26167,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -662,13 +511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26165,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -681,13 +525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26169,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -700,13 +539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26171,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -719,13 +553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26172,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -738,13 +567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26168,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -757,13 +581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26170,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -776,13 +595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26173,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -796,12 +610,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+    ],
+    "Explorer": [
+        {
             "Id": 26182,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -814,13 +625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4960
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26189,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -833,13 +639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 4960
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26175,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -852,13 +653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.27:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26176,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -871,13 +667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26178,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -890,13 +681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26179,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -909,13 +695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26180,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -928,13 +709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4160
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26181,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -947,13 +723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5160
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26174,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -966,13 +737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.27:1",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26177,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -985,13 +751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26184,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1004,13 +765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.27:1",
             "TowCapacity": 3440
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26186,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1023,13 +779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4440
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26188,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1042,13 +793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4940
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26190,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1061,13 +807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 4940
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26183,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1080,13 +821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.27:1",
             "TowCapacity": 3640
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26185,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1099,13 +835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4640
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26187,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1119,12 +850,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5140
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+    ],
+    "Explorer 4 door": [
+        {
             "Id": 26197,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1137,13 +865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4760
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26192,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1156,13 +879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 2300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26194,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1175,13 +893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26195,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1194,13 +907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3960
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26196,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1213,13 +921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4960
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26191,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1232,13 +935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.27:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26193,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1251,13 +949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26203,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1270,13 +963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5620
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26205,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1289,13 +977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6220
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26202,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1308,13 +991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5820
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26204,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1327,13 +1005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6820
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26199,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1346,13 +1019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4740
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26201,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1365,13 +1033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5740
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26207,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1384,13 +1047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 5740
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26198,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1403,13 +1061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4940
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26200,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1422,13 +1075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5940
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 4 door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26206,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1442,12 +1090,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 5940
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+    ],
+    "F-150": [
+        {
             "Id": 26218,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1460,13 +1105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26231,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1479,13 +1119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26216,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1498,13 +1133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26217,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1517,13 +1147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26230,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1536,13 +1161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26208,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1555,13 +1175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26209,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1574,13 +1189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 2600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26210,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1593,13 +1203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26211,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1612,13 +1217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26221,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1631,13 +1231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26223,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1650,13 +1245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26233,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1669,13 +1259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26219,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1688,13 +1273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26220,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1707,13 +1287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26222,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1726,13 +1301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26232,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1745,13 +1315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26212,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1764,13 +1329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26213,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1783,13 +1343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26214,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1802,13 +1357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26215,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1821,13 +1371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26225,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1840,13 +1385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26227,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1859,13 +1399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26235,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1878,13 +1413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26229,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1897,13 +1427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26237,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1916,13 +1441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26224,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1935,13 +1455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26226,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1954,13 +1469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26234,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1973,13 +1483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26228,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1992,13 +1497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26236,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2012,12 +1512,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+    ],
+    "F-150 SuperCab": [
+        {
             "Id": 26244,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2030,13 +1527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26256,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2049,13 +1541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26238,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2068,13 +1555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26239,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2087,13 +1569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26247,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2106,13 +1583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26249,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2125,13 +1597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26258,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2144,13 +1611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26241,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2163,13 +1625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 2300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26243,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2182,13 +1639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26245,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2201,13 +1653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26246,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2220,13 +1667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26248,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2239,13 +1681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26257,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2258,13 +1695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26240,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2277,13 +1709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 2600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26242,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2296,13 +1723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26251,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2315,13 +1737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26253,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2334,13 +1751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26260,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2353,13 +1765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26255,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2372,13 +1779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26262,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2391,13 +1793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26250,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2410,13 +1807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26252,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2429,13 +1821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26259,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2448,13 +1835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26254,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2467,13 +1849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26261,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2487,12 +1864,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "F-250 Crew Cab": [
+        {
             "Id": 26264,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2505,13 +1879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26266,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2524,13 +1893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26263,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2543,13 +1907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26265,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2563,12 +1922,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-250 Crew Cab Super Duty": [
+        {
             "Id": 26268,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2581,13 +1937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26282,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2600,13 +1951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26270,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2619,13 +1965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26284,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2638,13 +1979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26272,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2657,13 +1993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26274,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2676,13 +2007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26267,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2695,13 +2021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26281,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2714,13 +2035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26269,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2733,13 +2049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26283,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2752,13 +2063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26271,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2771,13 +2077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26273,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2790,13 +2091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26286,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2809,13 +2105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26288,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2828,13 +2119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26276,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2847,13 +2133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26278,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2866,13 +2147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26285,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2885,13 +2161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26287,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2904,13 +2175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26275,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2923,13 +2189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26277,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2942,13 +2203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26289,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2961,13 +2217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26291,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2980,13 +2231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26280,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2999,13 +2245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26290,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3018,13 +2259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26279,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3038,12 +2274,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-250 Super Duty": [
+        {
             "Id": 26297,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3056,13 +2289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26310,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3075,13 +2303,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26299,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3094,13 +2317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26312,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3113,13 +2331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26293,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3132,13 +2345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26301,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3151,13 +2359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26295,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3170,13 +2373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26303,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3189,13 +2387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26296,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3208,13 +2401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26309,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3227,13 +2415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26323,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3246,13 +2429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26324,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3265,13 +2443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26298,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3284,13 +2457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26311,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3303,13 +2471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26325,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3322,13 +2485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26292,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3341,13 +2499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26300,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3360,13 +2513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26294,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3379,13 +2527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26302,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3398,13 +2541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26314,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3417,13 +2555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26316,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3436,13 +2569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26305,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3455,13 +2583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26307,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3474,13 +2597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26313,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3493,13 +2611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26315,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3512,13 +2625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26304,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3531,13 +2639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26320,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3550,13 +2653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26306,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3569,13 +2667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26321,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3588,13 +2681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26317,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3607,13 +2695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26308,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3626,13 +2709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26319,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3645,13 +2723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26318,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3664,13 +2737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26322,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3684,12 +2752,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab",
-        "TowingCapacity": {
+    ],
+    "F-250 SuperCab": [
+        {
             "Id": 26327,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3702,13 +2767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26331,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3721,13 +2781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26329,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3740,13 +2795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26333,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3759,13 +2809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26326,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3778,13 +2823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26330,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3797,13 +2837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26328,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3816,13 +2851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26332,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3836,12 +2866,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Dually",
-        "TowingCapacity": {
+    ],
+    "F-250 SuperCab Dually": [
+        {
             "Id": 26336,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3854,13 +2881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26334,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3873,13 +2895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26335,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3893,12 +2910,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-250 SuperCab Super Duty": [
+        {
             "Id": 26338,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3911,13 +2925,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26342,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3930,13 +2939,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26363,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3949,13 +2953,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26340,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3968,13 +2967,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26344,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3987,13 +2981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26356,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4006,13 +2995,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26362,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4025,13 +3009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26347,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4044,13 +3023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26337,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4063,13 +3037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26341,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4082,13 +3051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26354,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4101,13 +3065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26339,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4120,13 +3079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26343,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4139,13 +3093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26355,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4158,13 +3107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26345,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4177,13 +3121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26346,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4196,13 +3135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26358,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4215,13 +3149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26360,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4234,13 +3163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26349,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4253,13 +3177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26351,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4272,13 +3191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26357,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4291,13 +3205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26359,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4310,13 +3219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26348,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4329,13 +3233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26350,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4348,13 +3247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26353,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4367,13 +3261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26361,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4386,13 +3275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26352,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4406,12 +3290,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+    ],
+    "F-250 SuperCab Super Duty Dually": [
+        {
             "Id": 26365,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4424,13 +3305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26367,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4443,13 +3319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26364,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4462,13 +3333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26366,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4482,12 +3348,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 All Models",
-        "TowingCapacity": {
+    ],
+    "F-350 All Models": [
+        {
             "Id": 26368,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4500,13 +3363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 All Models",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26370,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4519,13 +3377,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 All Models",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26369,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4538,13 +3391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 All Models",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26371,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4558,12 +3406,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab": [
+        {
             "Id": 26373,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4576,13 +3421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26375,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4595,13 +3435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26372,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4614,13 +3449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26374,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4634,12 +3464,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dually",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Dually": [
+        {
             "Id": 26376,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4653,12 +3480,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Super Duty": [
+        {
             "Id": 26388,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4671,13 +3495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26390,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4690,13 +3509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26378,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4709,13 +3523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26380,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4728,13 +3537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26387,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4747,13 +3551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26389,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4766,13 +3565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26377,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4785,13 +3579,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26379,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4804,13 +3593,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26392,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4823,13 +3607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26394,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4842,13 +3621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26382,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4861,13 +3635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26384,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4880,13 +3649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26391,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4899,13 +3663,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26393,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4918,13 +3677,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26381,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4937,13 +3691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26383,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4956,13 +3705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26396,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4975,13 +3719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26386,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -4994,13 +3733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26395,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5013,13 +3747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26385,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5033,12 +3762,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Super Duty Dually": [
+        {
             "Id": 26406,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5051,13 +3777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26408,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5070,13 +3791,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26411,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5089,13 +3805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26398,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5108,13 +3819,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26400,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5127,13 +3833,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26405,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5146,13 +3847,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26407,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5165,13 +3861,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26397,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5184,13 +3875,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26399,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5203,13 +3889,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26410,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5222,13 +3903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26402,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5241,13 +3917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26404,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5260,13 +3931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26409,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5279,13 +3945,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26401,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5298,13 +3959,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26403,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5318,12 +3974,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 13000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-350 Super Duty": [
+        {
             "Id": 26418,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5336,13 +3989,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26430,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5355,13 +4003,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26419,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5374,13 +4017,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26432,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5393,13 +4031,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26414,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5412,13 +4045,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26421,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5431,13 +4059,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26415,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5450,13 +4073,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26423,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5469,13 +4087,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26416,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5488,13 +4101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26429,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5507,13 +4115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26444,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5526,13 +4129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26445,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5545,13 +4143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26417,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5564,13 +4157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26431,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5583,13 +4171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26447,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5602,13 +4185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26446,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5621,13 +4199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26412,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5640,13 +4213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26420,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5659,13 +4227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26413,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5678,13 +4241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26422,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5697,13 +4255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26439,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5716,13 +4269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26435,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5735,13 +4283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26438,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5754,13 +4297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26426,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5773,13 +4311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26433,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5792,13 +4325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26434,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5811,13 +4339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26424,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5830,13 +4353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26440,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5849,13 +4367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26425,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5868,13 +4381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26442,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5887,13 +4395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26437,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5906,13 +4409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26428,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5925,13 +4423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26436,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5944,13 +4437,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26427,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5963,13 +4451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26441,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -5982,13 +4465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26443,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6002,12 +4480,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+    ],
+    "F-350 Super Duty Dually": [
+        {
             "Id": 26454,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6020,13 +4495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26469,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6039,13 +4509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26455,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6058,13 +4523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26471,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6077,13 +4537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26450,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6096,13 +4551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26457,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6115,13 +4565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26451,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6134,13 +4579,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26459,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6153,13 +4593,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26452,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6172,13 +4607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26468,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6191,13 +4621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26453,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6210,13 +4635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26470,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6229,13 +4649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26448,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6248,13 +4663,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26449,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6267,13 +4677,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26456,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6286,13 +4691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26458,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6305,13 +4705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26473,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6324,13 +4719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26477,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6343,13 +4733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26475,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6362,13 +4747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26461,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6381,13 +4761,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26463,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6400,13 +4775,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26472,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6419,13 +4789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26474,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6438,13 +4803,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26460,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6457,13 +4817,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26462,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6476,13 +4831,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26465,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6495,13 +4845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26467,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6514,13 +4859,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26476,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6533,13 +4873,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26464,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6552,13 +4887,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26466,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6572,12 +4902,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 13600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-350 SuperCab Super Duty": [
+        {
             "Id": 26488,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6590,13 +4917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26489,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6609,13 +4931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26479,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6628,13 +4945,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26481,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6647,13 +4959,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26493,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6666,13 +4973,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26494,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6685,13 +4987,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26478,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6704,13 +5001,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26480,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6723,13 +5015,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26490,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6742,13 +5029,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26491,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6761,13 +5043,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26483,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6780,13 +5057,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26485,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6799,13 +5071,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26495,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6818,13 +5085,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26496,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6837,13 +5099,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26482,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6856,13 +5113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26484,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6875,13 +5127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26492,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6894,13 +5141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26487,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6913,13 +5155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26497,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6932,13 +5169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26486,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6952,12 +5184,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+    ],
+    "F-350 SuperCab Super Duty Dually": [
+        {
             "Id": 26510,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6970,13 +5199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26513,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -6989,13 +5213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26501,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7008,13 +5227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26511,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7027,13 +5241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26512,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7046,13 +5255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26498,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7065,13 +5269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26499,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7084,13 +5283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26500,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7103,13 +5297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26515,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7122,13 +5311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26517,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7141,13 +5325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26503,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7160,13 +5339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26505,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7179,13 +5353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26514,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7198,13 +5367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26516,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7217,13 +5381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26502,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7236,13 +5395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26504,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7255,13 +5409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26519,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7274,13 +5423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26507,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7293,13 +5437,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26509,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7312,13 +5451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26518,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7331,13 +5465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26506,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7350,13 +5479,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Super Duty Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26508,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7370,12 +5494,9 @@
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 13300
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-450 Crew Cab Super Duty": [
+        {
             "Id": 26521,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7388,13 +5509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26523,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7407,13 +5523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.38:1",
             "TowCapacity": 17800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26520,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7426,13 +5537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26522,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7445,13 +5551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.38:1",
             "TowCapacity": 18100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26525,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7464,13 +5565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 17300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26524,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7484,12 +5580,9 @@
             "GearRatio": "4.88:1",
             "TowCapacity": 17600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-450 Super Duty": [
+        {
             "Id": 26527,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7502,13 +5595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26529,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7521,13 +5609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.38:1",
             "TowCapacity": 18400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26526,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7540,13 +5623,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26528,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7559,13 +5637,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.38:1",
             "TowCapacity": 18700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26531,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7578,13 +5651,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 17900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26530,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7598,12 +5666,9 @@
             "GearRatio": "4.88:1",
             "TowCapacity": 18200
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-550 Crew Cab Super Duty": [
+        {
             "Id": 26533,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7616,13 +5681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26535,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7635,13 +5695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.38:1",
             "TowCapacity": 17700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26532,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7654,13 +5709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26534,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7673,13 +5723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.38:1",
             "TowCapacity": 18600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26537,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7692,13 +5737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 17200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26536,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7712,12 +5752,9 @@
             "GearRatio": "4.88:1",
             "TowCapacity": 17600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Super Duty",
-        "TowingCapacity": {
+    ],
+    "F-550 Super Duty": [
+        {
             "Id": 26538,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7730,13 +5767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26539,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7749,13 +5781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26541,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7768,13 +5795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.38:1",
             "TowCapacity": 18300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26540,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7787,13 +5809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.38:1",
             "TowCapacity": 18600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26543,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7806,13 +5823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88:1",
             "TowCapacity": 17800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26542,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7826,12 +5838,9 @@
             "GearRatio": "4.88:1",
             "TowCapacity": 18100
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+    ],
+    "Ranger": [
+        {
             "Id": 26544,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7844,13 +5853,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 2180
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26546,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7863,13 +5867,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3860
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26551,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7882,13 +5881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26547,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7901,13 +5895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 4360
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26553,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7920,13 +5909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 2400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26550,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7939,13 +5923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2660
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26545,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7958,13 +5937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 4120
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26548,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7977,13 +5951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26552,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -7996,13 +5965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3340
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26549,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8015,13 +5979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26554,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8034,13 +5993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 3340
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26555,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8053,13 +6007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6060
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26556,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8073,12 +6022,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 3600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+    ],
+    "Ranger SuperCab": [
+        {
             "Id": 26557,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8091,13 +6037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3660
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26563,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8110,13 +6051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26558,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8129,13 +6065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 4160
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26567,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8148,13 +6079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26562,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8167,13 +6093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2460
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26566,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8186,13 +6107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 2460
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26560,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8205,13 +6121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5620
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26564,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8224,13 +6135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3160
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26561,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8243,13 +6149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 5620
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26568,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8262,13 +6163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 3160
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26559,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8281,13 +6177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5860
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26565,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -8301,12 +6192,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 3400
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Windstar",
-        "TowingCapacity": {
+    ],
+    "Windstar": [
+        {
             "Id": 26569,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -8319,13 +6207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.98:1, 4.09:1, or 4.10:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Ford",
-        "ModelTrim": "Windstar",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26570,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -8339,5 +6222,5 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

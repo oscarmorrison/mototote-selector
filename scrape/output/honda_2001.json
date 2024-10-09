@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Honda",
-        "ModelTrim": "Odyssey",
-        "TowingCapacity": {
+{
+    "Odyssey": [
+        {
             "Id": 25785,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Honda",
-        "ModelTrim": "Passport",
-        "TowingCapacity": {
+    ],
+    "Passport": [
+        {
             "Id": 25786,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

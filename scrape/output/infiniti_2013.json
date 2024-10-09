@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2013,
-        "Make": "Infiniti",
-        "ModelTrim": "FX37",
-        "TowingCapacity": {
+{
+    "FX37": [
+        {
             "Id": 5556,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Infiniti",
-        "ModelTrim": "FX50",
-        "TowingCapacity": {
+    ],
+    "FX50": [
+        {
             "Id": 5557,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Infiniti",
-        "ModelTrim": "JX",
-        "TowingCapacity": {
+    ],
+    "JX": [
+        {
             "Id": 5558,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Infiniti",
-        "ModelTrim": "QX56",
-        "TowingCapacity": {
+    ],
+    "QX56": [
+        {
             "Id": 5559,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": null,
             "TowCapacity": 8500
         }
-    }
-]
+    ]
+}

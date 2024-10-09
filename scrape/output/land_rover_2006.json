@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Land Rover",
-        "ModelTrim": "Freelander",
-        "TowingCapacity": {
+{
+    "Freelander": [
+        {
             "Id": 15951,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Land Rover",
-        "ModelTrim": "LR3",
-        "TowingCapacity": {
+    ],
+    "LR3": [
+        {
             "Id": 15952,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover HSE",
-        "TowingCapacity": {
+    ],
+    "Range Rover HSE": [
+        {
             "Id": 15953,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport": [
+        {
             "Id": 15954,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

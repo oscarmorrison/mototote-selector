@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender",
-        "TowingCapacity": {
+{
+    "Ascender": [
+        {
             "Id": 20578,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20576,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20579,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20577,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 6800
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Axiom",
-        "TowingCapacity": {
+    ],
+    "Axiom": [
+        {
             "Id": 20580,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Rodeo",
-        "TowingCapacity": {
+    ],
+    "Rodeo": [
+        {
             "Id": 20582,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Rodeo",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20581,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +102,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Rodeo Sport",
-        "TowingCapacity": {
+    ],
+    "Rodeo Sport": [
+        {
             "Id": 20583,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Isuzu",
-        "ModelTrim": "Rodeo Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20584,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +132,5 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

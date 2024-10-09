@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "GX 460",
-        "TowingCapacity": {
+{
+    "GX 460": [
+        {
             "Id": 29131,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "LX 570",
-        "TowingCapacity": {
+    ],
+    "LX 570": [
+        {
             "Id": 29132,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "NX 300",
-        "TowingCapacity": {
+    ],
+    "NX 300": [
+        {
             "Id": 491033,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "NX 300",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29133,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+    ],
+    "NX Hybrid": [
+        {
             "Id": 491034,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +76,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+    ],
+    "RX": [
+        {
             "Id": 491092,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +91,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491093,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29134,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491091,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +134,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Lexus",
-        "ModelTrim": "RX Hybrid",
-        "TowingCapacity": {
+    ],
+    "RX Hybrid": [
+        {
             "Id": 29135,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,5 +150,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

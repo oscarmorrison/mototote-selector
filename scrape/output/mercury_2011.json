@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Mercury",
-        "ModelTrim": "Mariner",
-        "TowingCapacity": {
+{
+    "Mariner": [
+        {
             "Id": 7796,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

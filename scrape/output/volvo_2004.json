@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Volvo",
-        "ModelTrim": "S40/V40",
-        "TowingCapacity": {
+{
+    "S40/V40": [
+        {
             "Id": 20664,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Volvo",
-        "ModelTrim": "S60 R/V70 R",
-        "TowingCapacity": {
+    ],
+    "S60 R/V70 R": [
+        {
             "Id": 20665,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Volvo",
-        "ModelTrim": "XC70 Cross Country",
-        "TowingCapacity": {
+    ],
+    "XC70 Cross Country": [
+        {
             "Id": 20661,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 20662,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +61,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4960
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20663,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +76,5 @@
             "GearRatio": null,
             "TowCapacity": 3970
         }
-    }
-]
+    ]
+}

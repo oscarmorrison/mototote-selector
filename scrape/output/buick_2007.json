@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+{
+    "Rainier": [
+        {
             "Id": 12867,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12868,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12870,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12871,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12869,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12872,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +84,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Buick",
-        "ModelTrim": "Rendezvous",
-        "TowingCapacity": {
+    ],
+    "Rendezvous": [
+        {
             "Id": 12873,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +100,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Buick",
-        "ModelTrim": "Terraza",
-        "TowingCapacity": {
+    ],
+    "Terraza": [
+        {
             "Id": 12874,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,5 +116,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

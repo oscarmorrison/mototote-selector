@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 526359,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526358,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 526375,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526374,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander Hybrid",
-        "TowingCapacity": {
+    ],
+    "Highlander Hybrid": [
+        {
             "Id": 526377,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526376,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (2WD)",
-        "TowingCapacity": {
+    ],
+    "Sequoia (2WD)": [
+        {
             "Id": 526400,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9520
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526401,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526402,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9310
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526403,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +146,9 @@
             "GearRatio": "",
             "TowCapacity": 9280
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+    ],
+    "Sequoia (4WD)": [
+        {
             "Id": 526396,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9120
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526397,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9020
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526398,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9010
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526399,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9020
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526404,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +218,9 @@
             "GearRatio": "",
             "TowCapacity": 8980
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 526405,
             "Year": 2023,
             "TypeDesc": "Minivan",
@@ -301,13 +233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526406,
             "Year": 2023,
             "TypeDesc": "Minivan",
@@ -321,12 +248,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab": [
+        {
             "Id": 526409,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -339,13 +263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526407,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -358,13 +277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526410,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -377,13 +291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526411,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -396,13 +305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526408,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -416,12 +320,9 @@
             "GearRatio": "",
             "TowCapacity": 6800
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Long Box",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab Long Box": [
+        {
             "Id": 526449,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -434,13 +335,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Long Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526451,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -453,13 +349,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Long Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526450,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -472,13 +363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Long Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526452,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -492,12 +378,9 @@
             "GearRatio": "",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab Short Box": [
+        {
             "Id": 526443,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -510,13 +393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526446,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -529,13 +407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526447,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -548,13 +421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526448,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -567,13 +435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526444,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -586,13 +449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526445,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -606,12 +464,9 @@
             "GearRatio": "",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra CrewMax": [
+        {
             "Id": 526481,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -624,13 +479,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11380
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526482,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -643,13 +493,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11450
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526483,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -662,13 +507,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11380
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526512,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -681,13 +521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11290
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526513,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -700,13 +535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11350
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526514,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -719,13 +549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11290
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526467,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -738,13 +563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11160
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526468,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -757,13 +577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526469,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -776,13 +591,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11120
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526470,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -795,13 +605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11050
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526471,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -814,13 +619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11050
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526476,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -833,13 +633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11010
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526477,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -852,13 +647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10970
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526478,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -871,13 +661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10890
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526479,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -890,13 +675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10890
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526463,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -909,13 +689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526464,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -928,13 +703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526465,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -947,13 +717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11350
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526466,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -966,13 +731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11310
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526472,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -985,13 +745,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11380
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526473,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1004,13 +759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11270
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526474,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1023,13 +773,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11230
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526475,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1042,13 +787,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11180
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526480,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1062,12 +802,9 @@
             "GearRatio": "",
             "TowCapacity": 11290
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Long Bed": [
+        {
             "Id": 526461,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1080,13 +817,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11090
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526462,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1099,13 +831,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526459,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1118,13 +845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11370
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526460,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1138,12 +860,9 @@
             "GearRatio": "",
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Standard Bed": [
+        {
             "Id": 526456,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1156,13 +875,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526457,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1175,13 +889,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526458,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1194,13 +903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11110
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526453,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1213,13 +917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526454,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1232,13 +931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526455,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1252,12 +946,9 @@
             "GearRatio": "",
             "TowCapacity": 11400
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Hybrid CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra Hybrid CrewMax": [
+        {
             "Id": 526484,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1270,13 +961,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11020
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Hybrid CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526485,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1289,13 +975,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11170
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Hybrid CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526486,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1308,13 +989,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11020
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Hybrid CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526487,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1327,13 +1003,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11175
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Hybrid CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526488,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1346,13 +1017,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10340
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Hybrid CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526515,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1365,13 +1031,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10960
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Hybrid CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526516,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1384,13 +1045,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11040
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Hybrid CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526517,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -1404,5 +1060,5 @@
             "GearRatio": "",
             "TowCapacity": 10960
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "CaraVAN Long Wheel Base",
-        "TowingCapacity": {
+{
+    "CaraVAN Long Wheel Base": [
+        {
             "Id": 17489,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "CaraVAN Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17490,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "CaraVAN Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17491,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "CaraVAN Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17492,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+    ],
+    "Dakota Club Cab": [
+        {
             "Id": 17424,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4850
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17425,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17426,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17427,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -150,12 +114,9 @@
             "GearRatio": null,
             "TowCapacity": 6950
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+    ],
+    "Dakota Quad Cab": [
+        {
             "Id": 17428,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17429,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17430,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17431,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -226,12 +172,9 @@
             "GearRatio": null,
             "TowCapacity": 6850
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+    ],
+    "Durango": [
+        {
             "Id": 17460,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3750
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17461,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17462,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17463,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17464,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +244,9 @@
             "GearRatio": null,
             "TowCapacity": 8650
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Sprinter 2500",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500": [
+        {
             "Id": 17495,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -340,12 +260,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Dodge",
-        "ModelTrim": "Sprinter 3500",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500": [
+        {
             "Id": 17496,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -359,5 +276,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

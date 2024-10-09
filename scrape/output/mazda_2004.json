@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B2300 Regular Cab",
-        "TowingCapacity": {
+{
+    "B2300 Regular Cab": [
+        {
             "Id": 20597,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -17,12 +14,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 2260
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Cab Plus/Cab Plus 4",
-        "TowingCapacity": {
+    ],
+    "B3000 Cab Plus/Cab Plus 4": [
+        {
             "Id": 20603,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2340
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Cab Plus/Cab Plus 4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20602,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2380
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Cab Plus/Cab Plus 4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20601,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2440
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Cab Plus/Cab Plus 4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20600,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -93,12 +72,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 2480
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Regular Cab",
-        "TowingCapacity": {
+    ],
+    "B3000 Regular Cab": [
+        {
             "Id": 20599,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2520
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20598,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -131,12 +102,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 2560
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B4000 Cab Plus/Cab Plus 4",
-        "TowingCapacity": {
+    ],
+    "B4000 Cab Plus/Cab Plus 4": [
+        {
             "Id": 20607,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5580
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B4000 Cab Plus/Cab Plus 4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20606,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3120
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B4000 Cab Plus/Cab Plus 4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20605,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -187,13 +145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5760
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "B4000 Cab Plus/Cab Plus 4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20604,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -207,12 +160,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 3320
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Mazda",
-        "ModelTrim": "Tribute",
-        "TowingCapacity": {
+    ],
+    "Tribute": [
+        {
             "Id": 20608,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +176,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

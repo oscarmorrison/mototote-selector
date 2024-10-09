@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "e-tron",
-        "TowingCapacity": {
+{
+    "e-tron": [
+        {
             "Id": 498083,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "Q3",
-        "TowingCapacity": {
+    ],
+    "Q3": [
+        {
             "Id": 498098,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "Q3",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498092,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "Q5",
-        "TowingCapacity": {
+    ],
+    "Q5": [
+        {
             "Id": 498064,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": "5.3",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "Q5 55e (Plug-In Hybrid)",
-        "TowingCapacity": {
+    ],
+    "Q5 55e (Plug-In Hybrid)": [
+        {
             "Id": 498111,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +76,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+    ],
+    "Q7": [
+        {
             "Id": 498060,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +91,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498061,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +106,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "Q8",
-        "TowingCapacity": {
+    ],
+    "Q8": [
+        {
             "Id": 498002,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +122,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "RS Q8",
-        "TowingCapacity": {
+    ],
+    "RS Q8": [
+        {
             "Id": 498081,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +138,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "SQ5",
-        "TowingCapacity": {
+    ],
+    "SQ5": [
+        {
             "Id": 498074,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +154,9 @@
             "GearRatio": "3.2",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "SQ7",
-        "TowingCapacity": {
+    ],
+    "SQ7": [
+        {
             "Id": 498087,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +170,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Audi",
-        "ModelTrim": "SQ8",
-        "TowingCapacity": {
+    ],
+    "SQ8": [
+        {
             "Id": 498007,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +186,5 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    }
-]
+    ]
+}

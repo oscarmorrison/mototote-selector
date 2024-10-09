@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2017,
-        "Make": "Audi",
-        "ModelTrim": "Q5",
-        "TowingCapacity": {
+{
+    "Q5": [
+        {
             "Id": 3,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+    ],
+    "Q7": [
+        {
             "Id": 4,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    }
-]
+    ]
+}

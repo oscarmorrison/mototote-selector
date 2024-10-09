@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 9227,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9228,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "FJ Cruiser (all)",
-        "TowingCapacity": {
+    ],
+    "FJ Cruiser (all)": [
+        {
             "Id": 9229,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 9230,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9231,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9232,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander Hybrid",
-        "TowingCapacity": {
+    ],
+    "Highlander Hybrid": [
+        {
             "Id": 9233,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 9234,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +120,9 @@
             "GearRatio": null,
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "RAV4",
-        "TowingCapacity": {
+    ],
+    "RAV4": [
+        {
             "Id": 9235,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "RAV4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9236,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +150,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Ltd",
-        "TowingCapacity": {
+    ],
+    "Sequoia Ltd": [
+        {
             "Id": 9242,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Ltd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9243,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Ltd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9248,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Ltd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9249,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +208,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+    ],
+    "Sequoia Platinum": [
+        {
             "Id": 9244,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +223,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9245,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9250,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +251,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9251,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,12 +266,9 @@
             "GearRatio": null,
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+    ],
+    "Sequoia SR5": [
+        {
             "Id": 9238,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9239,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -377,13 +295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9240,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9241,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9246,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -434,13 +337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9247,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -454,12 +352,9 @@
             "GearRatio": null,
             "TowCapacity": 9600
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 9237,
             "Year": 2010,
             "TypeDesc": "Van",
@@ -473,12 +368,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab": [
+        {
             "Id": 9254,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -491,13 +383,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9255,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -511,12 +398,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab/X-Runner",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab/X-Runner": [
+        {
             "Id": 9253,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -530,12 +414,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab": [
+        {
             "Id": 9256,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -548,13 +429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9257,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -568,12 +444,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Regular Cab": [
+        {
             "Id": 9252,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -587,12 +460,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra CrewMax": [
+        {
             "Id": 9286,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -605,13 +475,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9287,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -624,13 +489,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9288,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -643,13 +503,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9289,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -663,12 +518,9 @@
             "GearRatio": null,
             "TowCapacity": 10100
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab": [
+        {
             "Id": 9284,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -681,13 +533,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9285,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -701,12 +548,9 @@
             "GearRatio": null,
             "TowCapacity": 10300
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Long Bed": [
+        {
             "Id": 9261,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -719,13 +563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9278,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -738,13 +577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9281,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -758,12 +592,9 @@
             "GearRatio": null,
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Short Bed": [
+        {
             "Id": 9260,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -776,13 +607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9272,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -795,13 +621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9273,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -814,13 +635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9274,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -833,13 +649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9275,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -853,12 +664,9 @@
             "GearRatio": null,
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Standard Bed": [
+        {
             "Id": 9276,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -871,13 +679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9277,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -890,13 +693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9279,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -909,13 +707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9280,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -929,12 +722,9 @@
             "GearRatio": null,
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab": [
+        {
             "Id": 9282,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -947,13 +737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9283,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -967,12 +752,9 @@
             "GearRatio": null,
             "TowCapacity": 10400
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab Long Bed": [
+        {
             "Id": 9259,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -985,13 +767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9266,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1004,13 +781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9267,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1023,13 +795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9269,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1042,13 +809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9270,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1061,13 +823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9268,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1080,13 +837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9271,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1100,12 +852,9 @@
             "GearRatio": null,
             "TowCapacity": 10800
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab Short Bed": [
+        {
             "Id": 9258,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1118,13 +867,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9262,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1137,13 +881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9263,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1156,13 +895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9264,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1175,13 +909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9265,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1195,5 +924,5 @@
             "GearRatio": null,
             "TowCapacity": 8700
         }
-    }
-]
+    ]
+}

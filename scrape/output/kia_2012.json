@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "KIA",
-        "ModelTrim": "Sedona",
-        "TowingCapacity": {
+{
+    "Sedona": [
+        {
             "Id": 6567,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "KIA",
-        "ModelTrim": "Sorrento",
-        "TowingCapacity": {
+    ],
+    "Sorrento": [
+        {
             "Id": 6568,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "KIA",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 6569,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+{
+    "Ascent": [
+        {
             "Id": 29164,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29165,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+    ],
+    "Crosstrek": [
+        {
             "Id": 497882,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497881,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek (Plug-In Hybrid)",
-        "TowingCapacity": {
+    ],
+    "Crosstrek (Plug-In Hybrid)": [
+        {
             "Id": 497883,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 1000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+    ],
+    "Forester": [
+        {
             "Id": 497737,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +90,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+    ],
+    "Outback": [
+        {
             "Id": 29166,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29167,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,5 +120,5 @@
             "GearRatio": "",
             "TowCapacity": 2700
         }
-    }
-]
+    ]
+}

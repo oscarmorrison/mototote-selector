@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2018,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+{
+    "Durango": [
+        {
             "Id": 16078,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16077,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16080,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16079,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16081,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +70,9 @@
             "GearRatio": null,
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Dodge",
-        "ModelTrim": "Grand Caravan",
-        "TowingCapacity": {
+    ],
+    "Grand Caravan": [
+        {
             "Id": 16082,
             "Year": 2018,
             "TypeDesc": "Passenger Van",
@@ -112,12 +86,9 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Dodge",
-        "ModelTrim": "Journey",
-        "TowingCapacity": {
+    ],
+    "Journey": [
+        {
             "Id": 16084,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Dodge",
-        "ModelTrim": "Journey",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16083,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,5 +116,5 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    }
-]
+    ]
+}

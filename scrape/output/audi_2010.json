@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Audi",
-        "ModelTrim": "Q-5",
-        "TowingCapacity": {
+{
+    "Q-5": [
+        {
             "Id": 7918,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Audi",
-        "ModelTrim": "Q-7",
-        "TowingCapacity": {
+    ],
+    "Q-7": [
+        {
             "Id": 7919,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Audi",
-        "ModelTrim": "Q-7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7920,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Audi",
-        "ModelTrim": "Q-7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7921,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Audi",
-        "ModelTrim": "Q-7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7922,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +72,5 @@
             "GearRatio": null,
             "TowCapacity": 6600
         }
-    }
-]
+    ]
+}

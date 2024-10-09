@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Infinity",
-        "ModelTrim": "QX4",
-        "TowingCapacity": {
+{
+    "QX4": [
+        {
             "Id": 22203,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

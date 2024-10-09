@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+{
+    "Avalanche 1500": [
+        {
             "Id": 12881,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12882,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12884,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12885,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12883,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12886,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -112,12 +84,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7600
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "Equinox",
-        "TowingCapacity": {
+    ],
+    "Equinox": [
+        {
             "Id": 12887,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +100,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "SSR",
-        "TowingCapacity": {
+    ],
+    "SSR": [
+        {
             "Id": 12888,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -150,12 +116,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "TrailBlazer SS",
-        "TowingCapacity": {
+    ],
+    "TrailBlazer SS": [
+        {
             "Id": 12889,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "TrailBlazer SS",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12890,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +146,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Chevrolet",
-        "ModelTrim": "Uplander",
-        "TowingCapacity": {
+    ],
+    "Uplander": [
+        {
             "Id": 12891,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -207,5 +162,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

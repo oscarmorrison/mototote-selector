@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2013,
-        "Make": "KIA",
-        "ModelTrim": "Sorrento",
-        "TowingCapacity": {
+{
+    "Sorrento": [
+        {
             "Id": 5565,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "KIA",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 5566,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

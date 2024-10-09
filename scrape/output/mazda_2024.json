@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5",
-        "TowingCapacity": {
+{
+    "CX-5": [
+        {
             "Id": 550081,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "4.62",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5 (Turbo)",
-        "TowingCapacity": {
+    ],
+    "CX-5 (Turbo)": [
+        {
             "Id": 550082,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "4.41",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mazda",
-        "ModelTrim": "CX-50",
-        "TowingCapacity": {
+    ],
+    "CX-50": [
+        {
             "Id": 550083,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "4.37",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mazda",
-        "ModelTrim": "CX-50 (Turbo)",
-        "TowingCapacity": {
+    ],
+    "CX-50 (Turbo)": [
+        {
             "Id": 550084,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "3.84",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mazda",
-        "ModelTrim": "CX-90  (AWD)",
-        "TowingCapacity": {
+    ],
+    "CX-90  (AWD)": [
+        {
             "Id": 550085,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +77,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.69",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mazda",
-        "ModelTrim": "CX-90  (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550086,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +92,9 @@
             "GearRatio": "3.69",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mazda",
-        "ModelTrim": "CX-90  (PHEV)",
-        "TowingCapacity": {
+    ],
+    "CX-90  (PHEV)": [
+        {
             "Id": 550087,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +108,5 @@
             "GearRatio": "4.44",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

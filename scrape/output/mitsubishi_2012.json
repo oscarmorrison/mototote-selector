@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+{
+    "Outlander": [
+        {
             "Id": 6598,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6599,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

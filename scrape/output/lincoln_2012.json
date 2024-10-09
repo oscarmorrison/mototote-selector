@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "MKT",
-        "TowingCapacity": {
+{
+    "MKT": [
+        {
             "Id": 6577,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "MKX",
-        "TowingCapacity": {
+    ],
+    "MKX": [
+        {
             "Id": 6578,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 6579,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6580,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6583,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6584,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+    ],
+    "Navigator L": [
+        {
             "Id": 6581,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6582,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6585,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6586,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,5 +146,5 @@
             "GearRatio": null,
             "TowCapacity": 8500
         }
-    }
-]
+    ]
+}

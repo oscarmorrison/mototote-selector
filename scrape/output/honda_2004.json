@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Honda",
-        "ModelTrim": "Odyssey LX, EX",
-        "TowingCapacity": {
+{
+    "Odyssey LX, EX": [
+        {
             "Id": 20565,
             "Year": 2004,
             "TypeDesc": "Van",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Honda",
-        "ModelTrim": "Pilot LX, EX",
-        "TowingCapacity": {
+    ],
+    "Pilot LX, EX": [
+        {
             "Id": 20566,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

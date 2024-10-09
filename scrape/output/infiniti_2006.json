@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Infiniti",
-        "ModelTrim": "FX",
-        "TowingCapacity": {
+{
+    "FX": [
+        {
             "Id": 15914,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Infiniti",
-        "ModelTrim": "QX 56",
-        "TowingCapacity": {
+    ],
+    "QX 56": [
+        {
             "Id": 15915,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Infiniti",
-        "ModelTrim": "QX 56",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15916,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": null,
             "TowCapacity": 8900
         }
-    }
-]
+    ]
+}

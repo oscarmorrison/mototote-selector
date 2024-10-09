@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Infiniti",
-        "ModelTrim": "QX4",
-        "TowingCapacity": {
+{
+    "QX4": [
+        {
             "Id": 25794,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

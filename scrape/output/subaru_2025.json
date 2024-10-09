@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2025,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+{
+    "Forester": [
+        {
             "Id": 551980,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551981,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": "",
             "TowCapacity": 3000
         }
-    }
-]
+    ]
+}

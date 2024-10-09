@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Hummer",
-        "ModelTrim": "H1 4dr Open Top",
-        "TowingCapacity": {
+{
+    "H1 4dr Open Top": [
+        {
             "Id": 20567,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 8050
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Hummer",
-        "ModelTrim": "H1 Station Wagon",
-        "TowingCapacity": {
+    ],
+    "H1 Station Wagon": [
+        {
             "Id": 20568,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 7710
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Hummer",
-        "ModelTrim": "H2",
-        "TowingCapacity": {
+    ],
+    "H2": [
+        {
             "Id": 20569,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 6700
         }
-    }
-]
+    ]
+}

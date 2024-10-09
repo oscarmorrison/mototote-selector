@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Caliber",
-        "TowingCapacity": {
+{
+    "Caliber": [
+        {
             "Id": 11269,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Charger",
-        "TowingCapacity": {
+    ],
+    "Charger": [
+        {
             "Id": 11270,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Charger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11271,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Dakota Crew Cab Short Bed": [
+        {
             "Id": 11284,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11285,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11283,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 3150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11287,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11286,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11288,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -169,12 +130,9 @@
             "GearRatio": "3.55.1",
             "TowCapacity": 5550
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Dakota Extended Cab Short Bed": [
+        {
             "Id": 11275,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -187,13 +145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 4550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11276,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -206,13 +159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11274,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -225,13 +173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 3250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11280,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -244,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11279,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -263,13 +201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11277,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -282,13 +215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11278,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -301,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 7050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11281,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -320,13 +243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11282,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -340,12 +258,9 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 6800
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+    ],
+    "Durango": [
+        {
             "Id": 11289,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 3850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11290,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -377,13 +287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11293,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11291,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11292,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -434,13 +329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11294,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -453,13 +343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11295,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -473,12 +358,9 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Grand Caravan",
-        "TowingCapacity": {
+    ],
+    "Grand Caravan": [
+        {
             "Id": 11272,
             "Year": 2008,
             "TypeDesc": "Van",
@@ -491,13 +373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Grand Caravan",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11273,
             "Year": 2008,
             "TypeDesc": "Van",
@@ -511,12 +388,9 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Magnum",
-        "TowingCapacity": {
+    ],
+    "Magnum": [
+        {
             "Id": 11296,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -529,13 +403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Magnum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11297,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -548,13 +417,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Magnum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11298,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -568,12 +432,9 @@
             "GearRatio": null,
             "TowCapacity": 3800
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Magnum SRTB",
-        "TowingCapacity": {
+    ],
+    "Magnum SRTB": [
+        {
             "Id": 11299,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -587,12 +448,9 @@
             "GearRatio": null,
             "TowCapacity": 3800
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge",
-        "ModelTrim": "Sprinter",
-        "TowingCapacity": {
+    ],
+    "Sprinter": [
+        {
             "Id": 11545,
             "Year": 2008,
             "TypeDesc": "Van",
@@ -606,5 +464,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

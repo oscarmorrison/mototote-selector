@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Volkswagen",
-        "ModelTrim": "EuroVAN",
-        "TowingCapacity": {
+{
+    "EuroVAN": [
+        {
             "Id": 18081,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Volkswagen",
-        "ModelTrim": "Touareg",
-        "TowingCapacity": {
+    ],
+    "Touareg": [
+        {
             "Id": 18082,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Volkswagen",
-        "ModelTrim": "Touareg",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18083,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

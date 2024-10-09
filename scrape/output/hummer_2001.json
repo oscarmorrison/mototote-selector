@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Hummer",
-        "ModelTrim": "Hummer 2 Door Hardtop",
-        "TowingCapacity": {
+{
+    "Hummer 2 Door Hardtop": [
+        {
             "Id": 25787,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Hummer",
-        "ModelTrim": "Hummer 4 Door Hardtop",
-        "TowingCapacity": {
+    ],
+    "Hummer 4 Door Hardtop": [
+        {
             "Id": 25788,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Hummer",
-        "ModelTrim": "Hummer 4 Door Open Top",
-        "TowingCapacity": {
+    ],
+    "Hummer 4 Door Open Top": [
+        {
             "Id": 25789,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 8050
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Hummer",
-        "ModelTrim": "Station Wagon",
-        "TowingCapacity": {
+    ],
+    "Station Wagon": [
+        {
             "Id": 25790,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": null,
             "TowCapacity": 7710
         }
-    }
-]
+    ]
+}

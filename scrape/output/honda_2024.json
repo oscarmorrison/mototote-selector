@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Honda",
-        "ModelTrim": "Odyssey",
-        "TowingCapacity": {
+{
+    "Odyssey": [
+        {
             "Id": 545284,
             "Year": 2024,
             "TypeDesc": "Minivan",
@@ -17,12 +14,9 @@
             "GearRatio": "3.61",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Honda",
-        "ModelTrim": "Passport",
-        "TowingCapacity": {
+    ],
+    "Passport": [
+        {
             "Id": 545287,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.33",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Honda",
-        "ModelTrim": "Passport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545288,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": "4.33",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+    ],
+    "Pilot": [
+        {
             "Id": 545283,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545282,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Honda",
-        "ModelTrim": "Ridgeline",
-        "TowingCapacity": {
+    ],
+    "Ridgeline": [
+        {
             "Id": 545300,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -112,5 +90,5 @@
             "GearRatio": "4.33",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

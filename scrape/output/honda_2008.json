@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Honda",
-        "ModelTrim": "Odyssey",
-        "TowingCapacity": {
+{
+    "Odyssey": [
+        {
             "Id": 12646,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+    ],
+    "Pilot": [
+        {
             "Id": 12647,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Honda",
-        "ModelTrim": "Ridgeline",
-        "TowingCapacity": {
+    ],
+    "Ridgeline": [
+        {
             "Id": 12648,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

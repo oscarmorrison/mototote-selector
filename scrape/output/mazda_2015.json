@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2015,
-        "Make": "Mazda",
-        "ModelTrim": "CX5",
-        "TowingCapacity": {
+{
+    "CX5": [
+        {
             "Id": 3351,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Mazda",
-        "ModelTrim": "CX9",
-        "TowingCapacity": {
+    ],
+    "CX9": [
+        {
             "Id": 3352,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

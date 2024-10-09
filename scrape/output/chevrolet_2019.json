@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+{
+    "Blazer": [
+        {
             "Id": 27516,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado",
-        "TowingCapacity": {
+    ],
+    "Colorado": [
+        {
             "Id": 27510,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27511,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27512,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27514,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Colorado Extended Cab": [
+        {
             "Id": 27513,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado ZR2",
-        "TowingCapacity": {
+    ],
+    "Colorado ZR2": [
+        {
             "Id": 27515,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Epress 3500 Long Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Epress 3500 Long Wheelbase": [
+        {
             "Id": 27538,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -150,12 +120,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Equinox",
-        "TowingCapacity": {
+    ],
+    "Equinox": [
+        {
             "Id": 27517,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +136,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500",
-        "TowingCapacity": {
+    ],
+    "Express 2500": [
+        {
             "Id": 27521,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -187,13 +151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27527,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -206,13 +165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27519,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -225,13 +179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27525,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -244,13 +193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27520,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -263,13 +207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27526,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -283,12 +222,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Long Wheelbase": [
+        {
             "Id": 27524,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -301,13 +237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27522,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -320,13 +251,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27523,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -340,12 +266,9 @@
             "GearRatio": null,
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500",
-        "TowingCapacity": {
+    ],
+    "Express 3500": [
+        {
             "Id": 27530,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -358,13 +281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27536,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -377,13 +295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27528,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -396,13 +309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27534,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -415,13 +323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27529,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -434,13 +337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27535,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -454,12 +352,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Long Wheelbase": [
+        {
             "Id": 27533,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -472,13 +367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27539,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -491,13 +381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27531,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -510,13 +395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27537,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -529,13 +409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27532,
             "Year": 2019,
             "TypeDesc": "Cargo Van",
@@ -549,12 +424,9 @@
             "GearRatio": null,
             "TowCapacity": 9900
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Crew Cab Short Bed": [
+        {
             "Id": 27562,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -567,13 +439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27566,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -586,13 +453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27563,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -605,13 +467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27567,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -624,13 +481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27564,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -643,13 +495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1 or 3.42:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27565,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -662,13 +509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27569,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -681,13 +523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27571,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -700,13 +537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27572,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -719,13 +551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27573,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -738,13 +565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27574,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -758,12 +580,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 12100
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed Trail Boss",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Crew Cab Short Bed Trail Boss": [
+        {
             "Id": 27568,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -776,13 +595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Bed Trail Boss",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27570,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -796,12 +610,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Double Cab": [
+        {
             "Id": 27544,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -814,13 +625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27549,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -833,13 +639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27545,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -852,13 +653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27550,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -871,13 +667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27546,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -890,13 +681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27547,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -909,13 +695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27548,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -928,13 +709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27552,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -947,13 +723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27553,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -966,13 +737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27554,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -985,13 +751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27556,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1004,13 +765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27557,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1024,12 +780,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 12200
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab Trail Boss",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Double Cab Trail Boss": [
+        {
             "Id": 27551,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1042,13 +795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Double Cab Trail Boss",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27555,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1062,12 +810,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Double Cab",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Long Bed Double Cab": [
+        {
             "Id": 27558,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1080,13 +825,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27559,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1099,13 +839,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27560,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1118,13 +853,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27561,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1138,12 +868,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Regular Cab Long Bed": [
+        {
             "Id": 27540,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1156,13 +883,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27542,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1175,13 +897,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27541,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1194,13 +911,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27543,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1214,12 +926,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9900
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Standard Bed": [
+        {
             "Id": 27576,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1232,13 +941,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27582,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1251,13 +955,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27575,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1270,13 +969,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27580,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1289,13 +983,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27577,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1308,13 +997,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27578,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1327,13 +1011,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27579,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1346,13 +1025,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27585,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1365,13 +1039,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27583,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1384,13 +1053,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27588,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1403,13 +1067,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27590,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1422,13 +1081,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27591,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1442,12 +1096,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 12000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed AT4",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Standard Bed AT4": [
+        {
             "Id": 27587,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1460,13 +1111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed AT4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27589,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1480,12 +1126,9 @@
             "GearRatio": "3.23:1",
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed Trail Boss",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Standard Bed Trail Boss": [
+        {
             "Id": 27581,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1498,13 +1141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed Trail Boss",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27586,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1517,13 +1155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Standard Bed Trail Boss",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27584,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1537,12 +1170,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Long Bed": [
+        {
             "Id": 27616,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1555,13 +1185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27617,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1574,13 +1199,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27618,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1593,13 +1213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27619,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1612,13 +1227,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27622,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1631,13 +1241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27623,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1650,13 +1255,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27624,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1669,13 +1269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27625,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1688,13 +1283,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27620,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1707,13 +1297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27621,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1726,13 +1311,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27626,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1745,13 +1325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27627,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1765,12 +1340,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Standard Bed": [
+        {
             "Id": 27604,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1783,13 +1355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27605,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1802,13 +1369,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27606,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1821,13 +1383,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27607,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1840,13 +1397,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27610,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1859,13 +1411,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27611,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1878,13 +1425,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27612,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1897,13 +1439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27613,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1916,13 +1453,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27608,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1935,13 +1467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27609,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1954,13 +1481,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27614,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1973,13 +1495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27615,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1993,12 +1510,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Double Cab Long Bed": [
+        {
             "Id": 27596,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2011,13 +1525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27597,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2030,13 +1539,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27598,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2049,13 +1553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27599,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2068,13 +1567,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27600,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2087,13 +1581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27601,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2106,13 +1595,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27602,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2125,13 +1609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27603,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2145,12 +1624,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Double Cab Standard Bed": [
+        {
             "Id": 27592,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2163,13 +1639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27593,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2182,13 +1653,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27594,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2201,13 +1667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27595,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2221,12 +1682,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 27646,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2239,13 +1697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27647,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2258,13 +1711,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27648,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2277,13 +1725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27649,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2296,13 +1739,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27658,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2315,13 +1753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27659,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2334,13 +1767,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27660,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2353,13 +1781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27661,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2372,13 +1795,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27650,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2391,13 +1809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27651,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2410,13 +1823,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 23100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27662,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2429,13 +1837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27663,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2449,12 +1852,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 22700
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 27640,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2467,13 +1867,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27641,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2486,13 +1881,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27642,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2505,13 +1895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27643,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2524,13 +1909,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27652,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2543,13 +1923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27653,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2562,13 +1937,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27654,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2581,13 +1951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27655,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2600,13 +1965,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27644,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2619,13 +1979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27645,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2638,13 +1993,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27656,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2657,13 +2007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27657,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2677,12 +2022,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel": [
+        {
             "Id": 27628,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2695,13 +2037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27629,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2714,13 +2051,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27630,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2733,13 +2065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27631,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2752,13 +2079,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27634,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2771,13 +2093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27635,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2790,13 +2107,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27636,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2809,13 +2121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27637,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2828,13 +2135,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27632,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2847,13 +2149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27633,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2866,13 +2163,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27638,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2885,13 +2177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27639,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2905,12 +2192,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17200
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+    ],
+    "Suburban": [
+        {
             "Id": 27664,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -2923,13 +2207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27665,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -2942,13 +2221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27666,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -2961,13 +2235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27667,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -2981,12 +2250,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban RST",
-        "TowingCapacity": {
+    ],
+    "Suburban RST": [
+        {
             "Id": 27668,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3000,12 +2266,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+    ],
+    "Tahoe": [
+        {
             "Id": 27670,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3018,13 +2281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27669,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3037,13 +2295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27671,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3056,13 +2309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27672,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3075,13 +2323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27673,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3094,13 +2337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27674,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3114,12 +2352,9 @@
             "GearRatio": "3.23:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+    ],
+    "Traverse": [
+        {
             "Id": 27518,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3133,5 +2368,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

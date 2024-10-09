@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro Cargo Van",
-        "TowingCapacity": {
+{
+    "Astro Cargo Van": [
+        {
             "Id": 24043,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24044,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24041,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24042,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -74,12 +56,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Astro Passenger Van": [
+        {
             "Id": 24047,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24048,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24045,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24046,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -150,12 +114,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500 Crew Cab UUV",
-        "TowingCapacity": {
+    ],
+    "Avalanche 1500 Crew Cab UUV": [
+        {
             "Id": 24475,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -169,12 +130,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1501 Crew Cab UUV",
-        "TowingCapacity": {
+    ],
+    "Avalanche 1501 Crew Cab UUV": [
+        {
             "Id": 24476,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -188,12 +146,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1502 Crew Cab UUV",
-        "TowingCapacity": {
+    ],
+    "Avalanche 1502 Crew Cab UUV": [
+        {
             "Id": 24477,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -207,12 +162,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1503 Crew Cab UUV",
-        "TowingCapacity": {
+    ],
+    "Avalanche 1503 Crew Cab UUV": [
+        {
             "Id": 24478,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -226,12 +178,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 2 Door",
-        "TowingCapacity": {
+    ],
+    "Blazer 2 Door": [
+        {
             "Id": 24049,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 2 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24050,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 2 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24051,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 2 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24052,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 2 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24053,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 2 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24054,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,12 +264,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 3900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 4 Door",
-        "TowingCapacity": {
+    ],
+    "Blazer 4 Door": [
+        {
             "Id": 24055,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 4 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24056,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -377,13 +293,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 4 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24057,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +307,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 4 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24058,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +321,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer 4 Door",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24059,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -435,12 +336,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 3700
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer ZR2",
-        "TowingCapacity": {
+    ],
+    "Blazer ZR2": [
+        {
             "Id": 24060,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -454,12 +352,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4800
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer ZR3",
-        "TowingCapacity": {
+    ],
+    "Blazer ZR3": [
+        {
             "Id": 24061,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -473,12 +368,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4300
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Denali 1500",
-        "TowingCapacity": {
+    ],
+    "Denali 1500": [
+        {
             "Id": 24062,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -492,12 +384,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express G1500 Cargo Van": [
+        {
             "Id": 24063,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -510,13 +399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24064,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -529,13 +413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24065,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -548,13 +427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24066,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -568,12 +442,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express G1500 Passenger Van": [
+        {
             "Id": 24067,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -586,13 +457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24068,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -605,13 +471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24069,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -624,13 +485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24070,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -643,13 +499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24071,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -663,12 +514,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express G2500 Cargo Van": [
+        {
             "Id": 24072,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -681,13 +529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24073,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -700,13 +543,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24074,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -720,12 +558,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Express G2500 Cargo Van Heavy Duty": [
+        {
             "Id": 24075,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -738,13 +573,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24076,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -757,13 +587,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24077,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -776,13 +601,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24078,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -796,12 +616,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express G2500 Long Wheel Base Cargo Van": [
+        {
             "Id": 24079,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -814,13 +631,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24080,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -833,13 +645,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24081,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -853,12 +660,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Express G2500 Long Wheel Base Cargo Van Heavy Duty": [
+        {
             "Id": 24082,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -871,13 +675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24083,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -890,13 +689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24084,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -909,13 +703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24085,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -929,12 +718,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express G2500 Long Wheel Base Passenger Van": [
+        {
             "Id": 24086,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -947,13 +733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24087,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -967,12 +748,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express G2500 Passenger Van": [
+        {
             "Id": 24088,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -985,13 +763,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24089,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1004,13 +777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24090,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1024,12 +792,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express G3500 Cargo Van": [
+        {
             "Id": 24091,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1042,13 +807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24092,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1061,13 +821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24096,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1080,13 +835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24093,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1099,13 +849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24094,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1118,13 +863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24095,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1138,12 +878,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express G3500 Long Wheel Base Cargo Van": [
+        {
             "Id": 24097,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1156,13 +893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24098,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1175,13 +907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24102,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1194,13 +921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24099,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1213,13 +935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24100,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1232,13 +949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24101,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1252,12 +964,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express G3500 Long Wheel Base Passenger Van": [
+        {
             "Id": 24103,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1270,13 +979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24109,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1289,13 +993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24104,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1308,13 +1007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24110,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1327,13 +1021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24108,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1346,13 +1035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24114,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1365,13 +1049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24105,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1384,13 +1063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24111,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1403,13 +1077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24106,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1422,13 +1091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24112,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1441,13 +1105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24107,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1460,13 +1119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24113,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1480,12 +1134,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express G3500 Passenger Van": [
+        {
             "Id": 24115,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1498,13 +1149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24121,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1517,13 +1163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24116,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1536,13 +1177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24122,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1555,13 +1191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24120,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1574,13 +1205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24126,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1593,13 +1219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24117,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1612,13 +1233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24123,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1631,13 +1247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24118,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1650,13 +1261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24124,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1669,13 +1275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24119,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1688,13 +1289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24125,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -1708,12 +1304,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "S-10 Crew Cab": [
+        {
             "Id": 24127,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1727,12 +1320,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Extended Cab",
-        "TowingCapacity": {
+    ],
+    "S-10 Extended Cab": [
+        {
             "Id": 24129,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1745,13 +1335,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24128,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1764,13 +1349,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24134,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1783,13 +1363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24133,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1802,13 +1377,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24131,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1821,13 +1391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24132,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1840,13 +1405,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24130,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1860,12 +1420,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 3800
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Longbed",
-        "TowingCapacity": {
+    ],
+    "S-10 Longbed": [
+        {
             "Id": 24136,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1878,13 +1435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24135,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1897,13 +1449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24138,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1916,13 +1463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24139,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1935,13 +1477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24137,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1955,12 +1492,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 3900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Regular Cab",
-        "TowingCapacity": {
+    ],
+    "S-10 Regular Cab": [
+        {
             "Id": 24140,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1973,13 +1507,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24145,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1992,13 +1521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24144,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2011,13 +1535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24141,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2030,13 +1549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24142,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2049,13 +1563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24143,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2069,12 +1578,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 ZR2",
-        "TowingCapacity": {
+    ],
+    "S-10 ZR2": [
+        {
             "Id": 24146,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2088,12 +1594,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10 ZR3",
-        "TowingCapacity": {
+    ],
+    "S-10 ZR3": [
+        {
             "Id": 24147,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2107,12 +1610,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Crew Cab Light Duty": [
+        {
             "Id": 24150,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2125,13 +1625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24156,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2144,13 +1639,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24151,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2163,13 +1653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24157,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2182,13 +1667,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24158,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2201,13 +1681,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24159,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2220,13 +1695,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24148,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2239,13 +1709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24152,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2258,13 +1723,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24149,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2277,13 +1737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24153,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2296,13 +1751,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24154,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2315,13 +1765,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24155,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2335,12 +1780,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10300
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Extended Cab Light Duty": [
+        {
             "Id": 24160,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2353,13 +1795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24161,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2372,13 +1809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24171,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2391,13 +1823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 3900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24166,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2410,13 +1837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24180,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2429,13 +1851,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24167,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2448,13 +1865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24181,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2467,13 +1879,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24174,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2486,13 +1893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24175,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2505,13 +1907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24162,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2524,13 +1921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24176,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2543,13 +1935,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24163,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2562,13 +1949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24177,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2581,13 +1963,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24172,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2600,13 +1977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24173,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2619,13 +1991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24168,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2638,13 +2005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24182,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2657,13 +2019,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24169,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2676,13 +2033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24183,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2695,13 +2047,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24164,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2714,13 +2061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24178,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2733,13 +2075,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24165,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2752,13 +2089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24179,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2771,13 +2103,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24170,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2790,13 +2117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24184,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2809,13 +2131,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24185,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2829,12 +2146,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Light Duty": [
+        {
             "Id": 24218,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2847,13 +2161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24219,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2866,13 +2175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24228,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2885,13 +2189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 3900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24229,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2904,13 +2203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24212,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2923,13 +2217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24213,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2942,13 +2231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24224,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2961,13 +2245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 3700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24225,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2980,13 +2259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24220,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2999,13 +2273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24236,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3018,13 +2287,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24221,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3037,13 +2301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24237,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3056,13 +2315,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24230,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3075,13 +2329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24231,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3094,13 +2343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24214,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3113,13 +2357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24232,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3132,13 +2371,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24215,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3151,13 +2385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24233,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3170,13 +2399,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24226,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3189,13 +2413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24227,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3208,13 +2427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24222,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3227,13 +2441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24238,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3246,13 +2455,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24223,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3265,13 +2469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24239,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3284,13 +2483,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24216,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3303,13 +2497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24234,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3322,13 +2511,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24217,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3341,13 +2525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24235,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3361,12 +2540,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Long Bed Extended Cab Light Duty": [
+        {
             "Id": 24190,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3379,13 +2555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24202,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3398,13 +2569,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24191,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3417,13 +2583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24203,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3436,13 +2597,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24196,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3455,13 +2611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24197,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3474,13 +2625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24186,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3493,13 +2639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24198,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3512,13 +2653,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24187,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3531,13 +2667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24199,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3550,13 +2681,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24194,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3569,13 +2695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24195,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3588,13 +2709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24192,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3607,13 +2723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24204,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3626,13 +2737,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24193,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3645,13 +2751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24205,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3664,13 +2765,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24188,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3683,13 +2779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24200,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3702,13 +2793,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24189,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3721,13 +2807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24201,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3741,12 +2822,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Long Bed Light Duty": [
+        {
             "Id": 24240,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3759,13 +2837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24241,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3778,13 +2851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24250,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3797,13 +2865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24251,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3816,13 +2879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24206,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3835,13 +2893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24207,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3854,13 +2907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24246,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3873,13 +2921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24247,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3892,13 +2935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24242,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3911,13 +2949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24258,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3930,13 +2963,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24243,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3949,13 +2977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24259,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3968,13 +2991,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24252,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3987,13 +3005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24253,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4006,13 +3019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24208,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4025,13 +3033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24254,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4044,13 +3047,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24209,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4063,13 +3061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24255,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4082,13 +3075,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24248,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4101,13 +3089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24249,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4120,13 +3103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24244,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4139,13 +3117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24260,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4158,13 +3131,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24245,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4177,13 +3145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24261,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4196,13 +3159,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24210,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4215,13 +3173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24256,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4234,13 +3187,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24211,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4253,13 +3201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24257,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4273,12 +3216,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Heavy Duty": [
+        {
             "Id": 24266,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4291,13 +3231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24274,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4310,13 +3245,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24282,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4329,13 +3259,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24262,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4348,13 +3273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24270,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4367,13 +3287,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24278,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4386,13 +3301,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24268,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4405,13 +3315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24277,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4424,13 +3329,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24285,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4443,13 +3343,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24264,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4462,13 +3357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24273,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4481,13 +3371,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24281,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4500,13 +3385,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24267,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4519,13 +3399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24275,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4538,13 +3413,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24276,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4557,13 +3427,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24283,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4576,13 +3441,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24269,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4595,13 +3455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24284,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4614,13 +3469,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24263,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4633,13 +3483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24271,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4652,13 +3497,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24272,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4671,13 +3511,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24279,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4690,13 +3525,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24265,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4709,13 +3539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24280,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4729,12 +3554,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Extended Cab Heavy Duty": [
+        {
             "Id": 24290,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4747,13 +3569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24298,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4766,13 +3583,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24306,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4785,13 +3597,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24286,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4804,13 +3611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24294,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4823,13 +3625,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24302,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4842,13 +3639,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24292,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4861,13 +3653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24301,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4880,13 +3667,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24309,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4899,13 +3681,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24288,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4918,13 +3695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24297,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4937,13 +3709,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24305,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4956,13 +3723,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24291,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4975,13 +3737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24299,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -4994,13 +3751,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24300,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5013,13 +3765,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24307,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5032,13 +3779,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24293,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5051,13 +3793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24308,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5070,13 +3807,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24287,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5089,13 +3821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24295,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5108,13 +3835,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24296,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5127,13 +3849,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24303,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5146,13 +3863,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24289,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5165,13 +3877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24304,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5185,12 +3892,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Light Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Extended Cab Light Duty": [
+        {
             "Id": 24310,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5203,13 +3907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24314,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5222,13 +3921,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24311,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5241,13 +3935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24315,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5260,13 +3949,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24312,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5279,13 +3963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24316,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5298,13 +3977,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24313,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5317,13 +3991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24317,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5337,12 +4006,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Long Bed Crew Cab Heavy Duty": [
+        {
             "Id": 24322,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5355,13 +4021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24330,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5374,13 +4035,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24338,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5393,13 +4049,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24318,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5412,13 +4063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24326,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5431,13 +4077,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24334,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5450,13 +4091,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24324,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5469,13 +4105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24333,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5488,13 +4119,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24341,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5507,13 +4133,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24320,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5526,13 +4147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24329,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5545,13 +4161,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24337,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5564,13 +4175,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24323,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5583,13 +4189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24331,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5602,13 +4203,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24332,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5621,13 +4217,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24339,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5640,13 +4231,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24325,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5659,13 +4245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24340,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5678,13 +4259,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24319,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5697,13 +4273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24327,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5716,13 +4287,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24328,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5735,13 +4301,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24335,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5754,13 +4315,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24321,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5773,13 +4329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24336,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5793,12 +4344,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Long Bed Extended Cab Heavy Duty": [
+        {
             "Id": 24346,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5811,13 +4359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24354,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5830,13 +4373,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24362,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5849,13 +4387,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24342,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5868,13 +4401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24350,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5887,13 +4415,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24358,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5906,13 +4429,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24348,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5925,13 +4443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24357,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5944,13 +4457,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24365,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5963,13 +4471,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24344,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -5982,13 +4485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24353,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6001,13 +4499,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24361,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6020,13 +4513,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24347,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6039,13 +4527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24355,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6058,13 +4541,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24356,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6077,13 +4555,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24363,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6096,13 +4569,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24349,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6115,13 +4583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24364,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6134,13 +4597,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24343,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6153,13 +4611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24351,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6172,13 +4625,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24352,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6191,13 +4639,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24359,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6210,13 +4653,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24345,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6229,13 +4667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24360,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6249,12 +4682,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Long Bed Heavy Duty": [
+        {
             "Id": 24370,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6267,13 +4697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24378,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6286,13 +4711,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24386,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6305,13 +4725,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24366,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6324,13 +4739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24374,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6343,13 +4753,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24382,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6362,13 +4767,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24372,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6381,13 +4781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24381,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6400,13 +4795,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24389,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6419,13 +4809,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24368,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6438,13 +4823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24377,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6457,13 +4837,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24385,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6476,13 +4851,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24371,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6495,13 +4865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24379,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6514,13 +4879,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24380,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6533,13 +4893,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24387,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6552,13 +4907,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24373,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6571,13 +4921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24388,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6590,13 +4935,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24367,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6609,13 +4949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24375,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6628,13 +4963,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24376,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6647,13 +4977,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24383,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6666,13 +4991,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24369,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6685,13 +5005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24384,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6705,12 +5020,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Light Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Long Bed Light Duty": [
+        {
             "Id": 24390,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6723,13 +5035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24394,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6742,13 +5049,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24391,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6761,13 +5063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24395,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6780,13 +5077,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24392,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6799,13 +5091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24396,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6818,13 +5105,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24393,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6837,13 +5119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Long Bed Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24397,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6857,12 +5134,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Long Bed Crew Cab Heavy Duty": [
+        {
             "Id": 24401,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6875,13 +5149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24407,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6894,13 +5163,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24413,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6913,13 +5177,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24398,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6932,13 +5191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24404,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6951,13 +5205,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24410,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6970,13 +5219,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24403,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -6989,13 +5233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24409,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7008,13 +5247,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24415,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7027,13 +5261,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24400,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7046,13 +5275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24406,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7065,13 +5289,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24412,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7084,13 +5303,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24402,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7103,13 +5317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24408,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7122,13 +5331,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24414,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7141,13 +5345,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24399,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7160,13 +5359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24405,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7179,13 +5373,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Crew Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24411,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7199,12 +5388,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15200
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Long Bed Extended Cab Heavy Duty": [
+        {
             "Id": 24419,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7217,13 +5403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24425,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7236,13 +5417,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24431,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7255,13 +5431,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24416,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7274,13 +5445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24422,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7293,13 +5459,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24428,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7312,13 +5473,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24421,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7331,13 +5487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24427,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7350,13 +5501,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24433,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7369,13 +5515,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24418,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7388,13 +5529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24424,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7407,13 +5543,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24430,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7426,13 +5557,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24420,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7445,13 +5571,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24426,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7464,13 +5585,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24432,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7483,13 +5599,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24417,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7502,13 +5613,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24423,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7521,13 +5627,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Extended Cab Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24429,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7541,12 +5642,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Long Bed Heavy Duty": [
+        {
             "Id": 24437,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7559,13 +5657,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24443,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7578,13 +5671,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24449,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7597,13 +5685,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24434,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7616,13 +5699,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24440,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7635,13 +5713,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24446,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7654,13 +5727,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24439,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7673,13 +5741,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24445,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7692,13 +5755,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24451,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7711,13 +5769,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24436,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7730,13 +5783,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24442,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7749,13 +5797,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24448,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7768,13 +5811,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24438,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7787,13 +5825,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24444,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7806,13 +5839,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24450,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7825,13 +5853,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24435,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7844,13 +5867,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24441,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7863,13 +5881,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Long Bed Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24447,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7883,12 +5896,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15700
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado C3 1500",
-        "TowingCapacity": {
+    ],
+    "Silverado C3 1500": [
+        {
             "Id": 24452,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7901,13 +5911,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado C3 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24453,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -7921,12 +5926,9 @@
             "GearRatio": null,
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+    ],
+    "Suburban": [
+        {
             "Id": 24456,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7939,13 +5941,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24457,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7958,13 +5955,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24454,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7977,13 +5969,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24455,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7996,13 +5983,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24462,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8015,13 +5997,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24463,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8034,13 +6011,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24458,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8053,13 +6025,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24459,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8072,13 +6039,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24464,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8091,13 +6053,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24465,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8110,13 +6067,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24460,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8129,13 +6081,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24461,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8149,12 +6096,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+    ],
+    "Tahoe 1500": [
+        {
             "Id": 24470,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8167,13 +6111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24471,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8186,13 +6125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24466,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8205,13 +6139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24467,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8224,13 +6153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24472,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8243,13 +6167,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24473,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8262,13 +6181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24468,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8281,13 +6195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24469,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -8301,12 +6210,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Chevrolet",
-        "ModelTrim": "Venture",
-        "TowingCapacity": {
+    ],
+    "Venture": [
+        {
             "Id": 24474,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -8320,5 +6226,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

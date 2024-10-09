@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+{
+    "Acadia": [
+        {
             "Id": 29066,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Canyon Crew Cab Short Bed": [
+        {
             "Id": 29472,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29473,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29475,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29474,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29476,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -112,12 +86,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Canyon Crew Cab Standard Bed": [
+        {
             "Id": 29477,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29479,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29478,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29480,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -188,12 +144,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Canyon Extended Cab": [
+        {
             "Id": 29481,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -206,13 +159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29484,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -225,13 +173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29482,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -244,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29485,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -263,13 +201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29483,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -282,13 +215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29486,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -302,12 +230,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Savana 2500 Long Wheelbase Cargo Van": [
+        {
             "Id": 28930,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -320,13 +245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28931,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -339,13 +259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28932,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -359,12 +274,9 @@
             "GearRatio": "",
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Savana 2500 Short Wheelbase Cargo Van": [
+        {
             "Id": 28933,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -377,13 +289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28934,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -396,13 +303,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28935,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -416,12 +318,9 @@
             "GearRatio": "",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheelbase Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Savana 2500 Short Wheelbase Passenger Van": [
+        {
             "Id": 28936,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -434,13 +333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheelbase Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28937,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -453,13 +347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheelbase Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28938,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -473,12 +362,9 @@
             "GearRatio": "",
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Savana 3500 Long Wheelbase Cargo Van": [
+        {
             "Id": 28939,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -491,13 +377,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28940,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -510,13 +391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28941,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -530,12 +406,9 @@
             "GearRatio": "",
             "TowCapacity": 9900
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheelbase Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Savana 3500 Long Wheelbase Passenger Van": [
+        {
             "Id": 28942,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -548,13 +421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheelbase Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28943,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -567,13 +435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheelbase Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28944,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -587,12 +450,9 @@
             "GearRatio": "",
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Savana 3500 Short Wheelbase Cargo Van": [
+        {
             "Id": 28945,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -605,13 +465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28946,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -624,13 +479,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28947,
             "Year": 2020,
             "TypeDesc": "Cargo Van",
@@ -644,12 +494,9 @@
             "GearRatio": "",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab Short Bed": [
+        {
             "Id": 29487,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -662,13 +509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29493,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -681,13 +523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29488,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -700,13 +537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29494,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -719,13 +551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29489,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -738,13 +565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29495,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -757,13 +579,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29491,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -776,13 +593,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29490,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -795,13 +607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29492,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -814,13 +621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29497,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -833,13 +635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29496,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -852,13 +649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29498,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -871,13 +663,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29499,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -890,13 +677,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29500,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -910,12 +692,9 @@
             "GearRatio": "",
             "TowCapacity": 12000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed AT4",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab Short Bed AT4": [
+        {
             "Id": 29501,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -928,13 +707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed AT4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29502,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -948,12 +722,9 @@
             "GearRatio": "",
             "TowCapacity": 9200
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab Standard Bed": [
+        {
             "Id": 29503,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -966,13 +737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29511,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -985,13 +751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29504,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1004,13 +765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29512,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1023,13 +779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29505,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1042,13 +793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29513,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1061,13 +807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29506,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1080,13 +821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29507,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1099,13 +835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29508,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1118,13 +849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29515,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1137,13 +863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29514,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1156,13 +877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29516,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1175,13 +891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29509,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1194,13 +905,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29510,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1213,13 +919,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29517,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1232,13 +933,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29518,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1252,12 +948,9 @@
             "GearRatio": "",
             "TowCapacity": 12000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed  AT4",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab Standard Bed  AT4": [
+        {
             "Id": 29519,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1271,12 +964,9 @@
             "GearRatio": "",
             "TowCapacity": 9200
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Double Cab": [
+        {
             "Id": 29520,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1289,13 +979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29526,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1308,13 +993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29521,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1327,13 +1007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29527,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1346,13 +1021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29522,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1365,13 +1035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29528,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1384,13 +1049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29524,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1403,13 +1063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29523,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1422,13 +1077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29525,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1441,13 +1091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29529,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1460,13 +1105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29530,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1479,13 +1119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29531,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1498,13 +1133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29532,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1517,13 +1147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29533,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1537,12 +1162,9 @@
             "GearRatio": "",
             "TowCapacity": 12100
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Regular Cab Long Bed": [
+        {
             "Id": 29534,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1555,13 +1177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29536,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1574,13 +1191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29535,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1593,13 +1205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29537,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1613,12 +1220,9 @@
             "GearRatio": "",
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Crew Cab Long Bed": [
+        {
             "Id": 29538,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1631,13 +1235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29539,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1650,13 +1249,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16840
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29542,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1669,13 +1263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29543,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1688,13 +1277,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16650
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29540,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1707,13 +1291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29541,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1726,13 +1305,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29544,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1745,13 +1319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29545,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1765,12 +1334,9 @@
             "GearRatio": "",
             "TowCapacity": 18500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Crew Cab Standard Bed": [
+        {
             "Id": 29546,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1783,13 +1349,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29547,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1802,13 +1363,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16940
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29550,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1821,13 +1377,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29551,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1840,13 +1391,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16650
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29548,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1859,13 +1405,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29549,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1878,13 +1419,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29552,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1897,13 +1433,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29553,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1917,12 +1448,9 @@
             "GearRatio": "",
             "TowCapacity": 18500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Double Cab Long Bed": [
+        {
             "Id": 29554,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1935,13 +1463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29555,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1954,13 +1477,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16930
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29558,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1973,13 +1491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29559,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -1992,13 +1505,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16740
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29556,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2011,13 +1519,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29557,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2030,13 +1533,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 18040
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29560,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2049,13 +1547,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29561,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2069,12 +1562,9 @@
             "GearRatio": "",
             "TowCapacity": 17750
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Double Cab Standard Bed": [
+        {
             "Id": 29562,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2087,13 +1577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29563,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2106,13 +1591,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 17050
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29566,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2125,13 +1605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29567,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2144,13 +1619,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16740
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29564,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2163,13 +1633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29565,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2182,13 +1647,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 18200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29568,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2201,13 +1661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29569,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2221,12 +1676,9 @@
             "GearRatio": "",
             "TowCapacity": 17890
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Regular Cab Long Bed": [
+        {
             "Id": 29570,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2239,13 +1691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29571,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2258,13 +1705,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 17370
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29574,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2277,13 +1719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29575,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2296,13 +1733,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 17060
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29572,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2315,13 +1747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29573,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2334,13 +1761,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 18510
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29576,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2353,13 +1775,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29577,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2373,12 +1790,9 @@
             "GearRatio": "",
             "TowCapacity": 18190
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 29579,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2391,13 +1805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29578,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2410,13 +1819,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29583,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2429,13 +1833,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29582,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2448,13 +1847,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16180
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29580,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2467,13 +1861,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29581,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2486,13 +1875,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 31400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29584,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2505,13 +1889,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29585,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2525,12 +1904,9 @@
             "GearRatio": "",
             "TowCapacity": 31180
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Crew Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 29586,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2543,13 +1919,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29587,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2562,13 +1933,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29590,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2581,13 +1947,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29591,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2600,13 +1961,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16410
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29588,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2619,13 +1975,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29589,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2638,13 +1989,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 21300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29592,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2657,13 +2003,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29593,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2677,12 +2018,9 @@
             "GearRatio": "",
             "TowCapacity": 21040
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel": [
+        {
             "Id": 29594,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2695,13 +2033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29595,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2714,13 +2047,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29598,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2733,13 +2061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29599,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2752,13 +2075,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16530
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29596,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2771,13 +2089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29597,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2790,13 +2103,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 21500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29600,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2809,13 +2117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29601,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2829,12 +2132,9 @@
             "GearRatio": "",
             "TowCapacity": 21300
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Double Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 29602,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2847,13 +2147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29606,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2866,13 +2161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 16390
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29605,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2885,13 +2175,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16270
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29603,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2904,13 +2189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29604,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2923,13 +2203,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 31500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29607,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2942,13 +2217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29608,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2962,12 +2232,9 @@
             "GearRatio": "",
             "TowCapacity": 31340
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Double Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 29609,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2980,13 +2247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29610,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -2999,13 +2261,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29613,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3018,13 +2275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29614,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3037,13 +2289,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29611,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3056,13 +2303,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29612,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3075,13 +2317,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 21490
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29615,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3094,13 +2331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29616,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3114,12 +2346,9 @@
             "GearRatio": "",
             "TowCapacity": 21210
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 29617,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3132,13 +2361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29622,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3151,13 +2375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29621,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3170,13 +2389,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16710
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29618,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3189,13 +2403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29619,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3208,13 +2417,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 32000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29620,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3227,13 +2431,8 @@
             "TowDesc": "Gooseneck",
             "GearRatio": "",
             "TowCapacity": 35500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29623,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3246,13 +2445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29624,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3266,12 +2460,9 @@
             "GearRatio": "",
             "TowCapacity": 31760
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Regular Cab Single Rear Wheel": [
+        {
             "Id": 29625,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3284,13 +2475,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29626,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3303,13 +2489,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 17200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29629,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3322,13 +2503,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29630,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3341,13 +2517,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 16950
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29627,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3360,13 +2531,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29628,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3379,13 +2545,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "",
             "TowCapacity": 21500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29631,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3398,13 +2559,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29632,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -3418,12 +2574,9 @@
             "GearRatio": "",
             "TowCapacity": 21500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Terrain",
-        "TowingCapacity": {
+    ],
+    "Terrain": [
+        {
             "Id": 29067,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3436,13 +2589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Terrain",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29068,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3456,12 +2604,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+    ],
+    "Yukon": [
+        {
             "Id": 29069,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3474,13 +2619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29070,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3493,13 +2633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29072,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3512,13 +2647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29073,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3531,13 +2661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29071,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3550,13 +2675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29074,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3570,12 +2690,9 @@
             "GearRatio": "",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+    ],
+    "Yukon XL": [
+        {
             "Id": 29075,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3588,13 +2705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29076,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3607,13 +2719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29078,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3626,13 +2733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29079,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3645,13 +2747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29077,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3664,13 +2761,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29080,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3684,5 +2776,5 @@
             "GearRatio": "",
             "TowCapacity": 7900
         }
-    }
-]
+    ]
+}

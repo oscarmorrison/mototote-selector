@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+{
+    "Sorento": [
+        {
             "Id": 12695,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12696,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 12697,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery Series II",
-        "TowingCapacity": {
+{
+    "Discovery Series II": [
+        {
             "Id": 20587,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Land Rover",
-        "ModelTrim": "Freelander",
-        "TowingCapacity": {
+    ],
+    "Freelander": [
+        {
             "Id": 20588,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+    ],
+    "Range Rover": [
+        {
             "Id": 20589,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    }
-]
+    ]
+}

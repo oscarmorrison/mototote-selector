@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "GX 460",
-        "TowingCapacity": {
+{
+    "GX 460": [
+        {
             "Id": 491029,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "LX 600",
-        "TowingCapacity": {
+    ],
+    "LX 600": [
+        {
             "Id": 491032,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+    ],
+    "NX": [
+        {
             "Id": 491124,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491123,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491122,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+    ],
+    "NX Hybrid": [
+        {
             "Id": 491125,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491126,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+    ],
+    "RX": [
+        {
             "Id": 491114,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491113,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +134,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "RX Hybrid",
-        "TowingCapacity": {
+    ],
+    "RX Hybrid": [
+        {
             "Id": 491116,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Lexus",
-        "ModelTrim": "RX Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491115,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,5 +164,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

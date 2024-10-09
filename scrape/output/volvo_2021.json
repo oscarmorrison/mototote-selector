@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "S60 Recharge Plug-In Hybrid (AWD)",
-        "TowingCapacity": {
+{
+    "S60 Recharge Plug-In Hybrid (AWD)": [
+        {
             "Id": 498661,
             "Year": 2021,
             "TypeDesc": "Car",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "S60 T5 (FWD)": [
+        {
             "Id": 498667,
             "Year": 2021,
             "TypeDesc": "Car",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T6 (AWD)",
-        "TowingCapacity": {
+    ],
+    "S60 T6 (AWD)": [
+        {
             "Id": 498666,
             "Year": 2021,
             "TypeDesc": "Car",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "V60 Recharge Plug-In Hybrid (AWD)",
-        "TowingCapacity": {
+    ],
+    "V60 Recharge Plug-In Hybrid (AWD)": [
+        {
             "Id": 498634,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "V60 T5 (FWD)": [
+        {
             "Id": 498635,
             "Year": 2021,
             "TypeDesc": "Station Wagon",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T5 Cross Country (AWD)",
-        "TowingCapacity": {
+    ],
+    "V60 T5 Cross Country (AWD)": [
+        {
             "Id": 498640,
             "Year": 2021,
             "TypeDesc": "Station Wagon",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "V90 T5 (FWD)": [
+        {
             "Id": 498625,
             "Year": 2021,
             "TypeDesc": "Station Wagon",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6 (AWD)",
-        "TowingCapacity": {
+    ],
+    "V90 T6 (AWD)": [
+        {
             "Id": 498623,
             "Year": 2021,
             "TypeDesc": "Station Wagon",
@@ -149,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6 (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498624,
             "Year": 2021,
             "TypeDesc": "Station Wagon",
@@ -169,12 +140,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6 Cross Country (AWD)",
-        "TowingCapacity": {
+    ],
+    "V90 T6 Cross Country (AWD)": [
+        {
             "Id": 498620,
             "Year": 2021,
             "TypeDesc": "Station Wagon",
@@ -187,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6 Cross Country (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498621,
             "Year": 2021,
             "TypeDesc": "Station Wagon",
@@ -207,12 +170,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 Recharge Pure Electric",
-        "TowingCapacity": {
+    ],
+    "XC40 Recharge Pure Electric": [
+        {
             "Id": 498619,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +186,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 T4 (FWD)",
-        "TowingCapacity": {
+    ],
+    "XC40 T4 (FWD)": [
+        {
             "Id": 498618,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +202,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 T5 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC40 T5 (AWD)": [
+        {
             "Id": 498617,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +218,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 Recharge Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "XC60 Recharge Plug-In Hybrid": [
+        {
             "Id": 498540,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +234,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T5 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 T5 (AWD)": [
+        {
             "Id": 498538,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +250,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 T5 (FWD)": [
+        {
             "Id": 498537,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +266,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T6 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 T6 (AWD)": [
+        {
             "Id": 498539,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,12 +282,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 498535,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498532,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,12 +312,9 @@
             "GearRatio": "",
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Volvo",
-        "ModelTrim": "XC90 Recharge Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "XC90 Recharge Plug-In Hybrid": [
+        {
             "Id": 498536,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -397,5 +328,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

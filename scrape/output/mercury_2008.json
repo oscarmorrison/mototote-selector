@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mariner",
-        "TowingCapacity": {
+{
+    "Mariner": [
+        {
             "Id": 12710,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 5 passenger",
-        "TowingCapacity": {
+    ],
+    "Mountaineer 5 passenger": [
+        {
             "Id": 12711,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5295
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 5 passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12713,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 5 passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12712,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7220
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 5 passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12714,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 7055
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 7 passenger",
-        "TowingCapacity": {
+    ],
+    "Mountaineer 7 passenger": [
+        {
             "Id": 12715,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5205
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 7 passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12717,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 7 passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12716,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7135
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 7 passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12718,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +130,9 @@
             "GearRatio": null,
             "TowCapacity": 6970
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 12719,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12721,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +160,9 @@
             "GearRatio": null,
             "TowCapacity": 8750
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+    ],
+    "Navigator L": [
+        {
             "Id": 12720,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mercury",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12722,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,5 +190,5 @@
             "GearRatio": null,
             "TowCapacity": 8475
         }
-    }
-]
+    ]
+}

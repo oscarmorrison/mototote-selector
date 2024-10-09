@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2016,
-        "Make": "Kia",
-        "ModelTrim": "Sorrento",
-        "TowingCapacity": {
+{
+    "Sorrento": [
+        {
             "Id": 2421,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Kia",
-        "ModelTrim": "Sorrento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2423,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Kia",
-        "ModelTrim": "Sorrento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2422,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +42,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 2424,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +58,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+{
+    "Santa Fe": [
+        {
             "Id": 23946,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23947,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 2700
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Commander",
-        "TowingCapacity": {
+{
+    "Commander": [
+        {
             "Id": 12673,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Commander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12676,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Commander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12674,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Commander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12677,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Commander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12675,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Commander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12678,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +84,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee": [
+        {
             "Id": 12679,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12680,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12681,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12682,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12683,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12684,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12685,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12686,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +198,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee SRT8",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee SRT8": [
+        {
             "Id": 12687,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +214,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+    ],
+    "Liberty": [
+        {
             "Id": 12688,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12689,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12690,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -339,13 +257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12691,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -359,12 +272,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler",
-        "TowingCapacity": {
+    ],
+    "Wrangler": [
+        {
             "Id": 12692,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,12 +288,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler Unlimited",
-        "TowingCapacity": {
+    ],
+    "Wrangler Unlimited": [
+        {
             "Id": 12693,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -397,12 +304,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler Unlimited Rubicon",
-        "TowingCapacity": {
+    ],
+    "Wrangler Unlimited Rubicon": [
+        {
             "Id": 12694,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -416,5 +320,5 @@
             "GearRatio": "4.10.1",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

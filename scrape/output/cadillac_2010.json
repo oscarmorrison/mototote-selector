@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 7931,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7932,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+    ],
+    "Escalade ESV": [
+        {
             "Id": 7933,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7934,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 7800
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade EXT",
-        "TowingCapacity": {
+    ],
+    "Escalade EXT": [
+        {
             "Id": 7935,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -93,12 +74,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade Two Made Hybrid",
-        "TowingCapacity": {
+    ],
+    "Escalade Two Made Hybrid": [
+        {
             "Id": 7936,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade Two Made Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7937,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 5600
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+    ],
+    "SRX": [
+        {
             "Id": 7938,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7939,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7940,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7941,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7942,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +176,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

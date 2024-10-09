@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+{
+    "Aviator": [
+        {
             "Id": 22225,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22226,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 22227,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22228,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +58,5 @@
             "GearRatio": null,
             "TowCapacity": 8300
         }
-    }
-]
+    ]
+}

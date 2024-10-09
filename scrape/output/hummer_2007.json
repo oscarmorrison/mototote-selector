@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Hummer",
-        "ModelTrim": "H2",
-        "TowingCapacity": {
+{
+    "H2": [
+        {
             "Id": 14022,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6700
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Hummer",
-        "ModelTrim": "H2 SUT",
-        "TowingCapacity": {
+    ],
+    "H2 SUT": [
+        {
             "Id": 14023,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Hummer",
-        "ModelTrim": "H3",
-        "TowingCapacity": {
+    ],
+    "H3": [
+        {
             "Id": 14025,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Hummer",
-        "ModelTrim": "H3",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14024,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +60,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Volkswagen",
-        "ModelTrim": "Eurovan",
-        "TowingCapacity": {
+{
+    "Eurovan": [
+        {
             "Id": 25876,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 4400
         }
-    }
-]
+    ]
+}

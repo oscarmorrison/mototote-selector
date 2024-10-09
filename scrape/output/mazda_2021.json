@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5 (AWD)",
-        "TowingCapacity": {
+{
+    "CX-5 (AWD)": [
+        {
             "Id": 498204,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "4.62",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "CX-5 (FWD)": [
+        {
             "Id": 498201,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "4.33",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5 (Turbo AWD)",
-        "TowingCapacity": {
+    ],
+    "CX-5 (Turbo AWD)": [
+        {
             "Id": 498206,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "4.41",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5 (Turbo FWD)",
-        "TowingCapacity": {
+    ],
+    "CX-5 (Turbo FWD)": [
+        {
             "Id": 498207,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "4.33",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mazda",
-        "ModelTrim": "CX-9  (AWD)",
-        "TowingCapacity": {
+    ],
+    "CX-9  (AWD)": [
+        {
             "Id": 498194,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mazda",
-        "ModelTrim": "CX-9 (FWD)",
-        "TowingCapacity": {
+    ],
+    "CX-9 (FWD)": [
+        {
             "Id": 498193,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +94,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

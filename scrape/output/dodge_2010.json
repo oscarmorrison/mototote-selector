@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+{
+    "Dakota Crew Cab Short Bed": [
+        {
             "Id": 8350,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8351,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8354,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4650
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8352,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5850
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8353,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7050
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8355,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8356,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -131,12 +98,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 6900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Dakota Extended Cab Short Bed": [
+        {
             "Id": 8343,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4650
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8344,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4950
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8347,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4750
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8345,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6050
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8346,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7250
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8348,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -244,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5850
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8349,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -264,5 +198,5 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7050
         }
-    }
-]
+    ]
+}

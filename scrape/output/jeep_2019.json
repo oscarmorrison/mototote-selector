@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+{
+    "Cherokee": [
+        {
             "Id": 28665,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28664,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28663,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28662,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28666,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28667,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28661,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28660,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +112,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Compass",
-        "TowingCapacity": {
+    ],
+    "Compass": [
+        {
             "Id": 28668,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +128,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee": [
+        {
             "Id": 28670,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28672,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28669,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28671,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28673,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +200,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee SRT",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee SRT": [
+        {
             "Id": 28674,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +216,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee Trackhawk",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee Trackhawk": [
+        {
             "Id": 28675,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +232,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Renegade",
-        "TowingCapacity": {
+    ],
+    "Renegade": [
+        {
             "Id": 28676,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +248,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler",
-        "TowingCapacity": {
+    ],
+    "Wrangler": [
+        {
             "Id": 28677,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,5 +264,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

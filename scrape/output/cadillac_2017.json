@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2017,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 942,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2017,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 943,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+    ],
+    "Escalade ESV": [
+        {
             "Id": 944,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2017,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 945,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Cadillac",
-        "ModelTrim": "XT5",
-        "TowingCapacity": {
+    ],
+    "XT5": [
+        {
             "Id": 947,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2017,
-        "Make": "Cadillac",
-        "ModelTrim": "XT5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 946,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +88,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

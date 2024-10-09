@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 489362,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 489361,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 489536,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 489535,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander Hybrid",
-        "TowingCapacity": {
+    ],
+    "Highlander Hybrid": [
+        {
             "Id": 489538,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 489537,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 489671,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": "",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (2WD)",
-        "TowingCapacity": {
+    ],
+    "Sequoia (2WD)": [
+        {
             "Id": 490601,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490602,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490603,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490604,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +162,9 @@
             "GearRatio": "",
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+    ],
+    "Sequoia (4WD)": [
+        {
             "Id": 490613,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490614,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490615,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490616,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490617,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +234,9 @@
             "GearRatio": "",
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 489673,
             "Year": 2021,
             "TypeDesc": "Minivan",
@@ -320,13 +249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+        },
+        {
             "Id": 489674,
             "Year": 2021,
             "TypeDesc": "Minivan",
@@ -340,12 +264,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab": [
+        {
             "Id": 488891,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -358,13 +279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488889,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -377,13 +293,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488892,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -396,13 +307,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488903,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -415,13 +321,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488890,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -435,12 +336,9 @@
             "GearRatio": "",
             "TowCapacity": 6800
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Long Box",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab Long Box": [
+        {
             "Id": 488914,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -453,13 +351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Long Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488915,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -472,13 +365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Long Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488907,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -491,13 +379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Long Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488908,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -511,12 +394,9 @@
             "GearRatio": "",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab Short Box": [
+        {
             "Id": 488904,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -529,13 +409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488911,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -548,13 +423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488912,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -567,13 +437,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488913,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -586,13 +451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488905,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -605,13 +465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 488906,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -625,12 +480,9 @@
             "GearRatio": "",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra CrewMax": [
+        {
             "Id": 490237,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -643,13 +495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490238,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -662,13 +509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490239,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -681,13 +523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490240,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -700,13 +537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490241,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -719,13 +551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490242,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -738,13 +565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490230,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -757,13 +579,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490231,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -776,13 +593,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490232,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -795,13 +607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490233,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -814,13 +621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490234,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -833,13 +635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490235,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -852,13 +649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490236,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -872,12 +664,9 @@
             "GearRatio": "",
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Long Bed": [
+        {
             "Id": 490227,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -890,13 +679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490228,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -909,13 +693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490229,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -928,13 +707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490224,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -947,13 +721,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490225,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -966,13 +735,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490226,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -986,12 +750,9 @@
             "GearRatio": "",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Standard Bed": [
+        {
             "Id": 490218,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1004,13 +765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490219,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1023,13 +779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490220,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1042,13 +793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490221,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1061,13 +807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490222,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1080,13 +821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490214,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1099,13 +835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490215,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1118,13 +849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490216,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1137,13 +863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490217,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -1157,5 +878,5 @@
             "GearRatio": "",
             "TowCapacity": 8200
         }
-    }
-]
+    ]
+}

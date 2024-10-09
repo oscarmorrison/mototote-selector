@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Pontiac",
-        "ModelTrim": "Montana SV-6",
-        "TowingCapacity": {
+{
+    "Montana SV-6": [
+        {
             "Id": 14127,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Pontiac",
-        "ModelTrim": "Montana SV-7",
-        "TowingCapacity": {
+    ],
+    "Montana SV-7": [
+        {
             "Id": 14128,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Pontiac",
-        "ModelTrim": "Torrent",
-        "TowingCapacity": {
+    ],
+    "Torrent": [
+        {
             "Id": 14129,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

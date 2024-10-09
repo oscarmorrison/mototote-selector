@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 6634,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6635,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "FJ Cruiser",
-        "TowingCapacity": {
+    ],
+    "FJ Cruiser": [
+        {
             "Id": 6636,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 4700
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 6637,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6638,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6639,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander Hybrid",
-        "TowingCapacity": {
+    ],
+    "Highlander Hybrid": [
+        {
             "Id": 6640,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 6641,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +120,9 @@
             "GearRatio": null,
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "RAV4",
-        "TowingCapacity": {
+    ],
+    "RAV4": [
+        {
             "Id": 6642,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "RAV4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6643,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +150,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Ltd",
-        "TowingCapacity": {
+    ],
+    "Sequoia Ltd": [
+        {
             "Id": 6649,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Ltd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6650,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +180,9 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+    ],
+    "Sequoia Platinum": [
+        {
             "Id": 6651,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6652,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +210,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+    ],
+    "Sequoia SR5": [
+        {
             "Id": 6645,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6646,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6647,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6648,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,12 +268,9 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 6644,
             "Year": 2012,
             "TypeDesc": "Van",
@@ -359,12 +284,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab": [
+        {
             "Id": 6655,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -377,13 +299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6656,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -397,12 +314,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab/X-Runner",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab/X-Runner": [
+        {
             "Id": 6654,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -416,12 +330,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab": [
+        {
             "Id": 6657,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -434,13 +345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6658,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -453,13 +359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6659,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -473,12 +374,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Regular Cab": [
+        {
             "Id": 6653,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -492,12 +390,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra CrewMax": [
+        {
             "Id": 6685,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -510,13 +405,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6688,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -529,13 +419,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6686,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -548,13 +433,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6687,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -567,13 +447,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6689,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -586,13 +461,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6690,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -605,13 +475,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6691,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -625,12 +490,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Long Bed": [
+        {
             "Id": 6683,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -643,13 +505,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6684,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -663,12 +520,9 @@
             "GearRatio": null,
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Short Bed": [
+        {
             "Id": 6674,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -681,13 +535,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6675,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -700,13 +549,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6676,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -719,13 +563,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6679,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -738,13 +577,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6680,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -757,13 +591,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6677,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -776,13 +605,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6678,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -795,13 +619,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6681,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -814,13 +633,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6682,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -834,12 +648,9 @@
             "GearRatio": null,
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab Long Bed": [
+        {
             "Id": 6665,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -852,13 +663,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6666,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -871,13 +677,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6667,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -890,13 +691,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6670,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -909,13 +705,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6671,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -928,13 +719,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6668,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -947,13 +733,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6669,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -966,13 +747,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6672,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -985,13 +761,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6673,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -1005,12 +776,9 @@
             "GearRatio": null,
             "TowCapacity": 10100
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab Short Bed": [
+        {
             "Id": 6660,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -1023,13 +791,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6661,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -1042,13 +805,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6662,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -1061,13 +819,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6663,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -1080,13 +833,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6664,
             "Year": 2012,
             "TypeDesc": "Truck",
@@ -1100,5 +848,5 @@
             "GearRatio": null,
             "TowCapacity": 8600
         }
-    }
-]
+    ]
+}

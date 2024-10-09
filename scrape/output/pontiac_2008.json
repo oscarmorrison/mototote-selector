@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Pontiac",
-        "ModelTrim": "Torrent",
-        "TowingCapacity": {
+{
+    "Torrent": [
+        {
             "Id": 12787,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

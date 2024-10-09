@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2017,
-        "Make": "BMW",
-        "ModelTrim": "X3",
-        "TowingCapacity": {
+{
+    "X3": [
+        {
             "Id": 5,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "BMW",
-        "ModelTrim": "X4",
-        "TowingCapacity": {
+    ],
+    "X4": [
+        {
             "Id": 6,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "BMW",
-        "ModelTrim": "X5",
-        "TowingCapacity": {
+    ],
+    "X5": [
+        {
             "Id": 7,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "BMW",
-        "ModelTrim": "X6",
-        "TowingCapacity": {
+    ],
+    "X6": [
+        {
             "Id": 8,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    }
-]
+    ]
+}

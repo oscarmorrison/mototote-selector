@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sedona",
-        "TowingCapacity": {
+{
+    "Sedona": [
+        {
             "Id": 498876,
             "Year": 2021,
             "TypeDesc": "Minivan",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+    ],
+    "Sorento": [
+        {
             "Id": 498870,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498868,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498871,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498869,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 498789,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498788,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498790,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498787,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +130,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+    ],
+    "Telluride": [
+        {
             "Id": 498751,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498752,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,5 +160,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 550011,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550010,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier PRO-4X Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier PRO-4X Crew Cab": [
+        {
             "Id": 550019,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -55,12 +44,9 @@
             "GearRatio": "",
             "TowCapacity": 6170
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier PRO-X Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier PRO-X Crew Cab": [
+        {
             "Id": 550018,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -74,12 +60,9 @@
             "GearRatio": "",
             "TowCapacity": 6410
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier S Crew Cab": [
+        {
             "Id": 550014,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -93,12 +76,9 @@
             "GearRatio": "",
             "TowCapacity": 6510
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S King Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier S King Cab": [
+        {
             "Id": 550012,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -111,13 +91,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6740
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550013,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -131,12 +106,9 @@
             "GearRatio": "",
             "TowCapacity": 6480
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Frontier SV Crew Cab Long Bed": [
+        {
             "Id": 550017,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -149,13 +121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6240
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550016,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -169,12 +136,9 @@
             "GearRatio": "",
             "TowCapacity": 6390
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Frontier SV Crew Cab Short Bed": [
+        {
             "Id": 550015,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -188,5 +152,5 @@
             "GearRatio": "",
             "TowCapacity": 6350
         }
-    }
-]
+    ]
+}

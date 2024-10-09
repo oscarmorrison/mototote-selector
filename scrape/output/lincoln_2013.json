@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "MKT",
-        "TowingCapacity": {
+{
+    "MKT": [
+        {
             "Id": 5576,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "MKT",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5575,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "MKX",
-        "TowingCapacity": {
+    ],
+    "MKX": [
+        {
             "Id": 5577,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 5578,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5579,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5582,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5583,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +102,9 @@
             "GearRatio": null,
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+    ],
+    "Navigator L": [
+        {
             "Id": 5580,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5581,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5584,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5585,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,5 +160,5 @@
             "GearRatio": null,
             "TowCapacity": 8500
         }
-    }
-]
+    ]
+}

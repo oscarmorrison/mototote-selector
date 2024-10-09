@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+{
+    "Cherokee": [
+        {
             "Id": 4519,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4520,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee": [
+        {
             "Id": 4525,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4526,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4521,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4522,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4523,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4524,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +114,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler",
-        "TowingCapacity": {
+    ],
+    "Wrangler": [
+        {
             "Id": 4527,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +130,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

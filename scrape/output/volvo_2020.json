@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T5 (FWD)",
-        "TowingCapacity": {
+{
+    "S60 T5 (FWD)": [
+        {
             "Id": 29738,
             "Year": 2020,
             "TypeDesc": "Car",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T6 (AWD)",
-        "TowingCapacity": {
+    ],
+    "S60 T6 (AWD)": [
+        {
             "Id": 498338,
             "Year": 2020,
             "TypeDesc": "Car",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T8 e-AWD Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "S60 T8 e-AWD Plug-In Hybrid": [
+        {
             "Id": 498339,
             "Year": 2020,
             "TypeDesc": "Car",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "S90 T6 (AWD)",
-        "TowingCapacity": {
+    ],
+    "S90 T6 (AWD)": [
+        {
             "Id": 29739,
             "Year": 2020,
             "TypeDesc": "Car",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 1800
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "S90 T8 e-AWD Polestar Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "S90 T8 e-AWD Polestar Plug-In Hybrid": [
+        {
             "Id": 498337,
             "Year": 2020,
             "TypeDesc": "Car",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 2100
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "V60 T5 (FWD)": [
+        {
             "Id": 29676,
             "Year": 2020,
             "TypeDesc": "Station Wagon",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T5 Cross Country (AWD)",
-        "TowingCapacity": {
+    ],
+    "V60 T5 Cross Country (AWD)": [
+        {
             "Id": 498335,
             "Year": 2020,
             "TypeDesc": "Station Wagon",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T8 e-AWD Polestar Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "V60 T8 e-AWD Polestar Plug-In Hybrid": [
+        {
             "Id": 498336,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "V90 T5 (FWD)": [
+        {
             "Id": 29677,
             "Year": 2020,
             "TypeDesc": "Station Wagon",
@@ -169,12 +142,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6 (AWD)",
-        "TowingCapacity": {
+    ],
+    "V90 T6 (AWD)": [
+        {
             "Id": 29678,
             "Year": 2020,
             "TypeDesc": "Station Wagon",
@@ -187,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6 (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498329,
             "Year": 2020,
             "TypeDesc": "Station Wagon",
@@ -207,12 +172,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6 Cross Country (AWD)",
-        "TowingCapacity": {
+    ],
+    "V90 T6 Cross Country (AWD)": [
+        {
             "Id": 498333,
             "Year": 2020,
             "TypeDesc": "Station Wagon",
@@ -225,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6 Cross Country (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498334,
             "Year": 2020,
             "TypeDesc": "Station Wagon",
@@ -245,12 +202,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 T4 (FWD)",
-        "TowingCapacity": {
+    ],
+    "XC40 T4 (FWD)": [
+        {
             "Id": 498340,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +218,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 T5 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC40 T5 (AWD)": [
+        {
             "Id": 498341,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +234,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T5 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 T5 (AWD)": [
+        {
             "Id": 498250,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +250,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 T5 (FWD)": [
+        {
             "Id": 29183,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +266,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T6 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 T6 (AWD)": [
+        {
             "Id": 498251,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,12 +282,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T8 e-AWD Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "XC60 T8 e-AWD Plug-In Hybrid": [
+        {
             "Id": 498252,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -359,12 +298,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 29184,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -377,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29185,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -397,5 +328,5 @@
             "GearRatio": "",
             "TowCapacity": 4000
         }
-    }
-]
+    ]
+}

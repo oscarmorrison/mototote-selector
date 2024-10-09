@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Palisade",
-        "TowingCapacity": {
+{
+    "Palisade": [
+        {
             "Id": 498708,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Palisade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498707,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+    ],
+    "Santa Fe": [
+        {
             "Id": 498693,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498695,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498691,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498692,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498697,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498698,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498694,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498696,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +142,9 @@
             "GearRatio": "",
             "TowCapacity": 2800
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+    ],
+    "Tucson": [
+        {
             "Id": 498687,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498689,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +172,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

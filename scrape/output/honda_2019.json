@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Honda",
-        "ModelTrim": "Odyssey",
-        "TowingCapacity": {
+{
+    "Odyssey": [
+        {
             "Id": 28651,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Honda",
-        "ModelTrim": "Odyssey",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28650,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+    ],
+    "Pilot": [
+        {
             "Id": 28652,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28653,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Honda",
-        "ModelTrim": "Ridgeline",
-        "TowingCapacity": {
+    ],
+    "Ridgeline": [
+        {
             "Id": 28654,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Honda",
-        "ModelTrim": "Ridgeline",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28655,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -112,5 +88,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

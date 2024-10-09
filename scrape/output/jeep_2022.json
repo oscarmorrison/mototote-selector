@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Compass (4WD)",
-        "TowingCapacity": {
+{
+    "Compass (4WD)": [
+        {
             "Id": 491614,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator High Altitude",
-        "TowingCapacity": {
+    ],
+    "Gladiator High Altitude": [
+        {
             "Id": 491568,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator High Altitude",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491567,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -55,12 +44,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Mojave",
-        "TowingCapacity": {
+    ],
+    "Gladiator Mojave": [
+        {
             "Id": 491572,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Mojave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491573,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -93,12 +74,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Overland",
-        "TowingCapacity": {
+    ],
+    "Gladiator Overland": [
+        {
             "Id": 491571,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Overland",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491569,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Overland",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491570,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -150,12 +118,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Rubicon",
-        "TowingCapacity": {
+    ],
+    "Gladiator Rubicon": [
+        {
             "Id": 491576,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Rubicon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491574,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Rubicon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491575,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -207,12 +162,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+    ],
+    "Gladiator Sport": [
+        {
             "Id": 491581,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -225,13 +177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491577,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -244,13 +191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491578,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -263,13 +205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491579,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -282,13 +219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491580,
             "Year": 2022,
             "TypeDesc": "Truck",
@@ -302,12 +234,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 7650
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Renegade (4WD)",
-        "TowingCapacity": {
+    ],
+    "Renegade (4WD)": [
+        {
             "Id": 491611,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +250,9 @@
             "GearRatio": "4.56",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+    ],
+    "Wrangler (2-Door)": [
+        {
             "Id": 492692,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -339,13 +265,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492691,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492693,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,12 +294,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+    ],
+    "Wrangler (4-Door)": [
+        {
             "Id": 492703,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492705,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492702,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -434,13 +337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492704,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -453,13 +351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492716,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -473,5 +366,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

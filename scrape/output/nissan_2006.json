@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 16012,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16013,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab SE, LE, Nismo",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab SE, LE, Nismo": [
+        {
             "Id": 16014,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab SE, LE, Nismo",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16015,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab SE, LE, Nismo",
-        "TowingCapacity": {
+    ],
+    "Frontier King Cab SE, LE, Nismo": [
+        {
             "Id": 16016,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab SE, LE, Nismo",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16017,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab XE",
-        "TowingCapacity": {
+    ],
+    "Frontier King Cab XE": [
+        {
             "Id": 16018,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 16019,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +120,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 16020,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +136,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 16021,
             "Year": 2006,
             "TypeDesc": "Van",
@@ -188,12 +152,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab": [
+        {
             "Id": 16022,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -207,12 +168,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+    ],
+    "Titan King Cab": [
+        {
             "Id": 16023,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -226,12 +184,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 16024,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,5 +200,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

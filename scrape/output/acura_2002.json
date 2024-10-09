@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+{
+    "MDX": [
+        {
             "Id": 22298,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

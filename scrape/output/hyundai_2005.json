@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+{
+    "Santa Fe": [
+        {
             "Id": 17973,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 1700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17974,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17975,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17976,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17977,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +70,9 @@
             "GearRatio": null,
             "TowCapacity": 2800
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+    ],
+    "Tucson": [
+        {
             "Id": 17978,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17979,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17980,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17981,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +128,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

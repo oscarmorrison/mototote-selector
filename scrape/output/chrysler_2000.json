@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+{
+    "Town and Country": [
+        {
             "Id": 25974,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25975,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+{
+    "1500": [
+        {
             "Id": 22812,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22813,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22810,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22811,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22826,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22827,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22828,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22823,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -149,13 +111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4550
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22824,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -168,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5550
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22825,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -187,13 +139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22817,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -206,13 +153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6750
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22818,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -225,13 +167,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7750
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22819,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -244,13 +181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22814,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -263,13 +195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22815,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -282,13 +209,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22816,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -301,13 +223,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4750
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22829,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -320,13 +237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22830,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -339,13 +251,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22831,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -358,13 +265,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22820,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -377,13 +279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22821,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -396,13 +293,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22822,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -416,12 +308,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7600
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 109 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1500 109 IN Wheel Base": [
+        {
             "Id": 22832,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -435,12 +324,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 4450
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1500 127 IN Wheel Base": [
+        {
             "Id": 22838,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -454,12 +340,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 4250
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "1500 127 IN Wheel Base Maxi": [
+        {
             "Id": 22843,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -473,12 +356,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 4150
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab": [
+        {
             "Id": 22860,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -491,13 +371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6150
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22861,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -510,13 +385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22862,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -529,13 +399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22857,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -548,13 +413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22858,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -567,13 +427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22859,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -586,13 +441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4150
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22851,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -605,13 +455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22852,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -624,13 +469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22853,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -643,13 +483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22848,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -662,13 +497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22849,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -681,13 +511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22850,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -700,13 +525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22863,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -719,13 +539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22864,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -738,13 +553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22865,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -757,13 +567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22854,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -776,13 +581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22855,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -795,13 +595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22856,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -815,12 +610,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1501 109 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1501 109 IN Wheel Base": [
+        {
             "Id": 22833,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -834,12 +626,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 5450
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1501 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1501 127 IN Wheel Base": [
+        {
             "Id": 22839,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -853,12 +642,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 6750
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1501 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "1501 127 IN Wheel Base Maxi": [
+        {
             "Id": 22844,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -872,12 +658,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 6650
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1502 109 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1502 109 IN Wheel Base": [
+        {
             "Id": 22834,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -891,12 +674,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 5950
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1502 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1502 127 IN Wheel Base": [
+        {
             "Id": 22840,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -910,12 +690,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7750
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1502 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "1502 127 IN Wheel Base Maxi": [
+        {
             "Id": 22845,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -929,12 +706,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7650
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1503 109 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1503 109 IN Wheel Base": [
+        {
             "Id": 22835,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -948,12 +722,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 4050
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1503 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1503 127 IN Wheel Base": [
+        {
             "Id": 22841,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -967,12 +738,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1503 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "1503 127 IN Wheel Base Maxi": [
+        {
             "Id": 22846,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -986,12 +754,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1504 109 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1504 109 IN Wheel Base": [
+        {
             "Id": 22836,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -1005,12 +770,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 5050
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1504 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1504 127 IN Wheel Base": [
+        {
             "Id": 22842,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1024,12 +786,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1504 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "1504 127 IN Wheel Base Maxi": [
+        {
             "Id": 22847,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1043,12 +802,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1505 109 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1505 109 IN Wheel Base": [
+        {
             "Id": 22837,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -1062,12 +818,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 5550
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2500 127 IN Wheel Base": [
+        {
             "Id": 22866,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1081,12 +834,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 4050
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "2500 127 IN Wheel Base Maxi": [
+        {
             "Id": 22875,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1100,12 +850,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7450
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+    ],
+    "2500 Quad Cab Shortbed": [
+        {
             "Id": 22907,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1118,13 +865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22908,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1137,13 +879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22905,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1156,13 +893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22906,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1175,13 +907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22893,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1194,13 +921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22894,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1213,13 +935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22891,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1232,13 +949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22892,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1251,13 +963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22909,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1270,13 +977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22910,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1289,13 +991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22895,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1308,13 +1005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22896,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1327,13 +1019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22899,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1346,13 +1033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22900,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1365,13 +1047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22897,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1384,13 +1061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22898,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1403,13 +1075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22885,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1422,13 +1089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22886,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1441,13 +1103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22883,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1460,13 +1117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22884,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1479,13 +1131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22903,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1498,13 +1145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22904,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1517,13 +1159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22901,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1536,13 +1173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22902,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1555,13 +1187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22889,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1574,13 +1201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13150
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22890,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1593,13 +1215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13150
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22887,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1612,13 +1229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22888,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1632,12 +1244,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 13100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "2500 Regular Cab Longbed": [
+        {
             "Id": 22935,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1650,13 +1259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22936,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1669,13 +1273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22937,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1688,13 +1287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22934,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1707,13 +1301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22921,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1726,13 +1315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 10150
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22919,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1745,13 +1329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22920,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1764,13 +1343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22938,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1783,13 +1357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22922,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1802,13 +1371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12150
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22923,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1821,13 +1385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22927,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1840,13 +1399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22928,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1859,13 +1413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22925,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1878,13 +1427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22929,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1897,13 +1441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22924,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1916,13 +1455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22926,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1935,13 +1469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22913,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1954,13 +1483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22914,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1973,13 +1497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22911,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1992,13 +1511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8750
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22912,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2011,13 +1525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8750
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22931,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2030,13 +1539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22932,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2049,13 +1553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22933,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2068,13 +1567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22930,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2087,13 +1581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22917,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2106,13 +1595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22918,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2125,13 +1609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22915,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2144,13 +1623,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22916,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2164,12 +1638,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 13350
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2501 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2501 127 IN Wheel Base": [
+        {
             "Id": 22867,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2183,12 +1654,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 7600
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2501 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "2501 127 IN Wheel Base Maxi": [
+        {
             "Id": 22876,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2202,12 +1670,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7950
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2502 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2502 127 IN Wheel Base": [
+        {
             "Id": 22868,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2221,12 +1686,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2502 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "2502 127 IN Wheel Base Maxi": [
+        {
             "Id": 22877,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2240,12 +1702,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2503 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2503 127 IN Wheel Base": [
+        {
             "Id": 22869,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2259,12 +1718,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2503 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "2503 127 IN Wheel Base Maxi": [
+        {
             "Id": 22878,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2278,12 +1734,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8400
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2504 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2504 127 IN Wheel Base": [
+        {
             "Id": 22870,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2297,12 +1750,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2504 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "2504 127 IN Wheel Base Maxi": [
+        {
             "Id": 22879,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -2316,12 +1766,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 6750
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2505 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2505 127 IN Wheel Base": [
+        {
             "Id": 22871,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -2335,12 +1782,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2505 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "2505 127 IN Wheel Base Maxi": [
+        {
             "Id": 22880,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -2354,12 +1798,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7250
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2506 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2506 127 IN Wheel Base": [
+        {
             "Id": 22872,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -2373,12 +1814,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2506 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "2506 127 IN Wheel Base Maxi": [
+        {
             "Id": 22881,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -2392,12 +1830,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7250
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2507 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2507 127 IN Wheel Base": [
+        {
             "Id": 22873,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -2411,12 +1846,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7650
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2507 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "2507 127 IN Wheel Base Maxi": [
+        {
             "Id": 22882,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -2430,12 +1862,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7750
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2508 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "2508 127 IN Wheel Base": [
+        {
             "Id": 22874,
             "Year": 2002,
             "TypeDesc": "Station Wagon",
@@ -2449,12 +1878,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8150
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "3500 127 IN Wheel Base": [
+        {
             "Id": 22939,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2468,12 +1894,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7550
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "3500 127 IN Wheel Base Maxi": [
+        {
             "Id": 22943,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -2487,12 +1910,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab": [
+        {
             "Id": 22971,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2505,13 +1925,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22972,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2524,13 +1939,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22969,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2543,13 +1953,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22970,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2562,13 +1967,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22957,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2581,13 +1981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22958,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2600,13 +1995,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22955,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2619,13 +2009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22956,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2638,13 +2023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22973,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2657,13 +2037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22974,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2676,13 +2051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22959,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2695,13 +2065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22960,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2714,13 +2079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22963,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2733,13 +2093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22964,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2752,13 +2107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22961,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2771,13 +2121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22962,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2790,13 +2135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22949,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2809,13 +2149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22950,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2828,13 +2163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22947,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2847,13 +2177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22948,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2866,13 +2191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22967,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2885,13 +2205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12250
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22968,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2904,13 +2219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12250
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22965,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2923,13 +2233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22966,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2942,13 +2247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22953,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2961,13 +2261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22954,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2980,13 +2275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22951,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2999,13 +2289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22952,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3019,12 +2304,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 12650
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab Longbed": [
+        {
             "Id": 22999,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3037,13 +2319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23000,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3056,13 +2333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22997,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3075,13 +2347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22998,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3094,13 +2361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22985,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3113,13 +2375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22986,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3132,13 +2389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22983,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3151,13 +2403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13750
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22984,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3170,13 +2417,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13750
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23001,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3189,13 +2431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23002,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3208,13 +2445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22987,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3227,13 +2459,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22988,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3246,13 +2473,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22991,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3265,13 +2487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22992,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3284,13 +2501,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22989,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3303,13 +2515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22990,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3322,13 +2529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22977,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3341,13 +2543,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22978,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3360,13 +2557,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22975,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3379,13 +2571,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22976,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3398,13 +2585,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9350
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22995,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3417,13 +2599,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22996,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3436,13 +2613,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22993,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3455,13 +2627,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22994,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3474,13 +2641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22981,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3493,13 +2655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22982,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3512,13 +2669,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22979,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3531,13 +2683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22980,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3551,12 +2698,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 13050
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3501 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "3501 127 IN Wheel Base": [
+        {
             "Id": 22940,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -3570,12 +2714,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8050
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3501 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "3501 127 IN Wheel Base Maxi": [
+        {
             "Id": 22944,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -3589,12 +2730,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3502 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "3502 127 IN Wheel Base": [
+        {
             "Id": 22941,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -3608,12 +2746,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8050
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3502 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "3502 127 IN Wheel Base Maxi": [
+        {
             "Id": 22945,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -3627,12 +2762,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3503 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "3503 127 IN Wheel Base": [
+        {
             "Id": 22942,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -3646,12 +2778,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8550
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3503 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "3503 127 IN Wheel Base Maxi": [
+        {
             "Id": 22946,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -3665,5 +2794,5 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8400
         }
-    }
-]
+    ]
+}

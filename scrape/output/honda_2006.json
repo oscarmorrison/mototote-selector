@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Honda",
-        "ModelTrim": "Odyssey",
-        "TowingCapacity": {
+{
+    "Odyssey": [
+        {
             "Id": 15900,
             "Year": 2006,
             "TypeDesc": "Van",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+    ],
+    "Pilot": [
+        {
             "Id": 15901,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15903,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Honda",
-        "ModelTrim": "Ridgeline",
-        "TowingCapacity": {
+    ],
+    "Ridgeline": [
+        {
             "Id": 15902,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -74,5 +60,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

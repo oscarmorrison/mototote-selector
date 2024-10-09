@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Volvo",
-        "ModelTrim": "S60",
-        "TowingCapacity": {
+{
+    "S60": [
+        {
             "Id": 12858,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Volvo",
-        "ModelTrim": "S80",
-        "TowingCapacity": {
+    ],
+    "S80": [
+        {
             "Id": 12859,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Volvo",
-        "ModelTrim": "V70",
-        "TowingCapacity": {
+    ],
+    "V70": [
+        {
             "Id": 12860,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Volvo",
-        "ModelTrim": "XC70",
-        "TowingCapacity": {
+    ],
+    "XC70": [
+        {
             "Id": 12861,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 3970
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 12862,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +78,5 @@
             "GearRatio": null,
             "TowCapacity": 4960
         }
-    }
-]
+    ]
+}

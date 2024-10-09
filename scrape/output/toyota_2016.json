@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 2473,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 2474,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander hybrid",
-        "TowingCapacity": {
+    ],
+    "Highlander hybrid": [
+        {
             "Id": 2475,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 2476,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Ltd",
-        "TowingCapacity": {
+    ],
+    "Sequoia Ltd": [
+        {
             "Id": 2479,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +77,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Ltd",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2480,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +92,9 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+    ],
+    "Sequoia Platinum": [
+        {
             "Id": 2481,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia Platinum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2482,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +122,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+    ],
+    "Sequoia SR5": [
+        {
             "Id": 2477,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia SR5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2478,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +152,9 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 2483,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -207,12 +168,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab": [
+        {
             "Id": 2484,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -225,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2485,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -244,13 +197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2486,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -264,12 +212,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab": [
+        {
             "Id": 2487,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -282,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2488,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -301,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2489,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -320,13 +255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2490,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -340,12 +270,9 @@
             "GearRatio": null,
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+    ],
+    "Tundra CrewMax": [
+        {
             "Id": 2499,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -358,13 +285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2501,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -377,13 +299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2500,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -396,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra CrewMax",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2502,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -416,12 +328,9 @@
             "GearRatio": null,
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Long Bed": [
+        {
             "Id": 2497,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -434,13 +343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2498,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -454,12 +358,9 @@
             "GearRatio": null,
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab Standard Bed": [
+        {
             "Id": 2493,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -472,13 +373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2495,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -491,13 +387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2494,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -510,13 +401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2496,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -530,12 +416,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab Long Bed": [
+        {
             "Id": 2491,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -548,13 +431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2492,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -568,5 +446,5 @@
             "GearRatio": null,
             "TowCapacity": 10200
         }
-    }
-]
+    ]
+}

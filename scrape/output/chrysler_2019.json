@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Chrysler",
-        "ModelTrim": "Pacifica",
-        "TowingCapacity": {
+{
+    "Pacifica": [
+        {
             "Id": 27675,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 12761,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12762,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab LE",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab LE": [
+        {
             "Id": 12770,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab LE",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12771,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab SE",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab SE": [
+        {
             "Id": 12766,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab SE",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12767,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab LE",
-        "TowingCapacity": {
+    ],
+    "Frontier King Cab LE": [
+        {
             "Id": 12768,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab LE",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12769,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -150,12 +118,9 @@
             "GearRatio": null,
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab SE",
-        "TowingCapacity": {
+    ],
+    "Frontier King Cab SE": [
+        {
             "Id": 12764,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab SE",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12765,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -188,12 +148,9 @@
             "GearRatio": null,
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab XE",
-        "TowingCapacity": {
+    ],
+    "Frontier King Cab XE": [
+        {
             "Id": 12763,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -207,12 +164,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Nismo",
-        "TowingCapacity": {
+    ],
+    "Frontier Nismo": [
+        {
             "Id": 12772,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -225,13 +179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Nismo",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12774,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -244,13 +193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Nismo",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12773,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -263,13 +207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Nismo",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12775,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -283,12 +222,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 12776,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +238,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 12777,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12778,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,12 +268,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 12779,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -359,12 +284,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab": [
+        {
             "Id": 12782,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -377,13 +299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12783,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -397,12 +314,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+    ],
+    "Titan King Cab": [
+        {
             "Id": 12780,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -415,13 +329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12781,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -435,12 +344,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Long Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Long Bed Crew Cab": [
+        {
             "Id": 12784,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -453,13 +359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12785,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -473,12 +374,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 12786,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -492,5 +390,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

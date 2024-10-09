@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+{
+    "Q7": [
+        {
             "Id": 11025,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11026,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11027,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11028,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +56,5 @@
             "GearRatio": null,
             "TowCapacity": 6600
         }
-    }
-]
+    ]
+}

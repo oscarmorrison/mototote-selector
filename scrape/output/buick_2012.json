@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+{
+    "Enclave": [
+        {
             "Id": 5704,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5705,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5702,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5703,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +56,5 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

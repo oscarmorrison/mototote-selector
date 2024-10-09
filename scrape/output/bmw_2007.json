@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "BMW",
-        "ModelTrim": "X3",
-        "TowingCapacity": {
+{
+    "X3": [
+        {
             "Id": 12865,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "BMW",
-        "ModelTrim": "X5",
-        "TowingCapacity": {
+    ],
+    "X5": [
+        {
             "Id": 12866,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    }
-]
+    ]
+}

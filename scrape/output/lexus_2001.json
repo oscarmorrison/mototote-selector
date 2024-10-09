@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Lexus",
-        "ModelTrim": "ES 300",
-        "TowingCapacity": {
+{
+    "ES 300": [
+        {
             "Id": 25810,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Lexus",
-        "ModelTrim": "LS 430",
-        "TowingCapacity": {
+    ],
+    "LS 430": [
+        {
             "Id": 25811,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Lexus",
-        "ModelTrim": "LX 470",
-        "TowingCapacity": {
+    ],
+    "LX 470": [
+        {
             "Id": 25812,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Lexus",
-        "ModelTrim": "RX 300",
-        "TowingCapacity": {
+    ],
+    "RX 300": [
+        {
             "Id": 25813,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (2WD)",
-        "TowingCapacity": {
+{
+    "Cherokee (2WD)": [
+        {
             "Id": 491618,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491619,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491620,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491621,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.25",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491622,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +70,9 @@
             "GearRatio": "3.517",
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (4WD)",
-        "TowingCapacity": {
+    ],
+    "Cherokee (4WD)": [
+        {
             "Id": 29093,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29094,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29095,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29096,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.25",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29097,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +142,9 @@
             "GearRatio": "3.517",
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Compass (4WD)",
-        "TowingCapacity": {
+    ],
+    "Compass (4WD)": [
+        {
             "Id": 29098,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +158,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Overland",
-        "TowingCapacity": {
+    ],
+    "Gladiator Overland": [
+        {
             "Id": 29635,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -225,13 +173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Overland",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29636,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -245,12 +188,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Rubicon",
-        "TowingCapacity": {
+    ],
+    "Gladiator Rubicon": [
+        {
             "Id": 29637,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -263,13 +203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Rubicon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29638,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -283,12 +218,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+    ],
+    "Gladiator Sport": [
+        {
             "Id": 29639,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -301,13 +233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29640,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -320,13 +247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29641,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -339,13 +261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29642,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -359,12 +276,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 7650
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee (2WD)",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee (2WD)": [
+        {
             "Id": 29099,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -377,13 +291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.45",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee (2WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491627,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -397,12 +306,9 @@
             "GearRatio": "3.45",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee (4WD)",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee (4WD)": [
+        {
             "Id": 29100,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +321,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.45",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491704,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -434,13 +335,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.45",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29101,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -453,13 +349,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.09",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491705,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -472,13 +363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.09",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29102,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -491,13 +377,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.70",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29103,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -511,12 +392,9 @@
             "GearRatio": "3.07",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Renegade (4WD)",
-        "TowingCapacity": {
+    ],
+    "Renegade (4WD)": [
+        {
             "Id": 491608,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -529,13 +407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Renegade (4WD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29104,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -549,12 +422,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+    ],
+    "Wrangler (2-Door)": [
+        {
             "Id": 29107,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -567,13 +437,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29105,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -586,13 +451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29108,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -606,12 +466,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+    ],
+    "Wrangler (4-Door)": [
+        {
             "Id": 29106,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -624,13 +481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.45",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491605,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -643,13 +495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29109,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -662,13 +509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.45",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491604,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -682,5 +524,5 @@
             "GearRatio": "3.45",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+{
+    "Frontier": [
+        {
             "Id": 23991,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23990,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23992,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23993,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23994,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23995,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +84,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Infinity QX4",
-        "TowingCapacity": {
+    ],
+    "Infinity QX4": [
+        {
             "Id": 23996,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +100,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 23997,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23998,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +130,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 23999,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -188,12 +146,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 24000,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24001,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24002,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24003,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24004,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,5 +218,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

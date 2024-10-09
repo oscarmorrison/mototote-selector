@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Subaru",
-        "ModelTrim": "B9 TribExtended Caba",
-        "TowingCapacity": {
+{
+    "B9 TribExtended Caba": [
+        {
             "Id": 14140,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+    ],
+    "Forester": [
+        {
             "Id": 14141,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 2400
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Subaru",
-        "ModelTrim": "Impreza",
-        "TowingCapacity": {
+    ],
+    "Impreza": [
+        {
             "Id": 14142,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Subaru",
-        "ModelTrim": "Legacy",
-        "TowingCapacity": {
+    ],
+    "Legacy": [
+        {
             "Id": 14143,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 2700
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+    ],
+    "Outback": [
+        {
             "Id": 14144,
             "Year": 2007,
             "TypeDesc": "Station Wagon",
@@ -92,13 +77,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14145,
             "Year": 2007,
             "TypeDesc": "Station Wagon",
@@ -112,5 +92,5 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    }
-]
+    ]
+}

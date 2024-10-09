@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+{
+    "Acadia": [
+        {
             "Id": 14015,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali",
-        "TowingCapacity": {
+    ],
+    "Yukon Denali": [
+        {
             "Id": 14016,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL Denali",
-        "TowingCapacity": {
+    ],
+    "Yukon XL Denali": [
+        {
             "Id": 14017,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 7900
         }
-    }
-]
+    ]
+}

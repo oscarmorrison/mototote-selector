@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2016,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+{
+    "MDX": [
+        {
             "Id": 1417,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Acura",
-        "ModelTrim": "MDX SH",
-        "TowingCapacity": {
+    ],
+    "MDX SH": [
+        {
             "Id": 1418,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Buick",
-        "ModelTrim": "Avenir",
-        "TowingCapacity": {
+{
+    "Avenir": [
+        {
             "Id": 27500,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Buick",
-        "ModelTrim": "Essence",
-        "TowingCapacity": {
+    ],
+    "Essence": [
+        {
             "Id": 27501,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Buick",
-        "ModelTrim": "Premium",
-        "TowingCapacity": {
+    ],
+    "Premium": [
+        {
             "Id": 27502,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

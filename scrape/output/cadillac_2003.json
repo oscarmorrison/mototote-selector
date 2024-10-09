@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 20671,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20672,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 7800
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+    ],
+    "Escalade ESV": [
+        {
             "Id": 20673,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade EXT",
-        "TowingCapacity": {
+    ],
+    "Escalade EXT": [
+        {
             "Id": 20674,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +60,5 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    }
-]
+    ]
+}

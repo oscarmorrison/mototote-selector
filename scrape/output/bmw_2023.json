@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X3 M40i",
-        "TowingCapacity": {
+{
+    "X3 M40i": [
+        {
             "Id": 499354,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X3 sDrive30i",
-        "TowingCapacity": {
+    ],
+    "X3 sDrive30i": [
+        {
             "Id": 499353,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X3 xDrive30i",
-        "TowingCapacity": {
+    ],
+    "X3 xDrive30i": [
+        {
             "Id": 499352,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X5 M50i",
-        "TowingCapacity": {
+    ],
+    "X5 M50i": [
+        {
             "Id": 499357,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X5 sDrive40i",
-        "TowingCapacity": {
+    ],
+    "X5 sDrive40i": [
+        {
             "Id": 499359,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive40i": [
+        {
             "Id": 499355,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive45e",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive45e": [
+        {
             "Id": 499375,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 5952
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X6 M50i",
-        "TowingCapacity": {
+    ],
+    "X6 M50i": [
+        {
             "Id": 499361,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X6 sDrive40i",
-        "TowingCapacity": {
+    ],
+    "X6 sDrive40i": [
+        {
             "Id": 499362,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +142,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X6 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X6 xDrive40i": [
+        {
             "Id": 499360,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +158,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X7 M50i",
-        "TowingCapacity": {
+    ],
+    "X7 M50i": [
+        {
             "Id": 499364,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +174,9 @@
             "GearRatio": "",
             "TowCapacity": 7507
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "BMW",
-        "ModelTrim": "X7 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X7 xDrive40i": [
+        {
             "Id": 499363,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +190,5 @@
             "GearRatio": "",
             "TowCapacity": 7507
         }
-    }
-]
+    ]
+}

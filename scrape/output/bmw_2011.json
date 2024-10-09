@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "BMW",
-        "ModelTrim": "X3 xDrive28i",
-        "TowingCapacity": {
+{
+    "X3 xDrive28i": [
+        {
             "Id": 6701,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "BMW",
-        "ModelTrim": "X3 xDrive35i",
-        "TowingCapacity": {
+    ],
+    "X3 xDrive35i": [
+        {
             "Id": 6702,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive35d",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive35d": [
+        {
             "Id": 6705,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive35i",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive35i": [
+        {
             "Id": 6703,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive50i",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive50i": [
+        {
             "Id": 6704,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "BMW",
-        "ModelTrim": "X6 Active Hybrid",
-        "TowingCapacity": {
+    ],
+    "X6 Active Hybrid": [
+        {
             "Id": 6708,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "BMW",
-        "ModelTrim": "X6 xDrive35i",
-        "TowingCapacity": {
+    ],
+    "X6 xDrive35i": [
+        {
             "Id": 6706,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "BMW",
-        "ModelTrim": "X6 xDrive50i",
-        "TowingCapacity": {
+    ],
+    "X6 xDrive50i": [
+        {
             "Id": 6707,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,5 +126,5 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    }
-]
+    ]
+}

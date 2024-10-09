@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 7827,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7828,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab": [
+        {
             "Id": 7832,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7833,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC",
-        "TowingCapacity": {
+    ],
+    "Frontier KC": [
+        {
             "Id": 7829,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -93,12 +74,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC SV V-6, Pro-4X V-6",
-        "TowingCapacity": {
+    ],
+    "Frontier KC SV V-6, Pro-4X V-6": [
+        {
             "Id": 7830,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -111,13 +89,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC SV V-6, Pro-4X V-6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7831,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 7834,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +120,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 7835,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7836,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +150,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 7837,
             "Year": 2011,
             "TypeDesc": "Van",
@@ -207,12 +166,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab": [
+        {
             "Id": 7840,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -225,13 +181,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7841,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -245,12 +196,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed",
-        "TowingCapacity": {
+    ],
+    "Titan KC Short Bed": [
+        {
             "Id": 7838,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -263,13 +211,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7839,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -283,12 +226,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Long Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Long Bed Crew Cab": [
+        {
             "Id": 7842,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -301,13 +241,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7843,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -321,12 +256,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 7844,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,5 +272,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

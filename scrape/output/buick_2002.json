@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Buick",
-        "ModelTrim": "Rendezvous",
-        "TowingCapacity": {
+{
+    "Rendezvous": [
+        {
             "Id": 22303,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

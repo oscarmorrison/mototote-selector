@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+{
+    "Frontier": [
+        {
             "Id": 25838,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25837,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25839,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25840,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 25841,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25842,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +86,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 25843,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -131,12 +102,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 25844,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25845,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25846,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,5 +146,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

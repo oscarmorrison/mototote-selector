@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Hyundai",
-        "ModelTrim": "Sante Fe",
-        "TowingCapacity": {
+{
+    "Sante Fe": [
+        {
             "Id": 7768,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Hyundai",
-        "ModelTrim": "Sante Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7769,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+    ],
+    "Tucson": [
+        {
             "Id": 7770,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Hyundai",
-        "ModelTrim": "Veracruz",
-        "TowingCapacity": {
+    ],
+    "Veracruz": [
+        {
             "Id": 7771,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +60,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

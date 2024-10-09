@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Audi",
-        "ModelTrim": "ETron",
-        "TowingCapacity": {
+{
+    "ETron": [
+        {
             "Id": 27489,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Audi",
-        "ModelTrim": "Q5",
-        "TowingCapacity": {
+    ],
+    "Q5": [
+        {
             "Id": 27490,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+    ],
+    "Q7": [
+        {
             "Id": 27491,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27492,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Audi",
-        "ModelTrim": "Q8",
-        "TowingCapacity": {
+    ],
+    "Q8": [
+        {
             "Id": 27493,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +76,5 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    }
-]
+    ]
+}

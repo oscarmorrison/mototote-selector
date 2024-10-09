@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander PHEV (AWD)",
-        "TowingCapacity": {
+{
+    "Outlander PHEV (AWD)": [
+        {
             "Id": 498914,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    }
-]
+    ]
+}

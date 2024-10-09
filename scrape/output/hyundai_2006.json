@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+{
+    "Santa Fe": [
+        {
             "Id": 15909,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2700
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15911,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15910,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15912,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+    ],
+    "Tucson": [
+        {
             "Id": 15913,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +72,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

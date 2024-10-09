@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X3 M40i",
-        "TowingCapacity": {
+{
+    "X3 M40i": [
+        {
             "Id": 526771,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X3 sDrive30i",
-        "TowingCapacity": {
+    ],
+    "X3 sDrive30i": [
+        {
             "Id": 526770,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X3 xDrive30i",
-        "TowingCapacity": {
+    ],
+    "X3 xDrive30i": [
+        {
             "Id": 526769,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X5 M60i",
-        "TowingCapacity": {
+    ],
+    "X5 M60i": [
+        {
             "Id": 550998,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X5 sDrive40i",
-        "TowingCapacity": {
+    ],
+    "X5 sDrive40i": [
+        {
             "Id": 550999,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive40i": [
+        {
             "Id": 550997,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 7209
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X5 xDrive50e",
-        "TowingCapacity": {
+    ],
+    "X5 xDrive50e": [
+        {
             "Id": 551009,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X6 M60i",
-        "TowingCapacity": {
+    ],
+    "X6 M60i": [
+        {
             "Id": 551019,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": "",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X6 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X6 xDrive40i": [
+        {
             "Id": 551018,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +142,9 @@
             "GearRatio": "",
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X7 M60i",
-        "TowingCapacity": {
+    ],
+    "X7 M60i": [
+        {
             "Id": 551024,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +158,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "X7 xDrive40i",
-        "TowingCapacity": {
+    ],
+    "X7 xDrive40i": [
+        {
             "Id": 551023,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +174,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "BMW",
-        "ModelTrim": "XB7 Alpina",
-        "TowingCapacity": {
+    ],
+    "XB7 Alpina": [
+        {
             "Id": 551026,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +190,5 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    }
-]
+    ]
+}

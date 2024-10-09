@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+{
+    "Rainier": [
+        {
             "Id": 19303,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19304,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19300,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19301,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19305,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Buick",
-        "ModelTrim": "Rainier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19302,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +84,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Buick",
-        "ModelTrim": "Rendezvous",
-        "TowingCapacity": {
+    ],
+    "Rendezvous": [
+        {
             "Id": 18109,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Buick",
-        "ModelTrim": "Rendezvous",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18110,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,5 +114,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

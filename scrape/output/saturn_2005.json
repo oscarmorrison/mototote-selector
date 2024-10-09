@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Saturn",
-        "ModelTrim": "Relay",
-        "TowingCapacity": {
+{
+    "Relay": [
+        {
             "Id": 17965,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Saturn",
-        "ModelTrim": "Relay",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17966,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Saturn",
-        "ModelTrim": "Vue",
-        "TowingCapacity": {
+    ],
+    "Vue": [
+        {
             "Id": 17937,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Saturn",
-        "ModelTrim": "Vue",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17938,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +58,5 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    }
-]
+    ]
+}

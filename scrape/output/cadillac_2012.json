@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 5706,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5707,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+    ],
+    "Escalade ESV": [
+        {
             "Id": 5708,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5709,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade EXT",
-        "TowingCapacity": {
+    ],
+    "Escalade EXT": [
+        {
             "Id": 5710,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": null,
             "TowCapacity": 7600
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade Two Mode Hybrid",
-        "TowingCapacity": {
+    ],
+    "Escalade Two Mode Hybrid": [
+        {
             "Id": 5711,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade Two Mode Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5712,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 5600
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+    ],
+    "SRX": [
+        {
             "Id": 5713,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5714,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5715,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5716,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,5 +162,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2014,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 3701,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3702,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+    ],
+    "Escalade ESV": [
+        {
             "Id": 3703,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3704,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+    ],
+    "SRX": [
+        {
             "Id": 3707,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3708,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3705,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3706,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,5 +116,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery",
-        "TowingCapacity": {
+{
+    "Discovery": [
+        {
             "Id": 17272,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8201
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17271,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery Sport",
-        "TowingCapacity": {
+    ],
+    "Discovery Sport": [
+        {
             "Id": 17273,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+    ],
+    "Range Rover": [
+        {
             "Id": 17275,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17274,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17276,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17277,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +102,9 @@
             "GearRatio": null,
             "TowCapacity": 6614
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque 5-Door",
-        "TowingCapacity": {
+    ],
+    "Range Rover Evoque 5-Door": [
+        {
             "Id": 17278,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": null,
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque Convertible",
-        "TowingCapacity": {
+    ],
+    "Range Rover Evoque Convertible": [
+        {
             "Id": 17279,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +134,9 @@
             "GearRatio": null,
             "TowCapacity": 3306
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport": [
+        {
             "Id": 17280,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +150,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar",
-        "TowingCapacity": {
+    ],
+    "Range Rover Velar": [
+        {
             "Id": 17281,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5291
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17282,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +180,5 @@
             "GearRatio": null,
             "TowCapacity": 5512
         }
-    }
-]
+    ]
+}

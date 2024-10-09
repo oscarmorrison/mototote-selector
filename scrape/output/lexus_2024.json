@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "GX 550 Luxury",
-        "TowingCapacity": {
+{
+    "GX 550 Luxury": [
+        {
             "Id": 550164,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 7844
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "GX 550 Luxury Plus",
-        "TowingCapacity": {
+    ],
+    "GX 550 Luxury Plus": [
+        {
             "Id": 550165,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 7601
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "GX 550 Overtrail",
-        "TowingCapacity": {
+    ],
+    "GX 550 Overtrail": [
+        {
             "Id": 550166,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 9063
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "GX 550 Overtrail Plus",
-        "TowingCapacity": {
+    ],
+    "GX 550 Overtrail Plus": [
+        {
             "Id": 550167,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 9096
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "GX 550 Premium",
-        "TowingCapacity": {
+    ],
+    "GX 550 Premium": [
+        {
             "Id": 550151,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 9063
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "GX 550 Premium Plus",
-        "TowingCapacity": {
+    ],
+    "GX 550 Premium Plus": [
+        {
             "Id": 550162,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 9041
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "LX 600",
-        "TowingCapacity": {
+    ],
+    "LX 600": [
+        {
             "Id": 550170,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+    ],
+    "NX": [
+        {
             "Id": 550173,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550172,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550171,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +154,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+    ],
+    "NX Hybrid": [
+        {
             "Id": 550174,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550175,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +184,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+    ],
+    "RX": [
+        {
             "Id": 550148,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550147,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +214,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "RX Hybrid",
-        "TowingCapacity": {
+    ],
+    "RX Hybrid": [
+        {
             "Id": 550150,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Lexus",
-        "ModelTrim": "RX Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550149,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,5 +244,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

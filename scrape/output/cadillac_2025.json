@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2025,
-        "Make": "Cadillac",
-        "ModelTrim": "CT4",
-        "TowingCapacity": {
+{
+    "CT4": [
+        {
             "Id": 551972,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "2.85",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Cadillac",
-        "ModelTrim": "CT4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551970,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "2.85",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Cadillac",
-        "ModelTrim": "CT4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551971,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "2.85",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Cadillac",
-        "ModelTrim": "CT4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551969,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +56,5 @@
             "GearRatio": "2.85",
             "TowCapacity": 1000
         }
-    }
-]
+    ]
+}

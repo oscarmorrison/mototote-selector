@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 9312,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9313,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9307,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9309,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9308,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9310,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9311,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +98,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+    ],
+    "SRX": [
+        {
             "Id": 9314,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9315,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +128,5 @@
             "GearRatio": null,
             "TowCapacity": 4250
         }
-    }
-]
+    ]
+}

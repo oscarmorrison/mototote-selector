@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-150",
-        "TowingCapacity": {
+{
+    "E-150": [
+        {
             "Id": 13668,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-150",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13669,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -36,12 +28,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 6900
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Wagon",
-        "TowingCapacity": {
+    ],
+    "E-150 Wagon": [
+        {
             "Id": 13670,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13671,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -74,12 +58,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Super Duty",
-        "TowingCapacity": {
+    ],
+    "E-250 Super Duty": [
+        {
             "Id": 13672,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13673,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13674,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -131,12 +102,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Super Duty Extended",
-        "TowingCapacity": {
+    ],
+    "E-250 Super Duty Extended": [
+        {
             "Id": 13675,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -150,12 +118,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6900
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty",
-        "TowingCapacity": {
+    ],
+    "E-350 Super Duty": [
+        {
             "Id": 13676,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13679,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13680,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -206,13 +161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13677,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -225,13 +175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13678,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -245,12 +190,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended",
-        "TowingCapacity": {
+    ],
+    "E-350 Super Duty Extended": [
+        {
             "Id": 13681,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -264,12 +206,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+    ],
+    "E-350 Super Duty Wagon": [
+        {
             "Id": 13682,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -282,13 +221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13685,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -301,13 +235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13686,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -320,13 +249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13683,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -339,13 +263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13684,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -359,12 +278,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon Extended",
-        "TowingCapacity": {
+    ],
+    "E-350 Super Duty Wagon Extended": [
+        {
             "Id": 13687,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -378,12 +294,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Edge",
-        "TowingCapacity": {
+    ],
+    "Edge": [
+        {
             "Id": 13688,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -397,12 +310,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Escape",
-        "TowingCapacity": {
+    ],
+    "Escape": [
+        {
             "Id": 13689,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Escape",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13690,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -435,12 +340,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+    ],
+    "Expedition": [
+        {
             "Id": 13691,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -453,13 +355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13692,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -473,12 +370,9 @@
             "GearRatio": "3.31:1",
             "TowCapacity": 9030
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+    ],
+    "Expedition EL": [
+        {
             "Id": 13693,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -491,13 +385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13694,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -511,12 +400,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8680
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 5 Passenger",
-        "TowingCapacity": {
+    ],
+    "Explorer 5 Passenger": [
+        {
             "Id": 13695,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -529,13 +415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5390
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13697,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -548,13 +429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5210
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13696,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -567,13 +443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13698,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -587,12 +458,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 7120
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 6 Passenger",
-        "TowingCapacity": {
+    ],
+    "Explorer 6 Passenger": [
+        {
             "Id": 13699,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -605,13 +473,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5320
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 6 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13701,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -624,13 +487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5140
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 6 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13700,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -643,13 +501,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7230
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 6 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13702,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -663,12 +516,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 7050
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 7 Passenger",
-        "TowingCapacity": {
+    ],
+    "Explorer 7 Passenger": [
+        {
             "Id": 13703,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -681,13 +531,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5320
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13705,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -700,13 +545,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5140
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13704,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -719,13 +559,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7230
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13706,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -739,12 +574,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 7050
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer Sport Trac",
-        "TowingCapacity": {
+    ],
+    "Explorer Sport Trac": [
+        {
             "Id": 13708,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -757,13 +589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer Sport Trac",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13707,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -776,13 +603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5310
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer Sport Trac",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13710,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -795,13 +617,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6640
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Explorer Sport Trac",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13709,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -815,12 +632,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5140
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 Regular Cab 6 FT  Bed": [
+        {
             "Id": 13712,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -833,13 +647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13711,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -852,13 +661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 2400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13713,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -871,13 +675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13714,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -890,13 +689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13718,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -909,13 +703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13719,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -928,13 +717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13715,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -947,13 +731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13716,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -966,13 +745,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13717,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -985,13 +759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13720,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1004,13 +773,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13721,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1024,12 +788,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 Regular Cab 8 FT  Bed": [
+        {
             "Id": 13723,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1042,13 +803,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13722,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1061,13 +817,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13724,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1080,13 +831,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13725,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1099,13 +845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13730,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1118,13 +859,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13731,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1137,13 +873,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13726,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1156,13 +887,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13727,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1175,13 +901,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13728,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1194,13 +915,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13729,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1213,13 +929,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:3",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13732,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1232,13 +943,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13733,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1251,13 +957,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13734,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1271,12 +972,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 5 FT  Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 Super Cab 5 FT  Bed": [
+        {
             "Id": 13735,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1289,13 +987,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 5 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13736,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1308,13 +1001,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 5 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13739,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1327,13 +1015,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 5 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13740,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1346,13 +1029,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 5 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13737,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1365,13 +1043,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 5 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13738,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1384,13 +1057,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 5 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13741,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1403,13 +1071,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 5 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13742,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1423,12 +1086,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 Super Cab 6 FT  Bed": [
+        {
             "Id": 13743,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1441,13 +1101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13744,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1460,13 +1115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13747,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1479,13 +1129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13748,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1498,13 +1143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13745,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1517,13 +1157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13746,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1536,13 +1171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13749,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1555,13 +1185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13750,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1575,12 +1200,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 8 FT  Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 Super Cab 8 FT  Bed": [
+        {
             "Id": 13751,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1593,13 +1215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Cab 8 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13752,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1613,12 +1230,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Crew",
-        "TowingCapacity": {
+    ],
+    "F-150 Super Crew": [
+        {
             "Id": 13753,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1631,13 +1245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Crew",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13754,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1650,13 +1259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Crew",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13757,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1669,13 +1273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Crew",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13758,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1688,13 +1287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Crew",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13755,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1707,13 +1301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Crew",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13756,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1726,13 +1315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Crew",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13759,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1745,13 +1329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Super Crew",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13760,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1765,12 +1344,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+    ],
+    "F-250/F-350 Super Duty Crew Cab": [
+        {
             "Id": 13762,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1783,13 +1359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13782,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1802,13 +1373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13764,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1821,13 +1387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13784,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1840,13 +1401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13761,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1859,13 +1415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13781,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1878,13 +1429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13763,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1897,13 +1443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13783,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1916,13 +1457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13772,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1935,13 +1471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13792,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1954,13 +1485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13774,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1973,13 +1499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13794,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1992,13 +1513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13771,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2011,13 +1527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13791,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2030,13 +1541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13773,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2049,13 +1555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13793,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2068,13 +1569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13769,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2087,13 +1583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13790,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2106,13 +1597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13770,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2125,13 +1611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13789,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2144,13 +1625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13779,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2163,13 +1639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13800,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2182,13 +1653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13780,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2201,13 +1667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13799,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2220,13 +1681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13765,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2239,13 +1695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13766,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2258,13 +1709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13786,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2277,13 +1723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13788,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2296,13 +1737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13785,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2315,13 +1751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13767,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2334,13 +1765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13768,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2353,13 +1779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13787,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2372,13 +1793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13775,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2391,13 +1807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13776,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2410,13 +1821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13796,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2429,13 +1835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13798,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2448,13 +1849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13795,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2467,13 +1863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13777,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2486,13 +1877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13778,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2505,13 +1891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13797,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2525,12 +1906,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+    ],
+    "F-250/F-350 Super Duty Regular Cab": [
+        {
             "Id": 13802,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2543,13 +1921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13822,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2562,13 +1935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13804,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2581,13 +1949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13824,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2600,13 +1963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13801,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2619,13 +1977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13821,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2638,13 +1991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13803,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2657,13 +2005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13823,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2676,13 +2019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13812,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2695,13 +2033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13832,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2714,13 +2047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13814,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2733,13 +2061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13834,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2752,13 +2075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13811,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2771,13 +2089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13831,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2790,13 +2103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13813,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2809,13 +2117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13833,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2828,13 +2131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13809,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2847,13 +2145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13830,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2866,13 +2159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13810,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2885,13 +2173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13829,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2904,13 +2187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13819,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2923,13 +2201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13840,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2942,13 +2215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13820,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2961,13 +2229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13839,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2980,13 +2243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13805,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2999,13 +2257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13806,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3018,13 +2271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13826,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3037,13 +2285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13828,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3056,13 +2299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13825,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3075,13 +2313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13807,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3094,13 +2327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13808,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3113,13 +2341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13827,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3132,13 +2355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13815,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3151,13 +2369,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13816,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3170,13 +2383,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13836,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3189,13 +2397,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13838,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3208,13 +2411,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13835,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3227,13 +2425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13817,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3246,13 +2439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13818,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3265,13 +2453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13837,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3285,12 +2468,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 15500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+    ],
+    "F-250/F-350 Super Duty Super Cab": [
+        {
             "Id": 13842,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3303,13 +2483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13862,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3322,13 +2497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13844,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3341,13 +2511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13864,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3360,13 +2525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13841,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3379,13 +2539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13861,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3398,13 +2553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13843,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3417,13 +2567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13863,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3436,13 +2581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13852,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3455,13 +2595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13872,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3474,13 +2609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13854,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3493,13 +2623,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13874,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3512,13 +2637,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13851,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3531,13 +2651,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13871,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3550,13 +2665,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13853,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3569,13 +2679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13873,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3588,13 +2693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13849,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3607,13 +2707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13870,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3626,13 +2721,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13850,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3645,13 +2735,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13869,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3664,13 +2749,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13859,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3683,13 +2763,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13880,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3702,13 +2777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13860,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3721,13 +2791,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13879,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3740,13 +2805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13845,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3759,13 +2819,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13846,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3778,13 +2833,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13866,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3797,13 +2847,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13868,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3816,13 +2861,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13865,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3835,13 +2875,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13847,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3854,13 +2889,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13848,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3873,13 +2903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13867,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3892,13 +2917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13855,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3911,13 +2931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13856,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3930,13 +2945,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13876,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3949,13 +2959,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13878,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3968,13 +2973,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13875,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3987,13 +2987,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13857,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4006,13 +3001,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13858,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4025,13 +3015,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-250/F-350 Super Duty Super Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13877,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4045,12 +3030,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 15200
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+    ],
+    "F-350 Super Duty Crew Cab Dually": [
+        {
             "Id": 13885,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4063,13 +3045,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13901,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4082,13 +3059,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13886,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4101,13 +3073,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13902,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4120,13 +3087,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13887,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4139,13 +3101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13903,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4158,13 +3115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 18600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13883,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4177,13 +3129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13899,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4196,13 +3143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13884,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4215,13 +3157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13900,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4234,13 +3171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13892,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4253,13 +3185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13910,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4272,13 +3199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13893,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4291,13 +3213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13911,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4310,13 +3227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13894,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4329,13 +3241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13912,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4348,13 +3255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 18100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13890,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4367,13 +3269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13908,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4386,13 +3283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13891,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4405,13 +3297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13909,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4424,13 +3311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13882,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4443,13 +3325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13896,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4462,13 +3339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13898,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4481,13 +3353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13881,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4500,13 +3367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13895,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4519,13 +3381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13897,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4538,13 +3395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13889,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4557,13 +3409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13905,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4576,13 +3423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13907,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4595,13 +3437,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13888,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4614,13 +3451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13904,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4633,13 +3465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Crew Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13906,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4653,12 +3480,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 15100
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+    ],
+    "F-350 Super Duty Regular Cab Dually": [
+        {
             "Id": 13914,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4671,13 +3495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13933,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4690,13 +3509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13913,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4709,13 +3523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13932,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4728,13 +3537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13924,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4747,13 +3551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13944,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4766,13 +3565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13923,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4785,13 +3579,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13943,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4804,13 +3593,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13920,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4823,13 +3607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13939,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4842,13 +3621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13918,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4861,13 +3635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13921,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4880,13 +3649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13941,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4899,13 +3663,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13922,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4918,13 +3677,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13942,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4937,13 +3691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 19200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13938,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4956,13 +3705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13919,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4975,13 +3719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13940,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4994,13 +3733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13929,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5013,13 +3747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13951,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5032,13 +3761,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13930,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5051,13 +3775,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13952,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5070,13 +3789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13931,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5089,13 +3803,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13953,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5108,13 +3817,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 18700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13927,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5127,13 +3831,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13949,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5146,13 +3845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13928,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5165,13 +3859,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13950,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5184,13 +3873,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13916,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5203,13 +3887,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13935,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5222,13 +3901,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13917,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5241,13 +3915,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13937,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5260,13 +3929,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13915,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5279,13 +3943,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13934,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5298,13 +3957,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13936,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5317,13 +3971,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13926,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5336,13 +3985,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13946,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5355,13 +3999,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13948,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5374,13 +4013,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13925,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5393,13 +4027,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13945,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5412,13 +4041,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Regular Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13947,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5432,12 +4056,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 15700
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+    ],
+    "F-350 Super Duty Super Cab Dually": [
+        {
             "Id": 13955,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5450,13 +4071,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13973,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5469,13 +4085,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13954,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5488,13 +4099,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13972,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5507,13 +4113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13964,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5526,13 +4127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13984,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5545,13 +4141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13963,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5564,13 +4155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13983,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5583,13 +4169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13960,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5602,13 +4183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13980,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5621,13 +4197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13961,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5640,13 +4211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13981,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5659,13 +4225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13962,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5678,13 +4239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13982,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5697,13 +4253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 18800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13958,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5716,13 +4267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13978,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5735,13 +4281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13959,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5754,13 +4295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13979,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5773,13 +4309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13969,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5792,13 +4323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13991,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5811,13 +4337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13970,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5830,13 +4351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13992,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5849,13 +4365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13971,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5868,13 +4379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13993,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5887,13 +4393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 18300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13967,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5906,13 +4407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13989,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5925,13 +4421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13968,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5944,13 +4435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13990,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5963,13 +4449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13957,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -5982,13 +4463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13975,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6001,13 +4477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13977,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6020,13 +4491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13956,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6039,13 +4505,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13974,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6058,13 +4519,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13976,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6077,13 +4533,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13966,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6096,13 +4547,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13986,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6115,13 +4561,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13988,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6134,13 +4575,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13965,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6153,13 +4589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13985,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6172,13 +4603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Super Duty Super Cab Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13987,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6192,12 +4618,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 15300
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Freestar",
-        "TowingCapacity": {
+    ],
+    "Freestar": [
+        {
             "Id": 13994,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -6211,12 +4634,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Freestyle",
-        "TowingCapacity": {
+    ],
+    "Freestyle": [
+        {
             "Id": 13995,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -6230,12 +4650,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+    ],
+    "Ranger Regular Cab 6 FT  Bed": [
+        {
             "Id": 13996,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6248,13 +4665,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2240
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13998,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6267,13 +4679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14000,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6286,13 +4693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2420
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13997,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6305,13 +4707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2640
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13999,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6324,13 +4721,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14002,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6343,13 +4735,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2320
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14001,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6363,12 +4750,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 2320
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 7 FT  Bed",
-        "TowingCapacity": {
+    ],
+    "Ranger Regular Cab 7 FT  Bed": [
+        {
             "Id": 14003,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6381,13 +4765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2540
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 7 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14004,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6400,13 +4779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 7 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14006,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6419,13 +4793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5640
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Regular Cab 7 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14005,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6439,12 +4808,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 3200
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+    ],
+    "Ranger Super Cab 6 FT  Bed": [
+        {
             "Id": 14008,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6457,13 +4823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2340
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14010,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6476,13 +4837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14007,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6495,13 +4851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2420
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14009,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6514,13 +4865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2280
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14012,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6533,13 +4879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5860
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14011,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6552,13 +4893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14014,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6571,13 +4907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5560
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Ford",
-        "ModelTrim": "Ranger Super Cab 6 FT  Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14013,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -6591,5 +4922,5 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 3080
         }
-    }
-]
+    ]
+}

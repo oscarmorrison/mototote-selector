@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "ComManual Transmissionder",
-        "TowingCapacity": {
+{
+    "ComManual Transmissionder": [
+        {
             "Id": 10833,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "ComManual Transmissionder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10836,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "ComManual Transmissionder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10834,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "ComManual Transmissionder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10837,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "ComManual Transmissionder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10835,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "ComManual Transmissionder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10838,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +84,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee": [
+        {
             "Id": 10839,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10840,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10841,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10842,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10843,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10844,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10845,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10846,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +198,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee SRT8",
-        "TowingCapacity": {
+    ],
+    "Grand Cherokee SRT8": [
+        {
             "Id": 10847,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +214,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+    ],
+    "Liberty": [
+        {
             "Id": 10849,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10848,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10851,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -339,13 +257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10850,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -359,12 +272,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler",
-        "TowingCapacity": {
+    ],
+    "Wrangler": [
+        {
             "Id": 10852,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,12 +288,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler Unlimited",
-        "TowingCapacity": {
+    ],
+    "Wrangler Unlimited": [
+        {
             "Id": 10853,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -397,12 +304,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler Unlimited Rubicon",
-        "TowingCapacity": {
+    ],
+    "Wrangler Unlimited Rubicon": [
+        {
             "Id": 10854,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -416,5 +320,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

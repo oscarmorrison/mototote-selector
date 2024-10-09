@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Infiniti",
-        "ModelTrim": "FX 35/45",
-        "TowingCapacity": {
+{
+    "FX 35/45": [
+        {
             "Id": 20575,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+{
+    "Aviator": [
+        {
             "Id": 490189,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.58",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490190,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "3.58",
             "TowCapacity": 5600
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Aviator Grand Touring Hybrid",
-        "TowingCapacity": {
+    ],
+    "Aviator Grand Touring Hybrid": [
+        {
             "Id": 490191,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": "3.31",
             "TowCapacity": 5600
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+    ],
+    "Corsair": [
+        {
             "Id": 490538,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490541,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490537,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490540,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.81",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490539,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +116,9 @@
             "GearRatio": "3.81",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Corsair Grand Touring Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "Corsair Grand Touring Plug-In Hybrid": [
+        {
             "Id": 490542,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +132,9 @@
             "GearRatio": "2.91",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+    ],
+    "Nautilus": [
+        {
             "Id": 490568,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.80",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490570,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.80",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490567,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.80",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490569,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.80",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490571,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.65",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Nautilus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490572,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +218,9 @@
             "GearRatio": "3.65",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 490195,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490196,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490209,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -339,13 +261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490210,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -359,12 +276,9 @@
             "GearRatio": "3.73",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+    ],
+    "Navigator L": [
+        {
             "Id": 490264,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -377,13 +291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490265,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490258,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490259,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -435,5 +334,5 @@
             "GearRatio": "3.73",
             "TowCapacity": 8100
         }
-    }
-]
+    ]
+}

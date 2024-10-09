@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "MKC",
-        "TowingCapacity": {
+{
+    "MKC": [
+        {
             "Id": 829,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "MKT",
-        "TowingCapacity": {
+    ],
+    "MKT": [
+        {
             "Id": 832,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "MKT",
-        "TowingCapacity": {
+        },
+        {
             "Id": 831,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "MKT",
-        "TowingCapacity": {
+        },
+        {
             "Id": 830,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "MKX",
-        "TowingCapacity": {
+    ],
+    "MKX": [
+        {
             "Id": 833,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 834,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 835,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+    ],
+    "Navigator L": [
+        {
             "Id": 836,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2017,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 837,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +134,5 @@
             "GearRatio": null,
             "TowCapacity": 8300
         }
-    }
-]
+    ]
+}

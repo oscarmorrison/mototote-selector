@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML 320",
-        "TowingCapacity": {
+{
+    "ML 320": [
+        {
             "Id": 25823,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML 430",
-        "TowingCapacity": {
+    ],
+    "ML 430": [
+        {
             "Id": 25824,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML 55 AMG",
-        "TowingCapacity": {
+    ],
+    "ML 55 AMG": [
+        {
             "Id": 25825,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

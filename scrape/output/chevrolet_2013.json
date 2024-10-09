@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+{
+    "Avalanche 1500": [
+        {
             "Id": 4682,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4683,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4684,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4685,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4686,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4687,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +84,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Equinox",
-        "TowingCapacity": {
+    ],
+    "Equinox": [
+        {
             "Id": 4696,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +100,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Express 1500 Short Wheel Base": [
+        {
             "Id": 4698,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4699,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4701,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4700,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4702,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -226,12 +172,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Long Wheel Base": [
+        {
             "Id": 4713,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -244,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4714,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -263,13 +201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4715,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -283,12 +216,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Short Wheel Base": [
+        {
             "Id": 4708,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -301,13 +231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4709,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -320,13 +245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4711,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -339,13 +259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4712,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -358,13 +273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4710,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -378,12 +288,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Long Wheel Base": [
+        {
             "Id": 4729,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -396,13 +303,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4730,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -415,13 +317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4732,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -434,13 +331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4731,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -453,13 +345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4733,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -473,12 +360,9 @@
             "GearRatio": null,
             "TowCapacity": 9700
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Short Wheel Base": [
+        {
             "Id": 4724,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -491,13 +375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4725,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -510,13 +389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4727,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -529,13 +403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4726,
             "Year": 2013,
             "TypeDesc": "Cargo Van",
@@ -548,13 +417,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4728,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -568,12 +432,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Crew Cab Short Box": [
+        {
             "Id": 4808,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -586,13 +447,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4809,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -605,13 +461,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4816,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -624,13 +475,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4810,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -643,13 +489,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4811,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -662,13 +503,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4813,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -681,13 +517,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4817,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -700,13 +531,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4818,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -719,13 +545,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4819,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -738,13 +559,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4814,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -757,13 +573,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4815,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -776,13 +587,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4820,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -795,13 +601,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4821,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -815,12 +616,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box XFE",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Crew Cab Short Box XFE": [
+        {
             "Id": 4812,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -834,12 +632,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Extended Cab Long Bed": [
+        {
             "Id": 4866,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -852,13 +647,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4867,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -871,13 +661,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4868,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -890,13 +675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4869,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -909,13 +689,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4870,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -928,13 +703,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4871,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -947,13 +717,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4872,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -966,13 +731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4873,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -986,12 +746,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Extended Cab Standard Bed": [
+        {
             "Id": 4770,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1004,13 +761,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4771,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1023,13 +775,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4772,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1042,13 +789,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4781,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1061,13 +803,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4773,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1080,13 +817,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4774,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1099,13 +831,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4775,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1118,13 +845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4778,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1137,13 +859,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4782,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1156,13 +873,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4783,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1175,13 +887,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4784,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1194,13 +901,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4776,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1213,13 +915,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4779,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1232,13 +929,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4777,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1251,13 +943,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4780,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1270,13 +957,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4785,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1289,13 +971,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4787,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1308,13 +985,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4786,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1327,13 +999,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4788,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1347,12 +1014,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10300
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Regular Cab Long Bed": [
+        {
             "Id": 4839,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1365,13 +1029,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4838,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1384,13 +1043,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.56:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4846,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1403,13 +1057,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4841,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1422,13 +1071,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4840,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1441,13 +1085,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.56:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4847,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1460,13 +1099,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4842,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1479,13 +1113,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.21:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4843,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1498,13 +1127,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.21:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4844,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1517,13 +1141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4845,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1536,13 +1155,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4848,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1555,13 +1169,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4849,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1574,13 +1183,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4850,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1593,13 +1197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4851,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1613,12 +1212,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Regular Cab Standard Bed": [
+        {
             "Id": 4744,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1631,13 +1227,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4745,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1650,13 +1241,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4746,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1669,13 +1255,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4752,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1688,13 +1269,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4747,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1707,13 +1283,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4748,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1726,13 +1297,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4753,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1745,13 +1311,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4749,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1764,13 +1325,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4750,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1783,13 +1339,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4751,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1802,13 +1353,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4754,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1821,13 +1367,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4755,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1840,13 +1381,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.08:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4756,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1860,12 +1396,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Long Bed": [
+        {
             "Id": 4967,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1878,13 +1411,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4968,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1897,13 +1425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4969,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1916,13 +1439,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4971,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1935,13 +1453,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4972,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1954,13 +1467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4973,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1973,13 +1481,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4970,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -1992,13 +1495,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4974,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2012,12 +1510,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 14700
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Standard Bed": [
+        {
             "Id": 4916,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2030,13 +1525,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4917,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2049,13 +1539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4918,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2068,13 +1553,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4925,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2087,13 +1567,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4926,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2106,13 +1581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4927,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2125,13 +1595,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4919,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2144,13 +1609,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4928,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2164,12 +1624,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Extended Cab Long Bed": [
+        {
             "Id": 4951,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2182,13 +1639,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4952,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2201,13 +1653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4953,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2220,13 +1667,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4955,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2239,13 +1681,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4956,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2258,13 +1695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4957,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2277,13 +1709,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4954,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2296,13 +1723,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4958,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2316,12 +1738,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Extended Cab Standard Bed": [
+        {
             "Id": 4900,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2334,13 +1753,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4901,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2353,13 +1767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4902,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2372,13 +1781,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4904,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2391,13 +1795,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4905,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2410,13 +1809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4906,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2429,13 +1823,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4903,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2448,13 +1837,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4907,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2468,12 +1852,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 16400
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Regular Cab Long Bed": [
+        {
             "Id": 4884,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2486,13 +1867,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4935,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2505,13 +1881,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4885,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2524,13 +1895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4936,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2543,13 +1909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4886,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2562,13 +1923,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4937,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2581,13 +1937,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4888,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2600,13 +1951,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4939,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2619,13 +1965,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4889,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2638,13 +1979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4940,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2657,13 +1993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4890,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2676,13 +2007,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4941,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2695,13 +2021,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4887,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2714,13 +2035,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4938,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2733,13 +2049,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4891,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2752,13 +2063,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4942,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2772,12 +2078,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 5061,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2790,13 +2093,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5062,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2809,13 +2107,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5076,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2828,13 +2121,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5077,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2847,13 +2135,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5063,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2866,13 +2149,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 22800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5078,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2886,12 +2164,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 22500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 5057,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2904,13 +2179,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5058,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2923,13 +2193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5059,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2942,13 +2207,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5072,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2961,13 +2221,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5073,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2980,13 +2235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5074,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -2999,13 +2249,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5060,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3018,13 +2263,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5075,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3038,12 +2278,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 16800
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel": [
+        {
             "Id": 5039,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3056,13 +2293,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5040,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3075,13 +2307,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5041,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3094,13 +2321,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5048,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3113,13 +2335,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5049,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3132,13 +2349,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5050,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3151,13 +2363,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5042,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3170,13 +2377,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5051,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3190,12 +2392,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Extended Cab Dual Rear Wheel": [
+        {
             "Id": 5011,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3208,13 +2407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5012,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3227,13 +2421,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5013,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3246,13 +2435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5014,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3265,13 +2449,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5020,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3284,13 +2463,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5021,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3303,13 +2477,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5015,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3322,13 +2491,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 22800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5022,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3342,12 +2506,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 22600
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Extended Cab Single Rear Wheel": [
+        {
             "Id": 5007,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3360,13 +2521,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5008,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3379,13 +2535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5009,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3398,13 +2549,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5016,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3417,13 +2563,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5017,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3436,13 +2577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5018,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3455,13 +2591,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5010,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3474,13 +2605,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5019,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3494,12 +2620,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 16900
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 4985,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3512,13 +2635,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4986,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3531,13 +2649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4987,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3550,13 +2663,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4992,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3569,13 +2677,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4993,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3588,13 +2691,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4994,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3608,12 +2706,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 23100
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Regular Cab Single Rear Wheel": [
+        {
             "Id": 4983,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3626,13 +2721,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4984,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3645,13 +2735,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4988,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3664,13 +2749,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4989,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3683,13 +2763,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4990,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3702,13 +2777,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4991,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3722,12 +2792,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17400
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado Two-Mode Hybrid",
-        "TowingCapacity": {
+    ],
+    "Silverado Two-Mode Hybrid": [
+        {
             "Id": 4882,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3740,13 +2807,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado Two-Mode Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4883,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -3760,12 +2822,9 @@
             "GearRatio": null,
             "TowCapacity": 5900
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+    ],
+    "Suburban": [
+        {
             "Id": 5103,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3778,13 +2837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5104,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3797,13 +2851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5105,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3816,13 +2865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5106,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3835,13 +2879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5107,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3854,13 +2893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5108,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3874,12 +2908,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500 Long Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Suburban 2500 Long Wheelbase": [
+        {
             "Id": 5121,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3892,13 +2923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5122,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3912,12 +2938,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+    ],
+    "Tahoe": [
+        {
             "Id": 5087,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3930,13 +2953,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5088,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3949,13 +2967,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5089,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3968,13 +2981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5091,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3987,13 +2995,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5092,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4006,13 +3009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5093,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4026,12 +3024,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe Two-Mode Hybrid",
-        "TowingCapacity": {
+    ],
+    "Tahoe Two-Mode Hybrid": [
+        {
             "Id": 5090,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4044,13 +3039,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe Two-Mode Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5094,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4064,12 +3054,9 @@
             "GearRatio": null,
             "TowCapacity": 5900
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+    ],
+    "Traverse": [
+        {
             "Id": 4690,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4082,13 +3069,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4691,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4101,13 +3083,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4688,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4120,13 +3097,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4689,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4140,5 +3112,5 @@
             "GearRatio": null,
             "TowCapacity": 5200
         }
-    }
-]
+    ]
+}

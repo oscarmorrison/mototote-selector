@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2017,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+{
+    "Outback": [
+        {
             "Id": 1345,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 2700
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Endeavor",
-        "TowingCapacity": {
+{
+    "Endeavor": [
+        {
             "Id": 7826,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+    ],
+    "Outlander": [
+        {
             "Id": 7824,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7825,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

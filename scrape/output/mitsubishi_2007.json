@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Endeavor",
-        "TowingCapacity": {
+{
+    "Endeavor": [
+        {
             "Id": 14110,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+    ],
+    "Outlander": [
+        {
             "Id": 14111,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider",
-        "TowingCapacity": {
+    ],
+    "Raider": [
+        {
             "Id": 14112,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

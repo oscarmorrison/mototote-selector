@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "MKC",
-        "TowingCapacity": {
+{
+    "MKC": [
+        {
             "Id": 16732,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "MKT",
-        "TowingCapacity": {
+    ],
+    "MKT": [
+        {
             "Id": 16734,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "MKT",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16733,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "MKX",
-        "TowingCapacity": {
+    ],
+    "MKX": [
+        {
             "Id": 16735,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+    ],
+    "Navigator": [
+        {
             "Id": 16736,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +75,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16737,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16738,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16739,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": null,
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+    ],
+    "Navigator L": [
+        {
             "Id": 16740,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16741,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Lincoln",
-        "ModelTrim": "Navigator L",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16742,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,5 +162,5 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    }
-]
+    ]
+}

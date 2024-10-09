@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Mercury",
-        "ModelTrim": "Monterey",
-        "TowingCapacity": {
+{
+    "Monterey": [
+        {
             "Id": 19726,
             "Year": 2004,
             "TypeDesc": "Van",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

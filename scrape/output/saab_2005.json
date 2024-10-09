@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Saab",
-        "ModelTrim": "9-7x",
-        "TowingCapacity": {
+{
+    "9-7x": [
+        {
             "Id": 17865,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Saab",
-        "ModelTrim": "9-7x",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17866,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Saab",
-        "ModelTrim": "9-7x",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17867,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Saab",
-        "ModelTrim": "9-7x",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17868,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +56,5 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    }
-]
+    ]
+}

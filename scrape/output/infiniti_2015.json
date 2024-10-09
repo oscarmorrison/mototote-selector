@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2015,
-        "Make": "Infiniti",
-        "ModelTrim": "QX50",
-        "TowingCapacity": {
+{
+    "QX50": [
+        {
             "Id": 3313,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Infiniti",
-        "ModelTrim": "QX60",
-        "TowingCapacity": {
+    ],
+    "QX60": [
+        {
             "Id": 3314,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Infiniti",
-        "ModelTrim": "QX70",
-        "TowingCapacity": {
+    ],
+    "QX70": [
+        {
             "Id": 3315,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Infiniti",
-        "ModelTrim": "QX70",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3316,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Infiniti",
-        "ModelTrim": "QX80",
-        "TowingCapacity": {
+    ],
+    "QX80": [
+        {
             "Id": 3317,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +76,5 @@
             "GearRatio": null,
             "TowCapacity": 8500
         }
-    }
-]
+    ]
+}

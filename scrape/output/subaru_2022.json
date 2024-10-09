@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+{
+    "Ascent": [
+        {
             "Id": 497890,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497891,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+    ],
+    "Crosstrek": [
+        {
             "Id": 497897,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497896,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek (Plug-In Hybrid)",
-        "TowingCapacity": {
+    ],
+    "Crosstrek (Plug-In Hybrid)": [
+        {
             "Id": 497898,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 1000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+    ],
+    "Forester": [
+        {
             "Id": 497892,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497893,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": "",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+    ],
+    "Outback": [
+        {
             "Id": 549256,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549257,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +134,5 @@
             "GearRatio": "",
             "TowCapacity": 2700
         }
-    }
-]
+    ]
+}

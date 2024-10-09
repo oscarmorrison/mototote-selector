@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+{
+    "Cayenne": [
+        {
             "Id": 498885,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498884,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498887,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498886,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Porsche",
-        "ModelTrim": "Macan",
-        "TowingCapacity": {
+    ],
+    "Macan": [
+        {
             "Id": 499145,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4409
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Porsche",
-        "ModelTrim": "Macan",
-        "TowingCapacity": {
+        },
+        {
             "Id": 499144,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4409
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Porsche",
-        "ModelTrim": "Macan",
-        "TowingCapacity": {
+        },
+        {
             "Id": 499146,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +100,5 @@
             "GearRatio": "",
             "TowCapacity": 4409
         }
-    }
-]
+    ]
+}

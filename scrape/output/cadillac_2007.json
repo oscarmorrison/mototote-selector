@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 12875,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12876,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+    ],
+    "Escalade ESV": [
+        {
             "Id": 12877,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade EXT",
-        "TowingCapacity": {
+    ],
+    "Escalade EXT": [
+        {
             "Id": 12878,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -74,12 +60,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+    ],
+    "SRX": [
+        {
             "Id": 12879,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +75,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12880,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +90,5 @@
             "GearRatio": "3.23:1",
             "TowCapacity": 4250
         }
-    }
-]
+    ]
+}

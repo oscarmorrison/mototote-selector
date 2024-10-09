@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Eclipse Cross (AWD)",
-        "TowingCapacity": {
+{
+    "Eclipse Cross (AWD)": [
+        {
             "Id": 526290,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Eclipse Cross (FWD)",
-        "TowingCapacity": {
+    ],
+    "Eclipse Cross (FWD)": [
+        {
             "Id": 526286,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander (AWD)",
-        "TowingCapacity": {
+    ],
+    "Outlander (AWD)": [
+        {
             "Id": 526300,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander (FWD)",
-        "TowingCapacity": {
+    ],
+    "Outlander (FWD)": [
+        {
             "Id": 526299,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander PHEV (AWD)",
-        "TowingCapacity": {
+    ],
+    "Outlander PHEV (AWD)": [
+        {
             "Id": 526298,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +78,5 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    }
-]
+    ]
+}

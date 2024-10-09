@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 18024,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18025,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+    ],
+    "Frontier": [
+        {
             "Id": 18026,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18027,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18028,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18029,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -112,12 +86,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 18030,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18031,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +116,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 18032,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18033,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +146,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 18034,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -206,13 +161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18035,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -226,12 +176,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab": [
+        {
             "Id": 18036,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -244,13 +191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18037,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -264,12 +206,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+    ],
+    "Titan King Cab": [
+        {
             "Id": 18038,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -282,13 +221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18039,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -302,12 +236,9 @@
             "GearRatio": null,
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 18040,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +251,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18041,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,5 +266,5 @@
             "GearRatio": null,
             "TowCapacity": 5500
         }
-    }
-]
+    ]
+}

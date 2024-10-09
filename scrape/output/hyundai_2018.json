@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2018,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+{
+    "Santa Fe": [
+        {
             "Id": 17260,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe Sport",
-        "TowingCapacity": {
+    ],
+    "Santa Fe Sport": [
+        {
             "Id": 17262,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2018,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17261,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

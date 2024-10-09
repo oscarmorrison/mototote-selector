@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2016,
-        "Make": "Dodge",
-        "ModelTrim": "Dodge Durango",
-        "TowingCapacity": {
+{
+    "Dodge Durango": [
+        {
             "Id": 1805,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Dodge",
-        "ModelTrim": "Dodge Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1803,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Dodge",
-        "ModelTrim": "Dodge Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1806,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Dodge",
-        "ModelTrim": "Dodge Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1804,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Dodge",
-        "ModelTrim": "Dodge Grand Caravan",
-        "TowingCapacity": {
+    ],
+    "Dodge Grand Caravan": [
+        {
             "Id": 1807,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Dodge",
-        "ModelTrim": "Dodge Journey",
-        "TowingCapacity": {
+    ],
+    "Dodge Journey": [
+        {
             "Id": 1809,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "Dodge",
-        "ModelTrim": "Dodge Journey",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1808,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +102,9 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "Dodge",
-        "ModelTrim": "Dodge Town and Country",
-        "TowingCapacity": {
+    ],
+    "Dodge Town and Country": [
+        {
             "Id": 1802,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -150,5 +118,5 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+{
+    "Sorento": [
+        {
             "Id": 498874,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498872,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498875,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498873,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sorento HEV",
-        "TowingCapacity": {
+    ],
+    "Sorento HEV": [
+        {
             "Id": 524039,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sorento PHEV",
-        "TowingCapacity": {
+    ],
+    "Sorento PHEV": [
+        {
             "Id": 524040,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 498792,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498793,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498794,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498791,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +146,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+    ],
+    "Telluride": [
+        {
             "Id": 498774,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498760,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +176,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

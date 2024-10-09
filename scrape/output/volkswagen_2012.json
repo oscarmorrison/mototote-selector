@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Volkswagen",
-        "ModelTrim": "Tiguan",
-        "TowingCapacity": {
+{
+    "Tiguan": [
+        {
             "Id": 6692,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2200
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Volkswagen",
-        "ModelTrim": "Touareg",
-        "TowingCapacity": {
+    ],
+    "Touareg": [
+        {
             "Id": 6693,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    }
-]
+    ]
+}

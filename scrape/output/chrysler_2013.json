@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2013,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+{
+    "Town and Country": [
+        {
             "Id": 5127,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    }
-]
+    ]
+}

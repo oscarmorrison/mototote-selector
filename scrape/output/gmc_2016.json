@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+{
+    "Acadia": [
+        {
             "Id": 1480,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1481,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1478,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Acadia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1479,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 5200
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Canyon Crew Cab Short Bed": [
+        {
             "Id": 1496,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1498,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1499,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1497,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -150,12 +114,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Canyon Crew Cab Standard Bed": [
+        {
             "Id": 1502,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1503,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1500,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1501,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -226,12 +172,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Canyon Extended Cab": [
+        {
             "Id": 1493,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -244,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1494,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -263,13 +201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1495,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -283,12 +216,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Long Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Savana 2500 Long Wheel Base": [
+        {
             "Id": 1463,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -301,13 +231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1464,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -320,13 +245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1465,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -340,12 +260,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Savana 2500 Short Wheel Base": [
+        {
             "Id": 1460,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -358,13 +275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1461,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -377,13 +289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1466,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -396,13 +303,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1467,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -415,13 +317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 2500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1462,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -435,12 +332,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Savana 3500 Long Wheel Base": [
+        {
             "Id": 1473,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -453,13 +347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1474,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -472,13 +361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1476,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -491,13 +375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1475,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -510,13 +389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1477,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -530,12 +404,9 @@
             "GearRatio": null,
             "TowCapacity": 9700
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Short Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Savana 3500 Short Wheel Base": [
+        {
             "Id": 1468,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -548,13 +419,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1469,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -567,13 +433,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1471,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -586,13 +447,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1470,
             "Year": 2016,
             "TypeDesc": "Cargo Van",
@@ -605,13 +461,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Savana 3500 Short Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1472,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
@@ -625,12 +476,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab Short Bed": [
+        {
             "Id": 1570,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -643,13 +491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1577,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -662,13 +505,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1571,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -681,13 +519,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1572,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -700,13 +533,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1573,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -719,13 +547,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1574,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -738,13 +561,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1578,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -757,13 +575,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1579,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -776,13 +589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1580,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -795,13 +603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1581,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -814,13 +617,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1575,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -833,13 +631,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1576,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -852,13 +645,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1582,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -871,13 +659,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1583,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -891,12 +674,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 11700
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab Standard Bed": [
+        {
             "Id": 1598,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -909,13 +689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1605,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -928,13 +703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1599,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -947,13 +717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1600,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -966,13 +731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1601,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -985,13 +745,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1602,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1004,13 +759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1606,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1023,13 +773,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1607,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1042,13 +787,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1608,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1061,13 +801,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1609,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1080,13 +815,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1603,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1099,13 +829,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1604,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1118,13 +843,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1610,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1137,13 +857,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1611,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1157,12 +872,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 11700
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Double Cab": [
+        {
             "Id": 1542,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1175,13 +887,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1549,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1194,13 +901,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1543,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1213,13 +915,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1544,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1232,13 +929,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1545,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1251,13 +943,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1546,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1270,13 +957,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1550,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1289,13 +971,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1551,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1308,13 +985,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1552,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1327,13 +999,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1553,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1346,13 +1013,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1547,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1365,13 +1027,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1548,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1384,13 +1041,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1554,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1403,13 +1055,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1555,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1423,12 +1070,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 11800
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Regular Cab Long Bed": [
+        {
             "Id": 1522,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1441,13 +1085,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1525,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1460,13 +1099,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1523,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1479,13 +1113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1524,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1498,13 +1127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1526,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1517,13 +1141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1527,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1537,12 +1156,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Regular Cab Standard Bed": [
+        {
             "Id": 1516,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1555,13 +1171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1519,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1574,13 +1185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1517,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1593,13 +1199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1518,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1612,13 +1213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1520,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1631,13 +1227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1521,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1651,12 +1242,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Crew Cab Long Bed": [
+        {
             "Id": 1680,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1669,13 +1257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1679,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1688,13 +1271,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1683,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1707,13 +1285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1681,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1726,13 +1299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1682,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1745,13 +1313,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1684,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1764,13 +1327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1685,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1784,12 +1342,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 23200
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Crew Cab Standard Bed": [
+        {
             "Id": 1671,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1802,13 +1357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1672,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1821,13 +1371,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1675,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1840,13 +1385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1676,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1859,13 +1399,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1673,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1878,13 +1413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1674,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1897,13 +1427,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1677,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1916,13 +1441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1678,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1936,12 +1456,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Double Cab Long Bed": [
+        {
             "Id": 1650,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1954,13 +1471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1653,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1973,13 +1485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1651,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -1992,13 +1499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1652,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2011,13 +1513,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1655,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2030,13 +1527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1654,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2050,12 +1542,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Double Cab Standard Bed": [
+        {
             "Id": 1642,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2068,13 +1557,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1643,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2087,13 +1571,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1646,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2106,13 +1585,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1647,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2125,13 +1599,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1644,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2144,13 +1613,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1645,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2163,13 +1627,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 16900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1648,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2182,13 +1641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Double Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1649,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2202,12 +1656,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 14900
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Regular Long Bed": [
+        {
             "Id": 1620,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2220,13 +1671,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1621,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2239,13 +1685,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1624,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2258,13 +1699,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1625,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2277,13 +1713,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1622,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2296,13 +1727,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1623,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2315,13 +1741,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 18000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1626,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2334,13 +1755,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Regular Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1627,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2354,12 +1770,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 16400
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 1767,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2372,13 +1785,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1771,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2391,13 +1799,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1770,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2410,13 +1813,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1768,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2429,13 +1827,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1769,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2448,13 +1841,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 22900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1772,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2467,13 +1855,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1773,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2487,12 +1870,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 22600
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Crew Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 1761,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2505,13 +1885,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1764,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2524,13 +1899,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1762,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2543,13 +1913,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1763,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2562,13 +1927,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1765,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2581,13 +1941,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1766,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2601,12 +1956,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 16900
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Double Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 1725,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2619,13 +1971,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1729,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2638,13 +1985,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1728,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2657,13 +1999,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1726,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2676,13 +2013,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1727,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2695,13 +2027,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 23100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1730,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2714,13 +2041,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1731,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2734,12 +2056,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 22800
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Double Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 1719,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2752,13 +2071,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1722,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2771,13 +2085,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1720,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2790,13 +2099,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1721,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2809,13 +2113,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1723,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2828,13 +2127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Double Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1724,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2848,12 +2142,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17100
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 1701,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2866,13 +2157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1703,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2885,13 +2171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1702,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2904,13 +2185,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1704,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2923,13 +2199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 20000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1705,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2943,12 +2214,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 23200
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Regular Cab Single Rear Wheel": [
+        {
             "Id": 1696,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2961,13 +2229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1697,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2980,13 +2243,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1698,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -2999,13 +2257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1699,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3018,13 +2271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1700,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3038,12 +2286,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Standard Bed Single Rear Wheel": [
+        {
             "Id": 1753,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3056,13 +2301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1754,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3075,13 +2315,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1757,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3094,13 +2329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1758,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3113,13 +2343,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1755,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3132,13 +2357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1756,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3151,13 +2371,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 17500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1759,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3170,13 +2385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Standard Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1760,
             "Year": 2016,
             "TypeDesc": "Truck",
@@ -3190,12 +2400,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17200
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Terrain",
-        "TowingCapacity": {
+    ],
+    "Terrain": [
+        {
             "Id": 1437,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3208,13 +2415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Terrain",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1436,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3228,12 +2430,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+    ],
+    "Yukon": [
+        {
             "Id": 1782,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3246,13 +2445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1783,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3265,13 +2459,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1784,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3284,13 +2473,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1785,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3303,13 +2487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1786,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3322,13 +2501,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1787,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3341,13 +2515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1788,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3360,13 +2529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1789,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3380,12 +2544,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali",
-        "TowingCapacity": {
+    ],
+    "Yukon Denali": [
+        {
             "Id": 1798,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3398,13 +2559,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1799,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3418,12 +2574,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+    ],
+    "Yukon XL": [
+        {
             "Id": 1794,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3436,13 +2589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1795,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3455,13 +2603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1796,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3474,13 +2617,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1797,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3494,12 +2632,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL Denali",
-        "TowingCapacity": {
+    ],
+    "Yukon XL Denali": [
+        {
             "Id": 1800,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3512,13 +2647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2016,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL Denali",
-        "TowingCapacity": {
+        },
+        {
             "Id": 1801,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3532,5 +2662,5 @@
             "GearRatio": null,
             "TowCapacity": 7900
         }
-    }
-]
+    ]
+}

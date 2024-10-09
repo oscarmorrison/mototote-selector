@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2013,
-        "Make": "Volvo",
-        "ModelTrim": "XC60",
-        "TowingCapacity": {
+{
+    "XC60": [
+        {
             "Id": 5688,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Volvo",
-        "ModelTrim": "XC70",
-        "TowingCapacity": {
+    ],
+    "XC70": [
+        {
             "Id": 5689,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 5690,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

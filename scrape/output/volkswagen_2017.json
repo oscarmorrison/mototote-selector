@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2017,
-        "Make": "Volkswagen",
-        "ModelTrim": "Tiguan",
-        "TowingCapacity": {
+{
+    "Tiguan": [
+        {
             "Id": 1410,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2200
         }
-    },
-    {
-        "Year": 2017,
-        "Make": "Volkswagen",
-        "ModelTrim": "Touareg",
-        "TowingCapacity": {
+    ],
+    "Touareg": [
+        {
             "Id": 1411,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

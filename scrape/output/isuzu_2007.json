@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 5 Passenger",
-        "TowingCapacity": {
+{
+    "Ascender 5 Passenger": [
+        {
             "Id": 14033,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14034,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14035,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 5 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14036,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5700
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 7 Passenger",
-        "TowingCapacity": {
+    ],
+    "Ascender 7 Passenger": [
+        {
             "Id": 14037,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14038,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14039,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14041,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14040,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "Ascender 7 Passenger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14042,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +142,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5700
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "I-290",
-        "TowingCapacity": {
+    ],
+    "I-290": [
+        {
             "Id": 14043,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "I-290",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14044,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -226,12 +172,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 2100
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Isuzu",
-        "ModelTrim": "I-370",
-        "TowingCapacity": {
+    ],
+    "I-370": [
+        {
             "Id": 14045,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -245,5 +188,5 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4000
         }
-    }
-]
+    ]
+}

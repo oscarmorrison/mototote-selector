@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "GX 460",
-        "TowingCapacity": {
+{
+    "GX 460": [
+        {
             "Id": 491028,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "LX 600",
-        "TowingCapacity": {
+    ],
+    "LX 600": [
+        {
             "Id": 491031,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+    ],
+    "NX": [
+        {
             "Id": 491119,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491118,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491117,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+    ],
+    "NX Hybrid": [
+        {
             "Id": 491120,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491121,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+    ],
+    "RX": [
+        {
             "Id": 491110,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491111,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491108,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "RX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491109,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +162,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Lexus",
-        "ModelTrim": "RX Hybrid",
-        "TowingCapacity": {
+    ],
+    "RX Hybrid": [
+        {
             "Id": 491112,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +178,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

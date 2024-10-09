@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Chrysler",
-        "ModelTrim": "Voyager",
-        "TowingCapacity": {
+{
+    "Voyager": [
+        {
             "Id": 21459,
             "Year": 2003,
             "TypeDesc": "Van",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

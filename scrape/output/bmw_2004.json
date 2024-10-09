@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "BMW",
-        "ModelTrim": "X3 25i",
-        "TowingCapacity": {
+{
+    "X3 25i": [
+        {
             "Id": 18096,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3748
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "BMW",
-        "ModelTrim": "X3 30i",
-        "TowingCapacity": {
+    ],
+    "X3 30i": [
+        {
             "Id": 18097,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3748
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "BMW",
-        "ModelTrim": "X5 30i",
-        "TowingCapacity": {
+    ],
+    "X5 30i": [
+        {
             "Id": 18098,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 5953
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "BMW",
-        "ModelTrim": "X5 44i",
-        "TowingCapacity": {
+    ],
+    "X5 44i": [
+        {
             "Id": 18099,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 5953
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "BMW",
-        "ModelTrim": "X5 46is",
-        "TowingCapacity": {
+    ],
+    "X5 46is": [
+        {
             "Id": 18100,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +78,5 @@
             "GearRatio": null,
             "TowCapacity": 5953
         }
-    }
-]
+    ]
+}

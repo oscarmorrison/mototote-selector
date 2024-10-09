@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas",
-        "TowingCapacity": {
+{
+    "Atlas": [
+        {
             "Id": 29181,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490107,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29182,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +42,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas Cross Sport",
-        "TowingCapacity": {
+    ],
+    "Atlas Cross Sport": [
+        {
             "Id": 490140,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas Cross Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490142,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Volkswagen",
-        "ModelTrim": "Atlas Cross Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 490141,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +86,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

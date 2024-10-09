@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro",
-        "TowingCapacity": {
+{
+    "Astro": [
+        {
             "Id": 25881,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25882,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25878,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25879,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Astro",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25880,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -93,12 +70,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+    ],
+    "Blazer": [
+        {
             "Id": 25886,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25887,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25890,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25888,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25889,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25883,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25884,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Blazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25885,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +184,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500",
-        "TowingCapacity": {
+    ],
+    "Express G1500": [
+        {
             "Id": 25954,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -263,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25955,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -282,13 +213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25956,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25957,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25958,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -340,12 +256,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500",
-        "TowingCapacity": {
+    ],
+    "Express G2500": [
+        {
             "Id": 25959,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -358,13 +271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25960,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -377,13 +285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25961,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -396,13 +299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25962,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -415,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25963,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -434,13 +327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25964,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -453,13 +341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25965,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -472,13 +355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25966,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -492,12 +370,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500",
-        "TowingCapacity": {
+    ],
+    "Express G3500": [
+        {
             "Id": 25967,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -510,13 +385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25968,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -529,13 +399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25969,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -548,13 +413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25973,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -567,13 +427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25970,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -586,13 +441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25971,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -605,13 +455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25972,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -625,12 +470,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+    ],
+    "S-10": [
+        {
             "Id": 25893,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -643,13 +485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25891,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -662,13 +499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25892,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -681,13 +513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25896,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -700,13 +527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25897,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -719,13 +541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25902,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -738,13 +555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25899,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -757,13 +569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 3900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25900,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -776,13 +583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25901,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -795,13 +597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25894,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -814,13 +611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25895,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -833,13 +625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "S-10",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25898,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -853,12 +640,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 4200
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500": [
+        {
             "Id": 25908,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -871,13 +655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25909,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -890,13 +669,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25910,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -909,13 +683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25911,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -928,13 +697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25905,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -947,13 +711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25906,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -966,13 +725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25907,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -985,13 +739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25903,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1004,13 +753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 3900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25904,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1023,13 +767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25917,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1042,13 +781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25919,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1061,13 +795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25916,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1080,13 +809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25918,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1099,13 +823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25913,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1118,13 +837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25915,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1137,13 +851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25912,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1156,13 +865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25914,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1175,13 +879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25922,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1194,13 +893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25923,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1213,13 +907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25920,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1232,13 +921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25921,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1252,12 +936,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Heavy Duty": [
+        {
             "Id": 25926,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1270,13 +951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25928,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1289,13 +965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25927,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1308,13 +979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25929,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1327,13 +993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25924,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1346,13 +1007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25925,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1366,12 +1022,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Light Duty",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Light Duty": [
+        {
             "Id": 25930,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1384,13 +1037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25931,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1403,13 +1051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25932,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1422,13 +1065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25933,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1441,13 +1079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25934,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1460,13 +1093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25935,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1480,12 +1108,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 11200
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 1500",
-        "TowingCapacity": {
+    ],
+    "Suburban 1500": [
+        {
             "Id": 25939,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1498,13 +1123,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25938,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1517,13 +1137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25936,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1536,13 +1151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25937,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1556,12 +1166,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500",
-        "TowingCapacity": {
+    ],
+    "Suburban 2500": [
+        {
             "Id": 25943,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1574,13 +1181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25944,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1593,13 +1195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25941,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1612,13 +1209,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25940,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1631,13 +1223,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25942,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1651,12 +1238,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+    ],
+    "Tahoe 1500": [
+        {
             "Id": 25947,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1669,13 +1253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25948,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1688,13 +1267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25945,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1707,13 +1281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25946,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1726,13 +1295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25951,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1745,13 +1309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25952,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1764,13 +1323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25949,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1783,13 +1337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25950,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1803,12 +1352,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Chevrolet",
-        "ModelTrim": "Venture",
-        "TowingCapacity": {
+    ],
+    "Venture": [
+        {
             "Id": 25953,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -1822,5 +1368,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

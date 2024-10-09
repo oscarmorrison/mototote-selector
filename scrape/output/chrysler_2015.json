@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2015,
-        "Make": "Chrysler",
-        "ModelTrim": "Dodge Durango",
-        "TowingCapacity": {
+{
+    "Dodge Durango": [
+        {
             "Id": 2879,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Chrysler",
-        "ModelTrim": "Dodge Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2877,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Chrysler",
-        "ModelTrim": "Dodge Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2880,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Chrysler",
-        "ModelTrim": "Dodge Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2878,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Chrysler",
-        "ModelTrim": "Dodge Grand Caravan",
-        "TowingCapacity": {
+    ],
+    "Dodge Grand Caravan": [
+        {
             "Id": 2873,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Chrysler",
-        "ModelTrim": "Dodge Journey",
-        "TowingCapacity": {
+    ],
+    "Dodge Journey": [
+        {
             "Id": 2875,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2015,
-        "Make": "Chrysler",
-        "ModelTrim": "Dodge Journey",
-        "TowingCapacity": {
+        },
+        {
             "Id": 2874,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +102,5 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    }
-]
+    ]
+}

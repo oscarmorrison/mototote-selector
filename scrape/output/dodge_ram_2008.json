@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Mega Cab",
-        "TowingCapacity": {
+{
+    "1500 Mega Cab": [
+        {
             "Id": 11455,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11456,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11457,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 7450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11458,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -74,12 +56,9 @@
             "GearRatio": "4.10.1",
             "TowCapacity": 8450
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab Long Bed": [
+        {
             "Id": 11361,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11362,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11365,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11363,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11364,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11366,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -188,12 +142,9 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab Short Bed": [
+        {
             "Id": 11342,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11343,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -225,13 +171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 3450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11340,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -244,13 +185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 2950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11341,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -263,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 2950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11347,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -282,13 +213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11348,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11349,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11344,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -339,13 +255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 3850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11345,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -358,13 +269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11346,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -377,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 5350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11355,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -396,13 +297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11356,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -415,13 +311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 7050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11357,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -434,13 +325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 6050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11352,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -453,13 +339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11353,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -472,13 +353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11354,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -491,13 +367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11350,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -510,13 +381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11351,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -529,13 +395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 8750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11358,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -548,13 +409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11359,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -567,13 +423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11360,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -587,12 +438,9 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Regular Cab Long Bed": [
+        {
             "Id": 11323,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -605,13 +453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11324,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -624,13 +467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 3550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11322,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -643,13 +481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 3050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11328,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -662,13 +495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 5450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11329,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -681,13 +509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11330,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -700,13 +523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 7450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11325,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -719,13 +537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 3950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11326,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -738,13 +551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 4950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11327,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -757,13 +565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 5450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11334,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -776,13 +579,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11335,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -795,13 +593,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11336,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -814,13 +607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11333,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -833,13 +621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 4250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11331,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -852,13 +635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11332,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -871,13 +649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 8850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11320,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -891,12 +664,9 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "1500 Regular Cab Longbed": [
+        {
             "Id": 11321,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -909,13 +679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11337,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -928,13 +693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11338,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -947,13 +707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 8650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11339,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -967,12 +722,9 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 7650
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Regular Cab Short Bed": [
+        {
             "Id": 11302,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -985,13 +737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11303,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1004,13 +751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11300,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1023,13 +765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11301,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1042,13 +779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11307,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1061,13 +793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 5650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11308,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1080,13 +807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11309,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1099,13 +821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 7650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11304,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1118,13 +835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 4250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11305,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1137,13 +849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11306,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1156,13 +863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 5750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11315,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1175,13 +877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11316,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1194,13 +891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11317,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1213,13 +905,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11312,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1232,13 +919,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11313,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1251,13 +933,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 5450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11314,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1270,13 +947,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11310,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1289,13 +961,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11311,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1308,13 +975,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11318,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1327,13 +989,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11319,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1347,12 +1004,9 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+    ],
+    "2500 Mega Cab": [
+        {
             "Id": 11465,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1365,13 +1019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11466,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1384,13 +1033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11459,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1403,13 +1047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.2",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11460,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1422,13 +1061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.2",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11464,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1441,13 +1075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11463,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1460,13 +1089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11461,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1479,13 +1103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11462,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1498,13 +1117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11470,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1517,13 +1131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11469,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1536,13 +1145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11467,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1555,13 +1159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11468,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1575,12 +1174,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 12400
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Quad Cab Long Bed": [
+        {
             "Id": 11402,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1593,13 +1189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11403,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1612,13 +1203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11400,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1631,13 +1217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 9150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11401,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1650,13 +1231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11410,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1669,13 +1245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 8750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11411,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1688,13 +1259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11408,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1707,13 +1273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 8650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11409,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1726,13 +1287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11407,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1745,13 +1301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11406,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1764,13 +1315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11404,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1783,13 +1329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11405,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1802,13 +1343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11415,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1821,13 +1357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11414,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1840,13 +1371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11412,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1859,13 +1385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11413,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1879,12 +1400,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 12700
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Quad Cab Short Bed": [
+        {
             "Id": 11384,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1897,13 +1415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11385,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1916,13 +1429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11383,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1935,13 +1443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11392,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1954,13 +1457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 8850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11395,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1973,13 +1471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56.1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11390,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -1992,13 +1485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11391,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2011,13 +1499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11393,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2030,13 +1513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11394,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2049,13 +1527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56.1",
             "TowCapacity": 10550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11389,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2068,13 +1541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11388,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2087,13 +1555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 13350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11386,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2106,13 +1569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11387,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2125,13 +1583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11399,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2144,13 +1597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11398,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2163,13 +1611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11396,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2182,13 +1625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11397,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2202,12 +1640,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 12850
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Regular Cab Long Bed": [
+        {
             "Id": 11369,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2220,13 +1655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11370,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2239,13 +1669,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11367,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2258,13 +1683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 9450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11368,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2277,13 +1697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11377,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2296,13 +1711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11378,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2315,13 +1725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11375,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2334,13 +1739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11376,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2353,13 +1753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11374,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2372,13 +1767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11373,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2391,13 +1781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11371,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2410,13 +1795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11372,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2429,13 +1809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11382,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2448,13 +1823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11381,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2467,13 +1837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11379,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2486,13 +1851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 12050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11380,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2506,12 +1866,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 13050
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Mega Cab": [
+        {
             "Id": 11473,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2524,13 +1881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11474,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2543,13 +1895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11471,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2562,13 +1909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11472,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2581,13 +1923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11481,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2600,13 +1937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11482,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2619,13 +1951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11479,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2638,13 +1965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11480,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2658,12 +1980,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 13400
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Mega Cab Dual Rear Wheel": [
+        {
             "Id": 11477,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2676,13 +1995,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11478,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2695,13 +2009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 15550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11475,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2714,13 +2023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11476,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2733,13 +2037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11485,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2752,13 +2051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11486,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2771,13 +2065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11483,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2790,13 +2079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11484,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2810,12 +2094,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 13050
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab Chassis Cab": [
+        {
             "Id": 11503,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2828,13 +2109,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11501,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2847,13 +2123,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11502,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2866,13 +2137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11511,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2885,13 +2151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11509,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2904,13 +2165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11510,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2924,12 +2180,9 @@
             "GearRatio": "4.10.1",
             "TowCapacity": 16050
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab Chassis Cab Dual Rear Wheel": [
+        {
             "Id": 11505,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2942,13 +2195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11504,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2961,13 +2209,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11513,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2980,13 +2223,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11512,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -2999,13 +2237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11508,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3018,13 +2251,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11506,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3037,13 +2265,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11507,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3056,13 +2279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11516,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3075,13 +2293,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11514,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3094,13 +2307,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11515,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3114,12 +2322,9 @@
             "GearRatio": "4.10.1",
             "TowCapacity": 15750
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab Long Bed": [
+        {
             "Id": 11438,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3132,13 +2337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11439,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3151,13 +2351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11436,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3170,13 +2365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 12150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11437,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3189,13 +2379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11441,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3208,13 +2393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11442,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3227,13 +2407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11440,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3247,12 +2422,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 13700
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 11444,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3265,13 +2437,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11443,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3284,13 +2451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11450,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3303,13 +2465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11449,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3322,13 +2479,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11447,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3341,13 +2493,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11448,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3360,13 +2507,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 15850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11445,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3379,13 +2521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11446,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3398,13 +2535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11453,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3417,13 +2549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11454,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3436,13 +2563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11451,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3455,13 +2577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11452,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3475,12 +2592,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 13350
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab Short Bed": [
+        {
             "Id": 11430,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3493,13 +2607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11431,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3512,13 +2621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11428,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3531,13 +2635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11429,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3550,13 +2649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11434,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3569,13 +2663,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11435,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3588,13 +2677,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11432,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3607,13 +2691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11433,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3627,12 +2706,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 13850
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab Chassis Cab": [
+        {
             "Id": 11489,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3645,13 +2721,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11487,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3664,13 +2735,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11488,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3683,13 +2749,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11497,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3702,13 +2763,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11495,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3721,13 +2777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11496,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3741,12 +2792,9 @@
             "GearRatio": "4.10.1",
             "TowCapacity": 16250
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab Chassis Cab Dual Rear Wheel": [
+        {
             "Id": 11491,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3759,13 +2807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11490,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3778,13 +2821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11499,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3797,13 +2835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11498,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3816,13 +2849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11494,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3835,13 +2863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56.1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11492,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3854,13 +2877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11493,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3873,13 +2891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Chassis Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11500,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3893,12 +2906,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab Long Bed Dual Real Wheel": [
+        {
             "Id": 11417,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3911,13 +2921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11416,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3930,13 +2935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11423,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3949,13 +2949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11422,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3968,13 +2963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 10450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11420,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -3987,13 +2977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11421,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4006,13 +2991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11418,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4025,13 +3005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 12050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11419,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4044,13 +3019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 14050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11426,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4063,13 +3033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 13750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11427,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4082,13 +3047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10.1",
             "TowCapacity": 16750
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11424,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4101,13 +3061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42.1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Real Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11425,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4121,12 +3076,9 @@
             "GearRatio": "3.73.1",
             "TowCapacity": 13700
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "4500 Quad Cab Dual Rear Wheel": [
+        {
             "Id": 11527,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4139,13 +3091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 17950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11528,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4158,13 +3105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 17950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11525,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4177,13 +3119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 18000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11526,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4196,13 +3133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56.1",
             "TowCapacity": 18000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11531,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4215,13 +3147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 17550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11532,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4234,13 +3161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 17550
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11529,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4253,13 +3175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 17650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11530,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4273,12 +3190,9 @@
             "GearRatio": "4.56.1",
             "TowCapacity": 17650
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "4500 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 11519,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4291,13 +3205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 18350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11520,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4310,13 +3219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 18350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11517,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4329,13 +3233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 18450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11518,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4348,13 +3247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56.1",
             "TowCapacity": 18450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11524,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4367,13 +3261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 18000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11523,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4386,13 +3275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 18000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11521,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4405,13 +3289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 18050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "4500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11522,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4425,12 +3304,9 @@
             "GearRatio": "4.56.1",
             "TowCapacity": 18050
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "5500 Quad Cab Dual Rear Wheel": [
+        {
             "Id": 11541,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4443,13 +3319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 18000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11540,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4462,13 +3333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 18050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11539,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4481,13 +3347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 18050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11544,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4500,13 +3361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 17600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11543,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4519,13 +3375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 17650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Quad Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11542,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4539,12 +3390,9 @@
             "GearRatio": "4.88.1",
             "TowCapacity": 17650
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "5500 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 11535,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4557,13 +3405,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 18400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11538,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4576,13 +3419,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 18050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11534,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4595,13 +3433,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 16450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11537,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4614,13 +3447,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.44.1",
             "TowCapacity": 18100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11533,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4633,13 +3461,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.88.1",
             "TowCapacity": 16450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Dodge Ram",
-        "ModelTrim": "5500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11536,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -4653,5 +3476,5 @@
             "GearRatio": "4.88.1",
             "TowCapacity": 18100
         }
-    }
-]
+    ]
+}

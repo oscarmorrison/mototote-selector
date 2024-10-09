@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Mazda",
-        "ModelTrim": "B2500",
-        "TowingCapacity": {
+{
+    "B2500": [
+        {
             "Id": 26800,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2240
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Mazda",
-        "ModelTrim": "B3000",
-        "TowingCapacity": {
+    ],
+    "B3000": [
+        {
             "Id": 26802,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4360
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Mazda",
-        "ModelTrim": "B3000",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26801,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Mazda",
-        "ModelTrim": "B4000",
-        "TowingCapacity": {
+    ],
+    "B4000": [
+        {
             "Id": 26804,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Mazda",
-        "ModelTrim": "B4000",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26803,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -93,12 +74,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Mazda",
-        "ModelTrim": "MPassenger Van",
-        "TowingCapacity": {
+    ],
+    "MPassenger Van": [
+        {
             "Id": 26806,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Mazda",
-        "ModelTrim": "MPassenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26805,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -131,5 +104,5 @@
             "GearRatio": null,
             "TowCapacity": 4300
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Lexus",
-        "ModelTrim": "GX 470",
-        "TowingCapacity": {
+{
+    "GX 470": [
+        {
             "Id": 18007,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Lexus",
-        "ModelTrim": "LX 470",
-        "TowingCapacity": {
+    ],
+    "LX 470": [
+        {
             "Id": 18008,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Lexus",
-        "ModelTrim": "RX 330",
-        "TowingCapacity": {
+    ],
+    "RX 330": [
+        {
             "Id": 18009,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Lexus",
-        "ModelTrim": "RX 330",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18010,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +60,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

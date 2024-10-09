@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+{
+    "1500": [
+        {
             "Id": 24548,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24549,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24546,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24547,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3350
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24558,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24561,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24563,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24556,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -149,13 +111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24557,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -168,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24560,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -187,13 +139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24552,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -206,13 +153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24554,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -225,13 +167,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24550,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -244,13 +181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 3250
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24551,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -263,13 +195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24559,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -282,13 +209,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24562,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -301,13 +223,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24564,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -320,13 +237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24553,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -339,13 +251,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24555,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -359,696 +266,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 109 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24565,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 109 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "3.9L V-6",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24568,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "3.9L V-6",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 4250
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
-            "Id": 24573,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 127 IN Wheel Base Maxi",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "3.9L V-6",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 4150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24582,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7250
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24586,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7250
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24580,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.2L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 4330
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24581,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.2L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24578,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24584,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24577,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24583,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24587,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24588,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": "Off-road Group.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24579,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Club Cab",
-        "TowingCapacity": {
-            "Id": 24585,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Club Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24594,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24598,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24592,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.2L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24593,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.2L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24590,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24596,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24589,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24595,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24599,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24600,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": "Off-road Group.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24591,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24597,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1501 109 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24566,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1501 109 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 5450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1501 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24569,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1501 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 6750
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1501 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
-            "Id": 24574,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1501 127 IN Wheel Base Maxi",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 6650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1502 109 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24567,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1502 109 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 5950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1502 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24570,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1502 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7750
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1502 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
-            "Id": 24575,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1502 127 IN Wheel Base Maxi",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1503 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24571,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1503 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1503 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
-            "Id": 24576,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1503 127 IN Wheel Base Maxi",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 8150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1504 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24572,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "1504 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+    ],
+    "2500": [
+        {
             "Id": 24613,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1061,13 +281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24614,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1080,13 +295,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24611,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1099,13 +309,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24612,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1118,13 +323,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24603,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1137,13 +337,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24605,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1156,13 +351,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 10150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24606,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1175,13 +365,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24604,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1194,13 +379,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24610,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1213,13 +393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24609,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1232,13 +407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8350
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24602,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1251,13 +421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8850
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24601,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1270,13 +435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24615,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1289,13 +449,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24608,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1308,13 +463,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24607,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -1328,715 +478,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 13350
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24616,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "3.9L V-6",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 4050
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
-            "Id": 24621,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 127 IN Wheel Base Maxi",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24637,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 9450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24638,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 11450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24635,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24636,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24649,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24650,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24629,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 9850
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24630,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 11850
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24627,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 13650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24628,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24643,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 13650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24644,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24634,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24648,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24633,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 8050
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24647,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.9L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8050
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24626,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24642,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24625,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24641,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24640,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "8.0L V-10",
-            "Trans": "Automatic",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24652,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "8.0L V-10",
-            "Trans": "Automatic",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24639,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "8.0L V-10",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24651,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "8.0L V-10",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24631,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "8.0L V-10",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24632,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "8.0L V-10",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 13150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24645,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "8.0L V-10",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab",
-        "TowingCapacity": {
-            "Id": 24646,
-            "Year": 2001,
-            "TypeDesc": "Truck",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2500 Quad Cab",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "8.0L V-10",
-            "Trans": "Manual",
-            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
-            "TowDesc": "Fifth Wheel",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 13150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2501 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24617,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2501 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.55:1",
-            "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2501 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
-            "Id": 24622,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2501 127 IN Wheel Base Maxi",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 7950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2502 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24618,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2502 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.2L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2502 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
-            "Id": 24623,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2502 127 IN Wheel Base Maxi",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2503 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24619,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2503 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.92:1",
-            "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2503 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
-            "Id": 24624,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2503 127 IN Wheel Base Maxi",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2504 127 IN Wheel Base",
-        "TowingCapacity": {
-            "Id": 24620,
-            "Year": 2001,
-            "TypeDesc": "Van",
-            "MfgDesc": "Dodge Ram",
-            "MakeTrim": "2504 127 IN Wheel Base",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.9L V-8",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+    ],
+    "3500": [
+        {
             "Id": 24666,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2049,13 +493,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24665,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2068,13 +507,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13350
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24667,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2087,13 +521,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24676,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2106,13 +535,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13350
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24663,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2125,13 +549,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24664,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2144,13 +563,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24658,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2163,13 +577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9850
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24659,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2182,13 +591,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24655,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2201,13 +605,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24657,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2220,13 +619,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24656,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2239,13 +633,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 15150
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24672,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2258,13 +647,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24662,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2277,13 +661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24675,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2296,13 +675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24654,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2315,13 +689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24671,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2334,13 +703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24653,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2353,13 +717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24670,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2372,13 +731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24669,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2391,13 +745,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24678,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2410,13 +759,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24668,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2429,13 +773,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24677,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2448,13 +787,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24661,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2467,13 +801,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24674,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2486,13 +815,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24660,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2505,13 +829,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24673,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2525,12 +844,1079 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 13050
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "1500 109 IN Wheel Base": [
+        {
+            "Id": 24565,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 109 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.9L V-6",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4450
+        }
+    ],
+    "1500 127 IN Wheel Base": [
+        {
+            "Id": 24568,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.9L V-6",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4250
+        }
+    ],
+    "1500 127 IN Wheel Base Maxi": [
+        {
+            "Id": 24573,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 127 IN Wheel Base Maxi",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.9L V-6",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4150
+        }
+    ],
+    "1500 Club Cab": [
+        {
+            "Id": 24582,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7250
+        },
+        {
+            "Id": 24586,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7250
+        },
+        {
+            "Id": 24580,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.2L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4330
+        },
+        {
+            "Id": 24581,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.2L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 4800
+        },
+        {
+            "Id": 24578,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7600
+        },
+        {
+            "Id": 24584,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7600
+        },
+        {
+            "Id": 24577,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4600
+        },
+        {
+            "Id": 24583,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7200
+        },
+        {
+            "Id": 24587,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7200
+        },
+        {
+            "Id": 24588,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": "Off-road Group.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 7200
+        },
+        {
+            "Id": 24579,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7550
+        },
+        {
+            "Id": 24585,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Club Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7550
+        }
+    ],
+    "1500 Quad Cab": [
+        {
+            "Id": 24594,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7150
+        },
+        {
+            "Id": 24598,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7150
+        },
+        {
+            "Id": 24592,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.2L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4200
+        },
+        {
+            "Id": 24593,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.2L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 4700
+        },
+        {
+            "Id": 24590,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7500
+        },
+        {
+            "Id": 24596,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7500
+        },
+        {
+            "Id": 24589,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 4500
+        },
+        {
+            "Id": 24595,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7150
+        },
+        {
+            "Id": 24599,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7150
+        },
+        {
+            "Id": 24600,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": "Off-road Group.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 7150
+        },
+        {
+            "Id": 24591,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7500
+        },
+        {
+            "Id": 24597,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7500
+        }
+    ],
+    "1501 109 IN Wheel Base": [
+        {
+            "Id": 24566,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1501 109 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 5450
+        }
+    ],
+    "1501 127 IN Wheel Base": [
+        {
+            "Id": 24569,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1501 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 6750
+        }
+    ],
+    "1501 127 IN Wheel Base Maxi": [
+        {
+            "Id": 24574,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1501 127 IN Wheel Base Maxi",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 6650
+        }
+    ],
+    "1502 109 IN Wheel Base": [
+        {
+            "Id": 24567,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1502 109 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 5950
+        }
+    ],
+    "1502 127 IN Wheel Base": [
+        {
+            "Id": 24570,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1502 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7750
+        }
+    ],
+    "1502 127 IN Wheel Base Maxi": [
+        {
+            "Id": 24575,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1502 127 IN Wheel Base Maxi",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7150
+        }
+    ],
+    "1503 127 IN Wheel Base": [
+        {
+            "Id": 24571,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1503 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7200
+        }
+    ],
+    "1503 127 IN Wheel Base Maxi": [
+        {
+            "Id": 24576,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1503 127 IN Wheel Base Maxi",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 8150
+        }
+    ],
+    "1504 127 IN Wheel Base": [
+        {
+            "Id": 24572,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "1504 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 8200
+        }
+    ],
+    "2500 127 IN Wheel Base": [
+        {
+            "Id": 24616,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "3.9L V-6",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 4050
+        }
+    ],
+    "2500 127 IN Wheel Base Maxi": [
+        {
+            "Id": 24621,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 127 IN Wheel Base Maxi",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7450
+        }
+    ],
+    "2500 Quad Cab": [
+        {
+            "Id": 24637,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 9450
+        },
+        {
+            "Id": 24638,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Automatic",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 11450
+        },
+        {
+            "Id": 24635,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 13200
+        },
+        {
+            "Id": 24636,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 13400
+        },
+        {
+            "Id": 24649,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13200
+        },
+        {
+            "Id": 24650,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13400
+        },
+        {
+            "Id": 24629,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 9850
+        },
+        {
+            "Id": 24630,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Automatic",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 11850
+        },
+        {
+            "Id": 24627,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 13650
+        },
+        {
+            "Id": 24628,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 13800
+        },
+        {
+            "Id": 24643,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13650
+        },
+        {
+            "Id": 24644,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L Turbo Diesel",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13800
+        },
+        {
+            "Id": 24634,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 8100
+        },
+        {
+            "Id": 24648,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8100
+        },
+        {
+            "Id": 24633,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 8050
+        },
+        {
+            "Id": 24647,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.9L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8050
+        },
+        {
+            "Id": 24626,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 8550
+        },
+        {
+            "Id": 24642,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8550
+        },
+        {
+            "Id": 24625,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 8500
+        },
+        {
+            "Id": 24641,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Manual",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8500
+        },
+        {
+            "Id": 24640,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "8.0L V-10",
+            "Trans": "Automatic",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 12700
+        },
+        {
+            "Id": 24652,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "8.0L V-10",
+            "Trans": "Automatic",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12700
+        },
+        {
+            "Id": 24639,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "8.0L V-10",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 12650
+        },
+        {
+            "Id": 24651,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "8.0L V-10",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 12650
+        },
+        {
+            "Id": 24631,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "8.0L V-10",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 13050
+        },
+        {
+            "Id": 24632,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "8.0L V-10",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 13150
+        },
+        {
+            "Id": 24645,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "8.0L V-10",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13050
+        },
+        {
+            "Id": 24646,
+            "Year": 2001,
+            "TypeDesc": "Truck",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2500 Quad Cab",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "8.0L V-10",
+            "Trans": "Manual",
+            "Notes": "Tow ratings over 10000 lbs are for fifth-wheels.",
+            "TowDesc": "Fifth Wheel",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 13150
+        }
+    ],
+    "2501 127 IN Wheel Base": [
+        {
+            "Id": 24617,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2501 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.55:1",
+            "TowCapacity": 7600
+        }
+    ],
+    "2501 127 IN Wheel Base Maxi": [
+        {
+            "Id": 24622,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2501 127 IN Wheel Base Maxi",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 7950
+        }
+    ],
+    "2502 127 IN Wheel Base": [
+        {
+            "Id": 24618,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2502 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.2L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 8100
+        }
+    ],
+    "2502 127 IN Wheel Base Maxi": [
+        {
+            "Id": 24623,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2502 127 IN Wheel Base Maxi",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 7900
+        }
+    ],
+    "2503 127 IN Wheel Base": [
+        {
+            "Id": 24619,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2503 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "3.92:1",
+            "TowCapacity": 8100
+        }
+    ],
+    "2503 127 IN Wheel Base Maxi": [
+        {
+            "Id": 24624,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2503 127 IN Wheel Base Maxi",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8400
+        }
+    ],
+    "2504 127 IN Wheel Base": [
+        {
+            "Id": 24620,
+            "Year": 2001,
+            "TypeDesc": "Van",
+            "MfgDesc": "Dodge Ram",
+            "MakeTrim": "2504 127 IN Wheel Base",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.9L V-8",
+            "Trans": "Automatic",
+            "Notes": null,
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "GearRatio": "4.10:1",
+            "TowCapacity": 8600
+        }
+    ],
+    "3500 127 IN Wheel Base": [
+        {
             "Id": 24679,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -2544,12 +1930,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7550
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "3500 127 IN Wheel Base Maxi": [
+        {
             "Id": 24683,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -2563,12 +1946,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab": [
+        {
             "Id": 24701,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2581,13 +1961,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24702,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2600,13 +1975,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24698,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2619,13 +1989,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24700,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2638,13 +2003,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24699,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2657,13 +2017,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24712,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2676,13 +2031,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24692,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2695,13 +2045,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24693,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2714,13 +2059,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24689,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2733,13 +2073,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24691,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2752,13 +2087,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24690,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2771,13 +2101,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 14700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24707,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2790,13 +2115,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24697,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2809,13 +2129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24711,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2828,13 +2143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24696,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2847,13 +2157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24710,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2866,13 +2171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24688,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2885,13 +2185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24706,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2904,13 +2199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24687,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2923,13 +2213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24705,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2942,13 +2227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24704,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2961,13 +2241,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 12250
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24714,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2980,13 +2255,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12250
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24703,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -2999,13 +2269,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24713,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3018,13 +2283,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24695,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3037,13 +2297,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24709,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3056,13 +2311,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24694,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3075,13 +2325,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24708,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -3095,12 +2340,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 12650
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3501 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "3501 127 IN Wheel Base": [
+        {
             "Id": 24680,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3114,12 +2356,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8050
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3501 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "3501 127 IN Wheel Base Maxi": [
+        {
             "Id": 24684,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3133,12 +2372,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3502 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "3502 127 IN Wheel Base": [
+        {
             "Id": 24681,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3152,12 +2388,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3502 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "3502 127 IN Wheel Base Maxi": [
+        {
             "Id": 24685,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3171,12 +2404,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7850
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3503 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "3503 127 IN Wheel Base": [
+        {
             "Id": 24682,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3190,12 +2420,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3503 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "3503 127 IN Wheel Base Maxi": [
+        {
             "Id": 24686,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3209,12 +2436,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8350
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 1500 109 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Wagon 1500 109 IN Wheel Base": [
+        {
             "Id": 24715,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3227,13 +2451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4050
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 1500 109 IN Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24716,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3246,13 +2465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5050
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 1500 109 IN Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24717,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3266,12 +2480,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 5550
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 2500 127 IN Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Wagon 2500 127 IN Wheel Base": [
+        {
             "Id": 24718,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3284,13 +2495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 2500 127 IN Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24719,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3303,13 +2509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 2500 127 IN Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24720,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3322,13 +2523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7650
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 2500 127 IN Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24721,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3342,12 +2538,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8150
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 3500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+    ],
+    "Wagon 3500 127 IN Wheel Base Maxi": [
+        {
             "Id": 24722,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3360,13 +2553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6750
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 3500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24723,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3379,13 +2567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7250
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 3500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24724,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3398,13 +2581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Wagon 3500 127 IN Wheel Base Maxi",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24725,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -3418,5 +2596,5 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7700
         }
-    }
-]
+    ]
+}

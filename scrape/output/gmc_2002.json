@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+{
+    "Envoy": [
+        {
             "Id": 23532,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23533,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23534,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23535,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23536,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23537,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +84,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6200
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy Long Wheel Base",
-        "TowingCapacity": {
+    ],
+    "Envoy Long Wheel Base": [
+        {
             "Id": 23538,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23539,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23540,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23541,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23542,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Envoy Long Wheel Base",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23543,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +170,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 5800
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Safari Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Safari Cargo Van": [
+        {
             "Id": 23546,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -244,13 +185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Safari Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23547,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -263,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Safari Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23544,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -282,13 +213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Safari Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23545,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -302,12 +228,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Safari Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Safari Passenger Van": [
+        {
             "Id": 23550,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -320,13 +243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Safari Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23551,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -339,13 +257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Safari Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23548,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -358,13 +271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Safari Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23549,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -378,12 +286,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5400
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Savana G1500 Cargo Van": [
+        {
             "Id": 23552,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -396,13 +301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23556,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -415,13 +315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23553,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -434,13 +329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23557,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -453,13 +343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23554,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -472,13 +357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23555,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -492,12 +372,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Savana G1500 Passenger Van": [
+        {
             "Id": 23561,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -510,13 +387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23558,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -529,13 +401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23562,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -548,13 +415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23559,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -567,13 +429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23563,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -586,13 +443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23560,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -606,12 +458,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Savana G2500 Cargo Van Heavy Duty": [
+        {
             "Id": 23564,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -624,13 +473,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23565,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -643,13 +487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23566,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -662,13 +501,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23567,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -681,13 +515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23568,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -701,12 +530,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Savana G2500 Long Wheel Base Cargo Van": [
+        {
             "Id": 23569,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -719,13 +545,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23570,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -738,13 +559,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23571,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -758,12 +574,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Savana G2500 Long Wheel Base Cargo Van Heavy Duty": [
+        {
             "Id": 23572,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -776,13 +589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23573,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -795,13 +603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23574,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -814,13 +617,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23575,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -833,13 +631,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Cargo Van Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23576,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -853,12 +646,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8400
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Savana G2500 Long Wheel Base Passenger Van": [
+        {
             "Id": 23577,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -871,13 +661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23578,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -891,12 +676,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Savana G2500 Passenger Van": [
+        {
             "Id": 23579,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -909,13 +691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23580,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -928,13 +705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23581,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -947,13 +719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23582,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -967,12 +734,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Savana G3500 Cargo Van": [
+        {
             "Id": 23583,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -985,13 +749,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23584,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1004,13 +763,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23587,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1023,13 +777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23588,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1042,13 +791,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23585,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1061,13 +805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23586,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1081,12 +820,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Savana G3500 Long Wheel Base Cargo Van": [
+        {
             "Id": 23589,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1099,13 +835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23590,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1118,13 +849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23593,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1137,13 +863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23594,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1156,13 +877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23591,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1175,13 +891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23592,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1195,12 +906,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Savana G3500 Long Wheel Base Passenger Van": [
+        {
             "Id": 23595,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1213,13 +921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 560
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23596,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1232,13 +935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23599,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1251,13 +949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23600,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1270,13 +963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23597,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1289,13 +977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Long Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23598,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1309,12 +992,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Savana G3500 Passenger Van": [
+        {
             "Id": 23601,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1327,13 +1007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23602,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1346,13 +1021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23605,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1365,13 +1035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23606,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1384,13 +1049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23603,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1403,13 +1063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23604,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -1423,12 +1078,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500": [
+        {
             "Id": 23607,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1441,13 +1093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23608,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1460,13 +1107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23609,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1479,13 +1121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23610,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1498,13 +1135,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23611,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1517,13 +1149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23612,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1536,13 +1163,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.10:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23613,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1555,13 +1177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23614,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1575,12 +1192,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab": [
+        {
             "Id": 23615,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1593,13 +1207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23617,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1612,13 +1221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23616,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1631,13 +1235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23618,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1651,12 +1250,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Extended Cab": [
+        {
             "Id": 23619,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1669,13 +1265,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23620,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1688,13 +1279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23621,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1707,13 +1293,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23622,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1727,12 +1308,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Light Duty": [
+        {
             "Id": 23627,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1745,13 +1323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23628,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1764,13 +1337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23868,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1783,13 +1351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23869,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1802,13 +1365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23623,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1821,13 +1379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23624,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1840,13 +1393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23629,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1859,13 +1407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23630,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1878,13 +1421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23870,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1897,13 +1435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23871,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1916,13 +1449,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23872,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1935,13 +1463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23625,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1954,13 +1477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23626,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1973,13 +1491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23873,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -1992,13 +1505,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23874,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2012,12 +1520,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Light Duty Extended Cab": [
+        {
             "Id": 23875,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2030,13 +1535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23876,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2049,13 +1549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23631,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2068,13 +1563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 3700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23634,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2087,13 +1577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23635,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2106,13 +1591,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23877,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2125,13 +1605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23878,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2144,13 +1619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23632,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2163,13 +1633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23633,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2182,13 +1647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23879,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2201,13 +1661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23880,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2221,12 +1676,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Light Duty Long Bed": [
+        {
             "Id": 23644,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2239,13 +1691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23645,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2258,13 +1705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23885,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2277,13 +1719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23886,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2296,13 +1733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23636,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2315,13 +1747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23637,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2334,13 +1761,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23646,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2353,13 +1775,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23647,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2372,13 +1789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23887,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2391,13 +1803,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23888,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2410,13 +1817,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.42:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23889,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2429,13 +1831,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23638,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2448,13 +1845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23639,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2467,13 +1859,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23890,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2486,13 +1873,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23891,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2506,12 +1888,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Light Duty Long Bed Extended Cab": [
+        {
             "Id": 23642,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2524,13 +1903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23643,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2543,13 +1917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23881,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2562,13 +1931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23882,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2581,13 +1945,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23640,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2600,13 +1959,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23641,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2619,13 +1973,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23883,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2638,13 +1987,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Light Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23884,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2658,12 +2002,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Long Bed": [
+        {
             "Id": 23648,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2676,13 +2017,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23649,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2695,13 +2031,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23650,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2714,13 +2045,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23651,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2733,13 +2059,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23652,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2752,13 +2073,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23653,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2772,12 +2088,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Long Bed Extended Cab": [
+        {
             "Id": 23654,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2790,13 +2103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23655,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2809,13 +2117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23656,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2828,13 +2131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23657,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2848,12 +2146,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Extended Cab": [
+        {
             "Id": 23658,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2866,13 +2161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23660,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2885,13 +2175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23659,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2904,13 +2189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23661,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2924,12 +2204,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Heavy Duty Crew Cab": [
+        {
             "Id": 23669,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2942,13 +2219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23683,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2961,13 +2233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23662,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2980,13 +2247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23676,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -2999,13 +2261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23674,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3018,13 +2275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23675,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3037,13 +2289,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23688,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3056,13 +2303,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23689,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3075,13 +2317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23667,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3094,13 +2331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23668,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3113,13 +2345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23681,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3132,13 +2359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23682,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3151,13 +2373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23670,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3170,13 +2387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23672,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3189,13 +2401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23671,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3208,13 +2415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23673,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3227,13 +2429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23684,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3246,13 +2443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23686,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3265,13 +2457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23685,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3284,13 +2471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23687,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3303,13 +2485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23663,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3322,13 +2499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23665,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3341,13 +2513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23664,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3360,13 +2527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23666,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3379,13 +2541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23677,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3398,13 +2555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23679,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3417,13 +2569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23678,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3436,13 +2583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23680,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3456,12 +2598,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15700
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Heavy Duty Extended Cab": [
+        {
             "Id": 23697,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3474,13 +2613,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23711,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3493,13 +2627,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23690,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3512,13 +2641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23704,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3531,13 +2655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23702,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3550,13 +2669,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23703,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3569,13 +2683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23716,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3588,13 +2697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23717,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3607,13 +2711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23695,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3626,13 +2725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 1200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23696,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3645,13 +2739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23709,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3664,13 +2753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 1200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23710,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3683,13 +2767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23698,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3702,13 +2781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23700,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3721,13 +2795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23699,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3740,13 +2809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23701,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3759,13 +2823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23712,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3778,13 +2837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23714,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3797,13 +2851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23713,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3816,13 +2865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23715,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3835,13 +2879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23691,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3854,13 +2893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23693,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3873,13 +2907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23692,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3892,13 +2921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23694,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3911,13 +2935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23705,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3930,13 +2949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23707,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3949,13 +2963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23706,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3968,13 +2977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23708,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -3988,12 +2992,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15900
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Heavy Duty Long Bed": [
+        {
             "Id": 23781,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4006,13 +3007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23795,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4025,13 +3021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23774,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4044,13 +3035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23788,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4063,13 +3049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23786,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4082,13 +3063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23787,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4101,13 +3077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23800,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4120,13 +3091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23801,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4139,13 +3105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23779,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4158,13 +3119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23780,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4177,13 +3133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23793,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4196,13 +3147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23794,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4215,13 +3161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23782,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4234,13 +3175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23784,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4253,13 +3189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23783,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4272,13 +3203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23785,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4291,13 +3217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23796,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4310,13 +3231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23798,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4329,13 +3245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23797,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4348,13 +3259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23799,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4367,13 +3273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23775,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4386,13 +3287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23777,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4405,13 +3301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23776,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4424,13 +3315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23778,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4443,13 +3329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23789,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4462,13 +3343,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23791,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4481,13 +3357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23790,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4500,13 +3371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23792,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4520,12 +3386,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 16300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Heavy Duty Long Bed Crew Cab": [
+        {
             "Id": 23725,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4538,13 +3401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23739,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4557,13 +3415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23718,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4576,13 +3429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23732,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4595,13 +3443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23730,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4614,13 +3457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23731,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4633,13 +3471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23744,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4652,13 +3485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23745,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4671,13 +3499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23723,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4690,13 +3513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23724,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4709,13 +3527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23737,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4728,13 +3541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23738,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4747,13 +3555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23726,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4766,13 +3569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23728,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4785,13 +3583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23727,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4804,13 +3597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23729,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4823,13 +3611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23740,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4842,13 +3625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23742,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4861,13 +3639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23741,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4880,13 +3653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23743,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4899,13 +3667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23719,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4918,13 +3681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23721,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4937,13 +3695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23720,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4956,13 +3709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23722,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4975,13 +3723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23733,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -4994,13 +3737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23735,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5013,13 +3751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23734,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5032,13 +3765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23736,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5052,12 +3780,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Heavy Duty Long Bed Extended Cab": [
+        {
             "Id": 23753,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5070,13 +3795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23767,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5089,13 +3809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23746,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5108,13 +3823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23760,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5127,13 +3837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23758,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5146,13 +3851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23759,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5165,13 +3865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23772,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5184,13 +3879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23773,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5203,13 +3893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23751,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5222,13 +3907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23752,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5241,13 +3921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23765,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5260,13 +3935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23766,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5279,13 +3949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23754,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5298,13 +3963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23756,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5317,13 +3977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23755,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5336,13 +3991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23757,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5355,13 +4005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23768,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5374,13 +4019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23770,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5393,13 +4033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23769,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5412,13 +4047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23771,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5431,13 +4061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23747,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5450,13 +4075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23749,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5469,13 +4089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23748,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5488,13 +4103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23750,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5507,13 +4117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23761,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5526,13 +4131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23763,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5545,13 +4145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23762,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5564,13 +4159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23764,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5584,12 +4174,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Light Duty Extended Cab": [
+        {
             "Id": 23802,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5602,13 +4189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23803,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5622,12 +4204,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Light Duty Long Bed": [
+        {
             "Id": 23892,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5640,13 +4219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23894,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5659,13 +4233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23804,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5678,13 +4247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23893,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5697,13 +4261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23805,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5716,13 +4275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23895,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5736,12 +4290,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Heavy Duty Long Bed": [
+        {
             "Id": 23851,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5754,13 +4305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23861,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5773,13 +4319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23846,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5792,13 +4333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23856,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5811,13 +4347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23854,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5830,13 +4361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23855,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5849,13 +4375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23864,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5868,13 +4389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23865,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5887,13 +4403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23849,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5906,13 +4417,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23850,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5925,13 +4431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23859,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5944,13 +4445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23860,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5963,13 +4459,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23852,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -5982,13 +4473,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23853,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6001,13 +4487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23862,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6020,13 +4501,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23863,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6039,13 +4515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23847,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6058,13 +4529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23848,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6077,13 +4543,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23857,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6096,13 +4557,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23858,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6116,12 +4572,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Heavy Duty Long Bed Crew Cab": [
+        {
             "Id": 23811,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6134,13 +4587,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23821,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6153,13 +4601,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23806,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6172,13 +4615,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23816,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6191,13 +4629,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23814,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6210,13 +4643,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23815,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6229,13 +4657,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23824,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6248,13 +4671,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23825,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6267,13 +4685,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23809,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6286,13 +4699,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23810,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6305,13 +4713,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23819,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6324,13 +4727,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23820,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6343,13 +4741,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23812,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6362,13 +4755,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23813,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6381,13 +4769,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23822,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6400,13 +4783,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23823,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6419,13 +4797,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23807,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6438,13 +4811,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23808,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6457,13 +4825,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23817,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6476,13 +4839,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23818,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6496,12 +4854,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Heavy Duty Long Bed Extended Cab": [
+        {
             "Id": 23831,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6514,13 +4869,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23841,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6533,13 +4883,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23826,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6552,13 +4897,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23836,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6571,13 +4911,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23834,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6590,13 +4925,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23835,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6609,13 +4939,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23844,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6628,13 +4953,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23845,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6647,13 +4967,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23829,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6666,13 +4981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23830,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6685,13 +4995,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23839,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6704,13 +5009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23840,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6723,13 +5023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23832,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6742,13 +5037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23833,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6761,13 +5051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23842,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6780,13 +5065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23843,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6799,13 +5079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23827,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6818,13 +5093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 1200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23828,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6837,13 +5107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23837,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6856,13 +5121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 1200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty Long Bed Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23838,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6876,12 +5136,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra Denali",
-        "TowingCapacity": {
+    ],
+    "Sierra Denali": [
+        {
             "Id": 23866,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6894,13 +5151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra Denali",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23867,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6914,12 +5166,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra Light Duty Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra Light Duty Crew Cab": [
+        {
             "Id": 23896,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6932,13 +5181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra Light Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23898,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6951,13 +5195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra Light Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23897,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6970,13 +5209,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sierra Light Duty Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23899,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -6990,12 +5224,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sonoma Crew Cab": [
+        {
             "Id": 23900,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7008,13 +5239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23901,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7028,12 +5254,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sonoma Extended Cab": [
+        {
             "Id": 23903,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7046,13 +5269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23902,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7065,13 +5283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23908,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7084,13 +5297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23907,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7103,13 +5311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23909,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7122,13 +5325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23905,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7141,13 +5339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23906,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7160,13 +5353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23904,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7180,12 +5368,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 3800
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Long Bed",
-        "TowingCapacity": {
+    ],
+    "Sonoma Long Bed": [
+        {
             "Id": 23911,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7198,13 +5383,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23910,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7217,13 +5397,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23913,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7236,13 +5411,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23914,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7255,13 +5425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23912,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7275,12 +5440,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 3900
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Sonoma Regular Cab": [
+        {
             "Id": 23915,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7293,13 +5455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23916,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7312,13 +5469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23917,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7331,13 +5483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23918,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7351,12 +5498,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma ZR2",
-        "TowingCapacity": {
+    ],
+    "Sonoma ZR2": [
+        {
             "Id": 23919,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7370,12 +5514,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4200
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma ZR3",
-        "TowingCapacity": {
+    ],
+    "Sonoma ZR3": [
+        {
             "Id": 23920,
             "Year": 2002,
             "TypeDesc": "Truck",
@@ -7389,12 +5530,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4700
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Venture",
-        "TowingCapacity": {
+    ],
+    "Venture": [
+        {
             "Id": 23921,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -7408,12 +5546,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+    ],
+    "Yukon 1500": [
+        {
             "Id": 23926,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7426,13 +5561,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23927,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7445,13 +5575,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23922,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7464,13 +5589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23923,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7483,13 +5603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23928,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7502,13 +5617,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23929,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7521,13 +5631,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23924,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7540,13 +5645,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23925,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7560,12 +5660,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali 1500",
-        "TowingCapacity": {
+    ],
+    "Yukon Denali 1500": [
+        {
             "Id": 23930,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7579,12 +5676,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+    ],
+    "Yukon XL 1500": [
+        {
             "Id": 23933,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7597,13 +5691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23934,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7616,13 +5705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23931,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7635,13 +5719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23932,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7655,12 +5734,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8400
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+    ],
+    "Yukon XL 2500": [
+        {
             "Id": 23939,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7673,13 +5749,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23940,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7692,13 +5763,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23935,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7711,13 +5777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23936,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7730,13 +5791,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23941,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7749,13 +5805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23942,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7768,13 +5819,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23937,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7787,13 +5833,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23938,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7807,12 +5848,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL Denali 1500",
-        "TowingCapacity": {
+    ],
+    "Yukon XL Denali 1500": [
+        {
             "Id": 23943,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -7826,5 +5864,5 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
         }
-    }
-]
+    ]
+}

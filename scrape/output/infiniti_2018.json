@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2018,
-        "Make": "Infiniti",
-        "ModelTrim": "QX60",
-        "TowingCapacity": {
+{
+    "QX60": [
+        {
             "Id": 17263,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Infiniti",
-        "ModelTrim": "QX61",
-        "TowingCapacity": {
+    ],
+    "QX61": [
+        {
             "Id": 17264,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 8000
         }
-    }
-]
+    ]
+}

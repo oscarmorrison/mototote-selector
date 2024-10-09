@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Saturn",
-        "ModelTrim": "Vue",
-        "TowingCapacity": {
+{
+    "Vue": [
+        {
             "Id": 20635,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    }
-]
+    ]
+}

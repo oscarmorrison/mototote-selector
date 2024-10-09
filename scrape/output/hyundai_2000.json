@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Hyundai",
-        "ModelTrim": "Sonata",
-        "TowingCapacity": {
+{
+    "Sonata": [
+        {
             "Id": 26772,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Hyundai",
-        "ModelTrim": "Sonata",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26771,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

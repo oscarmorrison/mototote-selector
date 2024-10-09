@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Dodge",
-        "ModelTrim": "Durango (AWD)",
-        "TowingCapacity": {
+{
+    "Durango (AWD)": [
+        {
             "Id": 497954,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.09",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Dodge",
-        "ModelTrim": "Durango (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497956,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.09",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Dodge",
-        "ModelTrim": "Durango (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497955,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.70",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Dodge",
-        "ModelTrim": "Durango (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497953,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "3.45",
             "TowCapacity": 6200
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Dodge",
-        "ModelTrim": "Durango (RWD)",
-        "TowingCapacity": {
+    ],
+    "Durango (RWD)": [
+        {
             "Id": 497950,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.09",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Dodge",
-        "ModelTrim": "Durango (RWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497949,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +86,5 @@
             "GearRatio": "3.27",
             "TowCapacity": 6200
         }
-    }
-]
+    ]
+}

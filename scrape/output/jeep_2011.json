@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+{
+    "Grand Cherokee": [
+        {
             "Id": 7775,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7777,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7776,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7778,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+    ],
+    "Liberty": [
+        {
             "Id": 7779,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7780,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +86,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Patriot",
-        "TowingCapacity": {
+    ],
+    "Patriot": [
+        {
             "Id": 7781,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +102,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler",
-        "TowingCapacity": {
+    ],
+    "Wrangler": [
+        {
             "Id": 7782,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler Unlimited",
-        "TowingCapacity": {
+    ],
+    "Wrangler Unlimited": [
+        {
             "Id": 7783,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +134,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler Unlimited Rubicon",
-        "TowingCapacity": {
+    ],
+    "Wrangler Unlimited Rubicon": [
+        {
             "Id": 7784,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,5 +150,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

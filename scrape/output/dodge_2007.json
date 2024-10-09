@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Caliber",
-        "TowingCapacity": {
+{
+    "Caliber": [
+        {
             "Id": 13396,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+    ],
+    "Dakota Club Cab": [
+        {
             "Id": 13401,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13402,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13399,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13400,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13408,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13409,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13407,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13405,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13406,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13403,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13404,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13411,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -244,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13412,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -263,13 +197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Club Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13410,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -283,12 +212,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 5350
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+    ],
+    "Dakota Quad Cab": [
+        {
             "Id": 13415,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13416,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13413,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -339,13 +255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 3150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13414,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -358,13 +269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13422,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -377,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13423,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -396,13 +297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13421,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -415,13 +311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13419,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -434,13 +325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13420,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -453,13 +339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13417,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -472,13 +353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13418,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -491,13 +367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13425,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -510,13 +381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5650
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13426,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -529,13 +395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13424,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -549,12 +410,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 5250
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+    ],
+    "Durango": [
+        {
             "Id": 13427,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -567,13 +425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13428,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -586,13 +439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13429,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -605,13 +453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13432,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -624,13 +467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13433,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -643,13 +481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7350
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13430,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -662,13 +495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13431,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -681,13 +509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13434,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -700,13 +523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13435,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -720,12 +538,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8750
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Magnum",
-        "TowingCapacity": {
+    ],
+    "Magnum": [
+        {
             "Id": 13436,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -738,13 +553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Magnum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13437,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -757,13 +567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Magnum",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13438,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -777,12 +582,9 @@
             "GearRatio": null,
             "TowCapacity": 3800
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Magnum SRT8",
-        "TowingCapacity": {
+    ],
+    "Magnum SRT8": [
+        {
             "Id": 13439,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
@@ -796,12 +598,9 @@
             "GearRatio": null,
             "TowCapacity": 3800
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Nitro",
-        "TowingCapacity": {
+    ],
+    "Nitro": [
+        {
             "Id": 13440,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -814,13 +613,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Nitro",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13441,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -833,13 +627,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Nitro",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13442,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -852,13 +641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "Nitro",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13443,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -872,12 +656,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "PVavan/Grand PVavan",
-        "TowingCapacity": {
+    ],
+    "PVavan/Grand PVavan": [
+        {
             "Id": 13397,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -890,13 +671,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge",
-        "ModelTrim": "PVavan/Grand PVavan",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13398,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -910,5 +686,5 @@
             "GearRatio": null,
             "TowCapacity": 3800
         }
-    }
-]
+    ]
+}

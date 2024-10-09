@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Kona",
-        "TowingCapacity": {
+{
+    "Kona": [
+        {
             "Id": 551581,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Kona",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551579,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Kona",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551580,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Kona",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551559,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Kona",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551585,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +70,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Palisade",
-        "TowingCapacity": {
+    ],
+    "Palisade": [
+        {
             "Id": 545315,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Palisade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545316,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +100,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+    ],
+    "Santa Fe": [
+        {
             "Id": 545317,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545318,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Santa Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545319,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +144,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+    ],
+    "Tucson": [
+        {
             "Id": 545306,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Hyundai",
-        "ModelTrim": "Tucson",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545307,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +174,5 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

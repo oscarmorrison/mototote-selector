@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque",
-        "TowingCapacity": {
+{
+    "Range Rover Evoque": [
+        {
             "Id": 492537,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3968
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492538,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport": [
+        {
             "Id": 492589,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492590,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": "",
             "TowCapacity": 6613
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport (MHEV)": [
+        {
             "Id": 492591,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar",
-        "TowingCapacity": {
+    ],
+    "Range Rover Velar": [
+        {
             "Id": 492575,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +90,9 @@
             "GearRatio": "",
             "TowCapacity": 5291
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover Velar (MHEV)": [
+        {
             "Id": 492579,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +106,5 @@
             "GearRatio": "",
             "TowCapacity": 5511
         }
-    }
-]
+    ]
+}

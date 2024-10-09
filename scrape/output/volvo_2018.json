@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "S60 Cross Country",
-        "TowingCapacity": {
+{
+    "S60 Cross Country": [
+        {
             "Id": 17415,
             "Year": 2018,
             "TypeDesc": "Station Wagon",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T5",
-        "TowingCapacity": {
+    ],
+    "S60 T5": [
+        {
             "Id": 17413,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T6",
-        "TowingCapacity": {
+    ],
+    "S60 T6": [
+        {
             "Id": 17414,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "V60 Cross Country",
-        "TowingCapacity": {
+    ],
+    "V60 Cross Country": [
+        {
             "Id": 17418,
             "Year": 2018,
             "TypeDesc": "Station Wagon",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T5",
-        "TowingCapacity": {
+    ],
+    "V60 T5": [
+        {
             "Id": 17416,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": null,
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T6",
-        "TowingCapacity": {
+    ],
+    "V60 T6": [
+        {
             "Id": 17417,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": null,
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "V90 Cross Country",
-        "TowingCapacity": {
+    ],
+    "V90 Cross Country": [
+        {
             "Id": 17421,
             "Year": 2018,
             "TypeDesc": "Station Wagon",
@@ -131,12 +110,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T5",
-        "TowingCapacity": {
+    ],
+    "V90 T5": [
+        {
             "Id": 17419,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6",
-        "TowingCapacity": {
+    ],
+    "V90 T6": [
+        {
             "Id": 17420,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +142,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "XC60",
-        "TowingCapacity": {
+    ],
+    "XC60": [
+        {
             "Id": 17422,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +158,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2018,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 17423,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,5 +174,5 @@
             "GearRatio": null,
             "TowCapacity": 5200
         }
-    }
-]
+    ]
+}

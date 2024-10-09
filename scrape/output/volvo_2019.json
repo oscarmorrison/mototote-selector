@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "V60 Cross Country",
-        "TowingCapacity": {
+{
+    "V60 Cross Country": [
+        {
             "Id": 28841,
             "Year": 2019,
             "TypeDesc": "Station Wagon",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "V90 Cross Country",
-        "TowingCapacity": {
+    ],
+    "V90 Cross Country": [
+        {
             "Id": 28844,
             "Year": 2019,
             "TypeDesc": "Station Wagon",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T5",
-        "TowingCapacity": {
+    ],
+    "V90 T5": [
+        {
             "Id": 28842,
             "Year": 2019,
             "TypeDesc": "Station Wagon",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "V90 T6",
-        "TowingCapacity": {
+    ],
+    "V90 T6": [
+        {
             "Id": 28843,
             "Year": 2019,
             "TypeDesc": "Station Wagon",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "XC40",
-        "TowingCapacity": {
+    ],
+    "XC40": [
+        {
             "Id": 28845,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T5/T6",
-        "TowingCapacity": {
+    ],
+    "XC60 T5/T6": [
+        {
             "Id": 28846,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": null,
             "TowCapacity": 5291
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 T8",
-        "TowingCapacity": {
+    ],
+    "XC60 T8": [
+        {
             "Id": 28847,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": null,
             "TowCapacity": 4630
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 28849,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Volvo",
-        "ModelTrim": "XC90 T5",
-        "TowingCapacity": {
+    ],
+    "XC90 T5": [
+        {
             "Id": 28848,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +142,5 @@
             "GearRatio": null,
             "TowCapacity": 4000
         }
-    }
-]
+    ]
+}

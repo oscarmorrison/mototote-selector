@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 494058,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "2.94",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494057,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "2.94",
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier PRO-4X Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier PRO-4X Crew Cab": [
+        {
             "Id": 494056,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -55,12 +44,9 @@
             "GearRatio": "",
             "TowCapacity": 6290
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier S Crew Cab": [
+        {
             "Id": 494049,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6370
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494048,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 6620
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S King Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier S King Cab": [
+        {
             "Id": 494046,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6620
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494047,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -131,12 +104,9 @@
             "GearRatio": "",
             "TowCapacity": 6370
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Frontier SV Crew Cab Long Bed": [
+        {
             "Id": 494055,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6250
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494054,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -169,12 +134,9 @@
             "GearRatio": "",
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Frontier SV Crew Cab Short Bed": [
+        {
             "Id": 494052,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -187,13 +149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6640
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494053,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -207,12 +164,9 @@
             "GearRatio": "",
             "TowCapacity": 6380
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV King Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier SV King Cab": [
+        {
             "Id": 494051,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -225,13 +179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6510
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494050,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -245,12 +194,9 @@
             "GearRatio": "",
             "TowCapacity": 6720
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 494345,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +209,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494344,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +224,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "NV Passenger Van",
-        "TowingCapacity": {
+    ],
+    "NV Passenger Van": [
+        {
             "Id": 494065,
             "Year": 2021,
             "TypeDesc": "Passenger Van",
@@ -301,13 +239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "NV Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494067,
             "Year": 2021,
             "TypeDesc": "Passenger Van",
@@ -321,12 +254,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "NV PV",
-        "TowingCapacity": {
+    ],
+    "NV PV": [
+        {
             "Id": 494066,
             "Year": 2021,
             "TypeDesc": "Passenger Van",
@@ -340,12 +270,9 @@
             "GearRatio": "",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Rogue",
-        "TowingCapacity": {
+    ],
+    "Rogue": [
+        {
             "Id": 494339,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1350
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "Rogue",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494338,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,12 +300,9 @@
             "GearRatio": "",
             "TowCapacity": 1350
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN Crew Cab (4X2)",
-        "TowingCapacity": {
+    ],
+    "TITAN Crew Cab (4X2)": [
+        {
             "Id": 494061,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -397,12 +316,9 @@
             "GearRatio": "",
             "TowCapacity": 9350
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN Crew Cab (4X4)",
-        "TowingCapacity": {
+    ],
+    "TITAN Crew Cab (4X4)": [
+        {
             "Id": 494062,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -416,12 +332,9 @@
             "GearRatio": "",
             "TowCapacity": 9210
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN King Cab (4X2)",
-        "TowingCapacity": {
+    ],
+    "TITAN King Cab (4X2)": [
+        {
             "Id": 494059,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -435,12 +348,9 @@
             "GearRatio": "",
             "TowCapacity": 9370
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN King Cab (4X4)",
-        "TowingCapacity": {
+    ],
+    "TITAN King Cab (4X4)": [
+        {
             "Id": 494060,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -454,12 +364,9 @@
             "GearRatio": "",
             "TowCapacity": 9250
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN XD",
-        "TowingCapacity": {
+    ],
+    "TITAN XD": [
+        {
             "Id": 494063,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -472,13 +379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10880
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN XD",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494064,
             "Year": 2021,
             "TypeDesc": "Truck",
@@ -492,5 +394,5 @@
             "GearRatio": "",
             "TowCapacity": 11040
         }
-    }
-]
+    ]
+}

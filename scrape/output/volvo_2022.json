@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "S60 B5 (AWD)",
-        "TowingCapacity": {
+{
+    "S60 B5 (AWD)": [
+        {
             "Id": 498747,
             "Year": 2022,
             "TypeDesc": "Car",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "S60 B5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "S60 B5 (FWD)": [
+        {
             "Id": 498748,
             "Year": 2022,
             "TypeDesc": "Car",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T8 Recharge Plug-In Hybrid (AWD)",
-        "TowingCapacity": {
+    ],
+    "S60 T8 Recharge Plug-In Hybrid (AWD)": [
+        {
             "Id": 498745,
             "Year": 2022,
             "TypeDesc": "Car",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "S60 T8 Recharge Plug-In Hybrid (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498746,
             "Year": 2022,
             "TypeDesc": "Car",
@@ -74,12 +60,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T5 Cross Country (AWD)",
-        "TowingCapacity": {
+    ],
+    "V60 T5 Cross Country (AWD)": [
+        {
             "Id": 498744,
             "Year": 2022,
             "TypeDesc": "Station Wagon",
@@ -93,12 +76,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "V60 T8 Recharge Plug-In Hybrid (AWD)",
-        "TowingCapacity": {
+    ],
+    "V60 T8 Recharge Plug-In Hybrid (AWD)": [
+        {
             "Id": 498743,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +92,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "V90 B6 Cross Country (AWD)",
-        "TowingCapacity": {
+    ],
+    "V90 B6 Cross Country (AWD)": [
+        {
             "Id": 498741,
             "Year": 2022,
             "TypeDesc": "Station Wagon",
@@ -130,13 +107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "V90 B6 Cross Country (AWD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498742,
             "Year": 2022,
             "TypeDesc": "Station Wagon",
@@ -150,12 +122,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 Recharge Pure Electric",
-        "TowingCapacity": {
+    ],
+    "XC40 Recharge Pure Electric": [
+        {
             "Id": 498737,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +138,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 T4 (FWD)",
-        "TowingCapacity": {
+    ],
+    "XC40 T4 (FWD)": [
+        {
             "Id": 498739,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +154,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC40 T5 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC40 T5 (AWD)": [
+        {
             "Id": 498738,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +170,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 B5 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 B5 (AWD)": [
+        {
             "Id": 498734,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +186,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 B5 (FWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 B5 (FWD)": [
+        {
             "Id": 498735,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +202,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 B6 (AWD)",
-        "TowingCapacity": {
+    ],
+    "XC60 B6 (AWD)": [
+        {
             "Id": 498732,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +218,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC60 Recharge Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "XC60 Recharge Plug-In Hybrid": [
+        {
             "Id": 498672,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +234,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 498670,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498671,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +264,9 @@
             "GearRatio": "",
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Volvo",
-        "ModelTrim": "XC90 Recharge Plug-In Hybrid",
-        "TowingCapacity": {
+    ],
+    "XC90 Recharge Plug-In Hybrid": [
+        {
             "Id": 498669,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,5 +280,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

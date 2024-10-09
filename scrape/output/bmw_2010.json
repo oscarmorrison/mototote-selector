@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "BMW",
-        "ModelTrim": "X-3 30si",
-        "TowingCapacity": {
+{
+    "X-3 30si": [
+        {
             "Id": 7923,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "BMW",
-        "ModelTrim": "X-5 30si",
-        "TowingCapacity": {
+    ],
+    "X-5 30si": [
+        {
             "Id": 7924,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "BMW",
-        "ModelTrim": "X-5 48Li",
-        "TowingCapacity": {
+    ],
+    "X-5 48Li": [
+        {
             "Id": 7925,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "BMW",
-        "ModelTrim": "X535d",
-        "TowingCapacity": {
+    ],
+    "X535d": [
+        {
             "Id": 7926,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "BMW",
-        "ModelTrim": "X635i",
-        "TowingCapacity": {
+    ],
+    "X635i": [
+        {
             "Id": 7927,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "BMW",
-        "ModelTrim": "X650i",
-        "TowingCapacity": {
+    ],
+    "X650i": [
+        {
             "Id": 7928,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +94,5 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    }
-]
+    ]
+}

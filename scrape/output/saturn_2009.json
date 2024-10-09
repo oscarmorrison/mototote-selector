@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "Saturn",
-        "ModelTrim": "Outlook",
-        "TowingCapacity": {
+{
+    "Outlook": [
+        {
             "Id": 10933,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Saturn",
-        "ModelTrim": "Vue",
-        "TowingCapacity": {
+    ],
+    "Vue": [
+        {
             "Id": 10932,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

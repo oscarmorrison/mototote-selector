@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Montero",
-        "TowingCapacity": {
+{
+    "Montero": [
+        {
             "Id": 26817,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Montero Sport ES",
-        "TowingCapacity": {
+    ],
+    "Montero Sport ES": [
+        {
             "Id": 26818,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 2300
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Montero Sport LS, XLS",
-        "TowingCapacity": {
+    ],
+    "Montero Sport LS, XLS": [
+        {
             "Id": 26819,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

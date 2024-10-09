@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "BMW",
-        "ModelTrim": "X5",
-        "TowingCapacity": {
+{
+    "X5": [
+        {
             "Id": 20669,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "BMW",
-        "ModelTrim": "X5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20668,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "BMW",
-        "ModelTrim": "X5 46is",
-        "TowingCapacity": {
+    ],
+    "X5 46is": [
+        {
             "Id": 20667,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    }
-]
+    ]
+}

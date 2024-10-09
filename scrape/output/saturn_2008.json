@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Saturn",
-        "ModelTrim": "Outlook",
-        "TowingCapacity": {
+{
+    "Outlook": [
+        {
             "Id": 12793,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Saturn",
-        "ModelTrim": "Vue Red Line",
-        "TowingCapacity": {
+    ],
+    "Vue Red Line": [
+        {
             "Id": 12796,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Saturn",
-        "ModelTrim": "Vue XE",
-        "TowingCapacity": {
+    ],
+    "Vue XE": [
+        {
             "Id": 12794,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Saturn",
-        "ModelTrim": "Vue XR",
-        "TowingCapacity": {
+    ],
+    "Vue XR": [
+        {
             "Id": 12795,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

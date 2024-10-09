@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "Kia",
-        "ModelTrim": "Borrego",
-        "TowingCapacity": {
+{
+    "Borrego": [
+        {
             "Id": 10855,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Kia",
-        "ModelTrim": "Borrego",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10856,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Kia",
-        "ModelTrim": "Sedona",
-        "TowingCapacity": {
+    ],
+    "Sedona": [
+        {
             "Id": 10857,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+    ],
+    "Sorento": [
+        {
             "Id": 10858,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10859,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 10860,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +90,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

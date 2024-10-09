@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 498553,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498556,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498557,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498554,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498555,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +70,9 @@
             "GearRatio": "3.23",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+    ],
+    "Escalade ESV": [
+        {
             "Id": 498561,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498562,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498563,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498559,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498560,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +142,9 @@
             "GearRatio": "3.23",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT4",
-        "TowingCapacity": {
+    ],
+    "XT4": [
+        {
             "Id": 498549,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498550,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498551,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT4",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498552,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +200,9 @@
             "GearRatio": "3.47",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT5",
-        "TowingCapacity": {
+    ],
+    "XT5": [
+        {
             "Id": 498548,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498546,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.49",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT5",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498547,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,12 +244,9 @@
             "GearRatio": "3.49",
             "TowCapacity": 1000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT6",
-        "TowingCapacity": {
+    ],
+    "XT6": [
+        {
             "Id": 499315,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -339,13 +259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 499321,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 499313,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -377,13 +287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 499314,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 499319,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -415,13 +315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Cadillac",
-        "ModelTrim": "XT6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 499320,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -435,5 +330,5 @@
             "GearRatio": "",
             "TowCapacity": 1000
         }
-    }
-]
+    ]
+}

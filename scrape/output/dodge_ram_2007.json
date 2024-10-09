@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+{
+    "1500 Mega Cab SLT Short Bed": [
+        {
             "Id": 13444,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13445,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13446,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13447,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -74,12 +56,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8400
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab ST Long Bed": [
+        {
             "Id": 13450,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13451,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13448,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 3700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13449,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13455,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13454,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13452,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13453,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13456,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -245,12 +184,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8250
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab ST Short Bed": [
+        {
             "Id": 13459,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -263,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13457,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -282,13 +213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13458,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13462,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13463,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -339,13 +255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13460,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -358,13 +269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 3850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13461,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -377,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5350
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13468,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -396,13 +297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13469,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -415,13 +311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13466,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -434,13 +325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13467,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -453,13 +339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13464,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -472,13 +353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13465,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -491,13 +367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13470,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -510,13 +381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13471,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -530,12 +396,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Regular Cab Long Bed": [
+        {
             "Id": 14198,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -549,12 +412,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Regular Cab ST Long Bed": [
+        {
             "Id": 13474,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -567,13 +427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3550
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13472,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -586,13 +441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 3050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13473,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -605,13 +455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13477,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -624,13 +469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13478,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -643,13 +483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13475,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -662,13 +497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13476,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -681,13 +511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13483,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -700,13 +525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13484,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -719,13 +539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13481,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -738,13 +553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13482,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -757,13 +567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13479,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -776,13 +581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13480,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -795,13 +595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13485,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -814,13 +609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13486,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -834,12 +624,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Regular Cab ST Short Bed": [
+        {
             "Id": 13489,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -852,13 +639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13487,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -871,13 +653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13488,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -890,13 +667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13492,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -909,13 +681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6650
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13493,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -928,13 +695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7650
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13490,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -947,13 +709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13491,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -966,13 +723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13498,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -985,13 +737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13499,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1004,13 +751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13496,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1023,13 +765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13497,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1042,13 +779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13494,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1061,13 +793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13495,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1080,13 +807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13500,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1099,13 +821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13501,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1119,12 +836,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Mega Cab SLT Short Bed": [
+        {
             "Id": 13502,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1137,13 +851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13503,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1156,13 +865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13510,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1175,13 +879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13511,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1194,13 +893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13505,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1213,13 +907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13506,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1232,13 +921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13504,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1251,13 +935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13513,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1270,13 +949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13514,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1289,13 +963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13512,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1308,13 +977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12350
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13508,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1327,13 +991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13509,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1346,13 +1005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13507,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1365,13 +1019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13516,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1384,13 +1033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13517,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1403,13 +1047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13515,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1423,12 +1062,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 12350
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Quad Cab ST Long Bed": [
+        {
             "Id": 13520,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1441,13 +1077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13521,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1460,13 +1091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13518,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1479,13 +1105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13519,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1498,13 +1119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13530,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1517,13 +1133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8650
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13531,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1536,13 +1147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10650
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13528,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1555,13 +1161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13529,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1574,13 +1175,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13523,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1593,13 +1189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13524,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1612,13 +1203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13522,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1631,13 +1217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13533,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1650,13 +1231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13534,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1669,13 +1245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13532,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1688,13 +1259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13526,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1707,13 +1273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13527,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1726,13 +1287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13525,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1745,13 +1301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13536,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1764,13 +1315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13537,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1783,13 +1329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13535,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1803,12 +1344,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 12750
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Quad Cab ST Short Bed": [
+        {
             "Id": 13540,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1821,13 +1359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13541,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1840,13 +1373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13538,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1859,13 +1387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13539,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1878,13 +1401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13550,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1897,13 +1415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13551,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1916,13 +1429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13548,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1935,13 +1443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8650
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13549,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1954,13 +1457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10650
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13543,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1973,13 +1471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13544,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -1992,13 +1485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13542,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2011,13 +1499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13553,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2030,13 +1513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13554,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2049,13 +1527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13552,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2068,13 +1541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13546,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2087,13 +1555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13547,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2106,13 +1569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13545,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2125,13 +1583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13556,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2144,13 +1597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13557,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2163,13 +1611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13555,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2183,12 +1626,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 12950
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Regular Cab ST Long Bed": [
+        {
             "Id": 13560,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2201,13 +1641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13561,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2220,13 +1655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13558,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2239,13 +1669,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13559,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2258,13 +1683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13570,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2277,13 +1697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13571,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2296,13 +1711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13568,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2315,13 +1725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13569,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2334,13 +1739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10950
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13563,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2353,13 +1753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13564,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2372,13 +1767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13562,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2391,13 +1781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13573,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2410,13 +1795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13574,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2429,13 +1809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13572,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2448,13 +1823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13566,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2467,13 +1837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13550
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13567,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2486,13 +1851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13550
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13565,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2505,13 +1865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13576,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2524,13 +1879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13577,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2543,13 +1893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13575,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2563,12 +1908,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+    ],
+    "3500 Mega Cab SLT Short Bed": [
+        {
             "Id": 13579,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2581,13 +1923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13580,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2600,13 +1937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13578,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2619,13 +1951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13585,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2638,13 +1965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13586,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2657,13 +1979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13584,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2676,13 +1993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13582,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2695,13 +2007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13583,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2714,13 +2021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13581,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2733,13 +2035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13588,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2752,13 +2049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13589,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2771,13 +2063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13587,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2791,12 +2078,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15350
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+    ],
+    "3500 Mega Cab SLT Short Bed Dually": [
+        {
             "Id": 13591,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2809,13 +2093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13592,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2828,13 +2107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13590,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2847,13 +2121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13597,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2866,13 +2135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13598,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2885,13 +2149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13596,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2904,13 +2163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13594,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2923,13 +2177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13595,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2942,13 +2191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13593,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2961,13 +2205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13600,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2980,13 +2219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13601,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -2999,13 +2233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab SLT Short Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13599,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3019,12 +2248,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab ST Long Bed": [
+        {
             "Id": 13603,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3037,13 +2263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10550
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13602,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3056,13 +2277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13611,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3075,13 +2291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13610,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3094,13 +2305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13605,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3113,13 +2319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13606,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3132,13 +2333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13604,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3151,13 +2347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13612,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3170,13 +2361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13615,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3189,13 +2375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13613,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3208,13 +2389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13616,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3227,13 +2403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13614,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3246,13 +2417,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13608,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3265,13 +2431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13609,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3284,13 +2445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13607,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3303,13 +2459,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13618,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3322,13 +2473,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13619,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3341,13 +2487,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13617,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3361,12 +2502,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15650
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab ST Long Bed Dually": [
+        {
             "Id": 13621,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3379,13 +2517,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13620,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3398,13 +2531,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10650
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13629,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3417,13 +2545,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13628,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3436,13 +2559,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13623,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3455,13 +2573,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13624,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3474,13 +2587,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13622,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3493,13 +2601,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13631,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3512,13 +2615,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13632,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3531,13 +2629,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13630,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3550,13 +2643,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13634,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3569,13 +2657,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13635,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3588,13 +2671,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13633,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3607,13 +2685,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13626,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3626,13 +2699,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13627,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3645,13 +2713,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Long Bed Dually",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13625,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3665,12 +2728,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15750
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab ST Short Bed": [
+        {
             "Id": 13637,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3683,13 +2743,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13638,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3702,13 +2757,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13636,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3721,13 +2771,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13643,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3740,13 +2785,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13644,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3759,13 +2799,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13642,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3778,13 +2813,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13640,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3797,13 +2827,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14350
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13641,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3816,13 +2841,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16350
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13639,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3835,13 +2855,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13646,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3854,13 +2869,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13647,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3873,13 +2883,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab ST Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13645,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3893,12 +2898,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab ST Long Bed": [
+        {
             "Id": 13649,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3911,13 +2913,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13648,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3930,13 +2927,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10850
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13657,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3949,13 +2941,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10450
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13656,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3968,13 +2955,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13651,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -3987,13 +2969,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13652,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4006,13 +2983,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16250
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13650,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4025,13 +2997,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13659,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4044,13 +3011,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13660,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4063,13 +3025,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13658,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4082,13 +3039,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13654,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4101,13 +3053,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13655,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4120,13 +3067,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16150
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13653,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4139,13 +3081,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16050
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13662,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4158,13 +3095,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13663,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4177,13 +3109,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab ST Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13661,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4197,12 +3124,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Power Wagon Quad Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Power Wagon Quad Cab Short Bed": [
+        {
             "Id": 13665,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4215,13 +3139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10750
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Power Wagon Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13664,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4235,12 +3154,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10750
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Power Wagon Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Power Wagon Regular Cab Long Bed": [
+        {
             "Id": 13667,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4253,13 +3169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Dodge Ram",
-        "ModelTrim": "Power Wagon Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 13666,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -4273,5 +3184,5 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 11000
         }
-    }
-]
+    ]
+}

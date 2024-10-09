@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+{
+    "Ascent": [
+        {
             "Id": 497885,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497886,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+    ],
+    "Crosstrek": [
+        {
             "Id": 497889,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+        },
+        {
             "Id": 497888,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek (Plug-In Hybrid)",
-        "TowingCapacity": {
+    ],
+    "Crosstrek (Plug-In Hybrid)": [
+        {
             "Id": 497887,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "",
             "TowCapacity": 1000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+    ],
+    "Forester": [
+        {
             "Id": 497884,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +90,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+    ],
+    "Outback": [
+        {
             "Id": 549254,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549255,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,5 +120,5 @@
             "GearRatio": "",
             "TowCapacity": 2700
         }
-    }
-]
+    ]
+}

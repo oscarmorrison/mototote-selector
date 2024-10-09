@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+{
+    "1500 Quad Cab Long Bed": [
+        {
             "Id": 19491,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6850
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19490,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19471,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19472,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19469,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19470,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19492,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19473,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -149,13 +111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19474,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -169,12 +126,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab Short Bed": [
+        {
             "Id": 19458,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19459,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19456,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 2950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19457,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -244,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 2950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19477,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -263,13 +197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19483,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -282,13 +211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19478,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -301,13 +225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19480,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -320,13 +239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19484,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -339,13 +253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19475,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -358,13 +267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4150
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19481,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -377,13 +281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19476,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -396,13 +295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5150
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19479,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -415,13 +309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19482,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -434,13 +323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19462,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -453,13 +337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6350
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19463,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -472,13 +351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7250
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19465,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -491,13 +365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19460,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -510,13 +379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19461,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -529,13 +393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19464,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -548,13 +407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4350
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19485,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -567,13 +421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19488,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -586,13 +435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19486,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -605,13 +449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19487,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -624,13 +463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19489,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -643,13 +477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19466,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -662,13 +491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19467,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -681,13 +505,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19468,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -701,12 +520,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7850
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Regular Cab Long Bed": [
+        {
             "Id": 19421,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -719,13 +535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19422,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -738,13 +549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19419,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -757,13 +563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3150
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19420,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -776,13 +577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3150
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19446,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -795,13 +591,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19450,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -814,13 +605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19447,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -833,13 +619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19451,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -852,13 +633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19444,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -871,13 +647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19448,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -890,13 +661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19445,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -909,13 +675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19449,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -928,13 +689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19425,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -947,13 +703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19426,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -966,13 +717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19423,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -985,13 +731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19424,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1004,13 +745,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19452,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1023,13 +759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19454,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1042,13 +773,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19453,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1061,13 +787,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19455,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1080,13 +801,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19427,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1099,13 +815,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19428,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1119,12 +830,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8950
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Regular Cab Short Bed": [
+        {
             "Id": 19408,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1137,13 +845,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3750
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19409,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1156,13 +859,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 3750
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19407,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1175,13 +873,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19412,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1194,13 +887,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19413,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1213,13 +901,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19415,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1232,13 +915,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19410,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1251,13 +929,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4750
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19411,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1270,13 +943,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5750
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19414,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1289,13 +957,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19431,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1308,13 +971,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19437,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1327,13 +985,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19432,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1346,13 +999,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19434,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1365,13 +1013,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 6350
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19438,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1384,13 +1027,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19429,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1403,13 +1041,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19435,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1422,13 +1055,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19430,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1441,13 +1069,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19433,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1460,13 +1083,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19436,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1479,13 +1097,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19439,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1498,13 +1111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19442,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1517,13 +1125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19440,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1536,13 +1139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19441,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1555,13 +1153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7850
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19443,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1574,13 +1167,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19416,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1593,13 +1181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19417,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1612,13 +1195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19418,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1632,12 +1210,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 8150
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Quad Cab Long Bed": [
+        {
             "Id": 19553,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1650,13 +1225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19554,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1669,13 +1239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19551,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1688,13 +1253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19552,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1707,13 +1267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19529,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1726,13 +1281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19530,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1745,13 +1295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19527,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1764,13 +1309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19528,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1783,13 +1323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19557,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1802,13 +1337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19558,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1821,13 +1351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19555,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1840,13 +1365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11850
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19556,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1859,13 +1379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19533,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1878,13 +1393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19534,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1897,13 +1407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19531,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1916,13 +1421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19532,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1935,13 +1435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19559,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1954,13 +1449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19560,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1973,13 +1463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19537,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -1992,13 +1477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19538,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2011,13 +1491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19535,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2030,13 +1505,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13150
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19536,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2050,12 +1520,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 13150
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Quad Cab Short Bed": [
+        {
             "Id": 19541,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2068,13 +1535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19542,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2087,13 +1549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19539,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2106,13 +1563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8750
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19540,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2125,13 +1577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10750
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19517,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2144,13 +1591,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19518,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2163,13 +1605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19515,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2182,13 +1619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19516,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2201,13 +1633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19545,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2220,13 +1647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19546,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2239,13 +1661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19543,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2258,13 +1675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19544,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2277,13 +1689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19521,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2296,13 +1703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19522,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2315,13 +1717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19519,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2334,13 +1731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19520,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2353,13 +1745,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19549,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2372,13 +1759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19550,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2391,13 +1773,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19547,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2410,13 +1787,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19548,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2429,13 +1801,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12850
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19525,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2448,13 +1815,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19526,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2467,13 +1829,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19523,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2486,13 +1843,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13250
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Quad Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19524,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2506,12 +1858,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 13250
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Regular Cab Long Bed": [
+        {
             "Id": 19507,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2524,13 +1873,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19508,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2543,13 +1887,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19505,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2562,13 +1901,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19506,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2581,13 +1915,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19495,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2600,13 +1929,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19496,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2619,13 +1943,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19493,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2638,13 +1957,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19494,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2657,13 +1971,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19511,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2676,13 +1985,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19512,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2695,13 +1999,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19509,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2714,13 +2013,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19510,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2733,13 +2027,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19499,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2752,13 +2041,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19500,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2771,13 +2055,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19497,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2790,13 +2069,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19498,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2809,13 +2083,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19513,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2828,13 +2097,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19514,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2847,13 +2111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19503,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2866,13 +2125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19504,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2885,13 +2139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19501,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2904,13 +2153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19502,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2924,12 +2168,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 13450
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 19629,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2942,13 +2183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8250
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19630,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2961,13 +2197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10250
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19627,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2980,13 +2211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19628,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -2999,13 +2225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19601,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3018,13 +2239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19602,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3037,13 +2253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19599,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3056,13 +2267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19600,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3075,13 +2281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19633,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3094,13 +2295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19634,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3113,13 +2309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19631,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3132,13 +2323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19632,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3151,13 +2337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19605,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3170,13 +2351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19606,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3189,13 +2365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19603,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3208,13 +2379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19604,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3227,13 +2393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19637,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3246,13 +2407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19638,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3265,13 +2421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14650
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19635,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3284,13 +2435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19636,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3303,13 +2449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19609,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3322,13 +2463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19610,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3341,13 +2477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19607,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3360,13 +2491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19608,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3380,12 +2506,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 13950
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 19621,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3398,13 +2521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19622,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3417,13 +2535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19619,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3436,13 +2549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19620,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3455,13 +2563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19625,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3474,13 +2577,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19626,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3493,13 +2591,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19623,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3512,13 +2605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19624,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3532,12 +2620,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Quad Cab Short Bed Single Rear Wheel": [
+        {
             "Id": 19613,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3550,13 +2635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19614,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3569,13 +2649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19611,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3588,13 +2663,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19612,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3607,13 +2677,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19617,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3626,13 +2691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13150
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19618,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3645,13 +2705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15150
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19615,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3664,13 +2719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13950
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Quad Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19616,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3684,12 +2734,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 15950
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 19575,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3702,13 +2749,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19576,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3721,13 +2763,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19573,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3740,13 +2777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19574,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3759,13 +2791,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19563,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3778,13 +2805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19564,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3797,13 +2819,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19561,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3816,13 +2833,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19562,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3835,13 +2847,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11050
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19577,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3854,13 +2861,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19578,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3873,13 +2875,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19567,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3892,13 +2889,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19593,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3911,13 +2903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19568,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3930,13 +2917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19594,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3949,13 +2931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13400
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19565,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3968,13 +2945,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19591,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -3987,13 +2959,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19566,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4006,13 +2973,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19592,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4025,13 +2987,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19581,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4044,13 +3001,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19582,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4063,13 +3015,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19579,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4082,13 +3029,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19580,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4101,13 +3043,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19571,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4120,13 +3057,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19597,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4139,13 +3071,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19572,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4158,13 +3085,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19598,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4177,13 +3099,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15450
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19569,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4196,13 +3113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19595,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4215,13 +3127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19570,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4234,13 +3141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19596,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4254,12 +3156,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 16300
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Short Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab Short Bed Dual Rear Wheel": [
+        {
             "Id": 19585,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4272,13 +3171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Short Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19586,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4291,13 +3185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Short Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19583,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4310,13 +3199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Short Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19584,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4329,13 +3213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Short Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19589,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4348,13 +3227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Short Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19590,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4367,13 +3241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15550
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Short Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19587,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4386,13 +3255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14350
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Short Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19588,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -4406,5 +3270,5 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 16350
         }
-    }
-]
+    ]
+}

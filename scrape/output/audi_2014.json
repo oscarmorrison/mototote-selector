@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2014,
-        "Make": "Audi",
-        "ModelTrim": "Q5",
-        "TowingCapacity": {
+{
+    "Q5": [
+        {
             "Id": 3685,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+    ],
+    "Q7": [
+        {
             "Id": 3687,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 3686,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": null,
             "TowCapacity": 5500
         }
-    }
-]
+    ]
+}

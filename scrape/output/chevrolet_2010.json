@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+{
+    "Avalanche 1500": [
+        {
             "Id": 7943,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7944,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7945,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7947,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7948,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7946,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7949,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -131,12 +98,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab Cab",
-        "TowingCapacity": {
+    ],
+    "Colorado Crew Cab Cab": [
+        {
             "Id": 7966,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7967,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7968,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7976,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7969,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7977,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -245,12 +184,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Colorado Extended Cab": [
+        {
             "Id": 7961,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -263,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7962,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -282,13 +213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7973,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7963,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7974,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -339,13 +255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7964,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -358,13 +269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7965,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -377,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7975,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -397,12 +298,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Colorado Regular Cab": [
+        {
             "Id": 7958,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -415,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7959,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -434,13 +327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7970,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -453,13 +341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7971,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -472,13 +355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7960,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -491,13 +369,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7972,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -511,12 +384,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Equinox",
-        "TowingCapacity": {
+    ],
+    "Equinox": [
+        {
             "Id": 7978,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -530,12 +400,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base CV",
-        "TowingCapacity": {
+    ],
+    "Express 1500 Short Wheel Base CV": [
+        {
             "Id": 7979,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -548,13 +415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7980,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -567,13 +429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7981,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -587,12 +444,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base PV",
-        "TowingCapacity": {
+    ],
+    "Express 1500 Short Wheel Base PV": [
+        {
             "Id": 7982,
             "Year": 2010,
             "TypeDesc": "Passenger Van",
@@ -605,13 +459,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base PV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7983,
             "Year": 2010,
             "TypeDesc": "Passenger Van",
@@ -625,12 +474,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheel Base CV",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Long Wheel Base CV": [
+        {
             "Id": 7990,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -643,13 +489,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7991,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -662,13 +503,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7992,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -681,13 +517,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7993,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -701,12 +532,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base CV",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Short Wheel Base CV": [
+        {
             "Id": 7984,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -719,13 +547,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7985,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -738,13 +561,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7986,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -757,13 +575,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7987,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -777,12 +590,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base PV",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Short Wheel Base PV": [
+        {
             "Id": 7988,
             "Year": 2010,
             "TypeDesc": "Passenger Van",
@@ -795,13 +605,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheel Base PV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7989,
             "Year": 2010,
             "TypeDesc": "Passenger Van",
@@ -815,12 +620,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 9600
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base CV",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Long Wheel Base CV": [
+        {
             "Id": 7999,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -833,13 +635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8000,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -852,13 +649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8001,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -871,13 +663,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8002,
             "Year": 2010,
             "TypeDesc": "Cargo Van",
@@ -891,12 +678,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheel Base PV",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Long Wheel Base PV": [
+        {
             "Id": 8003,
             "Year": 2010,
             "TypeDesc": "Passenger Van",
@@ -910,12 +694,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Crew Cab Short Box": [
+        {
             "Id": 8106,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -928,13 +709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8107,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -947,13 +723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8115,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -966,13 +737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8108,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -985,13 +751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8109,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1004,13 +765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8111,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1023,13 +779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8116,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1042,13 +793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8117,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1061,13 +807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8118,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1080,13 +821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8112,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1099,13 +835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8113,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1118,13 +849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8114,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1137,13 +863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8119,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1156,13 +877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8120,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1175,13 +891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8121,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1195,12 +906,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Short Box XFE",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Crew Cab Short Box XFE": [
+        {
             "Id": 8110,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1214,12 +922,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Extended Cab Long Bed": [
+        {
             "Id": 8169,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1232,13 +937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8168,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1251,13 +951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08.1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8170,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1271,12 +966,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Extended Cab Standard Bed": [
+        {
             "Id": 8074,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1289,13 +981,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8075,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1308,13 +995,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8076,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1327,13 +1009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8083,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1346,13 +1023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8077,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1365,13 +1037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8078,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1384,13 +1051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8079,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1403,13 +1065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8084,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1422,13 +1079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8085,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1441,13 +1093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8086,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1460,13 +1107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8080,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1479,13 +1121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8081,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1498,13 +1135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8082,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1517,13 +1149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8087,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1536,13 +1163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8088,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1555,13 +1177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8089,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1575,12 +1192,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Regular Cab Long Bed": [
+        {
             "Id": 8142,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1593,13 +1207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8143,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1612,13 +1221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8150,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1631,13 +1235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8144,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1650,13 +1249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8145,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1669,13 +1263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8151,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1688,13 +1277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8146,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1707,13 +1291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8147,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1726,13 +1305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8148,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1745,13 +1319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8149,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1764,13 +1333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8152,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1783,13 +1347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8153,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1802,13 +1361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8154,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1822,12 +1376,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9800
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Regular Cab Standard Bed": [
+        {
             "Id": 8050,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1840,13 +1391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8051,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1859,13 +1405,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8057,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1878,13 +1419,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8052,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1897,13 +1433,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8053,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1916,13 +1447,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8058,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1935,13 +1461,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8054,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1954,13 +1475,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8055,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1973,13 +1489,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8056,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -1992,13 +1503,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8059,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2011,13 +1517,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8060,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2030,13 +1531,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8061,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2050,12 +1546,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Cab Long Bed": [
+        {
             "Id": 8226,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2068,13 +1561,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8227,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2087,13 +1575,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8229,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2106,13 +1589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8230,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2125,13 +1603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8228,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2144,13 +1617,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8231,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2164,12 +1632,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Standard Bed": [
+        {
             "Id": 8190,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2182,13 +1647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8191,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2201,13 +1661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8193,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2220,13 +1675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8194,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2239,13 +1689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8192,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2258,13 +1703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8195,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2278,12 +1718,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Extended Cab Long Bed": [
+        {
             "Id": 8214,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2296,13 +1733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8215,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2315,13 +1747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8217,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2334,13 +1761,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8218,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2353,13 +1775,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8216,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2372,13 +1789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8219,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2392,12 +1804,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Extended Cab Standard Bed": [
+        {
             "Id": 8178,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2410,13 +1819,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8179,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2429,13 +1833,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8181,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2448,13 +1847,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8182,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2467,13 +1861,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8180,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2486,13 +1875,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8183,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2506,12 +1890,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Regular Cab Long Bed": [
+        {
             "Id": 8202,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2524,13 +1905,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8203,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2543,13 +1919,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8205,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2562,13 +1933,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8206,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2581,13 +1947,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8204,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2600,13 +1961,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8207,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2620,12 +1976,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab Dual Rear Wheel": [
+        {
             "Id": 8277,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2638,13 +1991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8278,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2657,13 +2005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8283,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2676,13 +2019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8284,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2695,13 +2033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8279,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2714,13 +2047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8285,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2734,12 +2062,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab Single Rear Wheel": [
+        {
             "Id": 8274,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2752,13 +2077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8275,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2771,13 +2091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8280,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2790,13 +2105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8281,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2809,13 +2119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8276,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2828,13 +2133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8282,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2848,12 +2148,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 14800
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Extended Cab Single Rear Wheel": [
+        {
             "Id": 8250,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2867,12 +2164,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 8253,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2885,13 +2179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8254,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2904,13 +2193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8241,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2923,13 +2207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8259,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2942,13 +2221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8242,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2961,13 +2235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8260,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2980,13 +2249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8255,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -2999,13 +2263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8243,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3018,13 +2277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8261,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3038,12 +2292,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Regular Cab Single Rear Wheel": [
+        {
             "Id": 8251,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3056,13 +2307,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8238,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3075,13 +2321,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8256,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3094,13 +2335,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8239,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3113,13 +2349,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8257,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3132,13 +2363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8252,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3151,13 +2377,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8240,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3170,13 +2391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8258,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3190,12 +2406,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 14900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado Two-Mode Hybrid",
-        "TowingCapacity": {
+    ],
+    "Silverado Two-Mode Hybrid": [
+        {
             "Id": 8174,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3208,13 +2421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado Two-Mode Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8175,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -3228,12 +2436,9 @@
             "GearRatio": null,
             "TowCapacity": 5900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+    ],
+    "Suburban": [
+        {
             "Id": 8306,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3246,13 +2451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8307,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3265,13 +2465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8308,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3284,13 +2479,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8310,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3303,13 +2493,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8311,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3322,13 +2507,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8309,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3341,13 +2521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8312,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3361,12 +2536,9 @@
             "GearRatio": null,
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500 Long Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Suburban 2500 Long Wheelbase": [
+        {
             "Id": 8334,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3379,13 +2551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8335,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3399,12 +2566,9 @@
             "GearRatio": null,
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+    ],
+    "Tahoe": [
+        {
             "Id": 8298,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3417,13 +2581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8299,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3436,13 +2595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8300,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3455,13 +2609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8302,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3474,13 +2623,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8303,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3493,13 +2637,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8304,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3513,12 +2652,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe Two-Mode Hybrid",
-        "TowingCapacity": {
+    ],
+    "Tahoe Two-Mode Hybrid": [
+        {
             "Id": 8301,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3531,13 +2667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe Two-Mode Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 8305,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3551,12 +2682,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+    ],
+    "Traverse": [
+        {
             "Id": 7952,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3569,13 +2697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7953,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3588,13 +2711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7950,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3607,13 +2725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7951,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3627,5 +2740,5 @@
             "GearRatio": null,
             "TowCapacity": 5200
         }
-    }
-]
+    ]
+}

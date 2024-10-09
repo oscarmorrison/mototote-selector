@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML 320",
-        "TowingCapacity": {
+{
+    "ML 320": [
+        {
             "Id": 26807,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

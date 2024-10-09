@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Saturn",
-        "ModelTrim": "Outlook",
-        "TowingCapacity": {
+{
+    "Outlook": [
+        {
             "Id": 14137,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Saturn",
-        "ModelTrim": "Relay",
-        "TowingCapacity": {
+    ],
+    "Relay": [
+        {
             "Id": 14138,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Saturn",
-        "ModelTrim": "Vue",
-        "TowingCapacity": {
+    ],
+    "Vue": [
+        {
             "Id": 14139,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Endeavor",
-        "TowingCapacity": {
+{
+    "Endeavor": [
+        {
             "Id": 12740,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+    ],
+    "Outlander": [
+        {
             "Id": 12738,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12739,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Double Cab",
-        "TowingCapacity": {
+    ],
+    "Raider Double Cab": [
+        {
             "Id": 12748,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 4350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12749,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 5150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12757,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3850
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12758,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12747,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4050
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12750,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 6350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12759,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12760,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -207,12 +158,9 @@
             "GearRatio": "3.55.1",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Raider Extended Cab": [
+        {
             "Id": 12743,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -225,13 +173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 4150
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12744,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -244,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12741,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -263,13 +201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21.1",
             "TowCapacity": 2950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12742,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -282,13 +215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3650
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12752,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -301,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12753,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -320,13 +243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 3950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12754,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -339,13 +257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 4250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12745,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -358,13 +271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5350
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12746,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -377,13 +285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 6450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12751,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -396,13 +299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 3450
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12755,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -415,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12756,
             "Year": 2008,
             "TypeDesc": "Truck",
@@ -435,5 +328,5 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 6200
         }
-    }
-]
+    ]
+}

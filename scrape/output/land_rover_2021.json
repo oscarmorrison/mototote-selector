@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 110",
-        "TowingCapacity": {
+{
+    "Defender 110": [
+        {
             "Id": 492525,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 7715
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 110 (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Defender 110 (MHEV)": [
+        {
             "Id": 492526,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 7715
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 90",
-        "TowingCapacity": {
+    ],
+    "Defender 90": [
+        {
             "Id": 492523,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 7715
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Defender 90 (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Defender 90 (MHEV)": [
+        {
             "Id": 492524,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery",
-        "TowingCapacity": {
+    ],
+    "Discovery": [
+        {
             "Id": 492527,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 6613
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover (MHEV)": [
+        {
             "Id": 492528,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque",
-        "TowingCapacity": {
+    ],
+    "Range Rover Evoque": [
+        {
             "Id": 492529,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport": [
+        {
             "Id": 492580,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492581,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 492582,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +154,9 @@
             "GearRatio": "",
             "TowCapacity": 6613
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport (MHEV)": [
+        {
             "Id": 492586,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +170,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport (PHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport (PHEV)": [
+        {
             "Id": 492587,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +186,9 @@
             "GearRatio": "",
             "TowCapacity": 5511
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar",
-        "TowingCapacity": {
+    ],
+    "Range Rover Velar": [
+        {
             "Id": 492572,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +202,9 @@
             "GearRatio": "",
             "TowCapacity": 5291
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar (MHEV)",
-        "TowingCapacity": {
+    ],
+    "Range Rover Velar (MHEV)": [
+        {
             "Id": 492574,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,5 +218,5 @@
             "GearRatio": "",
             "TowCapacity": 5511
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLC 43",
-        "TowingCapacity": {
+{
+    "AMG GLC 43": [
+        {
             "Id": 526133,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLE 53",
-        "TowingCapacity": {
+    ],
+    "AMG GLE 53": [
+        {
             "Id": 526139,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLE 63 S",
-        "TowingCapacity": {
+    ],
+    "AMG GLE 63 S": [
+        {
             "Id": 526140,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLS 63",
-        "TowingCapacity": {
+    ],
+    "AMG GLS 63": [
+        {
             "Id": 526230,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G-Class AMG G 63",
-        "TowingCapacity": {
+    ],
+    "G-Class AMG G 63": [
+        {
             "Id": 526163,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G-Class G550",
-        "TowingCapacity": {
+    ],
+    "G-Class G550": [
+        {
             "Id": 526162,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC 300 (RWD)",
-        "TowingCapacity": {
+    ],
+    "GLC 300 (RWD)": [
+        {
             "Id": 526131,
             "Year": 2023,
             "TypeDesc": "Car",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC 300 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLC 300 4MATIC": [
+        {
             "Id": 526132,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 350",
-        "TowingCapacity": {
+    ],
+    "GLE 350": [
+        {
             "Id": 526134,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +142,9 @@
             "GearRatio": "",
             "TowCapacity": 5950
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 350 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 350 4MATIC": [
+        {
             "Id": 526135,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +158,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 450 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 450 4MATIC": [
+        {
             "Id": 526136,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +174,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 580 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 580 4MATIC": [
+        {
             "Id": 526137,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +190,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLS 450 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLS 450 4MATIC": [
+        {
             "Id": 526164,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +206,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLS 580 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLS 580 4MATIC": [
+        {
             "Id": 526166,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +222,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 1500 Cargo Van SRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 1500 Cargo Van SRW": [
+        {
             "Id": 526237,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -283,12 +238,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 1500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Sprinter 1500 Passenger Van": [
+        {
             "Id": 526232,
             "Year": 2023,
             "TypeDesc": "Passenger Van",
@@ -301,13 +253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526233,
             "Year": 2023,
             "TypeDesc": "Passenger Van",
@@ -321,12 +268,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Cargo Van SRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Cargo Van SRW": [
+        {
             "Id": 526238,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -339,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Cargo Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526240,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -358,13 +297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Cargo Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526239,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -378,12 +312,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Crew Van SRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Crew Van SRW": [
+        {
             "Id": 526274,
             "Year": 2023,
             "TypeDesc": "Crew Van",
@@ -396,13 +327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Crew Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526276,
             "Year": 2023,
             "TypeDesc": "Crew Van",
@@ -415,13 +341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Crew Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526275,
             "Year": 2023,
             "TypeDesc": "Crew Van",
@@ -435,12 +356,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Passenger Van": [
+        {
             "Id": 526234,
             "Year": 2023,
             "TypeDesc": "Passenger Van",
@@ -453,13 +371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526236,
             "Year": 2023,
             "TypeDesc": "Passenger Van",
@@ -472,13 +385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526235,
             "Year": 2023,
             "TypeDesc": "Passenger Van",
@@ -492,12 +400,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500 Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500 Cargo Van DRW": [
+        {
             "Id": 526241,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -511,12 +416,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500 Crew Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500 Crew Van DRW": [
+        {
             "Id": 526277,
             "Year": 2023,
             "TypeDesc": "Crew Van",
@@ -530,12 +432,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500XD Cargo Van DRW": [
+        {
             "Id": 526271,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -548,13 +447,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Cargo Van DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526270,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -568,12 +462,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Extended Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500XD Extended Cargo Van DRW": [
+        {
             "Id": 526273,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -586,13 +477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Extended Cargo Van DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526272,
             "Year": 2023,
             "TypeDesc": "Cargo Van",
@@ -606,5 +492,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

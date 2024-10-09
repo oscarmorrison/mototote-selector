@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G500",
-        "TowingCapacity": {
+{
+    "G500": [
+        {
             "Id": 22241,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G55AMG",
-        "TowingCapacity": {
+    ],
+    "G55AMG": [
+        {
             "Id": 22242,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML320",
-        "TowingCapacity": {
+    ],
+    "ML320": [
+        {
             "Id": 22243,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML500",
-        "TowingCapacity": {
+    ],
+    "ML500": [
+        {
             "Id": 22244,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML55AMG",
-        "TowingCapacity": {
+    ],
+    "ML55AMG": [
+        {
             "Id": 22245,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +78,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

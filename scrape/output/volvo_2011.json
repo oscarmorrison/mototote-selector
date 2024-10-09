@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Volvo",
-        "ModelTrim": "XC60",
-        "TowingCapacity": {
+{
+    "XC60": [
+        {
             "Id": 7914,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 7916,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7915,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    }
-]
+    ]
+}

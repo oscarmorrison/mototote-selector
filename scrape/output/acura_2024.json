@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+{
+    "MDX": [
+        {
             "Id": 526766,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526765,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526763,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526764,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526762,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +70,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Acura",
-        "ModelTrim": "RDX",
-        "TowingCapacity": {
+    ],
+    "RDX": [
+        {
             "Id": 526768,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Acura",
-        "ModelTrim": "RDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 526767,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +100,5 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    }
-]
+    ]
+}

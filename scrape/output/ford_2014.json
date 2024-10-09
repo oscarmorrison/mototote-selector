@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Extended Van",
-        "TowingCapacity": {
+{
+    "E-150 Extended Van": [
+        {
             "Id": 4233,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4234,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4235,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4236,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -74,12 +56,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Van",
-        "TowingCapacity": {
+    ],
+    "E-150 Van": [
+        {
             "Id": 4229,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4230,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4231,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4232,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -150,12 +114,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Wagon",
-        "TowingCapacity": {
+    ],
+    "E-150 Wagon": [
+        {
             "Id": 4253,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4254,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4255,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-150 Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4256,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -226,12 +172,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Extended Van",
-        "TowingCapacity": {
+    ],
+    "E-250 Extended Van": [
+        {
             "Id": 4241,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -244,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4242,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -263,13 +201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4243,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -282,13 +215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4244,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -302,12 +230,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Van",
-        "TowingCapacity": {
+    ],
+    "E-250 Van": [
+        {
             "Id": 4237,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -320,13 +245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4238,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -339,13 +259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4239,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -358,13 +273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-250 Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4240,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -378,12 +288,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended Van",
-        "TowingCapacity": {
+    ],
+    "E-350 Super Duty Extended Van": [
+        {
             "Id": 4249,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -396,13 +303,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4250,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -415,13 +317,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4251,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -434,13 +331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4252,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -454,12 +346,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended Wagon",
-        "TowingCapacity": {
+    ],
+    "E-350 Super Duty Extended Wagon": [
+        {
             "Id": 4261,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -472,13 +361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4262,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -491,13 +375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4264,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -510,13 +389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Extended Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4263,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -530,12 +404,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8300
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Van",
-        "TowingCapacity": {
+    ],
+    "E-350 Super Duty Van": [
+        {
             "Id": 4245,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -548,13 +419,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4246,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -567,13 +433,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4247,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -586,13 +447,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4248,
             "Year": 2014,
             "TypeDesc": "Cargo Van",
@@ -606,12 +462,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+    ],
+    "E-350 Super Duty Wagon": [
+        {
             "Id": 4257,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -624,13 +477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4258,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -643,13 +491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4259,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -662,13 +505,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "E-350 Super Duty Wagon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4260,
             "Year": 2014,
             "TypeDesc": "Passenger Van",
@@ -682,12 +520,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Edge",
-        "TowingCapacity": {
+    ],
+    "Edge": [
+        {
             "Id": 4265,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -700,13 +535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Edge",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4266,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -720,12 +550,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Escape",
-        "TowingCapacity": {
+    ],
+    "Escape": [
+        {
             "Id": 4267,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -738,13 +565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Escape",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4268,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -758,12 +580,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+    ],
+    "Expedition": [
+        {
             "Id": 4272,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -776,13 +595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4273,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -795,13 +609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4274,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -814,13 +623,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4275,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -834,12 +638,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+    ],
+    "Expedition EL": [
+        {
             "Id": 4276,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -852,13 +653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4277,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -871,13 +667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4278,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -890,13 +681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Expedition EL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4279,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -910,12 +696,9 @@
             "GearRatio": null,
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+    ],
+    "Explorer": [
+        {
             "Id": 4269,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -928,13 +711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4270,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -947,13 +725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4271,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -967,12 +740,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 Regular Cab Long Bed": [
+        {
             "Id": 4292,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -985,13 +755,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4293,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1004,13 +769,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4294,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1023,13 +783,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4301,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1042,13 +797,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4302,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1061,13 +811,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4303,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1080,13 +825,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4304,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1099,13 +839,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4291,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1118,13 +853,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4305,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1137,13 +867,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4285,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1156,13 +881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4286,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1175,13 +895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4298,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1194,13 +909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4287,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1213,13 +923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4288,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1232,13 +937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4289,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1251,13 +951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4299,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1270,13 +965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4300,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1289,13 +979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4290,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1309,12 +994,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 Regular Cab Short Bed": [
+        {
             "Id": 4281,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1327,13 +1009,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4282,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1346,13 +1023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4283,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1365,13 +1037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4295,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1384,13 +1051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4284,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1403,13 +1065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4296,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1422,13 +1079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4297,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1442,12 +1094,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 SuperCab Long Bed": [
+        {
             "Id": 4319,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1460,13 +1109,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4320,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1479,13 +1123,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4321,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1498,13 +1137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4322,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1517,13 +1151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4337,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1536,13 +1165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4338,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1555,13 +1179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4339,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1574,13 +1193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4340,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1593,13 +1207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4341,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1612,13 +1221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4315,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1631,13 +1235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4316,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1650,13 +1249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4317,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1669,13 +1263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4334,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1688,13 +1277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4335,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1707,13 +1291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4336,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1726,13 +1305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4318,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1746,12 +1320,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Short Bed Raptor",
-        "TowingCapacity": {
+    ],
+    "F-150 SuperCab Short Bed Raptor": [
+        {
             "Id": 4323,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1765,12 +1336,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 SuperCab Standard Bed": [
+        {
             "Id": 4311,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1783,13 +1351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4312,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1802,13 +1365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4313,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1821,13 +1379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4314,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1840,13 +1393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4329,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1859,13 +1407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4330,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1878,13 +1421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4331,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1897,13 +1435,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4332,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1916,13 +1449,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4333,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1935,13 +1463,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4306,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1954,13 +1477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4324,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1973,13 +1491,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4307,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -1992,13 +1505,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4308,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2011,13 +1519,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4309,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2030,13 +1533,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4325,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2049,13 +1547,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4326,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2068,13 +1561,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4310,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2087,13 +1575,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4327,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2106,13 +1589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4328,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2126,12 +1604,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 11200
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 SuperCrew Cab Short Bed": [
+        {
             "Id": 4348,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2144,13 +1619,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4349,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2163,13 +1633,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4350,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2182,13 +1647,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4351,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2201,13 +1661,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4352,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2220,13 +1675,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4369,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2239,13 +1689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4370,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2258,13 +1703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4371,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2277,13 +1717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4373,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2296,13 +1731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4372,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2315,13 +1745,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4374,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2334,13 +1759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4342,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2353,13 +1773,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4343,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2372,13 +1787,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4344,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2391,13 +1801,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4345,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2410,13 +1815,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4365,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2429,13 +1829,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4366,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2448,13 +1843,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4346,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2467,13 +1857,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4347,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2486,13 +1871,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4367,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2505,13 +1885,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4368,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2525,12 +1900,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Short Bed Raptor",
-        "TowingCapacity": {
+    ],
+    "F-150 SuperCrew Cab Short Bed Raptor": [
+        {
             "Id": 4375,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2544,12 +1916,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "F-150 SuperCrew Cab Standard Bed": [
+        {
             "Id": 4359,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2562,13 +1931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.15:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4360,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2581,13 +1945,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4361,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2600,13 +1959,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4362,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2619,13 +1973,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4363,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2638,13 +1987,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4364,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2657,13 +2001,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4381,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2676,13 +2015,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4382,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2695,13 +2029,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4383,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2714,13 +2043,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4384,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2733,13 +2057,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4385,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2752,13 +2071,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4353,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2771,13 +2085,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4354,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2790,13 +2099,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4355,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2809,13 +2113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4356,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2828,13 +2127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4376,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2847,13 +2141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4377,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2866,13 +2155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4378,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2885,13 +2169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4357,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2904,13 +2183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4358,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2923,13 +2197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4379,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2942,13 +2211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCrew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4380,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2962,12 +2226,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 11000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250 Crew Cab Single Rear Wheel": [
+        {
             "Id": 4485,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2980,13 +2241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4416,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -2999,13 +2255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4487,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3018,13 +2269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4420,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3037,13 +2283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4493,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3056,13 +2297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4421,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3075,13 +2311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4494,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3094,13 +2325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4489,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3113,13 +2339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4490,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3132,13 +2353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4418,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3151,13 +2367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4495,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3170,13 +2381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4496,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3189,13 +2395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4422,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3209,12 +2410,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250 Regular Cab Single Rear Wheel": [
+        {
             "Id": 4433,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3227,13 +2425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4386,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3246,13 +2439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4435,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3265,13 +2453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4441,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3284,13 +2467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4388,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3303,13 +2481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4443,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3322,13 +2495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4437,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3341,13 +2509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4438,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3360,13 +2523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4387,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3379,13 +2537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4445,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3398,13 +2551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4446,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3417,13 +2565,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4389,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3437,12 +2580,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250 SC Single Rear Wheel": [
+        {
             "Id": 4456,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3455,13 +2595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4455,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3474,13 +2609,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4400,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3493,13 +2623,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4460,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3512,13 +2637,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4459,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3531,13 +2651,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4404,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3550,13 +2665,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4471,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3569,13 +2679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4405,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3588,13 +2693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4472,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3607,13 +2707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4465,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3626,13 +2721,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4463,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3645,13 +2735,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4466,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3664,13 +2749,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4464,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3683,13 +2763,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4402,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3702,13 +2777,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4473,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3721,13 +2791,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4474,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3740,13 +2805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-250 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4406,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3760,12 +2820,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Dual Rear Wheel": [
+        {
             "Id": 4426,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3778,13 +2835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4501,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3797,13 +2849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4427,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3816,13 +2863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4502,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3835,13 +2877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4429,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3854,13 +2891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4504,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3873,13 +2905,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4430,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3892,13 +2919,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4505,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3911,13 +2933,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4503,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3930,13 +2947,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 22600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4428,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3949,13 +2961,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 18500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4506,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3968,13 +2975,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 22800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4431,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -3988,12 +2990,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 18500
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Single Rear Wheel": [
+        {
             "Id": 4486,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4006,13 +3005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4417,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4025,13 +3019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4488,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4044,13 +3033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4423,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4063,13 +3047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4497,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4082,13 +3061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4424,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4101,13 +3075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4498,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4120,13 +3089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4491,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4139,13 +3103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4492,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4158,13 +3117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4419,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4177,13 +3131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4499,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4196,13 +3145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4500,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4215,13 +3159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4425,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4235,12 +3174,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 4394,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4253,13 +3189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4449,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4272,13 +3203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4395,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4291,13 +3217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4450,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4310,13 +3231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4397,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4329,13 +3245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4452,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4348,13 +3259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4398,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4367,13 +3273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4453,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4386,13 +3287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4451,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4405,13 +3301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 23200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4396,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4424,13 +3315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4454,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4443,13 +3329,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 22900
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4399,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4463,12 +3344,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 SC Dual Rear Wheel": [
+        {
             "Id": 4410,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4481,13 +3359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4479,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4500,13 +3373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4411,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4519,13 +3387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4480,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4538,13 +3401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4413,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4557,13 +3415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4482,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4576,13 +3429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4414,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4595,13 +3443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4483,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4614,13 +3457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4481,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4633,13 +3471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 22800
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4412,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4652,13 +3485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4484,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4671,13 +3499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 22400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4415,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4691,12 +3514,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 15000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 SC Single Rear Wheel": [
+        {
             "Id": 4458,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4709,13 +3529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4457,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4728,13 +3543,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.73:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4401,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4747,13 +3557,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4462,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4766,13 +3571,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4461,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4785,13 +3585,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "4.30:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4407,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4804,13 +3599,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4475,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4823,13 +3613,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4408,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4842,13 +3627,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4476,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4861,13 +3641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 15200
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4469,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4880,13 +3655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4467,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4899,13 +3669,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.31:1",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4468,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4918,13 +3683,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": "3.55:1",
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4403,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4937,13 +3697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4477,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4956,13 +3711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.31:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4478,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4975,13 +3725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SC Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 4409,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -4995,12 +3740,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-360 SC Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-360 SC Single Rear Wheel": [
+        {
             "Id": 4470,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -5014,12 +3756,9 @@
             "GearRatio": "3.55:1",
             "TowCapacity": 16400
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-450 Crew Cab Dual Rear Wheel": [
+        {
             "Id": 4507,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -5033,12 +3772,9 @@
             "GearRatio": null,
             "TowCapacity": 24700
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-450 Dual Rear Wheel": [
+        {
             "Id": 4432,
             "Year": 2014,
             "TypeDesc": "Truck",
@@ -5052,12 +3788,9 @@
             "GearRatio": "4.30:1",
             "TowCapacity": 18500
         }
-    },
-    {
-        "Year": 2014,
-        "Make": "Ford",
-        "ModelTrim": "Flex",
-        "TowingCapacity": {
+    ],
+    "Flex": [
+        {
             "Id": 4280,
             "Year": 2014,
             "TypeDesc": "Sport Utility Vehicle",
@@ -5071,5 +3804,5 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

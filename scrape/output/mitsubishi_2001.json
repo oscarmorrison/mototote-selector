@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Montero 35 XS",
-        "TowingCapacity": {
+{
+    "Montero 35 XS": [
+        {
             "Id": 25832,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Montero ES",
-        "TowingCapacity": {
+    ],
+    "Montero ES": [
+        {
             "Id": 25833,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Montero Limited",
-        "TowingCapacity": {
+    ],
+    "Montero Limited": [
+        {
             "Id": 25834,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Montero LS",
-        "TowingCapacity": {
+    ],
+    "Montero LS": [
+        {
             "Id": 25835,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Montero XLS",
-        "TowingCapacity": {
+    ],
+    "Montero XLS": [
+        {
             "Id": 25836,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +78,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

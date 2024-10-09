@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G55 AMG",
-        "TowingCapacity": {
+{
+    "G55 AMG": [
+        {
             "Id": 7813,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G550",
-        "TowingCapacity": {
+    ],
+    "G550": [
+        {
             "Id": 7812,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GL320 Blue TEC",
-        "TowingCapacity": {
+    ],
+    "GL320 Blue TEC": [
+        {
             "Id": 7815,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GL450",
-        "TowingCapacity": {
+    ],
+    "GL450": [
+        {
             "Id": 7816,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GL550",
-        "TowingCapacity": {
+    ],
+    "GL550": [
+        {
             "Id": 7817,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLK",
-        "TowingCapacity": {
+    ],
+    "GLK": [
+        {
             "Id": 7814,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML320 Blue TEC",
-        "TowingCapacity": {
+    ],
+    "ML320 Blue TEC": [
+        {
             "Id": 7818,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML350",
-        "TowingCapacity": {
+    ],
+    "ML350": [
+        {
             "Id": 7819,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7820,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +140,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML450 Hybrid",
-        "TowingCapacity": {
+    ],
+    "ML450 Hybrid": [
+        {
             "Id": 7821,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +156,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML550",
-        "TowingCapacity": {
+    ],
+    "ML550": [
+        {
             "Id": 7822,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +172,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML63 AMG",
-        "TowingCapacity": {
+    ],
+    "ML63 AMG": [
+        {
             "Id": 7823,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +188,5 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    }
-]
+    ]
+}

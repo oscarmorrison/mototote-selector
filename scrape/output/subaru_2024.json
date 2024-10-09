@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+{
+    "Ascent": [
+        {
             "Id": 549245,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Ascent",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549246,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+    ],
+    "Crosstrek": [
+        {
             "Id": 549247,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549249,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Crosstrek",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549251,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+    ],
+    "Forester": [
+        {
             "Id": 549252,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Forester",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549253,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +102,9 @@
             "GearRatio": "",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+    ],
+    "Outback": [
+        {
             "Id": 549260,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Subaru",
-        "ModelTrim": "Outback",
-        "TowingCapacity": {
+        },
+        {
             "Id": 549261,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +132,5 @@
             "GearRatio": "",
             "TowCapacity": 2700
         }
-    }
-]
+    ]
+}

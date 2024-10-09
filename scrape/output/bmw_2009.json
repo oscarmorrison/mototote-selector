@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "BMW",
-        "ModelTrim": "X-3 30si",
-        "TowingCapacity": {
+{
+    "X-3 30si": [
+        {
             "Id": 9300,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "BMW",
-        "ModelTrim": "X-5 30si",
-        "TowingCapacity": {
+    ],
+    "X-5 30si": [
+        {
             "Id": 9301,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "BMW",
-        "ModelTrim": "X-5 48li",
-        "TowingCapacity": {
+    ],
+    "X-5 48li": [
+        {
             "Id": 9302,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "BMW",
-        "ModelTrim": "X-6",
-        "TowingCapacity": {
+    ],
+    "X-6": [
+        {
             "Id": 9303,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +61,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "BMW",
-        "ModelTrim": "X-6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9304,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +76,5 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    }
-]
+    ]
+}

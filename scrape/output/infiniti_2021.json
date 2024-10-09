@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Infiniti",
-        "ModelTrim": "QX50",
-        "TowingCapacity": {
+{
+    "QX50": [
+        {
             "Id": 498721,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Infiniti",
-        "ModelTrim": "QX80",
-        "TowingCapacity": {
+    ],
+    "QX80": [
+        {
             "Id": 498733,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Infiniti",
-        "ModelTrim": "QX80",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498731,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +44,5 @@
             "GearRatio": "",
             "TowCapacity": 8500
         }
-    }
-]
+    ]
+}

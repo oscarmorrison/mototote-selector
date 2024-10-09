@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+{
+    "Frontier": [
+        {
             "Id": 20617,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20618,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20619,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -55,12 +42,9 @@
             "GearRatio": "2.937:1",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 20620,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 20621,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20622,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder Armada",
-        "TowingCapacity": {
+    ],
+    "Pathfinder Armada": [
+        {
             "Id": 20623,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "2.937:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20624,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": "3.36:1",
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 20629,
             "Year": 2004,
             "TypeDesc": "Van",
@@ -169,12 +134,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King/Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan King/Crew Cab": [
+        {
             "Id": 20626,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -187,13 +149,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King/Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20628,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -206,13 +163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.36:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King/Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20625,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -225,13 +177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King/Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20627,
             "Year": 2004,
             "TypeDesc": "Truck",
@@ -245,12 +192,9 @@
             "GearRatio": "3.36:1",
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 20630,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20631,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 20632,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,5 +236,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

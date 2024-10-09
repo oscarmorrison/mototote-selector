@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+{
+    "Escalade": [
+        {
             "Id": 11033,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11034,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade ESV",
-        "TowingCapacity": {
+    ],
+    "Escalade ESV": [
+        {
             "Id": 11035,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Cadillac",
-        "ModelTrim": "Escalade EXT",
-        "TowingCapacity": {
+    ],
+    "Escalade EXT": [
+        {
             "Id": 11036,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+    ],
+    "SRX": [
+        {
             "Id": 11037,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +75,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4250
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Cadillac",
-        "ModelTrim": "SRX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11038,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +90,5 @@
             "GearRatio": null,
             "TowCapacity": 4250
         }
-    }
-]
+    ]
+}

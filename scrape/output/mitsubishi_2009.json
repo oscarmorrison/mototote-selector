@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Endeavor",
-        "TowingCapacity": {
+{
+    "Endeavor": [
+        {
             "Id": 10902,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+    ],
+    "Outlander": [
+        {
             "Id": 10900,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10901,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Duble Cab",
-        "TowingCapacity": {
+    ],
+    "Raider Duble Cab": [
+        {
             "Id": 10903,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4050
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Duble Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10904,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4350
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Duble Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10905,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3850
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Raider Duble Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10906,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -131,5 +102,5 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 4150
         }
-    }
-]
+    ]
+}

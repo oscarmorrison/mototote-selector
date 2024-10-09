@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B2300 Regular Cab",
-        "TowingCapacity": {
+{
+    "B2300 Regular Cab": [
+        {
             "Id": 15963,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -17,12 +14,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 2260
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Cab Plus",
-        "TowingCapacity": {
+    ],
+    "B3000 Cab Plus": [
+        {
             "Id": 15965,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2440
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Cab Plus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15967,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2340
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Cab Plus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15964,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2480
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Cab Plus",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15966,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -93,12 +72,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 2380
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Regular Cab",
-        "TowingCapacity": {
+    ],
+    "B3000 Regular Cab": [
+        {
             "Id": 15969,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2480
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B3000 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15968,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -131,12 +102,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 2540
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B4000",
-        "TowingCapacity": {
+    ],
+    "B4000": [
+        {
             "Id": 15971,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5580
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "B4000",
-        "TowingCapacity": {
+        },
+        {
             "Id": 15970,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -169,12 +132,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 3120
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Mazda",
-        "ModelTrim": "Tribute",
-        "TowingCapacity": {
+    ],
+    "Tribute": [
+        {
             "Id": 15972,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,5 +148,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

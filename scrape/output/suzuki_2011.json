@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Suzuki",
-        "ModelTrim": "Equator Crew Cab",
-        "TowingCapacity": {
+{
+    "Equator Crew Cab": [
+        {
             "Id": 7853,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Suzuki",
-        "ModelTrim": "Equator Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7854,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Suzuki",
-        "ModelTrim": "Equator Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Equator Extended Cab": [
+        {
             "Id": 7851,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Suzuki",
-        "ModelTrim": "Equator Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7852,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Suzuki",
-        "ModelTrim": "Grand Vitara",
-        "TowingCapacity": {
+    ],
+    "Grand Vitara": [
+        {
             "Id": 7855,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +74,5 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    }
-]
+    ]
+}

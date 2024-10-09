@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G55 AMG",
-        "TowingCapacity": {
+{
+    "G55 AMG": [
+        {
             "Id": 6590,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G550",
-        "TowingCapacity": {
+    ],
+    "G550": [
+        {
             "Id": 6589,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GL320 Blue TEC",
-        "TowingCapacity": {
+    ],
+    "GL320 Blue TEC": [
+        {
             "Id": 6592,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GL450",
-        "TowingCapacity": {
+    ],
+    "GL450": [
+        {
             "Id": 6593,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GL550",
-        "TowingCapacity": {
+    ],
+    "GL550": [
+        {
             "Id": 6594,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLK",
-        "TowingCapacity": {
+    ],
+    "GLK": [
+        {
             "Id": 6591,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML320 Blue TEC",
-        "TowingCapacity": {
+    ],
+    "ML320 Blue TEC": [
+        {
             "Id": 6595,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML350",
-        "TowingCapacity": {
+    ],
+    "ML350": [
+        {
             "Id": 6596,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "ML350",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6597,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +140,5 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    }
-]
+    ]
+}

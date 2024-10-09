@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+{
+    "Enclave": [
+        {
             "Id": 545189,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.49",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545190,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.49",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545187,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.49",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545188,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "3.49",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Encore GX",
-        "TowingCapacity": {
+    ],
+    "Encore GX": [
+        {
             "Id": 545193,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Encore GX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545191,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Encore GX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545192,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +100,9 @@
             "GearRatio": "",
             "TowCapacity": 1000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Envision",
-        "TowingCapacity": {
+    ],
+    "Envision": [
+        {
             "Id": 545195,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.47",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Buick",
-        "ModelTrim": "Envision",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545194,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +130,5 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Lexus",
-        "ModelTrim": "GX 470",
-        "TowingCapacity": {
+{
+    "GX 470": [
+        {
             "Id": 22222,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Lexus",
-        "ModelTrim": "LX 470",
-        "TowingCapacity": {
+    ],
+    "LX 470": [
+        {
             "Id": 22223,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Lexus",
-        "ModelTrim": "RX 300",
-        "TowingCapacity": {
+    ],
+    "RX 300": [
+        {
             "Id": 22224,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,5 +46,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

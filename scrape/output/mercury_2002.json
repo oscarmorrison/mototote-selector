@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer",
-        "TowingCapacity": {
+{
+    "Mountaineer": [
+        {
             "Id": 23981,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 7060
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 4x2",
-        "TowingCapacity": {
+    ],
+    "Mountaineer 4x2": [
+        {
             "Id": 23982,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 4x2",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23983,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Mercury",
-        "ModelTrim": "Mountaineer 4x4",
-        "TowingCapacity": {
+    ],
+    "Mountaineer 4x4": [
+        {
             "Id": 23984,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": null,
             "TowCapacity": 5460
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Mercury",
-        "ModelTrim": "Villager",
-        "TowingCapacity": {
+    ],
+    "Villager": [
+        {
             "Id": 23985,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -92,13 +75,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Mercury",
-        "ModelTrim": "Villager",
-        "TowingCapacity": {
+        },
+        {
             "Id": 23986,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -112,5 +90,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

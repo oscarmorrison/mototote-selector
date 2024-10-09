@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab",
-        "TowingCapacity": {
+{
+    "1500 Crew Cab": [
+        {
             "Id": 27717,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6550
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27718,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7550
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27723,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6320
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27724,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7320
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27719,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8420
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27720,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 11520
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27725,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8220
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27726,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -150,12 +112,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 11320
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab eTorque",
-        "TowingCapacity": {
+    ],
+    "1500 Crew Cab eTorque": [
+        {
             "Id": 27721,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8330
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27722,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 11430
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27727,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8080
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27728,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -226,12 +170,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 11180
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "1500 Crew Cab Short Bed": [
+        {
             "Id": 27703,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -244,13 +185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6590
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27704,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -263,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7590
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27705,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -282,13 +213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7390
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27710,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6280
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27711,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7280
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27712,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -339,13 +255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7160
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27706,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -358,13 +269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8430
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27707,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -377,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 11530
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27713,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -396,13 +297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8190
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27714,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -416,12 +312,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 11290
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed eTorque",
-        "TowingCapacity": {
+    ],
+    "1500 Crew Cab Short Bed eTorque": [
+        {
             "Id": 27708,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -434,13 +327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8340
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27709,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -453,13 +341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 11440
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27715,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -472,13 +355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8090
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Crew Cab Short Bed eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27716,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -492,12 +370,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 11190
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab": [
+        {
             "Id": 27687,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -510,13 +385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6640
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27688,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -529,13 +399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7640
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27689,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -548,13 +413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7750
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27696,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -567,13 +427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 6460
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27697,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -586,13 +441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 7460
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27698,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -605,13 +455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7290
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27690,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -624,13 +469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8590
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27691,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -643,13 +483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 11690
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27699,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -662,13 +497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8360
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27700,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -682,12 +512,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 11460
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab eTorque",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab eTorque": [
+        {
             "Id": 27692,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -700,13 +527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8540
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27693,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -719,13 +541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 11640
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27694,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -738,13 +555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 12750
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27701,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -757,13 +569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 8270
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab eTorque",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27702,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -777,12 +584,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 11370
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "1500 Quad Cab HFE",
-        "TowingCapacity": {
+    ],
+    "1500 Quad Cab HFE": [
+        {
             "Id": 27695,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -796,12 +600,9 @@
             "GearRatio": "3.21:1",
             "TowCapacity": 6710
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Crew Cab Long Bed": [
+        {
             "Id": 27754,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -814,13 +615,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11390
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27755,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -833,13 +629,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13390
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27760,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -852,13 +643,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11030
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27761,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -871,13 +657,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13020
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27756,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -890,13 +671,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12810
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27757,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -909,13 +685,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15810
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27762,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -928,13 +699,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12460
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27763,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -947,13 +713,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15460
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27759,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -966,13 +727,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17370
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27758,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -985,13 +741,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27765,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1004,13 +755,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17020
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27764,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1024,12 +770,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 15950
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Crew Cab Short Bed": [
+        {
             "Id": 27741,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1042,13 +785,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11520
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27742,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1061,13 +799,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13520
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27747,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1080,13 +813,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27748,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1099,13 +827,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13190
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27743,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1118,13 +841,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12940
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27744,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1137,13 +855,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15940
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27749,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1156,13 +869,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12630
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27750,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1175,13 +883,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15630
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27746,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1194,13 +897,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17510
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27745,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1213,13 +911,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16450
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27752,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1232,13 +925,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27751,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1252,12 +940,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 16130
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Crew Cab Short Bed Power Wagon",
-        "TowingCapacity": {
+    ],
+    "2500 Crew Cab Short Bed Power Wagon": [
+        {
             "Id": 27753,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1271,12 +956,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10030
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+    ],
+    "2500 Mega Cab": [
+        {
             "Id": 27766,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1289,13 +971,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11040
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27767,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1308,13 +985,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13040
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27772,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1327,13 +999,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 10780
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27773,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1346,13 +1013,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12780
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27768,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1365,13 +1027,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12520
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27769,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1384,13 +1041,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15520
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27774,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1403,13 +1055,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12240
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27775,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1422,13 +1069,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15240
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27771,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1441,13 +1083,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17170
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27770,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1460,13 +1097,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27777,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1479,13 +1111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15440
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Mega Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27776,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1499,12 +1126,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 14770
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "2500 Regular Cab Long Bed": [
+        {
             "Id": 27729,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1517,13 +1141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11890
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27730,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1536,13 +1155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13890
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27735,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1555,13 +1169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11510
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27736,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1574,13 +1183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13510
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27731,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1593,13 +1197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13320
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27732,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1612,13 +1211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16320
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27737,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1631,13 +1225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12930
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27738,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1650,13 +1239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15930
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27734,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1669,13 +1253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17980
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27733,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1688,13 +1267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16890
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27740,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1707,13 +1281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17540
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "2500 Regular Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27739,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1727,12 +1296,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 16450
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Crew Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 27839,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1745,13 +1311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12450
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27840,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1764,13 +1325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15950
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27849,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1783,13 +1339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27850,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1802,13 +1353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27843,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1821,13 +1367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27846,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1840,13 +1381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 20860
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27844,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1859,13 +1395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 19000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27847,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1878,13 +1409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 25360
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27845,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1897,13 +1423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 22000
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27848,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1916,13 +1437,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 30660
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27841,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1935,13 +1451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15960
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27842,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1954,13 +1465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 17960
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27853,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1973,13 +1479,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16660
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27856,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -1992,13 +1493,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 20520
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27854,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2011,13 +1507,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 18660
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27857,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2030,13 +1521,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 25020
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27855,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2049,13 +1535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 21660
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27858,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2068,13 +1549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 30320
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27851,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2087,13 +1563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15620
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27852,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2107,12 +1578,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17620
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Crew Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 27825,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2125,13 +1593,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11410
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27826,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2144,13 +1607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13410
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27832,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2163,13 +1621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11020
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27833,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2182,13 +1635,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13020
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27827,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2201,13 +1649,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12830
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27828,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2220,13 +1663,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15830
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27834,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2239,13 +1677,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12470
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27835,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2258,13 +1691,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15470
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27830,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2277,13 +1705,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17360
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27831,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2296,13 +1719,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17210
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27829,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2315,13 +1733,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16320
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27837,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2334,13 +1747,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17010
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27838,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2353,13 +1761,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16860
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27836,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2373,12 +1776,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 15960
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Crew Cab Short Bed Single Rear Wheel": [
+        {
             "Id": 27811,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2391,13 +1791,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11520
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27812,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2410,13 +1805,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13520
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27818,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2429,13 +1819,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27819,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2448,13 +1833,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27813,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2467,13 +1847,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12970
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27814,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2486,13 +1861,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15970
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27820,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2505,13 +1875,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12640
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27821,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2524,13 +1889,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15640
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27823,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2543,13 +1903,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27824,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2562,13 +1917,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17050
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27822,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2581,13 +1931,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16160
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27816,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2600,13 +1945,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17490
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27817,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2619,13 +1959,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17350
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Crew Cab Short Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27815,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2639,12 +1974,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 16450
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Mega Cab Dual Rear Wheel": [
+        {
             "Id": 27873,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2657,13 +1989,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27874,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2676,13 +2003,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27883,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2695,13 +2017,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11970
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27884,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2714,13 +2031,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15470
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27877,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2733,13 +2045,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16750
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27880,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2752,13 +2059,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 20600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27878,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2771,13 +2073,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 18750
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27881,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2790,13 +2087,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 25100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27879,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2809,13 +2101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 21750
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27882,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2828,13 +2115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 30400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27875,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2847,13 +2129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15710
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27876,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2866,13 +2143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 17710
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27887,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2885,13 +2157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16440
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27890,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2904,13 +2171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 20300
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27888,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2923,13 +2185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 18440
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27891,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2942,13 +2199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 24800
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27889,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2961,13 +2213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 21440
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27892,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2980,13 +2227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 30100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27885,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -2999,13 +2241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27886,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3019,12 +2256,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 17400
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Mega Cab Single Rear Wheel": [
+        {
             "Id": 27859,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3037,13 +2271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11210
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27860,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3056,13 +2285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13210
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27866,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3075,13 +2299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10880
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27867,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3094,13 +2313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12880
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27861,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3113,13 +2327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12650
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27862,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3132,13 +2341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15650
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27868,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3151,13 +2355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12320
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27869,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3170,13 +2369,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15320
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27864,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3189,13 +2383,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17140
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27865,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3208,13 +2397,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16990
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27863,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3227,13 +2411,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27871,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3246,13 +2425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16750
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27872,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3265,13 +2439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Mega Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27870,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3285,12 +2454,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 15710
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab Long Bed Dual Rear Wheel": [
+        {
             "Id": 27792,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3303,13 +2469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 13020
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27801,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3322,13 +2483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12640
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27802,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3341,13 +2497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16140
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27795,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3360,13 +2511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17550
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27798,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3379,13 +2525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 21410
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27796,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3398,13 +2539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 19550
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27799,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3417,13 +2553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 25910
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27797,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3436,13 +2567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 22550
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27800,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3455,13 +2581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 31210
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27793,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3474,13 +2595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16510
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27794,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3493,13 +2609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 18510
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27805,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3512,13 +2623,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17180
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27808,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3531,13 +2637,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 21030
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27806,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3550,13 +2651,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 19180
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27809,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3569,13 +2665,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 25530
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27807,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3588,13 +2679,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 22180
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27810,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3607,13 +2693,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 30830
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27803,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3626,13 +2707,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16130
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27804,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3646,12 +2722,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 18130
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "3500 Regular Cab Long Bed Single Rear Wheel": [
+        {
             "Id": 27778,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3664,13 +2737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11910
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27779,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3683,13 +2751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13910
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27785,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3702,13 +2765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11560
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27786,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3721,13 +2779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 13560
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27780,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3740,13 +2793,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 11370
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27781,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3759,13 +2807,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 16370
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27787,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3778,13 +2821,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 12970
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27788,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3797,13 +2835,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 15970
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27783,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3816,13 +2849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17910
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27784,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3835,13 +2863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17770
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27782,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3854,13 +2877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 16870
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27790,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3873,13 +2891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17560
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27791,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3892,13 +2905,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 17420
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Dodge Ram",
-        "ModelTrim": "3500 Regular Cab Long Bed Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 27789,
             "Year": 2019,
             "TypeDesc": "Truck",
@@ -3912,5 +2920,5 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 16520
         }
-    }
-]
+    ]
+}

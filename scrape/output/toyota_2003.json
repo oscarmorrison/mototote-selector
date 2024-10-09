@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "4 Runner",
-        "TowingCapacity": {
+{
+    "4 Runner": [
+        {
             "Id": 22279,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 22288,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22287,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 22280,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +60,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "S-Runner",
-        "TowingCapacity": {
+    ],
+    "S-Runner": [
+        {
             "Id": 22284,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -93,12 +76,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia",
-        "TowingCapacity": {
+    ],
+    "Sequoia": [
+        {
             "Id": 22286,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +91,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22285,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +106,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 22281,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +122,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma",
-        "TowingCapacity": {
+    ],
+    "Tacoma": [
+        {
             "Id": 22283,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -168,13 +137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22282,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -188,12 +152,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra 4x2 B-Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra 4x2 B-Cab": [
+        {
             "Id": 22289,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -207,12 +168,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra 4x2 C-Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra 4x2 C-Cab": [
+        {
             "Id": 22290,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -226,12 +184,9 @@
             "GearRatio": null,
             "TowCapacity": 4800
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra B-Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra B-Cab": [
+        {
             "Id": 22293,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -245,12 +200,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra C-Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra C-Cab": [
+        {
             "Id": 22291,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -264,12 +216,9 @@
             "GearRatio": null,
             "TowCapacity": 4800
         }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra C-Cab (SR5,LTD)",
-        "TowingCapacity": {
+    ],
+    "Tundra C-Cab (SR5,LTD)": [
+        {
             "Id": 22294,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -282,13 +231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra C-Cab (SR5,LTD)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22292,
             "Year": 2003,
             "TypeDesc": "Truck",
@@ -302,5 +246,5 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    }
-]
+    ]
+}

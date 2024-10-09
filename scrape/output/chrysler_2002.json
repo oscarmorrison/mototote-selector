@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+{
+    "Town and Country": [
+        {
             "Id": 22741,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22743,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22742,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -55,12 +42,9 @@
             "GearRatio": null,
             "TowCapacity": 3800
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Chrysler",
-        "ModelTrim": "Voyager",
-        "TowingCapacity": {
+    ],
+    "Voyager": [
+        {
             "Id": 22744,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -74,5 +58,5 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

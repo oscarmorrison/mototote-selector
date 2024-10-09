@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Hummer",
-        "ModelTrim": "H1 Alpha 4 Door Open Top",
-        "TowingCapacity": {
+{
+    "H1 Alpha 4 Door Open Top": [
+        {
             "Id": 15904,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 9303
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Hummer",
-        "ModelTrim": "H1 Alpha Wagon",
-        "TowingCapacity": {
+    ],
+    "H1 Alpha Wagon": [
+        {
             "Id": 15905,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 9036
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Hummer",
-        "ModelTrim": "H2",
-        "TowingCapacity": {
+    ],
+    "H2": [
+        {
             "Id": 15906,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 6700
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Hummer",
-        "ModelTrim": "H2 SUT",
-        "TowingCapacity": {
+    ],
+    "H2 SUT": [
+        {
             "Id": 15907,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Hummer",
-        "ModelTrim": "H3",
-        "TowingCapacity": {
+    ],
+    "H3": [
+        {
             "Id": 15908,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +78,5 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

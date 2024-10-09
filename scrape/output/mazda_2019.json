@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5",
-        "TowingCapacity": {
+{
+    "CX-5": [
+        {
             "Id": 28715,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Mazda",
-        "ModelTrim": "CX-9",
-        "TowingCapacity": {
+    ],
+    "CX-9": [
+        {
             "Id": 28716,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

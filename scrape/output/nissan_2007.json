@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 14113,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14114,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab": [
+        {
             "Id": 14115,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14116,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier King Cab": [
+        {
             "Id": 14117,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14118,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 14119,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14120,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab": [
+        {
             "Id": 14121,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -168,13 +133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14122,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -188,12 +148,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+    ],
+    "Titan King Cab": [
+        {
             "Id": 14123,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -206,13 +163,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14124,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -226,12 +178,9 @@
             "GearRatio": null,
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 14125,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14126,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,5 +208,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

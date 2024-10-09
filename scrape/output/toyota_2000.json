@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 26838,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra",
-        "TowingCapacity": {
+    ],
+    "Tundra": [
+        {
             "Id": 26841,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26840,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5250
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26844,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26843,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4950
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26839,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26842,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -131,5 +100,5 @@
             "GearRatio": null,
             "TowCapacity": 6900
         }
-    }
-]
+    ]
+}

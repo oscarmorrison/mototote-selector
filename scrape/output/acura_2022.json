@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+{
+    "MDX": [
+        {
             "Id": 491505,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491506,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491504,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +42,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Acura",
-        "ModelTrim": "RDX",
-        "TowingCapacity": {
+    ],
+    "RDX": [
+        {
             "Id": 491522,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2022,
-        "Make": "Acura",
-        "ModelTrim": "RDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491521,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +72,5 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLC 43",
-        "TowingCapacity": {
+{
+    "AMG GLC 43": [
+        {
             "Id": 550026,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLE 53",
-        "TowingCapacity": {
+    ],
+    "AMG GLE 53": [
+        {
             "Id": 550032,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLE 63 S",
-        "TowingCapacity": {
+    ],
+    "AMG GLE 63 S": [
+        {
             "Id": 550045,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLS 63",
-        "TowingCapacity": {
+    ],
+    "AMG GLS 63": [
+        {
             "Id": 550054,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "eSprinter 2500 Cargo Van",
-        "TowingCapacity": {
+    ],
+    "eSprinter 2500 Cargo Van": [
+        {
             "Id": 550080,
             "Year": 2024,
             "TypeDesc": "Cargo Van",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 4100
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G-Class AMG G 63",
-        "TowingCapacity": {
+    ],
+    "G-Class AMG G 63": [
+        {
             "Id": 550047,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G-Class G550",
-        "TowingCapacity": {
+    ],
+    "G-Class G550": [
+        {
             "Id": 550046,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC 300 (RWD)",
-        "TowingCapacity": {
+    ],
+    "GLC 300 (RWD)": [
+        {
             "Id": 550024,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +126,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC 300 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLC 300 4MATIC": [
+        {
             "Id": 550025,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +142,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 350 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 350 4MATIC": [
+        {
             "Id": 550040,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +158,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 450 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 450 4MATIC": [
+        {
             "Id": 550041,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +174,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 450e 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 450e 4MATIC": [
+        {
             "Id": 550042,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +190,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 580 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 580 4MATIC": [
+        {
             "Id": 550043,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +206,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLS 450 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLS 450 4MATIC": [
+        {
             "Id": 550051,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +222,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLS 580 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLS 580 4MATIC": [
+        {
             "Id": 550053,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +238,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Cargo Van SRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Cargo Van SRW": [
+        {
             "Id": 550075,
             "Year": 2024,
             "TypeDesc": "Cargo Van",
@@ -301,13 +253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Cargo Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550074,
             "Year": 2024,
             "TypeDesc": "Cargo Van",
@@ -321,12 +268,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Crew Van SRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Crew Van SRW": [
+        {
             "Id": 550077,
             "Year": 2024,
             "TypeDesc": "Crew Van",
@@ -339,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Crew Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550076,
             "Year": 2024,
             "TypeDesc": "Crew Van",
@@ -359,12 +298,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Passenger Van": [
+        {
             "Id": 550063,
             "Year": 2024,
             "TypeDesc": "Passenger Van",
@@ -377,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550062,
             "Year": 2024,
             "TypeDesc": "Passenger Van",
@@ -397,12 +328,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500 Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500 Cargo Van DRW": [
+        {
             "Id": 550069,
             "Year": 2024,
             "TypeDesc": "Cargo Van",
@@ -416,12 +344,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500 Crew Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500 Crew Van DRW": [
+        {
             "Id": 550078,
             "Year": 2024,
             "TypeDesc": "Crew Van",
@@ -435,12 +360,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500XD Cargo Van DRW": [
+        {
             "Id": 550071,
             "Year": 2024,
             "TypeDesc": "Cargo Van",
@@ -453,13 +375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Cargo Van DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550070,
             "Year": 2024,
             "TypeDesc": "Cargo Van",
@@ -473,12 +390,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Extended Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500XD Extended Cargo Van DRW": [
+        {
             "Id": 550073,
             "Year": 2024,
             "TypeDesc": "Cargo Van",
@@ -491,13 +405,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Extended Cargo Van DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 550072,
             "Year": 2024,
             "TypeDesc": "Cargo Van",
@@ -511,5 +420,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

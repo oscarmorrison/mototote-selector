@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+{
+    "Dakota Crew Cab Short Bed": [
+        {
             "Id": 7191,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4450
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7192,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4750
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7196,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7195,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3750
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7193,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7194,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7197,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7198,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -150,12 +112,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 6800
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Dakota Extended Cab Short Bed": [
+        {
             "Id": 7182,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 4650
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7183,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4950
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7181,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 3350
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7187,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3900
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7188,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -244,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 4750
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7186,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -263,13 +197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 3950
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7184,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -282,13 +211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 6050
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7185,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -301,13 +225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92:1",
             "TowCapacity": 7250
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7189,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -320,13 +239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55:1",
             "TowCapacity": 5850
-        }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Dakota Extended Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7190,
             "Year": 2011,
             "TypeDesc": "Truck",
@@ -340,12 +254,9 @@
             "GearRatio": "3.92:1",
             "TowCapacity": 7050
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Grand Caravan",
-        "TowingCapacity": {
+    ],
+    "Grand Caravan": [
+        {
             "Id": 7178,
             "Year": 2011,
             "TypeDesc": "Passenger Van",
@@ -359,12 +270,9 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    },
-    {
-        "Year": 2011,
-        "Make": "Dodge",
-        "ModelTrim": "Journey",
-        "TowingCapacity": {
+    ],
+    "Journey": [
+        {
             "Id": 7179,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,5 +286,5 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    }
-]
+    ]
+}

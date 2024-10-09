@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+{
+    "MDX": [
+        {
             "Id": 28993,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Acura",
-        "ModelTrim": "MDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28992,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Acura",
-        "ModelTrim": "RDX",
-        "TowingCapacity": {
+    ],
+    "RDX": [
+        {
             "Id": 491518,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Acura",
-        "ModelTrim": "RDX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 491517,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +58,5 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    }
-]
+    ]
+}

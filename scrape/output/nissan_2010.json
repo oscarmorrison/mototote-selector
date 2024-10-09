@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 9195,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9196,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab SE, LE, Pro-4X",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab SE, LE, Pro-4X": [
+        {
             "Id": 9200,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab SE, LE, Pro-4X",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9201,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC SE, LE, Pro-4X",
-        "TowingCapacity": {
+    ],
+    "Frontier KC SE, LE, Pro-4X": [
+        {
             "Id": 9198,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC SE, LE, Pro-4X",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9199,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC XE",
-        "TowingCapacity": {
+    ],
+    "Frontier KC XE": [
+        {
             "Id": 9197,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 9202,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +120,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 9203,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9204,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +150,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 9205,
             "Year": 2010,
             "TypeDesc": "Van",
@@ -207,12 +166,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab": [
+        {
             "Id": 9210,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -225,13 +181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9211,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -245,12 +196,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC",
-        "TowingCapacity": {
+    ],
+    "Titan KC": [
+        {
             "Id": 9206,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -263,13 +211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9208,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -283,12 +226,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Long Bed",
-        "TowingCapacity": {
+    ],
+    "Titan KC Long Bed": [
+        {
             "Id": 9207,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -301,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9209,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -321,12 +256,9 @@
             "GearRatio": null,
             "TowCapacity": 9200
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Long Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Long Bed Crew Cab": [
+        {
             "Id": 9212,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -339,13 +271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9213,
             "Year": 2010,
             "TypeDesc": "Truck",
@@ -359,12 +286,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2010,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 9214,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,5 +302,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Compass (4WD)",
-        "TowingCapacity": {
+{
+    "Compass (4WD)": [
+        {
             "Id": 545553,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Mojave",
-        "TowingCapacity": {
+    ],
+    "Gladiator Mojave": [
+        {
             "Id": 545551,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Mojave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545552,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -55,12 +44,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Rubicon",
-        "TowingCapacity": {
+    ],
+    "Gladiator Rubicon": [
+        {
             "Id": 545549,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Rubicon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545550,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -93,12 +74,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+    ],
+    "Gladiator Sport": [
+        {
             "Id": 545545,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545546,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545547,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Gladiator Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545548,
             "Year": 2024,
             "TypeDesc": "Truck",
@@ -169,12 +132,9 @@
             "GearRatio": "4.10",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+    ],
+    "Wrangler (2-Door)": [
+        {
             "Id": 545405,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -187,13 +147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545404,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (2-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545406,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +176,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+    ],
+    "Wrangler (4-Door)": [
+        {
             "Id": 545433,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545418,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -263,13 +205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545417,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545432,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -301,13 +233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2024,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler (4-Door)",
-        "TowingCapacity": {
+        },
+        {
             "Id": 545419,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -321,5 +248,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

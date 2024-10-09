@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 5601,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5602,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab": [
+        {
             "Id": 5606,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5607,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC",
-        "TowingCapacity": {
+    ],
+    "Frontier KC": [
+        {
             "Id": 5603,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5604,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -111,13 +87,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier KC",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5605,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -131,12 +102,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 5608,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 5609,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +134,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 5610,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
@@ -188,12 +150,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab PRO 4X",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab PRO 4X": [
+        {
             "Id": 5620,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -207,12 +166,9 @@
             "GearRatio": null,
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab S",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab S": [
+        {
             "Id": 5616,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -225,13 +181,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab S",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5617,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -245,12 +196,9 @@
             "GearRatio": null,
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab SL",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab SL": [
+        {
             "Id": 5621,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -263,13 +211,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab SL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5622,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -283,12 +226,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab SV",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab SV": [
+        {
             "Id": 5618,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -301,13 +241,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab SV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5619,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -321,12 +256,9 @@
             "GearRatio": null,
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed PRO 4X",
-        "TowingCapacity": {
+    ],
+    "Titan KC Short Bed PRO 4X": [
+        {
             "Id": 5615,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -340,12 +272,9 @@
             "GearRatio": null,
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed S",
-        "TowingCapacity": {
+    ],
+    "Titan KC Short Bed S": [
+        {
             "Id": 5611,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -358,13 +287,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed S",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5612,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -378,12 +302,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed SV",
-        "TowingCapacity": {
+    ],
+    "Titan KC Short Bed SV": [
+        {
             "Id": 5613,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -396,13 +317,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan KC Short Bed SV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5614,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -416,12 +332,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Long Bed Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Long Bed Crew Cab": [
+        {
             "Id": 5623,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -434,13 +347,8 @@
             "TowDesc": "Fifth Wheel",
             "GearRatio": null,
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Long Bed Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 5624,
             "Year": 2013,
             "TypeDesc": "Truck",
@@ -454,12 +362,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2013,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 5625,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
@@ -473,5 +378,5 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    }
-]
+    ]
+}

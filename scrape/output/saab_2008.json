@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Saab",
-        "ModelTrim": "9-7X",
-        "TowingCapacity": {
+{
+    "9-7X": [
+        {
             "Id": 12791,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Saab",
-        "ModelTrim": "9-7X",
-        "TowingCapacity": {
+        },
+        {
             "Id": 12792,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    }
-]
+    ]
+}

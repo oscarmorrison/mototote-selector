@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Volkswagen",
-        "ModelTrim": "Touareg",
-        "TowingCapacity": {
+{
+    "Touareg": [
+        {
             "Id": 16061,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

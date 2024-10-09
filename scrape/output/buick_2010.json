@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2010,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+{
+    "Enclave": [
+        {
             "Id": 7929,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2010,
-        "Make": "Buick",
-        "ModelTrim": "Enclave",
-        "TowingCapacity": {
+        },
+        {
             "Id": 7930,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

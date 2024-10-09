@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2001,
-        "Make": "Mazda",
-        "ModelTrim": "B2500",
-        "TowingCapacity": {
+{
+    "B2500": [
+        {
             "Id": 25816,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 2240
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mazda",
-        "ModelTrim": "B3000",
-        "TowingCapacity": {
+    ],
+    "B3000": [
+        {
             "Id": 25818,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4360
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mazda",
-        "ModelTrim": "B3000",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25817,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -55,12 +44,9 @@
             "GearRatio": null,
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mazda",
-        "ModelTrim": "B4000",
-        "TowingCapacity": {
+    ],
+    "B4000": [
+        {
             "Id": 25820,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mazda",
-        "ModelTrim": "B4000",
-        "TowingCapacity": {
+        },
+        {
             "Id": 25819,
             "Year": 2001,
             "TypeDesc": "Truck",
@@ -93,12 +74,9 @@
             "GearRatio": null,
             "TowCapacity": 5900
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mazda",
-        "ModelTrim": "MPassenger Van",
-        "TowingCapacity": {
+    ],
+    "MPassenger Van": [
+        {
             "Id": 25821,
             "Year": 2001,
             "TypeDesc": "Van",
@@ -112,12 +90,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2001,
-        "Make": "Mazda",
-        "ModelTrim": "Tribute",
-        "TowingCapacity": {
+    ],
+    "Tribute": [
+        {
             "Id": 25822,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +106,5 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    }
-]
+    ]
+}

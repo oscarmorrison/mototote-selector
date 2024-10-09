@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+{
+    "Avalanche": [
+        {
             "Id": 9316,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9319,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9317,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9318,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9320,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9321,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9323,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9324,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -149,13 +111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9325,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -168,13 +125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9326,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -187,13 +139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9322,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -206,13 +153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Avalanche",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9327,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -226,12 +168,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Colorado Crew Cab": [
+        {
             "Id": 9343,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -244,13 +183,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9344,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -263,13 +197,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9345,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -282,13 +211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9356,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -301,13 +225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9347,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -320,13 +239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9346,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -339,13 +253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9357,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -358,13 +267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9358,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -378,12 +282,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Colorado Extended Cab": [
+        {
             "Id": 9337,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -396,13 +297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9338,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -415,13 +311,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9351,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -434,13 +325,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9339,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -453,13 +339,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9352,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -472,13 +353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9340,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -491,13 +367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9342,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -510,13 +381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9341,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -529,13 +395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9353,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -548,13 +409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9355,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -567,13 +423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 3800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9354,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -587,12 +438,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Colorado Regular Cab": [
+        {
             "Id": 9334,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -605,13 +453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9335,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -624,13 +467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9348,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -643,13 +481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 3100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9349,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -662,13 +495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9336,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -681,13 +509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Colorado Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9350,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -701,12 +524,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Equinox",
-        "TowingCapacity": {
+    ],
+    "Equinox": [
+        {
             "Id": 9359,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -720,12 +540,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express 1500 Short Wheel Base Passenger Van": [
+        {
             "Id": 9364,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -738,13 +555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheel Base Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9365,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -758,12 +570,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express 1500 Short Wheelbase Cargo Van": [
+        {
             "Id": 9360,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -776,13 +585,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9361,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -795,13 +599,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9362,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -814,13 +613,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 1500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9363,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -834,12 +628,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Long Wheelbase Cargo Van": [
+        {
             "Id": 9372,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -852,13 +643,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9373,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -871,13 +657,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9374,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -890,13 +671,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9375,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -910,12 +686,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Short Wheelbase Cargo Van": [
+        {
             "Id": 9366,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -928,13 +701,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9367,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -947,13 +715,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9368,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -966,13 +729,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9369,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -986,12 +744,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheelbase Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express 2500 Short Wheelbase Passenger Van": [
+        {
             "Id": 9370,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1004,13 +759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 2500 Short Wheelbase Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9371,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1024,12 +774,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Long Wheelbase Cargo Van": [
+        {
             "Id": 9381,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1042,13 +789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9382,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1061,13 +803,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9383,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1080,13 +817,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9384,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1100,12 +832,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Long Wheelbase Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Long Wheelbase Passenger Van": [
+        {
             "Id": 9385,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1119,12 +848,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Short Wheelbase Cargo Van": [
+        {
             "Id": 9376,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1137,13 +863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9377,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1156,13 +877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9378,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1175,13 +891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheelbase Cargo Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9379,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1195,12 +906,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Express 3500 Short Wheelbase Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Express 3500 Short Wheelbase Passenger Van": [
+        {
             "Id": 9380,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -1214,12 +922,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Crew Cab Shortbed": [
+        {
             "Id": 9435,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1232,13 +937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9436,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1251,13 +951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9445,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1270,13 +965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9437,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1289,13 +979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9438,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1308,13 +993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9446,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1327,13 +1007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9447,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1346,13 +1021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9439,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1365,13 +1035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9441,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1384,13 +1049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9443,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1403,13 +1063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9448,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1422,13 +1077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9450,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1441,13 +1091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9452,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1460,13 +1105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9440,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1479,13 +1119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9442,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1498,13 +1133,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9444,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1517,13 +1147,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9449,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1536,13 +1161,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Crew Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9451,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1556,12 +1176,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Extended Cab Longbed": [
+        {
             "Id": 9468,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1574,13 +1191,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9469,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1593,13 +1205,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9467,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1612,13 +1219,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9470,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1631,13 +1233,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9471,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1650,13 +1247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9472,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1669,13 +1261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9473,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1689,12 +1276,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Extended Cab Shortbed": [
+        {
             "Id": 9421,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1707,13 +1291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9422,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1726,13 +1305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73.1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9423,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1745,13 +1319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9424,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1764,13 +1333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9429,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1783,13 +1347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9430,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1802,13 +1361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9425,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1821,13 +1375,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9426,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1840,13 +1389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9431,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1859,13 +1403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9432,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1878,13 +1417,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9427,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1897,13 +1431,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9428,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1916,13 +1445,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9433,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1935,13 +1459,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Shortbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9434,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1955,12 +1474,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Extended Cab Standard Bed": [
+        {
             "Id": 9402,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1973,13 +1489,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9403,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -1992,13 +1503,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9404,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2011,13 +1517,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9405,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2030,13 +1531,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9413,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2049,13 +1545,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9406,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2068,13 +1559,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9408,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2087,13 +1573,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9409,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2106,13 +1587,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9407,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2125,13 +1601,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9414,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2144,13 +1615,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9415,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2163,13 +1629,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9416,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2182,13 +1643,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9417,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2201,13 +1657,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9410,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2220,13 +1671,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9411,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2239,13 +1685,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9412,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2258,13 +1699,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9418,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2277,13 +1713,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9419,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2296,13 +1727,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9420,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2316,12 +1742,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 10400
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Regular Cab Longbed": [
+        {
             "Id": 9453,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2334,13 +1757,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9454,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2353,13 +1771,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9461,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2372,13 +1785,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9455,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2391,13 +1799,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9456,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2410,13 +1813,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9462,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2429,13 +1827,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9457,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2448,13 +1841,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9458,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2467,13 +1855,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9459,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2486,13 +1869,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9460,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2505,13 +1883,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9463,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2524,13 +1897,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9464,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2543,13 +1911,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9465,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2562,13 +1925,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9466,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2582,12 +1940,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 1500 Regular Cab Standard Bed": [
+        {
             "Id": 9386,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2600,13 +1955,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9387,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2619,13 +1969,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9396,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2638,13 +1983,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9388,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2657,13 +1997,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9389,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2676,13 +2011,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9397,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2695,13 +2025,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9390,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2714,13 +2039,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9392,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2733,13 +2053,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9393,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2752,13 +2067,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9394,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2771,13 +2081,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9395,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2790,13 +2095,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9391,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2809,13 +2109,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9398,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2828,13 +2123,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9399,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2847,13 +2137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9400,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2866,13 +2151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 1500 Regular Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9401,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2886,12 +2166,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Longbed": [
+        {
             "Id": 9500,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2904,13 +2181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9501,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2923,13 +2195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9503,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2942,13 +2209,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9504,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2961,13 +2223,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9502,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -2980,13 +2237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9505,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3000,12 +2252,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Crew Cab Standard Bed": [
+        {
             "Id": 9482,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3018,13 +2267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9483,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3037,13 +2281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9485,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3056,13 +2295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9486,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3075,13 +2309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9484,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3094,13 +2323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Crew Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9487,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3114,12 +2338,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13900
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Extended Cab Longbed": [
+        {
             "Id": 9494,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3132,13 +2353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9495,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3151,13 +2367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9497,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3170,13 +2381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9498,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3189,13 +2395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9496,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3208,13 +2409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9499,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3228,12 +2424,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 13800
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Extended Cab Standard Bed": [
+        {
             "Id": 9476,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3246,13 +2439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9477,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3265,13 +2453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9479,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3284,13 +2467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9480,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3303,13 +2481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9478,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3322,13 +2495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Extended Cab Standard Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9481,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3342,12 +2510,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 14500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "Silverado 2500 Regular Cab Longbed": [
+        {
             "Id": 9488,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3360,13 +2525,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9489,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3379,13 +2539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 1300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9491,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3398,13 +2553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9492,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3417,13 +2567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9490,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3436,13 +2581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 2500 Regular Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9493,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3456,12 +2596,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Crew Cab": [
+        {
             "Id": 9530,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3474,13 +2611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9533,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3493,13 +2625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9531,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3512,13 +2639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9534,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3531,13 +2653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9536,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3550,13 +2667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9539,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3569,13 +2681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9537,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3588,13 +2695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9540,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3607,13 +2709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9532,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3626,13 +2723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9535,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3645,13 +2737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9538,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3664,13 +2751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9541,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3684,12 +2766,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 15900
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Extended Cab": [
+        {
             "Id": 9518,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3702,13 +2781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9521,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3721,13 +2795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9519,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3740,13 +2809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9522,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3759,13 +2823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9524,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3778,13 +2837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9527,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3797,13 +2851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9525,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3816,13 +2865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9528,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3835,13 +2879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9520,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3854,13 +2893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9523,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3873,13 +2907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9526,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3892,13 +2921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9529,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3912,12 +2936,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 16100
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Silverado 3500 Regular Cab": [
+        {
             "Id": 9506,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3930,13 +2951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9509,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3949,13 +2965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9507,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3968,13 +2979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9510,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -3987,13 +2993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9512,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4006,13 +3007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9515,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4025,13 +3021,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9513,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4044,13 +3035,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9516,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4063,13 +3049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 12200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9508,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4082,13 +3063,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9511,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4101,13 +3077,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 16800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9514,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4120,13 +3091,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado 3500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9517,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4140,12 +3106,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 16500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado Two-Mode Hybrid",
-        "TowingCapacity": {
+    ],
+    "Silverado Two-Mode Hybrid": [
+        {
             "Id": 9474,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4158,13 +3121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Silverado Two-Mode Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9475,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -4178,12 +3136,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 5900
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+    ],
+    "Suburban": [
+        {
             "Id": 9553,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4196,13 +3151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9554,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4215,13 +3165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9555,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4234,13 +3179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9557,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4253,13 +3193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9558,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4272,13 +3207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9556,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4291,13 +3221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9559,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4311,12 +3236,9 @@
             "GearRatio": null,
             "TowCapacity": 7900
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500 Long Wheelbase",
-        "TowingCapacity": {
+    ],
+    "Suburban 2500 Long Wheelbase": [
+        {
             "Id": 9560,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4329,13 +3251,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Suburban 2500 Long Wheelbase",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9561,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4349,12 +3266,9 @@
             "GearRatio": null,
             "TowCapacity": 9300
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+    ],
+    "Tahoe": [
+        {
             "Id": 9542,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4367,13 +3281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9543,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4386,13 +3295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9544,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4405,13 +3309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9545,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4424,13 +3323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9546,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4443,13 +3337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9548,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4462,13 +3351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9549,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4481,13 +3365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9547,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4500,13 +3379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9550,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4520,12 +3394,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe Two-Mode Hybrid",
-        "TowingCapacity": {
+    ],
+    "Tahoe Two-Mode Hybrid": [
+        {
             "Id": 9551,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4538,13 +3409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Tahoe Two-Mode Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9552,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4558,12 +3424,9 @@
             "GearRatio": null,
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+    ],
+    "Trailblazer": [
+        {
             "Id": 9562,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4576,13 +3439,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9563,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4595,13 +3453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9564,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4614,13 +3467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9567,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4633,13 +3481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9568,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4652,13 +3495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9569,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4671,13 +3509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9565,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4690,13 +3523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9566,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4709,13 +3537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9570,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4728,13 +3551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9571,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4748,12 +3566,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer SS",
-        "TowingCapacity": {
+    ],
+    "Trailblazer SS": [
+        {
             "Id": 9572,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4766,13 +3581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Trailblazer SS",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9573,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4786,12 +3596,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+    ],
+    "Traverse": [
+        {
             "Id": 9331,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4804,13 +3611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9332,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4823,13 +3625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9333,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4842,13 +3639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9328,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4861,13 +3653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9329,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4880,13 +3667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5200
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Chevrolet",
-        "ModelTrim": "Traverse",
-        "TowingCapacity": {
+        },
+        {
             "Id": 9330,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -4900,5 +3682,5 @@
             "GearRatio": null,
             "TowCapacity": 4500
         }
-    }
-]
+    ]
+}

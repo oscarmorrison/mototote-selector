@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "e-tron",
-        "TowingCapacity": {
+{
+    "e-tron": [
+        {
             "Id": 28994,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "Q3",
-        "TowingCapacity": {
+    ],
+    "Q3": [
+        {
             "Id": 498090,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "Q5",
-        "TowingCapacity": {
+    ],
+    "Q5": [
+        {
             "Id": 28995,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "Q5 55e (Plug-In Hybrid)",
-        "TowingCapacity": {
+    ],
+    "Q5 55e (Plug-In Hybrid)": [
+        {
             "Id": 498105,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+    ],
+    "Q7": [
+        {
             "Id": 28996,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +77,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "Q7",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28997,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +92,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "Q8",
-        "TowingCapacity": {
+    ],
+    "Q8": [
+        {
             "Id": 28998,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +108,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "RS Q8",
-        "TowingCapacity": {
+    ],
+    "RS Q8": [
+        {
             "Id": 498080,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +124,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "SQ5",
-        "TowingCapacity": {
+    ],
+    "SQ5": [
+        {
             "Id": 28999,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +140,9 @@
             "GearRatio": "",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "SQ7",
-        "TowingCapacity": {
+    ],
+    "SQ7": [
+        {
             "Id": 498086,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +156,9 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Audi",
-        "ModelTrim": "SQ8",
-        "TowingCapacity": {
+    ],
+    "SQ8": [
+        {
             "Id": 498013,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,5 +172,5 @@
             "GearRatio": "",
             "TowCapacity": 7700
         }
-    }
-]
+    ]
+}

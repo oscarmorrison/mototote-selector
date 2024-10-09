@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2020,
-        "Make": "Honda",
-        "ModelTrim": "Odyssey",
-        "TowingCapacity": {
+{
+    "Odyssey": [
+        {
             "Id": 29681,
             "Year": 2020,
             "TypeDesc": "Minivan",
@@ -17,12 +14,9 @@
             "GearRatio": "3.61",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Honda",
-        "ModelTrim": "Passport",
-        "TowingCapacity": {
+    ],
+    "Passport": [
+        {
             "Id": 29081,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +29,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.33",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Honda",
-        "ModelTrim": "Passport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29082,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +44,9 @@
             "GearRatio": "4.33",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+    ],
+    "Pilot": [
+        {
             "Id": 29084,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.33",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Honda",
-        "ModelTrim": "Pilot",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29083,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": "4.25",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2020,
-        "Make": "Honda",
-        "ModelTrim": "Ridgeline",
-        "TowingCapacity": {
+    ],
+    "Ridgeline": [
+        {
             "Id": 29634,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -111,13 +89,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.33",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2020,
-        "Make": "Honda",
-        "ModelTrim": "Ridgeline",
-        "TowingCapacity": {
+        },
+        {
             "Id": 29633,
             "Year": 2020,
             "TypeDesc": "Truck",
@@ -131,5 +104,5 @@
             "GearRatio": "4.33",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

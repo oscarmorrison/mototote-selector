@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Pontiac",
-        "ModelTrim": "Aztek",
-        "TowingCapacity": {
+{
+    "Aztek": [
+        {
             "Id": 17869,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Pontiac",
-        "ModelTrim": "Aztek",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17870,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Pontiac",
-        "ModelTrim": "Montana",
-        "TowingCapacity": {
+    ],
+    "Montana": [
+        {
             "Id": 17959,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Pontiac",
-        "ModelTrim": "Montana",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17960,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Pontiac",
-        "ModelTrim": "Montana SV6",
-        "TowingCapacity": {
+    ],
+    "Montana SV6": [
+        {
             "Id": 17963,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Pontiac",
-        "ModelTrim": "Montana SV6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17964,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -112,5 +88,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

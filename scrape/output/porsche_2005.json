@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne S",
-        "TowingCapacity": {
+{
+    "Cayenne S": [
+        {
             "Id": 18042,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne S Turbo",
-        "TowingCapacity": {
+    ],
+    "Cayenne S Turbo": [
+        {
             "Id": 18043,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +30,5 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    }
-]
+    ]
+}

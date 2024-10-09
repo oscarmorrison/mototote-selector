@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2002,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+{
+    "Bravada": [
+        {
             "Id": 24005,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24006,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24007,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2002,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 24008,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2002,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Silhouette",
-        "TowingCapacity": {
+    ],
+    "Silhouette": [
+        {
             "Id": 24009,
             "Year": 2002,
             "TypeDesc": "Van",
@@ -93,5 +72,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

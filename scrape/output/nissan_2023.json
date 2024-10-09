@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 494430,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "2.94",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494429,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": "2.94",
             "TowCapacity": 8500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier PRO-4X Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier PRO-4X Crew Cab": [
+        {
             "Id": 494551,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -55,12 +44,9 @@
             "GearRatio": "",
             "TowCapacity": 6270
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier PRO-X Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier PRO-X Crew Cab": [
+        {
             "Id": 494550,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -74,12 +60,9 @@
             "GearRatio": "",
             "TowCapacity": 6470
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier S Crew Cab": [
+        {
             "Id": 494543,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -92,13 +75,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6370
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494542,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -112,12 +90,9 @@
             "GearRatio": "",
             "TowCapacity": 6570
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S King Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier S King Cab": [
+        {
             "Id": 494540,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -130,13 +105,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6720
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier S King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494541,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -150,12 +120,9 @@
             "GearRatio": "",
             "TowCapacity": 6510
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Long Bed",
-        "TowingCapacity": {
+    ],
+    "Frontier SV Crew Cab Long Bed": [
+        {
             "Id": 494549,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -168,13 +135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6260
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Long Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494548,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -188,12 +150,9 @@
             "GearRatio": "",
             "TowCapacity": 6460
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Short Bed",
-        "TowingCapacity": {
+    ],
+    "Frontier SV Crew Cab Short Bed": [
+        {
             "Id": 494546,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -206,13 +165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6530
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV Crew Cab Short Bed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494547,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -226,12 +180,9 @@
             "GearRatio": "",
             "TowCapacity": 6330
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV King Cab",
-        "TowingCapacity": {
+    ],
+    "Frontier SV King Cab": [
+        {
             "Id": 494545,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -244,13 +195,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6470
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier SV King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494544,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -264,12 +210,9 @@
             "GearRatio": "",
             "TowCapacity": 6670
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 494436,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -282,13 +225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494435,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +240,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 494432,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -320,13 +255,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494434,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -339,13 +269,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494431,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -358,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494433,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -378,12 +298,9 @@
             "GearRatio": "",
             "TowCapacity": 6000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Rogue",
-        "TowingCapacity": {
+    ],
+    "Rogue": [
+        {
             "Id": 494440,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 1500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "Rogue",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494439,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -416,12 +328,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN Crew Cab (4X2)",
-        "TowingCapacity": {
+    ],
+    "TITAN Crew Cab (4X2)": [
+        {
             "Id": 494556,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -435,12 +344,9 @@
             "GearRatio": "",
             "TowCapacity": 9317
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN Crew Cab (4X4)",
-        "TowingCapacity": {
+    ],
+    "TITAN Crew Cab (4X4)": [
+        {
             "Id": 494559,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -454,12 +360,9 @@
             "GearRatio": "",
             "TowCapacity": 9167
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN King Cab (4X2)",
-        "TowingCapacity": {
+    ],
+    "TITAN King Cab (4X2)": [
+        {
             "Id": 494554,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -473,12 +376,9 @@
             "GearRatio": "",
             "TowCapacity": 9323
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN King Cab (4X4)",
-        "TowingCapacity": {
+    ],
+    "TITAN King Cab (4X4)": [
+        {
             "Id": 494555,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -492,12 +392,9 @@
             "GearRatio": "",
             "TowCapacity": 9206
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN XD",
-        "TowingCapacity": {
+    ],
+    "TITAN XD": [
+        {
             "Id": 494560,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -510,13 +407,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 10898
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Nissan",
-        "ModelTrim": "TITAN XD",
-        "TowingCapacity": {
+        },
+        {
             "Id": 494561,
             "Year": 2023,
             "TypeDesc": "Truck",
@@ -530,5 +422,5 @@
             "GearRatio": "",
             "TowCapacity": 11033
         }
-    }
-]
+    ]
+}

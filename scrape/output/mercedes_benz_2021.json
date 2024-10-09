@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLC 43",
-        "TowingCapacity": {
+{
+    "AMG GLC 43": [
+        {
             "Id": 495358,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLC 63",
-        "TowingCapacity": {
+    ],
+    "AMG GLC 63": [
+        {
             "Id": 495359,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLE 53",
-        "TowingCapacity": {
+    ],
+    "AMG GLE 53": [
+        {
             "Id": 495713,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLE 63 S",
-        "TowingCapacity": {
+    ],
+    "AMG GLE 63 S": [
+        {
             "Id": 495714,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "AMG GLS 63",
-        "TowingCapacity": {
+    ],
+    "AMG GLS 63": [
+        {
             "Id": 495719,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +78,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G-Class AMG G 63",
-        "TowingCapacity": {
+    ],
+    "G-Class AMG G 63": [
+        {
             "Id": 495716,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +94,9 @@
             "GearRatio": "",
             "TowCapacity": 6503
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "G-Class G550",
-        "TowingCapacity": {
+    ],
+    "G-Class G550": [
+        {
             "Id": 495715,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +110,9 @@
             "GearRatio": "",
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC 300 Coupe",
-        "TowingCapacity": {
+    ],
+    "GLC 300 Coupe": [
+        {
             "Id": 495351,
             "Year": 2021,
             "TypeDesc": "Car",
@@ -150,12 +126,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC 300 SUV",
-        "TowingCapacity": {
+    ],
+    "GLC 300 SUV": [
+        {
             "Id": 495353,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLC 300 SUV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 495352,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +156,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 350",
-        "TowingCapacity": {
+    ],
+    "GLE 350": [
+        {
             "Id": 495692,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +172,9 @@
             "GearRatio": "",
             "TowCapacity": 5950
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 350 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 350 4MATIC": [
+        {
             "Id": 495710,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,12 +188,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 450 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 450 4MATIC": [
+        {
             "Id": 495711,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +204,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLE 580 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLE 580 4MATIC": [
+        {
             "Id": 495712,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,12 +220,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLS 450 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLS 450 4MATIC": [
+        {
             "Id": 495717,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -283,12 +236,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "GLS 580 4MATIC",
-        "TowingCapacity": {
+    ],
+    "GLS 580 4MATIC": [
+        {
             "Id": 495718,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
@@ -302,12 +252,9 @@
             "GearRatio": "",
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 1500 Cargo Van SRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 1500 Cargo Van SRW": [
+        {
             "Id": 498014,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -321,12 +268,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 1500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Sprinter 1500 Passenger Van": [
+        {
             "Id": 498008,
             "Year": 2021,
             "TypeDesc": "Passenger Van",
@@ -339,13 +283,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 1500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498009,
             "Year": 2021,
             "TypeDesc": "Passenger Van",
@@ -359,12 +298,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Cargo Van SRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Cargo Van SRW": [
+        {
             "Id": 498015,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -377,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Cargo Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498017,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -396,13 +327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Cargo Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498016,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -416,12 +342,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Crew Van SRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Crew Van SRW": [
+        {
             "Id": 498027,
             "Year": 2021,
             "TypeDesc": "Crew Van",
@@ -434,13 +357,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Crew Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498029,
             "Year": 2021,
             "TypeDesc": "Crew Van",
@@ -453,13 +371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Crew Van SRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498028,
             "Year": 2021,
             "TypeDesc": "Crew Van",
@@ -473,12 +386,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Passenger Van",
-        "TowingCapacity": {
+    ],
+    "Sprinter 2500 Passenger Van": [
+        {
             "Id": 498010,
             "Year": 2021,
             "TypeDesc": "Passenger Van",
@@ -491,13 +401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498012,
             "Year": 2021,
             "TypeDesc": "Passenger Van",
@@ -510,13 +415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 2500 Passenger Van",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498011,
             "Year": 2021,
             "TypeDesc": "Passenger Van",
@@ -530,12 +430,9 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500 Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500 Cargo Van DRW": [
+        {
             "Id": 498018,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -549,12 +446,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500 Crew Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500 Crew Van DRW": [
+        {
             "Id": 498030,
             "Year": 2021,
             "TypeDesc": "Crew Van",
@@ -568,12 +462,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500XD Cargo Van DRW": [
+        {
             "Id": 498024,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -586,13 +477,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Cargo Van DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498023,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -606,12 +492,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Crew Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500XD Crew Van DRW": [
+        {
             "Id": 498050,
             "Year": 2021,
             "TypeDesc": "Crew Van",
@@ -625,12 +508,9 @@
             "GearRatio": "",
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Extended Cargo Van DRW",
-        "TowingCapacity": {
+    ],
+    "Sprinter 3500XD Extended Cargo Van DRW": [
+        {
             "Id": 498026,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -643,13 +523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2021,
-        "Make": "Mercedes-Benz",
-        "ModelTrim": "Sprinter 3500XD Extended Cargo Van DRW",
-        "TowingCapacity": {
+        },
+        {
             "Id": 498025,
             "Year": 2021,
             "TypeDesc": "Cargo Van",
@@ -663,5 +538,5 @@
             "GearRatio": "",
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

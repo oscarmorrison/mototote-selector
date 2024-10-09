@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2004,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+{
+    "Bravada": [
+        {
             "Id": 19297,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19298,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19299,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19294,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19295,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2004,
-        "Make": "Oldsmobile",
-        "ModelTrim": "Bravada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 19296,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,5 +84,5 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 6300
         }
-    }
-]
+    ]
+}

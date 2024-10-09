@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Jimmy",
-        "TowingCapacity": {
+{
+    "Jimmy": [
+        {
             "Id": 26672,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Jimmy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26673,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Jimmy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26676,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Jimmy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26674,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Jimmy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26675,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Jimmy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26669,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +83,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Jimmy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26670,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +97,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Jimmy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26671,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +112,9 @@
             "GearRatio": "3.42:1",
             "TowCapacity": 4400
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Safari",
-        "TowingCapacity": {
+    ],
+    "Safari": [
+        {
             "Id": 26680,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Safari",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26681,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -187,13 +141,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Safari",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26677,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -206,13 +155,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.23:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Safari",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26678,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -225,13 +169,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Safari",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26679,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -245,12 +184,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500",
-        "TowingCapacity": {
+    ],
+    "Savana G1500": [
+        {
             "Id": 26682,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -263,13 +199,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26683,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -282,13 +213,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26684,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -301,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26685,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -320,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26686,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -340,12 +256,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 7300
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500",
-        "TowingCapacity": {
+    ],
+    "Savana G2500": [
+        {
             "Id": 26687,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -358,13 +271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4700
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26688,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -377,13 +285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26689,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -396,13 +299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26690,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -415,13 +313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26691,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -434,13 +327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26692,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -453,13 +341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26693,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -473,12 +356,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8900
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500",
-        "TowingCapacity": {
+    ],
+    "Savana G3500": [
+        {
             "Id": 26694,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -491,13 +371,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26695,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -510,13 +385,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26696,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -529,13 +399,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26700,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -548,13 +413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26701,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -567,13 +427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26697,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -586,13 +441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26698,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -605,13 +455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Savana G3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26699,
             "Year": 2000,
             "TypeDesc": "Van",
@@ -625,12 +470,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500": [
+        {
             "Id": 26707,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -643,13 +485,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26708,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -662,13 +499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26709,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -681,13 +513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26710,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -700,13 +527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26704,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -719,13 +541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26705,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -738,13 +555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26706,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -757,13 +569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26702,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -776,13 +583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 3900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26703,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -795,13 +597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26716,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -814,13 +611,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26718,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -833,13 +625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26715,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -852,13 +639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26717,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -871,13 +653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26712,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -890,13 +667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26714,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -909,13 +681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26711,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -928,13 +695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26713,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -947,13 +709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26721,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -966,13 +723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26722,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -985,13 +737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26719,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1004,13 +751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26720,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1024,12 +766,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500": [
+        {
             "Id": 26573,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1042,13 +781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26585,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1061,13 +795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26574,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1080,13 +809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26586,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1099,13 +823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26597,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1118,13 +837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26609,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1137,13 +851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26598,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1156,13 +865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26610,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1175,13 +879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26571,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1194,13 +893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26583,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1213,13 +907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26572,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1232,13 +921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26584,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1251,13 +935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26595,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1270,13 +949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26607,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1289,13 +963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26596,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1308,13 +977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26608,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1327,13 +991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26576,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1346,13 +1005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26588,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1365,13 +1019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26582,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1384,13 +1033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26594,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1403,13 +1047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26600,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1422,13 +1061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26612,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1441,13 +1075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26606,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1460,13 +1089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26618,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1479,13 +1103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26575,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1498,13 +1117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26587,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1517,13 +1131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26581,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1536,13 +1145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26593,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1555,13 +1159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26599,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1574,13 +1173,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26611,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1593,13 +1187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26605,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1612,13 +1201,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26617,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1631,13 +1215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26579,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1650,13 +1229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26591,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1669,13 +1243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26580,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1688,13 +1257,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26592,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1707,13 +1271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26603,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1726,13 +1285,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26615,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1745,13 +1299,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26604,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1764,13 +1313,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26616,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1783,13 +1327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26577,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1802,13 +1341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26589,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1821,13 +1355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26578,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1840,13 +1369,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26590,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1859,13 +1383,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26601,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1878,13 +1397,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26613,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1897,13 +1411,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26602,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1916,13 +1425,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26614,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1936,12 +1440,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 11900
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Heavy Duty": [
+        {
             "Id": 26725,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1954,13 +1455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26727,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1973,13 +1469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26726,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -1992,13 +1483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26728,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2011,13 +1497,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26723,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2030,13 +1511,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26724,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2050,12 +1526,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500 Light Duty": [
+        {
             "Id": 26729,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2068,13 +1541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26730,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2087,13 +1555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26731,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2106,13 +1569,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26732,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2125,13 +1583,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 9200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26733,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2144,13 +1597,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500 Light Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26734,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2164,12 +1612,9 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 11200
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500": [
+        {
             "Id": 26621,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2182,13 +1627,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26626,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2201,13 +1641,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26631,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2220,13 +1655,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26636,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2239,13 +1669,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26619,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2258,13 +1683,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26624,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2277,13 +1697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26620,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2296,13 +1711,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26625,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2315,13 +1725,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26629,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2334,13 +1739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26634,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2353,13 +1753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26630,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2372,13 +1767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26635,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2391,13 +1781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26623,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2410,13 +1795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26628,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2429,13 +1809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26633,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2448,13 +1823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26638,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2467,13 +1837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26639,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2486,13 +1851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26622,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2505,13 +1865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26627,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2524,13 +1879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26649,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2543,13 +1893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26632,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2562,13 +1907,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26637,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2581,13 +1921,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26642,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2600,13 +1935,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26647,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2619,13 +1949,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26648,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2638,13 +1963,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26643,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2657,13 +1977,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.63:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26644,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2676,13 +1991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.13:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26652,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2695,13 +2005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26657,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2714,13 +2019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26658,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2733,13 +2033,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 13500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26653,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2752,13 +2047,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.63:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26654,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2771,13 +2061,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.13:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26640,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2790,13 +2075,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26645,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2809,13 +2089,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26641,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2828,13 +2103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26646,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2847,13 +2117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 13800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26650,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2866,13 +2131,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26655,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2885,13 +2145,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26651,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2904,13 +2159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.56:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26656,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2924,12 +2174,9 @@
             "GearRatio": "4.56:1",
             "TowCapacity": 13800
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Heavy Duty": [
+        {
             "Id": 26659,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2942,13 +2189,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.63:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26660,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2961,13 +2203,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.63:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26662,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2980,13 +2217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.13:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26664,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -2999,13 +2231,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.63:1",
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26665,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3018,13 +2245,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.63:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26667,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3037,13 +2259,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.13:1",
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26661,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3056,13 +2273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.63:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26663,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3075,13 +2287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "5.13:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26666,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3094,13 +2301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.63:1",
             "TowCapacity": 13000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Heavy Duty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26668,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3114,12 +2316,9 @@
             "GearRatio": "5.13:1",
             "TowCapacity": 13000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+    ],
+    "Sonoma": [
+        {
             "Id": 26737,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3132,13 +2331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26735,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3151,13 +2345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26736,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3170,13 +2359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 2300
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26740,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3189,13 +2373,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26741,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3208,13 +2387,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26746,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3227,13 +2401,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 5900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26743,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3246,13 +2415,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 3900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26744,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3265,13 +2429,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26745,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3284,13 +2443,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 4900
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26738,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3303,13 +2457,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.08:1",
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26739,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3322,13 +2471,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Sonoma",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26742,
             "Year": 2000,
             "TypeDesc": "Truck",
@@ -3342,12 +2486,9 @@
             "GearRatio": "3.08:1",
             "TowCapacity": 4200
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+    ],
+    "Yukon 1500": [
+        {
             "Id": 26749,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3360,13 +2501,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26750,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3379,13 +2515,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26747,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3398,13 +2529,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26748,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3417,13 +2543,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26753,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3436,13 +2557,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26754,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3455,13 +2571,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26751,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3474,13 +2585,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26752,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3494,12 +2600,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali",
-        "TowingCapacity": {
+    ],
+    "Yukon Denali": [
+        {
             "Id": 26755,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3513,12 +2616,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+    ],
+    "Yukon XL 1500": [
+        {
             "Id": 26759,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3531,13 +2631,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 7800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26758,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3550,13 +2645,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 9000
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26756,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3569,13 +2659,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.73:1",
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26757,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3589,12 +2674,9 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+    ],
+    "Yukon XL 2500": [
+        {
             "Id": 26763,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3607,13 +2689,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26764,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3626,13 +2703,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 10100
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26761,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3645,13 +2717,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.42:1",
             "TowCapacity": 8500
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26760,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3664,13 +2731,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "4.10:1",
             "TowCapacity": 8800
-        }
-    },
-    {
-        "Year": 2000,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 26762,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
@@ -3684,5 +2746,5 @@
             "GearRatio": "4.10:1",
             "TowCapacity": 10500
         }
-    }
-]
+    ]
+}

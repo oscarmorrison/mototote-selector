@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2015,
-        "Make": "Lexus",
-        "ModelTrim": "GX 470",
-        "TowingCapacity": {
+{
+    "GX 470": [
+        {
             "Id": 3335,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Lexus",
-        "ModelTrim": "LX 570",
-        "TowingCapacity": {
+    ],
+    "LX 570": [
+        {
             "Id": 3336,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Lexus",
-        "ModelTrim": "NX 200t",
-        "TowingCapacity": {
+    ],
+    "NX 200t": [
+        {
             "Id": 3337,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Lexus",
-        "ModelTrim": "RX 350",
-        "TowingCapacity": {
+    ],
+    "RX 350": [
+        {
             "Id": 3338,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +62,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2015,
-        "Make": "Lexus",
-        "ModelTrim": "RX 450h Hybrid",
-        "TowingCapacity": {
+    ],
+    "RX 450h Hybrid": [
+        {
             "Id": 3339,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +78,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

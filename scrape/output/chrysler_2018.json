@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2018,
-        "Make": "Chrysler",
-        "ModelTrim": "Chrysler Pacifica",
-        "TowingCapacity": {
+{
+    "Chrysler Pacifica": [
+        {
             "Id": 16076,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": "",
             "TowCapacity": 3600
         }
-    }
-]
+    ]
+}

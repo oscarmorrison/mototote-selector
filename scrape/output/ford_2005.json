@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-150 CV",
-        "TowingCapacity": {
+{
+    "E-150 CV": [
+        {
             "Id": 17711,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-150 CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17712,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-150 CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17713,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-150 CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17714,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-150 PV",
-        "TowingCapacity": {
+    ],
+    "E-150 PV": [
+        {
             "Id": 17707,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-150 PV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17708,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-150 PV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17709,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-150 PV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17710,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -150,12 +114,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-250 CV",
-        "TowingCapacity": {
+    ],
+    "E-250 CV": [
+        {
             "Id": 17715,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-250 CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17716,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -187,13 +143,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-250 CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17717,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-250 CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17718,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -226,12 +172,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-350 CV",
-        "TowingCapacity": {
+    ],
+    "E-350 CV": [
+        {
             "Id": 17719,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -244,13 +187,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-350 CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17720,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -264,12 +202,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-350 PV",
-        "TowingCapacity": {
+    ],
+    "E-350 PV": [
+        {
             "Id": 17721,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -282,13 +217,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-350 PV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17722,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -302,12 +232,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-350 PV/CV",
-        "TowingCapacity": {
+    ],
+    "E-350 PV/CV": [
+        {
             "Id": 17725,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -320,13 +247,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-350 PV/CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17726,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -339,13 +261,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-350 PV/CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17723,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -358,13 +275,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "E-350 PV/CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17724,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -378,12 +290,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Escape",
-        "TowingCapacity": {
+    ],
+    "Escape": [
+        {
             "Id": 17687,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -396,13 +305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Escape",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17688,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -416,12 +320,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+    ],
+    "Excursion": [
+        {
             "Id": 17689,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -434,13 +335,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17690,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -453,13 +349,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17691,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -472,13 +363,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17692,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -491,13 +377,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17693,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -510,13 +391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Excursion",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17694,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -530,12 +406,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+    ],
+    "Expedition": [
+        {
             "Id": 17695,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -548,13 +421,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Expedition",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17696,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -568,12 +436,9 @@
             "GearRatio": null,
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+    ],
+    "Explorer": [
+        {
             "Id": 17697,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -586,13 +451,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5760
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17698,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -605,13 +465,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5380
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17699,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -624,13 +479,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7140
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Explorer",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17700,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -644,12 +494,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Explorer Sport Trac",
-        "TowingCapacity": {
+    ],
+    "Explorer Sport Trac": [
+        {
             "Id": 17601,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -662,13 +509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Explorer Sport Trac",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17602,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -682,12 +524,9 @@
             "GearRatio": null,
             "TowCapacity": 5080
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab",
-        "TowingCapacity": {
+    ],
+    "F-150 Regular Cab": [
+        {
             "Id": 17603,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -700,13 +539,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17604,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -719,13 +553,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17605,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -738,13 +567,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17606,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -757,13 +581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17607,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -776,13 +595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17608,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -796,12 +610,9 @@
             "GearRatio": null,
             "TowCapacity": 9500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+    ],
+    "F-150 SuperCab": [
+        {
             "Id": 17609,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -814,13 +625,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17613,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -833,13 +639,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17610,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -852,13 +653,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17614,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -871,13 +667,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17611,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -890,13 +681,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17615,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -909,13 +695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17612,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -928,13 +709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-150 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17616,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -948,12 +724,9 @@
             "GearRatio": null,
             "TowCapacity": 9200
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250/350 Crew Cab Single Rear Wheel": [
+        {
             "Id": 17657,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -966,13 +739,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17658,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -985,13 +753,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17663,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1004,13 +767,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17664,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1023,13 +781,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17665,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1042,13 +795,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17666,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1061,13 +809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17659,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1080,13 +823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17660,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1099,13 +837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17661,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1118,13 +851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17662,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1138,12 +866,9 @@
             "GearRatio": null,
             "TowCapacity": 15900
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250/350 Regular Cab Single Rear Wheel": [
+        {
             "Id": 17617,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1156,13 +881,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17618,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1175,13 +895,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17623,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1194,13 +909,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17624,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1213,13 +923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17625,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1232,13 +937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17626,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1251,13 +951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17619,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1270,13 +965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17620,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1289,13 +979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 17000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17621,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1308,13 +993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17622,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1328,12 +1008,9 @@
             "GearRatio": null,
             "TowCapacity": 16500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-250/350 SuperCab Single Rear Wheel": [
+        {
             "Id": 17637,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1346,13 +1023,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17638,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1365,13 +1037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17643,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1384,13 +1051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17644,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1403,13 +1065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17645,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1422,13 +1079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17646,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1441,13 +1093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17639,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1460,13 +1107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17640,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1479,13 +1121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17641,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1498,13 +1135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-250/350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17642,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1518,12 +1150,9 @@
             "GearRatio": null,
             "TowCapacity": 16200
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Dual Rear Wheel": [
+        {
             "Id": 17549,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1536,13 +1165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17550,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1555,13 +1179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17671,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1574,13 +1193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17672,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1593,13 +1207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17551,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1612,13 +1221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17552,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1631,13 +1235,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17673,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1650,13 +1249,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17674,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1669,13 +1263,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17545,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1688,13 +1277,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17546,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1707,13 +1291,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17667,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1726,13 +1305,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17668,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1745,13 +1319,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17547,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1764,13 +1333,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17548,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1783,13 +1347,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17669,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1802,13 +1361,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17670,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1822,12 +1376,9 @@
             "GearRatio": null,
             "TowCapacity": 15600
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Crew Cab Single Rear Wheel": [
+        {
             "Id": 17535,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1840,13 +1391,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17536,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1859,13 +1405,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17541,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1878,13 +1419,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17542,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1897,13 +1433,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17543,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1916,13 +1447,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17544,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1935,13 +1461,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 14900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17537,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1954,13 +1475,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17538,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1973,13 +1489,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 13900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17539,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1992,13 +1503,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Crew Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17540,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2012,12 +1518,9 @@
             "GearRatio": null,
             "TowCapacity": 13400
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Regular Cab Dual Rear Wheel": [
+        {
             "Id": 17507,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2030,13 +1533,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17627,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2049,13 +1547,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17508,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2068,13 +1561,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17628,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2087,13 +1575,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17513,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2106,13 +1589,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17514,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2125,13 +1603,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17633,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2144,13 +1617,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17634,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2163,13 +1631,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 19200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17515,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2182,13 +1645,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17516,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2201,13 +1659,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17635,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2220,13 +1673,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17636,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2239,13 +1687,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17509,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2258,13 +1701,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17510,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2277,13 +1715,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17629,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2296,13 +1729,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17630,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2315,13 +1743,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17511,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2334,13 +1757,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17512,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2353,13 +1771,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17631,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2372,13 +1785,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17632,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2392,12 +1800,9 @@
             "GearRatio": null,
             "TowCapacity": 16200
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 Regular Cab Single Rear Wheel": [
+        {
             "Id": 17497,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2410,13 +1815,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17498,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2429,13 +1829,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17503,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2448,13 +1843,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17504,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2467,13 +1857,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17505,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2486,13 +1871,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17506,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2505,13 +1885,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17499,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2524,13 +1899,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17500,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2543,13 +1913,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 14500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17501,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2562,13 +1927,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 Regular Cab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17502,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2582,12 +1942,9 @@
             "GearRatio": null,
             "TowCapacity": 14000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 SuperCab Dual Rear Wheel": [
+        {
             "Id": 17647,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2600,13 +1957,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17648,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2619,13 +1971,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17531,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2638,13 +1985,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17532,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2657,13 +1999,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17653,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2676,13 +2013,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17654,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2695,13 +2027,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17533,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2714,13 +2041,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17534,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2733,13 +2055,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17655,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2752,13 +2069,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17656,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2771,13 +2083,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17527,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2790,13 +2097,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17528,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2809,13 +2111,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17649,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2828,13 +2125,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17650,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2847,13 +2139,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17529,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2866,13 +2153,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17530,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2885,13 +2167,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17651,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2904,13 +2181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Dual Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17652,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2924,12 +2196,9 @@
             "GearRatio": null,
             "TowCapacity": 15900
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+    ],
+    "F-350 SuperCab Single Rear Wheel": [
+        {
             "Id": 17517,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2942,13 +2211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 11100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17518,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2961,13 +2225,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17523,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2980,13 +2239,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17524,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -2999,13 +2253,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17525,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3018,13 +2267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17526,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3037,13 +2281,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 15100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17519,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3056,13 +2295,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17520,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3075,13 +2309,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 14100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17521,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3094,13 +2323,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-350 SuperCab Single Rear Wheel",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17522,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3114,12 +2338,9 @@
             "GearRatio": null,
             "TowCapacity": 13600
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "F-450 Crew Cab": [
+        {
             "Id": 17573,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3132,13 +2353,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17574,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3151,13 +2367,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 21300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17575,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3170,13 +2381,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17576,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3189,13 +2395,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 21000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17569,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3208,13 +2409,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17570,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3227,13 +2423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 17800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17571,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3246,13 +2437,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17572,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3266,12 +2452,9 @@
             "GearRatio": null,
             "TowCapacity": 17500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Regular Cab",
-        "TowingCapacity": {
+    ],
+    "F-450 Regular Cab": [
+        {
             "Id": 17557,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3284,13 +2467,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17558,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3303,13 +2481,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 21900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17559,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3322,13 +2495,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17560,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3341,13 +2509,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 21600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17553,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3360,13 +2523,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17554,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3379,13 +2537,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17555,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3398,13 +2551,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17556,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3418,12 +2566,9 @@
             "GearRatio": null,
             "TowCapacity": 18100
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 SuperCab",
-        "TowingCapacity": {
+    ],
+    "F-450 SuperCab": [
+        {
             "Id": 17565,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3436,13 +2581,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17566,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3455,13 +2595,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 21500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17567,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3474,13 +2609,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17568,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3493,13 +2623,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 21200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17561,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3512,13 +2637,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17562,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3531,13 +2651,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17563,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3550,13 +2665,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-450 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17564,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3570,12 +2680,9 @@
             "GearRatio": null,
             "TowCapacity": 17700
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "F-550 Crew Cab": [
+        {
             "Id": 17597,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3588,13 +2695,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17598,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3607,13 +2709,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 24300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17599,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3626,13 +2723,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17600,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3645,13 +2737,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 23900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17593,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3664,13 +2751,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17594,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3683,13 +2765,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 17800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17595,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3702,13 +2779,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17596,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3722,12 +2794,9 @@
             "GearRatio": null,
             "TowCapacity": 17500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Regular Cab",
-        "TowingCapacity": {
+    ],
+    "F-550 Regular Cab": [
+        {
             "Id": 17581,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3740,13 +2809,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17582,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3759,13 +2823,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 24800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17583,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3778,13 +2837,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17584,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3797,13 +2851,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 24500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17577,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3816,13 +2865,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17578,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3835,13 +2879,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17579,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3854,13 +2893,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17580,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3874,12 +2908,9 @@
             "GearRatio": null,
             "TowCapacity": 18100
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 SuperCab",
-        "TowingCapacity": {
+    ],
+    "F-550 SuperCab": [
+        {
             "Id": 17589,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3892,13 +2923,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17590,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3911,13 +2937,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 24500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17591,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3930,13 +2951,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17592,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3949,13 +2965,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 24200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17585,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3968,13 +2979,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17586,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -3987,13 +2993,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 18000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17587,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4006,13 +3007,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "F-550 SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17588,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4026,12 +3022,9 @@
             "GearRatio": null,
             "TowCapacity": 17700
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+    ],
+    "Ranger": [
+        {
             "Id": 17675,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4044,13 +3037,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2260
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17676,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4063,13 +3051,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17677,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4082,13 +3065,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2640
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17678,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4101,13 +3079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2340
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17679,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4120,13 +3093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5980
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17680,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4140,12 +3108,9 @@
             "GearRatio": null,
             "TowCapacity": 5660
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+    ],
+    "Ranger SuperCab": [
+        {
             "Id": 17681,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4158,13 +3123,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2460
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17682,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4177,13 +3137,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17683,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4196,13 +3151,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5860
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Ford",
-        "ModelTrim": "Ranger SuperCab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17684,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -4216,5 +3166,5 @@
             "GearRatio": null,
             "TowCapacity": 5580
         }
-    }
-]
+    ]
+}

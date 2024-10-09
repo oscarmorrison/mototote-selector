@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+{
+    "Armada": [
+        {
             "Id": 10907,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9100
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Armada",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10908,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 9000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab SE,LE, Nismo",
-        "TowingCapacity": {
+    ],
+    "Frontier Crew Cab SE,LE, Nismo": [
+        {
             "Id": 10912,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier Crew Cab SE,LE, Nismo",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10913,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -74,12 +58,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab SE,LE, Nismo",
-        "TowingCapacity": {
+    ],
+    "Frontier King Cab SE,LE, Nismo": [
+        {
             "Id": 10910,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -92,13 +73,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab SE,LE, Nismo",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10911,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 6300
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Frontier King Cab XE",
-        "TowingCapacity": {
+    ],
+    "Frontier King Cab XE": [
+        {
             "Id": 10909,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Murano",
-        "TowingCapacity": {
+    ],
+    "Murano": [
+        {
             "Id": 10914,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +120,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+    ],
+    "Pathfinder": [
+        {
             "Id": 10915,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Pathfinder",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10916,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +150,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Quest",
-        "TowingCapacity": {
+    ],
+    "Quest": [
+        {
             "Id": 10917,
             "Year": 2009,
             "TypeDesc": "Van",
@@ -207,12 +166,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab": [
+        {
             "Id": 10920,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -225,13 +181,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10921,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -245,12 +196,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab Longbed",
-        "TowingCapacity": {
+    ],
+    "Titan Crew Cab Longbed": [
+        {
             "Id": 10922,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -263,13 +211,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9300
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Titan Crew Cab Longbed",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10923,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -283,12 +226,9 @@
             "GearRatio": null,
             "TowCapacity": 9100
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+    ],
+    "Titan King Cab": [
+        {
             "Id": 10918,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -301,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9500
-        }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Titan King Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 10919,
             "Year": 2009,
             "TypeDesc": "Truck",
@@ -321,12 +256,9 @@
             "GearRatio": null,
             "TowCapacity": 9400
         }
-    },
-    {
-        "Year": 2009,
-        "Make": "Nissan",
-        "ModelTrim": "Xterra",
-        "TowingCapacity": {
+    ],
+    "Xterra": [
+        {
             "Id": 10924,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
@@ -340,5 +272,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

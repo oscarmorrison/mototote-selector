@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2024,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Eclipse Cross (AWD)",
-        "TowingCapacity": {
+{
+    "Eclipse Cross (AWD)": [
+        {
             "Id": 550021,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Eclipse Cross (FWD)",
-        "TowingCapacity": {
+    ],
+    "Eclipse Cross (FWD)": [
+        {
             "Id": 550020,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "",
             "TowCapacity": 1500
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander (AWD)",
-        "TowingCapacity": {
+    ],
+    "Outlander (AWD)": [
+        {
             "Id": 550023,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2024,
-        "Make": "Mitsubishi",
-        "ModelTrim": "Outlander (FWD)",
-        "TowingCapacity": {
+    ],
+    "Outlander (FWD)": [
+        {
             "Id": 550022,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 14149,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14150,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14151,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14152,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "FJ Cruiser",
-        "TowingCapacity": {
+    ],
+    "FJ Cruiser": [
+        {
             "Id": 14153,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 14154,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14155,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +101,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14156,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +115,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14157,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +130,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 14158,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +146,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "RAV4",
-        "TowingCapacity": {
+    ],
+    "RAV4": [
+        {
             "Id": 14159,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +162,9 @@
             "GearRatio": null,
             "TowCapacity": 3400
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia",
-        "TowingCapacity": {
+    ],
+    "Sequoia": [
+        {
             "Id": 14160,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +177,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14161,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
@@ -245,12 +192,9 @@
             "GearRatio": null,
             "TowCapacity": 6200
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 14162,
             "Year": 2007,
             "TypeDesc": "Van",
@@ -264,12 +208,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab": [
+        {
             "Id": 14163,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -282,13 +223,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14164,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -301,13 +237,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14165,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -321,12 +252,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab": [
+        {
             "Id": 14166,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -339,13 +267,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14167,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -359,12 +282,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Regular Cab": [
+        {
             "Id": 14168,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -377,13 +297,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14169,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -397,12 +312,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab": [
+        {
             "Id": 14170,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -415,13 +327,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14173,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -434,13 +341,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14171,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -453,13 +355,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14174,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -472,13 +369,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14172,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -491,13 +383,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14175,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -511,12 +398,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Huge Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Huge Cab": [
+        {
             "Id": 14176,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -529,13 +413,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Huge Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14179,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -548,13 +427,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Huge Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14177,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -567,13 +441,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Huge Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14180,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -586,13 +455,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Huge Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14178,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -605,13 +469,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Huge Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14181,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -625,12 +484,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab": [
+        {
             "Id": 14182,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -643,13 +499,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14185,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -662,13 +513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14183,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -681,13 +527,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14186,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -700,13 +541,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14184,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -719,13 +555,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2007,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 14187,
             "Year": 2007,
             "TypeDesc": "Truck",
@@ -739,5 +570,5 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    }
-]
+    ]
+}

@@ -6,9 +6,10 @@ const Widget = () => {
     const [chosenMake, setChosenMake] = useState('');
     const [chosenYear, setChosenYear] = useState('');
     const [chosenModel, setChosenModel] = useState('');
+    const [chosenTrim, setChosenTrim] = useState(null);
 
     // Data driven
-    const [models, setModels] = useState([]);
+    const [models, setModels] = useState(null);
     const [makes, setMakes] = useState([]);
 
     const loadMakesData = () => {
@@ -46,6 +47,7 @@ const Widget = () => {
 
     const handleYearChange = async (e) => {
         const selectedYear = e.target.value;
+        setChosenModel('');
         setChosenYear(selectedYear);
     
         if (selectedYear) {
@@ -58,7 +60,7 @@ const Widget = () => {
                 setModels(models);
             } catch (error) {
                 console.error('Error fetching models:', error);
-                setModels([]); // Reset models on error
+                setModels(null); // Reset models on error
             }
         }
     };
@@ -68,7 +70,7 @@ const Widget = () => {
         setChosenModel(selectedModel);
     };
 
-    console.log("models", models);
+    console.log('chosenModel: ', chosenModel);
 
     return (
         <Fragment>
@@ -81,8 +83,8 @@ const Widget = () => {
                 <div>
                     <MakeSelector chosenMake={chosenMake} makes={makes} handleMakeChange={handleMakeChange} />
                     {!!chosenMake && <YearSelector chosenYear={chosenYear} years={chosenMake.years} handleYearChange={handleYearChange} />}
-                    {!!(models && models.length) && <ModelSelector chosenModel={chosenModel} models={models} handleModelChange={handleModelChange} />}
-
+                    {!!models && <ModelSelector chosenModel={chosenModel} models={models} handleModelChange={handleModelChange} />}
+                    {!!chosenModel && <TrimSelector trimOptions={models[chosenModel]} />}
                 </div>
             </form>
         </Fragment>
@@ -134,14 +136,40 @@ const ModelSelector = (props) => {
             <label htmlFor='model'>Model</label>
             <select id='model' value={props.chosenModel} onChange={props.handleModelChange} required>
                 <option value='' disabled>Select the model</option>
-                {models.sort().map(model => (
-                    <option key={model.ModelTrim} value={model.modelTrim}>
-                        {model.ModelTrim}
+                {Object.keys(models).sort().map(model => (
+                    <option key={model} value={model}>
+                        {model}
                     </option>
                 ))}
             </select>
         </Fragment>
     );
 };
+
+const TrimSelector = (props) => {
+    const { trimOptions } = props;
+    return (
+        <Fragment>
+            {trimOptions.map(trim => (<Trim trim={trim} />))}
+        </Fragment>
+    );
+};
+
+
+const Trim = ({trim}) => (
+    <Fragment>
+    <div>
+        <h3>{trim.MfgDesc} {trim.MakeTrim} ({trim.Year})</h3>
+        <ul>
+            <li><strong>Drive Type:</strong> {trim.DriveTypeDesc}</li>
+            <li><strong>Engine:</strong> {trim.Engine}</li>
+            <li><strong>Transmission:</strong> {trim.Trans}</li>
+            <li><strong>Type:</strong> {trim.TypeDesc}</li>
+            <li><strong>Towing Capacity:</strong> {trim.TowCapacity} lbs</li>
+            <li><strong>Towing Description:</strong> {trim.TowDesc}</li>
+        </ul>
+        </div>
+    </Fragment>
+);
 
 export default Widget;

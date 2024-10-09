@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2022,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5",
-        "TowingCapacity": {
+{
+    "CX-5": [
+        {
             "Id": 498210,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": "4.62",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Mazda",
-        "ModelTrim": "CX-5 (Turbo)",
-        "TowingCapacity": {
+    ],
+    "CX-5 (Turbo)": [
+        {
             "Id": 498213,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": "4.41",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Mazda",
-        "ModelTrim": "CX-9  (AWD)",
-        "TowingCapacity": {
+    ],
+    "CX-9  (AWD)": [
+        {
             "Id": 498216,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +46,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2022,
-        "Make": "Mazda",
-        "ModelTrim": "CX-9 (FWD)",
-        "TowingCapacity": {
+    ],
+    "CX-9 (FWD)": [
+        {
             "Id": 498215,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +62,5 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

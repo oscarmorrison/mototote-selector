@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+{
+    "Sorento": [
+        {
             "Id": 524033,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 524025,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 524034,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sorento",
-        "TowingCapacity": {
+        },
+        {
             "Id": 524026,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": "",
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sorento HEV",
-        "TowingCapacity": {
+    ],
+    "Sorento HEV": [
+        {
             "Id": 524057,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sorento PHEV",
-        "TowingCapacity": {
+    ],
+    "Sorento PHEV": [
+        {
             "Id": 524058,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+    ],
+    "Sportage": [
+        {
             "Id": 524061,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +103,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sportage",
-        "TowingCapacity": {
+        },
+        {
             "Id": 524035,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +118,9 @@
             "GearRatio": "",
             "TowCapacity": 2500
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sportage HEV",
-        "TowingCapacity": {
+    ],
+    "Sportage HEV": [
+        {
             "Id": 524062,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +134,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Sportage PHEV",
-        "TowingCapacity": {
+    ],
+    "Sportage PHEV": [
+        {
             "Id": 524063,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +150,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+    ],
+    "Telluride": [
+        {
             "Id": 524079,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -206,13 +165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+        },
+        {
             "Id": 524080,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -225,13 +179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5500
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+        },
+        {
             "Id": 524081,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -244,13 +193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2023,
-        "Make": "Kia",
-        "ModelTrim": "Telluride",
-        "TowingCapacity": {
+        },
+        {
             "Id": 524082,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
@@ -264,5 +208,5 @@
             "GearRatio": "",
             "TowCapacity": 5500
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+{
+    "Durango": [
+        {
             "Id": 6176,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6174,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6200
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6177,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Dodge",
-        "ModelTrim": "Durango",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6175,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7400
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Dodge",
-        "ModelTrim": "Grand Caravan",
-        "TowingCapacity": {
+    ],
+    "Grand Caravan": [
+        {
             "Id": 6170,
             "Year": 2012,
             "TypeDesc": "Passenger Van",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Dodge",
-        "ModelTrim": "Journey",
-        "TowingCapacity": {
+    ],
+    "Journey": [
+        {
             "Id": 6172,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +87,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2500
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Dodge",
-        "ModelTrim": "Journey",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6171,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,5 +102,5 @@
             "GearRatio": null,
             "TowCapacity": 2500
         }
-    }
-]
+    ]
+}

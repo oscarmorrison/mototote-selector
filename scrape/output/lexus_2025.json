@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2025,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+{
+    "NX": [
+        {
             "Id": 551037,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551036,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Lexus",
-        "ModelTrim": "NX",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551035,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -55,12 +42,9 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2025,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+    ],
+    "NX Hybrid": [
+        {
             "Id": 551038,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2025,
-        "Make": "Lexus",
-        "ModelTrim": "NX Hybrid",
-        "TowingCapacity": {
+        },
+        {
             "Id": 551039,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,5 +72,5 @@
             "GearRatio": "",
             "TowCapacity": 2000
         }
-    }
-]
+    ]
+}

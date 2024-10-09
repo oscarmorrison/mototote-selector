@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "2500HD/3500",
-        "TowingCapacity": {
+{
+    "2500HD/3500": [
+        {
             "Id": 17727,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "2500HD/3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17728,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "2500HD/3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17729,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "2500HD/3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17730,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -73,13 +55,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "2500HD/3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17731,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -92,13 +69,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "2500HD/3500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17732,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -112,12 +84,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "C4500",
-        "TowingCapacity": {
+    ],
+    "C4500": [
+        {
             "Id": 17733,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "C4500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17734,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -149,13 +113,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "C4500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17735,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -168,13 +127,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "C4500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17736,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -188,12 +142,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "C5500",
-        "TowingCapacity": {
+    ],
+    "C5500": [
+        {
             "Id": 17737,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -206,13 +157,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "C5500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17738,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -225,13 +171,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "C5500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17739,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -244,13 +185,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "C5500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17740,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -264,12 +200,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Canyon Crew Cab": [
+        {
             "Id": 17755,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -282,13 +215,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17756,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -301,13 +229,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17757,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -320,13 +243,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17758,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -340,12 +258,9 @@
             "GearRatio": null,
             "TowCapacity": 4000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Canyon Extended Cab": [
+        {
             "Id": 17751,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -358,13 +273,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17752,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -377,13 +287,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2900
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17753,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -396,13 +301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17754,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -416,12 +316,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Canyon Regular Cab": [
+        {
             "Id": 17747,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -434,13 +331,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17748,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -453,13 +345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17749,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -472,13 +359,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Canyon Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17750,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -492,12 +374,9 @@
             "GearRatio": null,
             "TowCapacity": 0
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Denali",
-        "TowingCapacity": {
+    ],
+    "Denali": [
+        {
             "Id": 17759,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -510,13 +389,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Denali",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17821,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -529,13 +403,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 0
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Denali",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17760,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -548,13 +417,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Denali",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17822,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -568,12 +432,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+    ],
+    "Envoy": [
+        {
             "Id": 17885,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -586,13 +447,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17886,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -605,13 +461,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17889,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -624,13 +475,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17890,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -644,12 +490,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy Denali",
-        "TowingCapacity": {
+    ],
+    "Envoy Denali": [
+        {
             "Id": 17883,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -662,13 +505,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy Denali",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17884,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -682,12 +520,9 @@
             "GearRatio": null,
             "TowCapacity": 6700
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy XL",
-        "TowingCapacity": {
+    ],
+    "Envoy XL": [
+        {
             "Id": 17875,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -700,13 +535,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17876,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -719,13 +549,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17881,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -738,13 +563,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17882,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -758,12 +578,9 @@
             "GearRatio": null,
             "TowCapacity": 6700
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy XUV",
-        "TowingCapacity": {
+    ],
+    "Envoy XUV": [
+        {
             "Id": 17873,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -776,13 +593,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy XUV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17874,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -795,13 +607,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy XUV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17879,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -814,13 +621,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Envoy XUV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17880,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -834,12 +636,9 @@
             "GearRatio": null,
             "TowCapacity": 6400
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "G1500 CV",
-        "TowingCapacity": {
+    ],
+    "G1500 CV": [
+        {
             "Id": 17946,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -852,13 +651,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "G1500 CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17948,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -872,12 +666,9 @@
             "GearRatio": null,
             "TowCapacity": 6100
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "G2500 CV",
-        "TowingCapacity": {
+    ],
+    "G2500 CV": [
+        {
             "Id": 17952,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -891,12 +682,9 @@
             "GearRatio": null,
             "TowCapacity": 8600
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "G2500 PV",
-        "TowingCapacity": {
+    ],
+    "G2500 PV": [
+        {
             "Id": 17950,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -909,13 +697,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "G2500 PV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17954,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -929,12 +712,9 @@
             "GearRatio": null,
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "G3500 CV",
-        "TowingCapacity": {
+    ],
+    "G3500 CV": [
+        {
             "Id": 17956,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -948,12 +728,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "G3500 PV",
-        "TowingCapacity": {
+    ],
+    "G3500 PV": [
+        {
             "Id": 17958,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -967,12 +744,9 @@
             "GearRatio": null,
             "TowCapacity": 10000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Safari CV",
-        "TowingCapacity": {
+    ],
+    "Safari CV": [
+        {
             "Id": 17941,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -985,13 +759,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Safari CV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17942,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -1005,12 +774,9 @@
             "GearRatio": null,
             "TowCapacity": 5500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Safari PV",
-        "TowingCapacity": {
+    ],
+    "Safari PV": [
+        {
             "Id": 17943,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -1023,13 +789,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Safari PV",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17944,
             "Year": 2005,
             "TypeDesc": "Van",
@@ -1043,12 +804,9 @@
             "GearRatio": null,
             "TowCapacity": 5100
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Crew Cab": [
+        {
             "Id": 17791,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1061,13 +819,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17792,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1081,12 +834,9 @@
             "GearRatio": null,
             "TowCapacity": 7500
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Extended Cab": [
+        {
             "Id": 17781,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1099,13 +849,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17782,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1118,13 +863,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17783,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1137,13 +877,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17784,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1156,13 +891,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17787,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1175,13 +905,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17788,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1194,13 +919,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7500
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17789,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1213,13 +933,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17790,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1232,13 +947,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17785,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1251,13 +961,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17786,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1271,12 +976,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500 Regular Cab": [
+        {
             "Id": 17777,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1289,13 +991,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17778,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1308,13 +1005,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5100
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17779,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1327,13 +1019,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500 Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17780,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1347,12 +1034,9 @@
             "GearRatio": null,
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500HD Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 1500HD Crew Cab": [
+        {
             "Id": 17793,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1365,13 +1049,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 1500HD Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17794,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1385,12 +1064,9 @@
             "GearRatio": null,
             "TowCapacity": 10200
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500HD Crew Cab": [
+        {
             "Id": 17801,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1403,13 +1079,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17802,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1422,13 +1093,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17805,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1441,13 +1107,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17806,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1460,13 +1121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17803,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1479,13 +1135,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17804,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1499,12 +1150,9 @@
             "GearRatio": null,
             "TowCapacity": 12000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 2500HD Extended Cab": [
+        {
             "Id": 17795,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1517,13 +1165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17796,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1536,13 +1179,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17799,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1555,13 +1193,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17800,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1574,13 +1207,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17797,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1593,13 +1221,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 2500HD Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17798,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1613,12 +1236,9 @@
             "GearRatio": null,
             "TowCapacity": 16200
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Crew Cab": [
+        {
             "Id": 17813,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1631,13 +1251,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17814,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1650,13 +1265,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9600
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17817,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1669,13 +1279,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17818,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1688,13 +1293,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17815,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1707,13 +1307,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Crew Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17816,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1727,12 +1322,9 @@
             "GearRatio": null,
             "TowCapacity": 12000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Extended Cab",
-        "TowingCapacity": {
+    ],
+    "Sierra 3500 Extended Cab": [
+        {
             "Id": 17807,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1745,13 +1337,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9800
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17808,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1764,13 +1351,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 10000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17811,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1783,13 +1365,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17812,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1802,13 +1379,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 16700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17809,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1821,13 +1393,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Sierra 3500 Extended Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17810,
             "Year": 2005,
             "TypeDesc": "Truck",
@@ -1841,12 +1408,9 @@
             "GearRatio": null,
             "TowCapacity": 15600
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+    ],
+    "Yukon": [
+        {
             "Id": 17931,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1859,13 +1423,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17932,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1879,12 +1438,9 @@
             "GearRatio": null,
             "TowCapacity": 7800
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali",
-        "TowingCapacity": {
+    ],
+    "Yukon Denali": [
+        {
             "Id": 17933,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1897,13 +1453,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8200
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17934,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1917,12 +1468,9 @@
             "GearRatio": null,
             "TowCapacity": 8200
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali XL",
-        "TowingCapacity": {
+    ],
+    "Yukon Denali XL": [
+        {
             "Id": 17935,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1935,13 +1483,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon Denali XL",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17936,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1955,12 +1498,9 @@
             "GearRatio": null,
             "TowCapacity": 8000
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+    ],
+    "Yukon XL 1500": [
+        {
             "Id": 17919,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1973,13 +1513,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 8400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 1500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17920,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -1993,12 +1528,9 @@
             "GearRatio": null,
             "TowCapacity": 8100
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+    ],
+    "Yukon XL 2500": [
+        {
             "Id": 17923,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -2011,13 +1543,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9700
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17924,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -2030,13 +1557,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 9400
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17927,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -2049,13 +1571,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 12000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "GMC",
-        "ModelTrim": "Yukon XL 2500",
-        "TowingCapacity": {
+        },
+        {
             "Id": 17928,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -2069,5 +1586,5 @@
             "GearRatio": null,
             "TowCapacity": 12000
         }
-    }
-]
+    ]
+}

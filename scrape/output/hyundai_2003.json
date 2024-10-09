@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Hyundai",
-        "ModelTrim": "Sante Fe",
-        "TowingCapacity": {
+{
+    "Sante Fe": [
+        {
             "Id": 22201,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2700
-        }
-    },
-    {
-        "Year": 2003,
-        "Make": "Hyundai",
-        "ModelTrim": "Sante Fe",
-        "TowingCapacity": {
+        },
+        {
             "Id": 22202,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 2200
         }
-    }
-]
+    ]
+}

@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery",
-        "TowingCapacity": {
+{
+    "Discovery": [
+        {
             "Id": 28685,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,12 +14,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Discovery Sport",
-        "TowingCapacity": {
+    ],
+    "Discovery Sport": [
+        {
             "Id": 28686,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +30,9 @@
             "GearRatio": null,
             "TowCapacity": 4409
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+    ],
+    "Range Rover": [
+        {
             "Id": 28689,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +45,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5511
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28687,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +59,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7716
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28688,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +74,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque 5-Door",
-        "TowingCapacity": {
+    ],
+    "Range Rover Evoque 5-Door": [
+        {
             "Id": 28690,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +90,9 @@
             "GearRatio": null,
             "TowCapacity": 3968
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Evoque Convertible",
-        "TowingCapacity": {
+    ],
+    "Range Rover Evoque Convertible": [
+        {
             "Id": 28691,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +106,9 @@
             "GearRatio": null,
             "TowCapacity": 3306
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport": [
+        {
             "Id": 28695,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +121,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5511
-        }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport",
-        "TowingCapacity": {
+        },
+        {
             "Id": 28692,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +136,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport 518HP",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport 518HP": [
+        {
             "Id": 28693,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +152,9 @@
             "GearRatio": null,
             "TowCapacity": 7716
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Sport 575HP",
-        "TowingCapacity": {
+    ],
+    "Range Rover Sport 575HP": [
+        {
             "Id": 28694,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -207,12 +168,9 @@
             "GearRatio": null,
             "TowCapacity": 6613
         }
-    },
-    {
-        "Year": 2019,
-        "Make": "Land Rover",
-        "ModelTrim": "Range Rover Velar",
-        "TowingCapacity": {
+    ],
+    "Range Rover Velar": [
+        {
             "Id": 28696,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
@@ -226,5 +184,5 @@
             "GearRatio": null,
             "TowCapacity": 5291
         }
-    }
-]
+    ]
+}

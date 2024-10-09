@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+{
+    "4Runner": [
+        {
             "Id": 16036,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6700
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16037,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6400
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16038,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7300
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "4Runner",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16039,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7000
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander",
-        "TowingCapacity": {
+    ],
+    "Highlander": [
+        {
             "Id": 16040,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -93,12 +72,9 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Highlander Hybrid",
-        "TowingCapacity": {
+    ],
+    "Highlander Hybrid": [
+        {
             "Id": 16041,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +88,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Land Cruiser",
-        "TowingCapacity": {
+    ],
+    "Land Cruiser": [
+        {
             "Id": 16042,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +104,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia",
-        "TowingCapacity": {
+    ],
+    "Sequoia": [
+        {
             "Id": 16043,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +119,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6500
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Sequoia",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16044,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,12 +134,9 @@
             "GearRatio": null,
             "TowCapacity": 6200
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Sienna",
-        "TowingCapacity": {
+    ],
+    "Sienna": [
+        {
             "Id": 16045,
             "Year": 2006,
             "TypeDesc": "Van",
@@ -188,12 +150,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Access Cab": [
+        {
             "Id": 16046,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -206,13 +165,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3500
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16047,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -226,12 +180,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Double Cab": [
+        {
             "Id": 16048,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -245,12 +196,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tacoma Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Tacoma Regular Cab": [
+        {
             "Id": 16049,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -264,12 +212,9 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Access Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Access Cab": [
+        {
             "Id": 16050,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -282,13 +227,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 4800
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16051,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -301,13 +241,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Access Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16052,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -321,12 +256,9 @@
             "GearRatio": null,
             "TowCapacity": 6900
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Double Cab": [
+        {
             "Id": 16053,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -339,13 +271,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 6800
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Double Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16054,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -359,12 +286,9 @@
             "GearRatio": null,
             "TowCapacity": 6500
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+    ],
+    "Tundra Regular Cab": [
+        {
             "Id": 16055,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -377,13 +301,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16056,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -396,13 +315,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Regular Cab",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16057,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -416,12 +330,9 @@
             "GearRatio": null,
             "TowCapacity": 7100
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Stepside",
-        "TowingCapacity": {
+    ],
+    "Tundra Stepside": [
+        {
             "Id": 16058,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -434,13 +345,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7100
-        }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "Tundra Stepside",
-        "TowingCapacity": {
+        },
+        {
             "Id": 16059,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -454,12 +360,9 @@
             "GearRatio": null,
             "TowCapacity": 6900
         }
-    },
-    {
-        "Year": 2006,
-        "Make": "Toyota",
-        "ModelTrim": "XRunner",
-        "TowingCapacity": {
+    ],
+    "XRunner": [
+        {
             "Id": 16060,
             "Year": 2006,
             "TypeDesc": "Truck",
@@ -473,5 +376,5 @@
             "GearRatio": null,
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}

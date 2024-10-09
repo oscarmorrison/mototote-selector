@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2003,
-        "Make": "Porsche",
-        "ModelTrim": "Cayenne",
-        "TowingCapacity": {
+{
+    "Cayenne": [
+        {
             "Id": 22273,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
@@ -17,5 +14,5 @@
             "GearRatio": null,
             "TowCapacity": 7700
         }
-    }
-]
+    ]
+}

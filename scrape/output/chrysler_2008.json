@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "300",
-        "TowingCapacity": {
+{
+    "300": [
+        {
             "Id": 11257,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "300",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11258,
             "Year": 2008,
             "TypeDesc": "Passenger Van",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+    ],
+    "Aspen Limited": [
+        {
             "Id": 11259,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5950
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11262,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -73,13 +57,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 5720
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11260,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11261,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -111,13 +85,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.92.1",
             "TowCapacity": 8900
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11263,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -130,13 +99,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.55.1",
             "TowCapacity": 7200
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Aspen Limited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11264,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -150,12 +114,9 @@
             "GearRatio": "3.92.1",
             "TowCapacity": 8700
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Pacifica",
-        "TowingCapacity": {
+    ],
+    "Pacifica": [
+        {
             "Id": 11265,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -168,13 +129,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 2600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Pacifica",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11266,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
@@ -188,12 +144,9 @@
             "GearRatio": null,
             "TowCapacity": 2600
         }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+    ],
+    "Town and Country": [
+        {
             "Id": 11267,
             "Year": 2008,
             "TypeDesc": "Van",
@@ -206,13 +159,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3600
-        }
-    },
-    {
-        "Year": 2008,
-        "Make": "Chrysler",
-        "ModelTrim": "Town and Country",
-        "TowingCapacity": {
+        },
+        {
             "Id": 11268,
             "Year": 2008,
             "TypeDesc": "Van",
@@ -226,5 +174,5 @@
             "GearRatio": null,
             "TowCapacity": 3600
         }
-    }
-]
+    ]
+}

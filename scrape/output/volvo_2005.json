@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Volvo",
-        "ModelTrim": "XC70",
-        "TowingCapacity": {
+{
+    "XC70": [
+        {
             "Id": 18084,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3300
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Volvo",
-        "ModelTrim": "XC70",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18085,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,12 +28,9 @@
             "GearRatio": null,
             "TowCapacity": 3300
         }
-    },
-    {
-        "Year": 2005,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+    ],
+    "XC90": [
+        {
             "Id": 18086,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +43,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Volvo",
-        "ModelTrim": "XC90",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18087,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,5 +58,5 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    }
-]
+    ]
+}

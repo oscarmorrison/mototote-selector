@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2005,
-        "Make": "Subaru",
-        "ModelTrim": "Outback H6",
-        "TowingCapacity": {
+{
+    "Outback H6": [
+        {
             "Id": 18044,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 3000
-        }
-    },
-    {
-        "Year": 2005,
-        "Make": "Subaru",
-        "ModelTrim": "Outback H6",
-        "TowingCapacity": {
+        },
+        {
             "Id": 18045,
             "Year": 2005,
             "TypeDesc": "Sport Utility Vehicle",
@@ -36,5 +28,5 @@
             "GearRatio": null,
             "TowCapacity": 3000
         }
-    }
-]
+    ]
+}

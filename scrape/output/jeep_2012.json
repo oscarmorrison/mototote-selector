@@ -1,9 +1,6 @@
-[
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+{
+    "Grand Cherokee": [
+        {
             "Id": 6558,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -16,13 +13,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6560,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -35,13 +27,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6559,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -54,13 +41,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 7400
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Grand Cherokee",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6561,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -74,12 +56,9 @@
             "GearRatio": null,
             "TowCapacity": 7200
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+    ],
+    "Liberty": [
+        {
             "Id": 6562,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -92,13 +71,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": null,
             "TowCapacity": 5000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Liberty",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6563,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -112,12 +86,9 @@
             "GearRatio": null,
             "TowCapacity": 5000
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler",
-        "TowingCapacity": {
+    ],
+    "Wrangler": [
+        {
             "Id": 6564,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -131,12 +102,9 @@
             "GearRatio": null,
             "TowCapacity": 2000
         }
-    },
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler Unlimited",
-        "TowingCapacity": {
+    ],
+    "Wrangler Unlimited": [
+        {
             "Id": 6565,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -149,13 +117,8 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "GearRatio": "3.21:1",
             "TowCapacity": 2000
-        }
-    },
-    {
-        "Year": 2012,
-        "Make": "Jeep",
-        "ModelTrim": "Wrangler Unlimited",
-        "TowingCapacity": {
+        },
+        {
             "Id": 6566,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
@@ -169,5 +132,5 @@
             "GearRatio": "3.73:1",
             "TowCapacity": 3500
         }
-    }
-]
+    ]
+}
