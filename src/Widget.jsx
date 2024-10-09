@@ -182,6 +182,7 @@ const Trim = ({trim, selectVehicle}) => {
                 <li><strong>Type:</strong> {trim.TypeDesc}</li>
                 <li><strong>Towing Capacity:</strong> {trim.TowCapacity} lbs</li>
                 <li><strong>Towing Description:</strong> {trim.TowDesc}</li>
+                <li><strong>Notes</strong>{trim.Notes}</li>
             </ul>
             <button className="select-button" onClick={onClick}>Select Vehicle</button>
             </div>
