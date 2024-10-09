@@ -1,7 +1,6 @@
 {
     "B9 Tribeca": [
         {
-            "Id": 12797,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Forester": [
         {
-            "Id": 12798,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         }
     ],
     "Outback": [
         {
-            "Id": 12799,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -43,11 +38,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2700
         },
         {
-            "Id": 12800,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -57,7 +50,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         }
     ]

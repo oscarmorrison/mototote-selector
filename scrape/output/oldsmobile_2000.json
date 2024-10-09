@@ -1,7 +1,6 @@
 {
     "Bravada": [
         {
-            "Id": 26830,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Oldsmobile",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Frame mounted hitch required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Silhouette": [
         {
-            "Id": 26831,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "Oldsmobile",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "Requires frame mounted hitch and towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

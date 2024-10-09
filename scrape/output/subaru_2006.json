@@ -1,7 +1,6 @@
 {
     "B9 TribExtended Caba": [
         {
-            "Id": 16032,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Towing Package Required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Forrester": [
         {
-            "Id": 16033,
             "Year": 2006,
             "TypeDesc": "Station Wagon",
             "MfgDesc": "Subaru",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         }
     ]

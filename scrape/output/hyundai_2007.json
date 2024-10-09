@@ -1,7 +1,6 @@
 {
     "Entourage": [
         {
-            "Id": 14026,
             "Year": 2007,
             "TypeDesc": "Van",
             "MfgDesc": "Hyundai",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Santa Fe": [
         {
-            "Id": 14027,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -27,11 +24,9 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2700
         },
         {
-            "Id": 14028,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required, Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Tuscon": [
         {
-            "Id": 14029,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -57,7 +50,6 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

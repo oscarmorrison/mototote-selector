@@ -1,7 +1,6 @@
 {
     "Aviator": [
         {
-            "Id": 22225,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7300
         },
         {
-            "Id": 22226,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7100
         }
     ],
     "Navigator": [
         {
-            "Id": 22227,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -41,11 +36,9 @@
             "Trans": null,
             "Notes": "Requires optional Class III/IV Trailer Tow Package with load-equilizing hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8500
         },
         {
-            "Id": 22228,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -55,7 +48,6 @@
             "Trans": null,
             "Notes": "Requires optional Class III/IV Trailer Tow Package with load-equilizing hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8300
         }
     ]

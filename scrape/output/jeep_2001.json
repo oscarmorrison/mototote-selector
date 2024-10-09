@@ -1,7 +1,6 @@
 {
     "Cherokee": [
         {
-            "Id": 25801,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.; Requires towing package; Requires automatic transmission.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Grand Cherokee": [
         {
-            "Id": 25803,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -27,11 +24,9 @@
             "Trans": null,
             "Notes": "Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.; Requires towing package; Requires automatic transmission.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 25804,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": "Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.; Requires towing package; Requires automatic transmission; With 4WD model rated 200 lbs. lower.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6500
         }
     ],
     "Grand Cherokee Limited": [
         {
-            "Id": 25802,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -57,13 +50,11 @@
             "Trans": null,
             "Notes": "Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Wrangler": [
         {
-            "Id": 25805,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -73,11 +64,9 @@
             "Trans": null,
             "Notes": "Wrangler rating is 1000 lbs with automatic transmission with maximum hitch weight of 300 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 25806,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -87,7 +76,6 @@
             "Trans": null,
             "Notes": "Wrangler rating is 1000 lbs with automatic transmission with maximum hitch weight of 300 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

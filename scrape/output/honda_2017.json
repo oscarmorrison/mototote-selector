@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 1293,
             "Year": 2017,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Honda",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pilot": [
         {
-            "Id": 1294,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -27,11 +24,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 1295,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4500
         }
     ],
     "Ridgeline": [
         {
-            "Id": 1296,
             "Year": 2017,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -57,11 +50,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 1297,
             "Year": 2017,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -71,7 +62,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

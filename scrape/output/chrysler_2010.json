@@ -1,7 +1,6 @@
 {
     "Grand Caravan": [
         {
-            "Id": 8338,
             "Year": 2010,
             "TypeDesc": "Van",
             "MfgDesc": "Chrysler",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Towing Package Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3800
         },
         {
-            "Id": 8339,
             "Year": 2010,
             "TypeDesc": "Van",
             "MfgDesc": "Chrysler",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": "Towing Package Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3800
         }
     ],
     "Journey": [
         {
-            "Id": 8340,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chrysler",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": "Towing Package Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Town and Country": [
         {
-            "Id": 8341,
             "Year": 2010,
             "TypeDesc": "Van",
             "MfgDesc": "Chrysler",
@@ -57,11 +50,9 @@
             "Trans": null,
             "Notes": "Towing Package Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3800
         },
         {
-            "Id": 8342,
             "Year": 2010,
             "TypeDesc": "Van",
             "MfgDesc": "Chrysler",
@@ -71,7 +62,6 @@
             "Trans": null,
             "Notes": "Towing Package Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3800
         }
     ]

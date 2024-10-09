@@ -1,7 +1,6 @@
 {
     "Mountaineer": [
         {
-            "Id": 23981,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercury",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Requires optional class II towing package. Requires Class IV load-equilizing hitch option and 3.73 gear ratio (standard on V8).",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7060
         }
     ],
     "Mountaineer 4x2": [
         {
-            "Id": 23982,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercury",
@@ -27,11 +24,9 @@
             "Trans": null,
             "Notes": "Requires optional class II towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5700
         },
         {
-            "Id": 23983,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercury",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": "Requires optional class II towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7300
         }
     ],
     "Mountaineer 4x4": [
         {
-            "Id": 23984,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercury",
@@ -57,13 +50,11 @@
             "Trans": null,
             "Notes": "Requires optional class II towing package. Requires Class IV load-equilizing hitch option and 3.73 gear ratio (standard on V8).",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5460
         }
     ],
     "Villager": [
         {
-            "Id": 23985,
             "Year": 2002,
             "TypeDesc": "Van",
             "MfgDesc": "Mercury",
@@ -73,11 +64,9 @@
             "Trans": null,
             "Notes": "Class 1 load-carrying type/weight-equilizing hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 23986,
             "Year": 2002,
             "TypeDesc": "Van",
             "MfgDesc": "Mercury",
@@ -87,7 +76,6 @@
             "Trans": null,
             "Notes": "Requires optional class II towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

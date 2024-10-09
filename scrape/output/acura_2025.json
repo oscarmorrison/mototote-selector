@@ -1,7 +1,6 @@
 {
     "MDX": [
         {
-            "Id": 551718,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -11,11 +10,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Type S SH-AWD  trim level.  Note: Additional equipment may be required for towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4,17",
             "TowCapacity": 5000
         },
         {
-            "Id": 551717,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -25,11 +22,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: SH-AWD  trim level.  Note: Additional equipment may be required for towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4,17",
             "TowCapacity": 5000
         },
         {
-            "Id": 551716,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -39,7 +34,6 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Front Wheel Drive (FWD)  trim level.  Note: Additional equipment may be required for towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4,17",
             "TowCapacity": 3500
         }
     ]

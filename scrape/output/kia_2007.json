@@ -1,7 +1,6 @@
 {
     "Sedona": [
         {
-            "Id": 14071,
             "Year": 2007,
             "TypeDesc": "Van",
             "MfgDesc": "Kia",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Sorento": [
         {
-            "Id": 14072,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Kia",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Sportage": [
         {
-            "Id": 14073,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Kia",
@@ -43,7 +38,6 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

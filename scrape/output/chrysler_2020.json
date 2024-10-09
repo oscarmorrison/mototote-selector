@@ -1,7 +1,6 @@
 {
     "Pacifica": [
         {
-            "Id": 492934,
             "Year": 2020,
             "TypeDesc": "Minivan",
             "MfgDesc": "Chrysler",
@@ -11,11 +10,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Trailer Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3600
         },
         {
-            "Id": 29679,
             "Year": 2020,
             "TypeDesc": "Minivan",
             "MfgDesc": "Chrysler",
@@ -25,11 +22,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Trailer Tow Package.  The Trailer-Tow Package is not available on the Pacifica Hybrid.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3600
         },
         {
-            "Id": 492933,
             "Year": 2020,
             "TypeDesc": "Minivan",
             "MfgDesc": "Chrysler",
@@ -39,13 +34,11 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Note: Not Equipped with Trailer-Tow Package. The Trailer-Tow Package is not available on the Pacifica Hybrid.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Voyager": [
         {
-            "Id": 29680,
             "Year": 2020,
             "TypeDesc": "Minivan",
             "MfgDesc": "Chrysler",
@@ -55,11 +48,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Trailer Tow Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3600
         },
         {
-            "Id": 492936,
             "Year": 2020,
             "TypeDesc": "Minivan",
             "MfgDesc": "Chrysler",
@@ -69,7 +60,6 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Note: Not Equipped with Trailer Tow Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ]

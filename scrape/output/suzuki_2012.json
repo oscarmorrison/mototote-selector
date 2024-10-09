@@ -1,7 +1,6 @@
 {
     "Equator Crew Cab": [
         {
-            "Id": 6631,
             "Year": 2012,
             "TypeDesc": "Truck",
             "MfgDesc": "Suzuki",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Fifth Wheel",
-            "GearRatio": null,
             "TowCapacity": 6300
         },
         {
-            "Id": 6632,
             "Year": 2012,
             "TypeDesc": "Truck",
             "MfgDesc": "Suzuki",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Fifth Wheel",
-            "GearRatio": null,
             "TowCapacity": 6100
         }
     ],
     "Equator Extended Cab": [
         {
-            "Id": 6629,
             "Year": 2012,
             "TypeDesc": "Truck",
             "MfgDesc": "Suzuki",
@@ -41,11 +36,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Fifth Wheel",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 6630,
             "Year": 2012,
             "TypeDesc": "Truck",
             "MfgDesc": "Suzuki",
@@ -55,13 +48,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Fifth Wheel",
-            "GearRatio": null,
             "TowCapacity": 6300
         }
     ],
     "Grand Vitara": [
         {
-            "Id": 6633,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Suzuki",
@@ -71,7 +62,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         }
     ]

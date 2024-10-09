@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 2403,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Honda",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pilot": [
         {
-            "Id": 2404,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -27,11 +24,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 2405,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -41,7 +36,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

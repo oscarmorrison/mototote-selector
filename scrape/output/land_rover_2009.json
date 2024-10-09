@@ -1,7 +1,6 @@
 {
     "Land Rover LR2": [
         {
-            "Id": 10861,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 35000
         }
     ],
     "Land Rover LR3": [
         {
-            "Id": 10862,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7716
         }
     ],
     "Range Rover": [
         {
-            "Id": 10863,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -43,11 +38,9 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7716
         },
         {
-            "Id": 10864,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -57,13 +50,11 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7716
         }
     ],
     "Range Rover Sport": [
         {
-            "Id": 10865,
             "Year": 2009,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -73,21 +64,6 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
-            "TowCapacity": 7716
-        },
-        {
-            "Id": 10866,
-            "Year": 2009,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Land Rover",
-            "MakeTrim": "Range Rover Sport",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "4.2L V-8 Super Charged",
-            "Trans": null,
-            "Notes": "Trailer Brakes Required",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7716
         }
     ]

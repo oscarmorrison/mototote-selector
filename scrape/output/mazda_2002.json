@@ -1,7 +1,6 @@
 {
     "B2500": [
         {
-            "Id": 23971,
             "Year": 2002,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -11,13 +10,11 @@
             "Trans": "Automatic",
             "Notes": "Requires automatic transmission; rating lower with manual transmission; Cab Plus rating lower also.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2240
         }
     ],
     "B3000": [
         {
-            "Id": 23973,
             "Year": 2002,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -27,11 +24,9 @@
             "Trans": "Automatic",
             "Notes": "Requires automatic transmission; Requires load-equilizing hitch for more than 2000 lbs; Cab Plus rating is lower.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4360
         },
         {
-            "Id": 23972,
             "Year": 2002,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -41,13 +36,11 @@
             "Trans": "Automatic",
             "Notes": "Requires automatic transmission; Requires load-equilizing hitch for more than 2000 lbs; Cab Plus rating is lower.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4000
         }
     ],
     "B4000": [
         {
-            "Id": 23975,
             "Year": 2002,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -57,11 +50,9 @@
             "Trans": "Automatic",
             "Notes": "Requires automatic transmission; Requires load-equilizing hitch for more than 2000 lbs; Requires special axle ratio and trailer-towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5700
         },
         {
-            "Id": 23974,
             "Year": 2002,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -71,13 +62,11 @@
             "Trans": "Automatic",
             "Notes": "Requires automatic transmission; Requires load-equilizing hitch for more than 2000 lbs; Cab Plus rating is lower; Requires special axle ratio and trailer-towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5900
         }
     ],
     "Tribute": [
         {
-            "Id": 23976,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -87,7 +76,6 @@
             "Trans": null,
             "Notes": "Requires trailer-towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

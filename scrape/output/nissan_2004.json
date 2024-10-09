@@ -1,7 +1,6 @@
 {
     "Frontier": [
         {
-            "Id": 20617,
             "Year": 2004,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -11,11 +10,9 @@
             "Trans": "Manual",
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         },
         {
-            "Id": 20618,
             "Year": 2004,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -25,11 +22,9 @@
             "Trans": "Automatic",
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 20619,
             "Year": 2004,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -39,13 +34,11 @@
             "Trans": "Automatic",
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "2.937:1",
             "TowCapacity": 5000
         }
     ],
     "Murano": [
         {
-            "Id": 20620,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -55,13 +48,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pathfinder": [
         {
-            "Id": 20621,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -71,11 +62,9 @@
             "Trans": "Automatic",
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 20622,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -85,13 +74,11 @@
             "Trans": "Manual",
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pathfinder Armada": [
         {
-            "Id": 20623,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -101,11 +88,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "2.937:1",
             "TowCapacity": 6300
         },
         {
-            "Id": 20624,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -115,13 +100,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.36:1",
             "TowCapacity": 9100
         }
     ],
     "Quest": [
         {
-            "Id": 20629,
             "Year": 2004,
             "TypeDesc": "Van",
             "MfgDesc": "Nissan",
@@ -131,13 +114,11 @@
             "Trans": "Automatic",
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Titan King/Crew Cab": [
         {
-            "Id": 20626,
             "Year": 2004,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -147,11 +128,9 @@
             "Trans": null,
             "Notes": "Deduct 1500 lbs for manual transmission; deduct 100 lbs for supercharged, crew cab & longbed models; For High Utility Bed option, deduct 100 lbs on SE models, 200 lbs on LE models.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6500
         },
         {
-            "Id": 20628,
             "Year": 2004,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -161,11 +140,9 @@
             "Trans": null,
             "Notes": "With towing package; For High Utility Bed option, deduct 100 lbs on SE models, 200 lbs on LE models.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.36:1",
             "TowCapacity": 9500
         },
         {
-            "Id": 20625,
             "Year": 2004,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -175,11 +152,9 @@
             "Trans": null,
             "Notes": "Deduct 1500 lbs for manual transmission; deduct 100 lbs for supercharged, crew cab & longbed models; For High Utility Bed option, deduct 100 lbs on SE models, 200 lbs on LE models.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6500
         },
         {
-            "Id": 20627,
             "Year": 2004,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -189,13 +164,11 @@
             "Trans": null,
             "Notes": "With towing package; For High Utility Bed option, deduct 100 lbs on SE models, 200 lbs on LE models.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.36:1",
             "TowCapacity": 9500
         }
     ],
     "Xterra": [
         {
-            "Id": 20630,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -205,11 +178,9 @@
             "Trans": "Manual",
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 20631,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -219,11 +190,9 @@
             "Trans": "Automatic",
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 20632,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -233,7 +202,6 @@
             "Trans": null,
             "Notes": "With towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

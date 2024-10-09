@@ -1,7 +1,6 @@
 {
     "Grand Cherokee": [
         {
-            "Id": 5560,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 5562,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 5561,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         },
         {
-            "Id": 5563,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -53,13 +46,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         }
     ],
     "Wrangler": [
         {
-            "Id": 5564,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -69,7 +60,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

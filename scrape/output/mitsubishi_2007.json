@@ -1,7 +1,6 @@
 {
     "Endeavor": [
         {
-            "Id": 14110,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Outlander": [
         {
-            "Id": 14111,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Raider": [
         {
-            "Id": 14112,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mitsubishi",
@@ -43,7 +38,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Enclave": [
         {
-            "Id": 29010,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Buick",
@@ -11,11 +10,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Trailer Towing Package (V92)",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.49",
             "TowCapacity": 5000
         },
         {
-            "Id": 498115,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Buick",
@@ -25,11 +22,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.49",
             "TowCapacity": 1500
         },
         {
-            "Id": 29011,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Buick",
@@ -39,11 +34,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Trailer Towing Package (V92)",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.49",
             "TowCapacity": 5000
         },
         {
-            "Id": 498114,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Buick",
@@ -53,13 +46,11 @@
             "Trans": "9-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.49",
             "TowCapacity": 1500
         }
     ],
     "Envision": [
         {
-            "Id": 498122,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Buick",
@@ -69,11 +60,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.17",
             "TowCapacity": 1500
         },
         {
-            "Id": 498121,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Buick",
@@ -83,21 +72,6 @@
             "Trans": "6-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.50",
-            "TowCapacity": 1500
-        },
-        {
-            "Id": 498123,
-            "Year": 2020,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Buick",
-            "MakeTrim": "Envision",
-            "DriveTypeDesc": "All-Wheel Drive",
-            "Engine": "2.5L I4",
-            "Trans": "6-Speed Automatic",
-            "Notes": "",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.50",
             "TowCapacity": 1500
         }
     ]

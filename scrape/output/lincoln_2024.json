@@ -1,7 +1,6 @@
 {
     "Aviator": [
         {
-            "Id": 550121,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -11,11 +10,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: When properly equipped with available Class IV Trailer Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.58",
             "TowCapacity": 5000
         },
         {
-            "Id": 550122,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -25,13 +22,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: When properly equipped with available Class IV Trailer Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.58",
             "TowCapacity": 5000
         }
     ],
     "Corsair": [
         {
-            "Id": 550141,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -41,11 +36,9 @@
             "Trans": "8-Speed Automatic with SelectShift",
             "Notes": "Requires: Factory-Installed Class II Trailer Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.81",
             "TowCapacity": 3000
         },
         {
-            "Id": 550142,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -55,13 +48,11 @@
             "Trans": "8-Speed Automatic with SelectShift",
             "Notes": "Requires: Factory-Installed Class II Trailer Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.81",
             "TowCapacity": 3000
         }
     ],
     "Corsair Grand Touring Plug-In Hybrid": [
         {
-            "Id": 550144,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -71,13 +62,11 @@
             "Trans": "eCVT Automatic",
             "Notes": "Requires: Factory-Installed Class II Trailer Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "2.91",
             "TowCapacity": 2000
         }
     ],
     "Nautilus": [
         {
-            "Id": 550145,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -87,13 +76,11 @@
             "Trans": "8-Speed Automatic with SelectShift",
             "Notes": "Requires: Trailer Tow Class I Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.81",
             "TowCapacity": 1750
         }
     ],
     "Nautilus (HEV)": [
         {
-            "Id": 550146,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -103,13 +90,11 @@
             "Trans": "CVT Automatic with Power Split Electric",
             "Notes": "Requires: Trailer Tow Class I Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.37",
             "TowCapacity": 1750
         }
     ],
     "Navigator": [
         {
-            "Id": 550132,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -119,13 +104,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Class IV Heavy-Duty Trailer Towing Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 8300
         }
     ],
     "Navigator L": [
         {
-            "Id": 550139,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -135,7 +118,6 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Class IV Heavy-Duty Trailer Towing Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 8100
         }
     ]

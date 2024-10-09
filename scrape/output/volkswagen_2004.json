@@ -1,7 +1,6 @@
 {
     "EuroVAN": [
         {
-            "Id": 20659,
             "Year": 2004,
             "TypeDesc": "Van",
             "MfgDesc": "Volkswagen",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "For trailers with brakes; without deduct 2200 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4400
         }
     ],
     "Touareg": [
         {
-            "Id": 20660,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7716
         }
     ]

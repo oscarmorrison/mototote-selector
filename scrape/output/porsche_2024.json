@@ -1,7 +1,6 @@
 {
     "Cayenne": [
         {
-            "Id": 550000,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Porsche",
@@ -11,11 +10,9 @@
             "Trans": "8-Speed Tiptronic S",
             "Notes": "Requires: Tow Ball and Hitch. Note: The combined weight of occupants and luggage must never exceed the weight stated on the tire pressure plate.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7700
         },
         {
-            "Id": 550003,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Porsche",
@@ -25,11 +22,9 @@
             "Trans": "8-Speed Tiptronic S",
             "Notes": "Requires: Tow Ball and Hitch. Note: The combined weight of occupants and luggage must never exceed the weight stated on the tire pressure plate.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7700
         },
         {
-            "Id": 550002,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Porsche",
@@ -39,13 +34,11 @@
             "Trans": "8-Speed Tiptronic S",
             "Notes": "Requires: Tow Ball and Hitch. Note: The combined weight of occupants and luggage must never exceed the weight stated on the tire pressure plate.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7700
         }
     ],
     "Macan": [
         {
-            "Id": 550005,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Porsche",
@@ -55,11 +48,9 @@
             "Trans": "7-Speed PDK",
             "Notes": "Requires: Factory Installed Trailer Hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 4409
         },
         {
-            "Id": 550004,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Porsche",
@@ -69,7 +60,6 @@
             "Trans": "7-Speed PDK",
             "Notes": "Requires: Factory Installed Trailer Hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 4409
         }
     ]

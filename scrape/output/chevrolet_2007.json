@@ -1,7 +1,6 @@
 {
     "Avalanche 1500": [
         {
-            "Id": 12881,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Chevrolet",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7200
         },
         {
-            "Id": 12882,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Chevrolet",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8000
         },
         {
-            "Id": 12884,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Chevrolet",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7100
         },
         {
-            "Id": 12885,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Chevrolet",
@@ -53,11 +46,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 7800
         },
         {
-            "Id": 12883,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Chevrolet",
@@ -67,11 +58,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8000
         },
         {
-            "Id": 12886,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Chevrolet",
@@ -81,13 +70,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 7600
         }
     ],
     "Equinox": [
         {
-            "Id": 12887,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chevrolet",
@@ -97,13 +84,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "SSR": [
         {
-            "Id": 12888,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Chevrolet",
@@ -113,13 +98,11 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7800
         }
     ],
     "TrailBlazer SS": [
         {
-            "Id": 12889,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chevrolet",
@@ -129,11 +112,9 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 6700
         },
         {
-            "Id": 12890,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chevrolet",
@@ -143,13 +124,11 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 6500
         }
     ],
     "Uplander": [
         {
-            "Id": 12891,
             "Year": 2007,
             "TypeDesc": "Van",
             "MfgDesc": "Chevrolet",
@@ -159,7 +138,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

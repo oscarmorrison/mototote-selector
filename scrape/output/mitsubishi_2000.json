@@ -1,7 +1,6 @@
 {
     "Montero": [
         {
-            "Id": 26817,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Tow rating with trailer brakes; 1500 lbs. maximum rating without.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Montero Sport ES": [
         {
-            "Id": 26818,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Tow rating with trailer brakes; 1500 lbs. maximum rating without.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2300
         }
     ],
     "Montero Sport LS, XLS": [
         {
-            "Id": 26819,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -43,7 +38,6 @@
             "Trans": null,
             "Notes": "Tow rating with trailer brakes; 1500 lbs. maximum rating without.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

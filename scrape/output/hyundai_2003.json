@@ -1,7 +1,6 @@
 {
     "Sante Fe": [
         {
-            "Id": 22201,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Trailer must be equipped with brakes.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2700
         },
         {
-            "Id": 22202,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -25,7 +22,6 @@
             "Trans": null,
             "Notes": "Trailer must be equipped with brakes.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2200
         }
     ]

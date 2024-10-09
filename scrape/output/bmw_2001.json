@@ -1,7 +1,6 @@
 {
     "X5": [
         {
-            "Id": 24037,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "BMW",
@@ -11,11 +10,9 @@
             "Trans": "Automatic",
             "Notes": "Maximum towing weight for trailers without brakes is 1650 lbs; Maximum towing weight for trailers with brakes off-road is 3300 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 24036,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "BMW",
@@ -25,11 +22,9 @@
             "Trans": "Manual",
             "Notes": "Maximum towing weight for trailers without brakes is 1650 lbs; Maximum towing weight for trailers with brakes off-road is 3300 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6000
         },
         {
-            "Id": 24035,
             "Year": 2001,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "BMW",
@@ -39,7 +34,6 @@
             "Trans": null,
             "Notes": "Maximum towing weight for trailers without brakes is 1650 lbs; Maximum towing weight for trailers with brakes off-road is 3300 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6000
         }
     ]

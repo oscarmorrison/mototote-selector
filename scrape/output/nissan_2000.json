@@ -1,7 +1,6 @@
 {
     "Frontier": [
         {
-            "Id": 26820,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -11,11 +10,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 26821,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -25,13 +22,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pathfinder": [
         {
-            "Id": 26822,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -41,11 +36,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 26823,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -55,13 +48,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Quest": [
         {
-            "Id": 26824,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "Nissan",
@@ -71,13 +62,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Xterra": [
         {
-            "Id": 26828,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -87,25 +76,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 26829,
-            "Year": 2000,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Nissan",
-            "MakeTrim": "Xterra",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "2.4L I-4",
-            "Trans": "Automatic",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
-            "TowCapacity": 2000
-        },
-        {
-            "Id": 26825,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -115,25 +88,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 26826,
-            "Year": 2000,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Nissan",
-            "MakeTrim": "Xterra",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "2.4L I-4",
-            "Trans": "Manual",
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
-            "TowCapacity": 3500
-        },
-        {
-            "Id": 26827,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -143,7 +100,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

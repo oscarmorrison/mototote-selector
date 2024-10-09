@@ -1,7 +1,6 @@
 {
     "Grand Cherokee": [
         {
-            "Id": 6558,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 6560,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 6559,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         },
         {
-            "Id": 6561,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -53,13 +46,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         }
     ],
     "Liberty": [
         {
-            "Id": 6562,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -69,11 +60,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 6563,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -83,13 +72,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Wrangler": [
         {
-            "Id": 6564,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -99,13 +86,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Wrangler Unlimited": [
         {
-            "Id": 6565,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -115,11 +100,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.21:1",
             "TowCapacity": 2000
         },
         {
-            "Id": 6566,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -129,7 +112,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 3500
         }
     ]

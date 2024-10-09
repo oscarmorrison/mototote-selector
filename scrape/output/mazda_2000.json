@@ -1,7 +1,6 @@
 {
     "B2500": [
         {
-            "Id": 26800,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -11,13 +10,11 @@
             "Trans": "Automatic",
             "Notes": "Rating lower with manual transmission; Also, Cab Plus rating lower.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2240
         }
     ],
     "B3000": [
         {
-            "Id": 26802,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -27,11 +24,9 @@
             "Trans": "Automatic",
             "Notes": "Rating lower with manual transmission; Also, Cab Plus rating lower; Requires load-equilizing hitch for more than 2000 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4360
         },
         {
-            "Id": 26801,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -41,13 +36,11 @@
             "Trans": "Automatic",
             "Notes": "Rating lower with manual transmission; Also, Cab Plus rating lower; Requires load-equilizing hitch for more than 2000 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4000
         }
     ],
     "B4000": [
         {
-            "Id": 26804,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -57,11 +50,9 @@
             "Trans": "Automatic",
             "Notes": "Rating lower with manual transmission; Requires special axle ratio and trailer towing package; Requires load-equilizing hitch for more than 2000 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5700
         },
         {
-            "Id": 26803,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -71,13 +62,11 @@
             "Trans": "Automatic",
             "Notes": "Rating lower with manual transmission; Also, Cab Plus rating lower; Requires load-equilizing hitch for more than 2000 lbs; Requires special axle ratio and trailer towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6000
         }
     ],
     "MPassenger Van": [
         {
-            "Id": 26806,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "Mazda",
@@ -87,11 +76,9 @@
             "Trans": null,
             "Notes": "Requires trailer towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4000
         },
         {
-            "Id": 26805,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "Mazda",
@@ -101,7 +88,6 @@
             "Trans": null,
             "Notes": "Requires trailer towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4300
         }
     ]

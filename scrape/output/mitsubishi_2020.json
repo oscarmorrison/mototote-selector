@@ -1,7 +1,6 @@
 {
     "Eclipse Cross (AWD)": [
         {
-            "Id": 498917,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -11,13 +10,11 @@
             "Trans": "CVT with 8-Speed Sport Mode",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Eclipse Cross (FWD)": [
         {
-            "Id": 498916,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -27,13 +24,11 @@
             "Trans": "CVT with 8-Speed Sport Mode",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Outlander": [
         {
-            "Id": 29158,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -43,13 +38,11 @@
             "Trans": "Continuously Variable Transmission (CVT)",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Outlander (AWD)": [
         {
-            "Id": 498401,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -59,11 +52,9 @@
             "Trans": "Continuously Variable Transmission (CVT)",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         },
         {
-            "Id": 29159,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -73,13 +64,11 @@
             "Trans": "Continuously Variable Transmission (CVT)",
             "Notes": "Requires: GT trim level",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "Outlander PHEV (AWD)": [
         {
-            "Id": 498913,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -89,7 +78,6 @@
             "Trans": "1-Speed Direct Drive",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ]

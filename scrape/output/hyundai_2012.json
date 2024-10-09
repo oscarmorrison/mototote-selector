@@ -1,7 +1,6 @@
 {
     "Santa Fe": [
         {
-            "Id": 6551,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 6552,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Tucson": [
         {
-            "Id": 6553,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Veracruz (All)": [
         {
-            "Id": 6554,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -57,7 +50,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

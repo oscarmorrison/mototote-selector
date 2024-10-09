@@ -1,7 +1,6 @@
 {
     "Dodge Durango": [
         {
-            "Id": 1805,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 1803,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 1806,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         },
         {
-            "Id": 1804,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -53,13 +46,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         }
     ],
     "Dodge Grand Caravan": [
         {
-            "Id": 1807,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Dodge",
@@ -69,13 +60,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3600
         }
     ],
     "Dodge Journey": [
         {
-            "Id": 1809,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -85,11 +74,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         },
         {
-            "Id": 1808,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -99,13 +86,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         }
     ],
     "Dodge Town and Country": [
         {
-            "Id": 1802,
             "Year": 2016,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Dodge",
@@ -115,7 +100,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3600
         }
     ]

@@ -1,7 +1,6 @@
 {
     "MKC": [
         {
-            "Id": 28701,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 28702,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         }
     ],
     "MKT": [
         {
-            "Id": 28704,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -41,11 +36,9 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4500
         },
         {
-            "Id": 28703,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -55,13 +48,11 @@
             "Trans": null,
             "Notes": "MKC and MKT do not offer factory-installed towing equipment for this application, available as aftermarket accessory only.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Nautilus": [
         {
-            "Id": 28706,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -71,11 +62,9 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 28705,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -85,13 +74,11 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Navigator": [
         {
-            "Id": 28707,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -101,11 +88,9 @@
             "Trans": null,
             "Notes": "Max loaded trailer weight requires WD hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 28709,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -115,11 +100,9 @@
             "Trans": null,
             "Notes": "Max loaded trailer weight requires WD hitch.Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8600
         },
         {
-            "Id": 28708,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -129,11 +112,9 @@
             "Trans": null,
             "Notes": "Max loaded trailer weight requires WD hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 28710,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -143,13 +124,11 @@
             "Trans": null,
             "Notes": "Max loaded trailer weight requires WD hitch. Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8300
         }
     ],
     "Navigator L": [
         {
-            "Id": 28711,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -159,11 +138,9 @@
             "Trans": null,
             "Notes": "Max loaded trailer weight requires WD hitch. Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6600
         },
         {
-            "Id": 28713,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -173,11 +150,9 @@
             "Trans": null,
             "Notes": "Max loaded trailer weight requires WD hitch. Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8400
         },
         {
-            "Id": 28712,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -187,11 +162,9 @@
             "Trans": null,
             "Notes": "Max loaded trailer weight requires WD hitch. Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6600
         },
         {
-            "Id": 28714,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -201,7 +174,6 @@
             "Trans": null,
             "Notes": "Max loaded trailer weight requires WD hitch. Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8100
         }
     ]

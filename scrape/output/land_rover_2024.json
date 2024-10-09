@@ -1,7 +1,6 @@
 {
     "Range Rover": [
         {
-            "Id": 545584,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -11,11 +10,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The towing mass and Gross Train Weight (GTW) can be increased for certain markets. Information can be found on the Vehicle Identification Number (VIN) label.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 8200
         },
         {
-            "Id": 545591,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -25,11 +22,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The towing mass and Gross Train Weight (GTW) can be increased for certain markets. Information can be found on the Vehicle Identification Number (VIN) label.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 8200
         },
         {
-            "Id": 545590,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -39,13 +34,11 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: P530 or P615 AWD Automatic. Note: The towing mass and Gross Train Weight (GTW) can be increased for certain markets. Information can be found on the Vehicle Identification Number (VIN) label.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 8200
         }
     ],
     "Range Rover Evoque": [
         {
-            "Id": 545582,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -55,11 +48,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3968
         },
         {
-            "Id": 545583,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -69,7 +60,6 @@
             "Trans": "9-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3968
         }
     ]

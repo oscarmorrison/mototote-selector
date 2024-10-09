@@ -1,7 +1,6 @@
 {
     "Cherokee": [
         {
-            "Id": 26784,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Trailer brakes required on all trailers weighing more than 1000 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 26785,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -25,13 +22,11 @@
             "Trans": "Automatic",
             "Notes": "Trailer brakes required on all trailers weighing more than 1000 lbs. Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.; Requires towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Grand Cherokee": [
         {
-            "Id": 26787,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -41,11 +36,9 @@
             "Trans": "Automatic",
             "Notes": "Trailer brakes required on all trailers weighing more than 1000 lbs. Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.; Requires towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 26789,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -55,11 +48,9 @@
             "Trans": null,
             "Notes": "Trailer brakes required on all trailers weighing more than 1000 lbs. Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.; Requires towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6300
         },
         {
-            "Id": 26788,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -69,13 +60,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required on all trailers weighing more than 1000 lbs. Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.; Requires towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6500
         }
     ],
     "Grand Cherokee Limited": [
         {
-            "Id": 26786,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -85,13 +74,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required on all trailers weighing more than 1000 lbs. Requires weight-distributing hitch with a maximum hitch weight of 750 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Wrangler": [
         {
-            "Id": 26790,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -101,11 +88,9 @@
             "Trans": "Manual",
             "Notes": "Trailer brakes required on all trailers weighing more than 1000 lbs. Rating is 1000 lbs with automatic transmission.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 26791,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -115,7 +100,6 @@
             "Trans": null,
             "Notes": "Trailer brakes required on all trailers weighing more than 1000 lbs. Maximum hitch weight of 300 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

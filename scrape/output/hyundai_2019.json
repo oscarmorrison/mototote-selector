@@ -1,7 +1,6 @@
 {
     "Santa Fe": [
         {
-            "Id": 28657,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 28656,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -25,7 +22,6 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Endeavor": [
         {
-            "Id": 20616,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Towing Prep package required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 20615,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": "Towing Prep package required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Montero": [
         {
-            "Id": 20613,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": "For trailers without brakes deduct 3500 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Montero Sport": [
         {
-            "Id": 20614,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -57,7 +50,6 @@
             "Trans": null,
             "Notes": "For trailers without brakes deduct 3500 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

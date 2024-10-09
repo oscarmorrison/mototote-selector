@@ -1,7 +1,6 @@
 {
     "QX50": [
         {
-            "Id": 545320,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -11,13 +10,11 @@
             "Trans": "Continuously Variable Transmission with Manual Shift Mode",
             "Notes": "Requires: Tow Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3000
         }
     ],
     "QX60": [
         {
-            "Id": 545321,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -27,11 +24,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Tow Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 6000
         },
         {
-            "Id": 545322,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -41,11 +36,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Note: Max towing without Trailer Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         },
         {
-            "Id": 545323,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -55,11 +48,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 6000
         },
         {
-            "Id": 545324,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -69,13 +60,11 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Note: Max towing without Trailer Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "QX80": [
         {
-            "Id": 545403,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -85,11 +74,9 @@
             "Trans": "7-Speed Automatic",
             "Notes": "Note: Use of a weight-distributing hitch system is recommended when towing over 5000 pounds (2267 kg).",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 8500
         },
         {
-            "Id": 545396,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -99,7 +86,6 @@
             "Trans": "7-Speed Automatic",
             "Notes": "Note: Use of a weight-distributing hitch system is recommended when towing over 5000 pounds (2267 kg).",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 8500
         }
     ]

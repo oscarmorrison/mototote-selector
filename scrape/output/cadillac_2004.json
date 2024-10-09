@@ -1,7 +1,6 @@
 {
     "Escalade": [
         {
-            "Id": 19269,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -11,11 +10,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7400
         },
         {
-            "Id": 19270,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -25,13 +22,11 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8100
         }
     ],
     "Escalade ESV": [
         {
-            "Id": 19271,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -41,13 +36,11 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7700
         }
     ],
     "Escalade EXT": [
         {
-            "Id": 18124,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -57,13 +50,11 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7400
         }
     ],
     "SRX": [
         {
-            "Id": 18138,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -73,7 +64,6 @@
             "Trans": null,
             "Notes": "Towing Package Required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

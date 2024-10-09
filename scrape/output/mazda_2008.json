@@ -1,7 +1,6 @@
 {
     "B-2300 Regular Cab": [
         {
-            "Id": 12723,
             "Year": 2008,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -11,13 +10,11 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2260
         }
     ],
     "B-4000": [
         {
-            "Id": 12725,
             "Year": 2008,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -27,11 +24,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5580
         },
         {
-            "Id": 12724,
             "Year": 2008,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -41,13 +36,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3120
         }
     ],
     "CX7": [
         {
-            "Id": 12726,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -57,13 +50,11 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "CX9": [
         {
-            "Id": 12727,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -73,13 +64,11 @@
             "Trans": "Automatic",
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Tribute": [
         {
-            "Id": 12728,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -89,7 +78,6 @@
             "Trans": "Automatic",
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

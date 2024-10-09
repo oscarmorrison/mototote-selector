@@ -1,7 +1,6 @@
 {
     "MDX": [
         {
-            "Id": 28993,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -11,11 +10,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: SH-AWD  trim level.  Note: Automatic transmission fluid cooler (ATF) required for max towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 5000
         },
         {
-            "Id": 28992,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -25,13 +22,11 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Front Wheel Drive (FWD) trim level.  Note: Additional equipment may be required for towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "RDX": [
         {
-            "Id": 491518,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -41,11 +36,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: SH-AWD  trim level.  Note: Automatic transmission fluid cooler (ATF) required for max towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         },
         {
-            "Id": 491517,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -55,7 +48,6 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Front Wheel Drive (FWD) trim level.  Note: Additional equipment may be required for towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ]

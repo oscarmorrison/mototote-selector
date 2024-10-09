@@ -1,7 +1,6 @@
 {
     "Bravada": [
         {
-            "Id": 24005,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Oldsmobile",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Weight distributing hitch and sway control required over 4000 lbs. trailer weight.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5800
         },
         {
-            "Id": 24006,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Oldsmobile",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": "Weight distributing hitch and sway control required over 4000 lbs. trailer weight.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 6300
         },
         {
-            "Id": 24007,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Oldsmobile",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": "Weight distributing hitch and sway control required over 4000 lbs. trailer weight.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5600
         },
         {
-            "Id": 24008,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Oldsmobile",
@@ -53,13 +46,11 @@
             "Trans": null,
             "Notes": "Weight distributing hitch and sway control required over 4000 lbs. trailer weight.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 6100
         }
     ],
     "Silhouette": [
         {
-            "Id": 24009,
             "Year": 2002,
             "TypeDesc": "Van",
             "MfgDesc": "Oldsmobile",
@@ -69,7 +60,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

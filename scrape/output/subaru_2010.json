@@ -1,7 +1,6 @@
 {
     "Forester": [
         {
-            "Id": 9217,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         }
     ],
     "Outback": [
         {
-            "Id": 9218,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -27,11 +24,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2700
         },
         {
-            "Id": 9219,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         }
     ],
     "Tribeca": [
         {
-            "Id": 9216,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -57,7 +50,6 @@
             "Trans": null,
             "Notes": "Towing Package Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

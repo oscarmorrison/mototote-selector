@@ -1,7 +1,6 @@
 {
     "Grand Cherokee": [
         {
-            "Id": 7775,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 7777,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 7776,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         },
         {
-            "Id": 7778,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -53,13 +46,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         }
     ],
     "Liberty": [
         {
-            "Id": 7779,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -69,11 +60,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 7780,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -83,13 +72,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Patriot": [
         {
-            "Id": 7781,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -99,13 +86,11 @@
             "Trans": null,
             "Notes": "Towing Package Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Wrangler": [
         {
-            "Id": 7782,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -115,13 +100,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Wrangler Unlimited": [
         {
-            "Id": 7783,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -131,13 +114,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Wrangler Unlimited Rubicon": [
         {
-            "Id": 7784,
             "Year": 2011,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Jeep",
@@ -147,7 +128,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

@@ -1,7 +1,6 @@
 {
     "MDX": [
         {
-            "Id": 27487,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Some models may require tow package for max tow capacity. See manufacturer or dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "MDX SH": [
         {
-            "Id": 27488,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "Cooling or Other Accessory Package Required. Tow package or upgraded tow package required for maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

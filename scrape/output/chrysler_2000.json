@@ -1,7 +1,6 @@
 {
     "Town and Country": [
         {
-            "Id": 25974,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "Chrysler",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Requires trailer-towing package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 25975,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "Chrysler",
@@ -25,7 +22,6 @@
             "Trans": null,
             "Notes": "Requires trailer-towing package; Requires a Class II load-equilizing hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Baja/Sport/Turbo": [
         {
-            "Id": 20636,
             "Year": 2004,
             "TypeDesc": "Truck",
             "MfgDesc": "Subaru",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         }
     ],
     "Forester/Legacry Outback": [
         {
-            "Id": 20638,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -27,11 +24,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         },
         {
-            "Id": 20637,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -41,13 +36,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         }
     ],
     "Legacy Outback WAGON": [
         {
-            "Id": 20639,
             "Year": 2004,
             "TypeDesc": "Station Wagon",
             "MfgDesc": "Subaru",
@@ -57,7 +50,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         }
     ]

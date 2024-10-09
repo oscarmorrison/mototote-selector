@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 28651,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Honda",
@@ -11,11 +10,9 @@
             "Trans": "10 Speed Automatic",
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity. Requires surge-type or electric trailer brakes and available Honda accessory towing package and hitch ball. Premium fuel recommended when towing.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 28650,
             "Year": 2019,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Honda",
@@ -25,13 +22,11 @@
             "Trans": "9 Speed Automatic",
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity. Requires surge-type or electric trailer brakes and available Honda accessory towing package and hitch ball. Premium fuel recommended when towing.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         }
     ],
     "Pilot": [
         {
-            "Id": 28652,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -41,11 +36,9 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity. Towing requires Honda accessory towing kit, trailer harness and hitch ball.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 28653,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -55,13 +48,11 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity. Towing requires Honda accessory towing kit, trailer harness and hitch ball.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Ridgeline": [
         {
-            "Id": 28654,
             "Year": 2019,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -71,11 +62,9 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity. Towing requires Honda accessory towing kit, trailer harness and hitch ball.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 28655,
             "Year": 2019,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -85,7 +74,6 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity. Towing requires Honda accessory towing kit, trailer harness and hitch ball.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

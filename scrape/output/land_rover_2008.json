@@ -1,7 +1,6 @@
 {
     "Land Rover LR2": [
         {
-            "Id": 12698,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Land Rover LR3": [
         {
-            "Id": 12699,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7716
         }
     ],
     "Range Rover": [
         {
-            "Id": 12700,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -43,13 +38,11 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7716
         }
     ],
     "Range Rover Sport": [
         {
-            "Id": 12701,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -59,7 +52,6 @@
             "Trans": null,
             "Notes": "Trailer Brakes Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7716
         }
     ]

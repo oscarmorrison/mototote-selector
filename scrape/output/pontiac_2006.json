@@ -1,7 +1,6 @@
 {
     "Montana": [
         {
-            "Id": 16025,
             "Year": 2006,
             "TypeDesc": "Van",
             "MfgDesc": "Pontiac",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Towing Package Required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Torrent": [
         {
-            "Id": 16026,
             "Year": 2006,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Pontiac",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

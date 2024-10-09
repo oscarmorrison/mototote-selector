@@ -1,7 +1,6 @@
 {
     "GX 470": [
         {
-            "Id": 20590,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "LX 470": [
         {
-            "Id": 20591,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Without Tow Prep package 5000 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6500
         }
     ],
     "RX 330": [
         {
-            "Id": 20592,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -43,7 +38,6 @@
             "Trans": null,
             "Notes": "Tow Prep package required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

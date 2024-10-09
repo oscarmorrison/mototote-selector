@@ -1,7 +1,6 @@
 {
     "Durango": [
         {
-            "Id": 5130,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 5128,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 5131,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         },
         {
-            "Id": 5129,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -53,13 +46,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         }
     ],
     "Grand Caravan": [
         {
-            "Id": 5125,
             "Year": 2013,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Dodge",
@@ -69,13 +60,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3600
         }
     ],
     "Journey": [
         {
-            "Id": 5126,
             "Year": 2013,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -85,7 +74,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         }
     ]

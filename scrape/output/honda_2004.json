@@ -1,7 +1,6 @@
 {
     "Odyssey LX, EX": [
         {
-            "Id": 20565,
             "Year": 2004,
             "TypeDesc": "Van",
             "MfgDesc": "Honda",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Requires surge-type or electric trailer brakes, load distribution hitch and transmission oil cooler.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pilot LX, EX": [
         {
-            "Id": 20566,
             "Year": 2004,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "Requires surge-type or electric trailer brakes, load distribution hitch and transmission oil cooler. Boat Towing capacity is 4500 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

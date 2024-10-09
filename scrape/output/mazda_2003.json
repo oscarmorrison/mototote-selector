@@ -1,7 +1,6 @@
 {
     "B2300": [
         {
-            "Id": 22229,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -11,13 +10,11 @@
             "Trans": "Automatic",
             "Notes": "Manual transmission version tows less than 2000 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2240
         }
     ],
     "B3000 Cab Plus": [
         {
-            "Id": 22235,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -27,11 +24,9 @@
             "Trans": "Automatic",
             "Notes": "Rating same for Cab Plus 4 models.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3620
         },
         {
-            "Id": 22234,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -41,11 +36,9 @@
             "Trans": "Manual",
             "Notes": "Rating same for Cab Plus 4 models.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2160
         },
         {
-            "Id": 22233,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -55,11 +48,9 @@
             "Trans": "Automatic",
             "Notes": "Rating same for Cab Plus 4 models.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3800
         },
         {
-            "Id": 22232,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -69,13 +60,11 @@
             "Trans": "Manual",
             "Notes": "Rating same for Cab Plus 4 models.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2340
         }
     ],
     "B3000 Regular Cab": [
         {
-            "Id": 22231,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -85,11 +74,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4000
         },
         {
-            "Id": 22230,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -99,13 +86,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2540
         }
     ],
     "B4000": [
         {
-            "Id": 22239,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -115,11 +100,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5500
         },
         {
-            "Id": 22238,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -129,11 +112,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3040
         },
         {
-            "Id": 22237,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -143,11 +124,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5740
         },
         {
-            "Id": 22236,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -157,13 +136,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3280
         }
     ],
     "Tribute": [
         {
-            "Id": 22240,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -173,7 +150,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Sedona": [
         {
-            "Id": 17265,
             "Year": 2018,
             "TypeDesc": "Van",
             "MfgDesc": "Kia",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Sorento": [
         {
-            "Id": 17267,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Kia",
@@ -27,11 +24,9 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 17266,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Kia",
@@ -41,11 +36,9 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 17269,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Kia",
@@ -55,11 +48,9 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 17268,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Kia",
@@ -69,13 +60,11 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Sportage": [
         {
-            "Id": 17270,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Kia",
@@ -85,7 +74,6 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity / with trailer brakes.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

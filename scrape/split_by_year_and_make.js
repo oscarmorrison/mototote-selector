@@ -15,7 +15,9 @@ function organizeByYearMakeAndModel(data) {
         const year = vehicle.Year;
         const make = vehicle.Make;
         const modelTrim = vehicle.ModelTrim;
-        const towingCapacity = vehicle.TowingCapacity;
+        const trimData = vehicle.TowingCapacity;
+        delete trimData.GearRatio;
+        delete trimData.Id;
 
         // Initialize the structure if it doesn't exist
         if (!organizedData[year]) {
@@ -28,8 +30,12 @@ function organizeByYearMakeAndModel(data) {
             organizedData[year][make][modelTrim] = [];
         }
 
-        // Push the towing capacity variations into the model's entry, keyed by the model name
-        organizedData[year][make][modelTrim].push(towingCapacity);
+        // Check for duplicates before pushing
+        const existingTrimData = organizedData[year][make][modelTrim];
+        if (!existingTrimData.some(existing => JSON.stringify(existing) === JSON.stringify(trimData))) {
+            // Push the towing capacity variations into the model's entry, keyed by the model name
+            existingTrimData.push(trimData);
+        }
     });
 
     return organizedData;

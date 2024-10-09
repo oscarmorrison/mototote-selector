@@ -1,7 +1,6 @@
 {
     "Durango (AWD)": [
         {
-            "Id": 497708,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -11,11 +10,9 @@
             "Trans": "TorqueFlite 8-Speed Automatic (8HP70)",
             "Notes": "Requires: Optional towing package to achieve maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.09",
             "TowCapacity": 7200
         },
         {
-            "Id": 497711,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -25,11 +22,9 @@
             "Trans": "TorqueFlite 8-Speed Automatic (8HP70)",
             "Notes": "Requires: Tow N Go package.  Optional towing package to achieve maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.09",
             "TowCapacity": 8700
         },
         {
-            "Id": 497712,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -39,11 +34,9 @@
             "Trans": "TorqueFlite 8-Speed Automatic (8HP95)",
             "Notes": "Requires: SRT Hellcat trim level. Optional towing package to achieve maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.70",
             "TowCapacity": 8700
         },
         {
-            "Id": 497709,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -53,11 +46,9 @@
             "Trans": "TorqueFlite 8-Speed Automatic (8HP70)",
             "Notes": "Requires: SRT 392 trim level. Optional towing package to achieve maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.70",
             "TowCapacity": 8700
         },
         {
-            "Id": 497707,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -67,13 +58,11 @@
             "Trans": "TorqueFlite 8-Speed Automatic (845TE)",
             "Notes": "Requires: Optional towing package to achieve maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.45",
             "TowCapacity": 6200
         }
     ],
     "Durango (RWD)": [
         {
-            "Id": 497706,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -83,11 +72,9 @@
             "Trans": "TorqueFlite 8-Speed Automatic (8HP70)",
             "Notes": "Requires: Optional towing package to achieve maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.09",
             "TowCapacity": 7400
         },
         {
-            "Id": 497705,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -97,7 +84,6 @@
             "Trans": "TorqueFlite 8-Speed Automatic (845TE)",
             "Notes": "Requires: Optional towing package to achieve maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.27",
             "TowCapacity": 6200
         }
     ]

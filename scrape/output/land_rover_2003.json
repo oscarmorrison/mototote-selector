@@ -1,7 +1,6 @@
 {
     "Discovery": [
         {
-            "Id": 22219,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5500
         }
     ],
     "Freelander": [
         {
-            "Id": 22221,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Maximum trailer weight without brakes is 1650.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         }
     ],
     "Ranger Rover": [
         {
-            "Id": 22220,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -43,7 +38,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7700
         }
     ]

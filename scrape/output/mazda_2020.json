@@ -1,7 +1,6 @@
 {
     "CX-5 (AWD)": [
         {
-            "Id": 498175,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -11,13 +10,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Requires: Sport, Touring and Grand Touring AWD trims.  Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.62",
             "TowCapacity": 2000
         }
     ],
     "CX-5 (FWD)": [
         {
-            "Id": 29149,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -27,13 +24,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Requires: Sport, Touring and Grand Touring FWD trims.  Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 2000
         }
     ],
     "CX-5 (Turbo AWD)": [
         {
-            "Id": 498189,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -43,13 +38,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Requires: GTR or Signature trim level.  Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.41",
             "TowCapacity": 2000
         }
     ],
     "CX-9  (AWD)": [
         {
-            "Id": 411243,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -59,13 +52,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "CX-9 (FWD)": [
         {
-            "Id": 29151,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -75,13 +66,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "CX5": [
         {
-            "Id": 29150,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -91,7 +80,6 @@
             "Trans": "",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         }
     ]

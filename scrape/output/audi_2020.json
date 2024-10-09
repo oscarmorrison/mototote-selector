@@ -1,7 +1,6 @@
 {
     "e-tron": [
         {
-            "Id": 28994,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -11,13 +10,11 @@
             "Trans": "1-Speed Direct-Drive Automatic",
             "Notes": "Required: Towing Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 4000
         }
     ],
     "Q3": [
         {
-            "Id": 498090,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -27,13 +24,11 @@
             "Trans": "8-Speed Tiptronic Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Q5": [
         {
-            "Id": 28995,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -43,13 +38,11 @@
             "Trans": "7-Speed S tronic Dual-Clutch Automatic",
             "Notes": "Note: Add Trailer hitch to experience max tow capacity of 4400 pounds.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 4400
         }
     ],
     "Q5 55e (Plug-In Hybrid)": [
         {
-            "Id": 498105,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -59,13 +52,11 @@
             "Trans": "7-Speed S tronic Automatic",
             "Notes": "Note for California Only: The Audi Q5e has a plug-in hybrid drive system that is not designed technically for towing a trailer or the installation of a trailer hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         }
     ],
     "Q7": [
         {
-            "Id": 28996,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -75,11 +66,9 @@
             "Trans": "8-Speed Tiptronic Automatic",
             "Notes": "Require: 45 TFSI Engine.  Note: Some models may require tow package for max tow capacity. See mfg/dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 4400
         },
         {
-            "Id": 28997,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -89,13 +78,11 @@
             "Trans": "8-Speed Tiptronic Automatic",
             "Notes": "Requires: 55 TFSI Engine and Towing Package that includes the tow hitch receiver and towing seven pin connector.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7700
         }
     ],
     "Q8": [
         {
-            "Id": 28998,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -105,13 +92,11 @@
             "Trans": "8-Speed Tiptronic Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7700
         }
     ],
     "RS Q8": [
         {
-            "Id": 498080,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -121,13 +106,11 @@
             "Trans": "8-Speed Tiptronic Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7700
         }
     ],
     "SQ5": [
         {
-            "Id": 28999,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -137,13 +120,11 @@
             "Trans": "8-Speed Tiptronic Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 4400
         }
     ],
     "SQ7": [
         {
-            "Id": 498086,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -153,13 +134,11 @@
             "Trans": "8-Speed Tiptronic Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7700
         }
     ],
     "SQ8": [
         {
-            "Id": 498013,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Audi",
@@ -169,7 +148,6 @@
             "Trans": "8-Speed Tiptronic Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7700
         }
     ]

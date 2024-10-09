@@ -1,7 +1,6 @@
 {
     "CX-5": [
         {
-            "Id": 498210,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -11,13 +10,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.62",
             "TowCapacity": 2000
         }
     ],
     "CX-5 (Turbo)": [
         {
-            "Id": 498213,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -27,13 +24,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.41",
             "TowCapacity": 2000
         }
     ],
     "CX-9  (AWD)": [
         {
-            "Id": 498216,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -43,13 +38,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "CX-9 (FWD)": [
         {
-            "Id": 498215,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -59,7 +52,6 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Note: When towing, use of gasoline with a octane rating of 91 or higher is recommended.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ]

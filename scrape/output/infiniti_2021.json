@@ -1,7 +1,6 @@
 {
     "QX50": [
         {
-            "Id": 498721,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -11,13 +10,11 @@
             "Trans": "Continuously Variable Transmission with Manual Shift Mode",
             "Notes": "Requires: Tow Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3000
         }
     ],
     "QX80": [
         {
-            "Id": 498733,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -27,11 +24,9 @@
             "Trans": "7-Speed Automatic",
             "Notes": "Note: Use of a weight-distributing hitch system is recommended when towing over 5000 pounds (2267 kg).",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 8500
         },
         {
-            "Id": 498731,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -41,7 +36,6 @@
             "Trans": "7-Speed Automatic",
             "Notes": "Note: Use of a weight-distributing hitch system is recommended when towing over 5000 pounds (2267 kg).",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 8500
         }
     ]

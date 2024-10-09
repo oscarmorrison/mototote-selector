@@ -1,7 +1,6 @@
 {
     "Mark LT": [
         {
-            "Id": 14081,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Lincoln",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5316
         },
         {
-            "Id": 14082,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Lincoln",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5602
         }
     ],
     "Navigator": [
         {
-            "Id": 14083,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -41,11 +36,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8950
         },
         {
-            "Id": 14084,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -55,7 +48,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8750
         }
     ]

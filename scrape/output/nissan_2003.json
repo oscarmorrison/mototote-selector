@@ -1,7 +1,6 @@
 {
     "Frontier": [
         {
-            "Id": 22256,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -11,11 +10,9 @@
             "Trans": "Manual",
             "Notes": "Requires factory wiring harness.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 22257,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -25,11 +22,9 @@
             "Trans": "Manual",
             "Notes": "Requires factory wiring harness; Supercharged, crew cab and longbed models are rated to tow 4902 lbs. Manual-transmission models are rated to tow 3500 lbs, except supercharged, crew cab and longbed models, which are rated to tow 100 lbs. less.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 22255,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Nissan",
@@ -39,13 +34,11 @@
             "Trans": "Automatic",
             "Notes": "Requires factory wiring harness.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         }
     ],
     "Murano": [
         {
-            "Id": 22258,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -55,13 +48,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 0
         }
     ],
     "Pathfinder": [
         {
-            "Id": 22260,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -71,11 +62,9 @@
             "Trans": "Automatic",
             "Notes": "Requires factory wiring harness.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 22259,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -85,13 +74,11 @@
             "Trans": "Manual",
             "Notes": "Requires factory wiring harness.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Xterra": [
         {
-            "Id": 22262,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -101,11 +88,9 @@
             "Trans": "Manual",
             "Notes": "Requires factory wiring harness.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         },
         {
-            "Id": 22263,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -115,11 +100,9 @@
             "Trans": "Automatic",
             "Notes": "Requires factory wiring harness.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 22261,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -129,7 +112,6 @@
             "Trans": "Automatic",
             "Notes": "Requires factory wiring harness.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

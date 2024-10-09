@@ -1,7 +1,6 @@
 {
     "Ascender": [
         {
-            "Id": 22208,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Isuzu",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5300
         },
         {
-            "Id": 22209,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Isuzu",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7000
         }
     ],
     "Axiom": [
         {
-            "Id": 22210,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Isuzu",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required on any trailer heavier than 3500 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4500
         }
     ],
     "Rodeo": [
         {
-            "Id": 22204,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Isuzu",
@@ -57,11 +50,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         },
         {
-            "Id": 22207,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Isuzu",
@@ -71,13 +62,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required on any trailer heavier than 3500 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4500
         }
     ],
     "Rodeo Sport": [
         {
-            "Id": 22205,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Isuzu",
@@ -87,11 +76,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         },
         {
-            "Id": 22206,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Isuzu",
@@ -101,7 +88,6 @@
             "Trans": null,
             "Notes": "Trailer brakes required on any trailer heavier than 3500 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4500
         }
     ]

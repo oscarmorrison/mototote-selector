@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 17254,
             "Year": 2018,
             "TypeDesc": "Van",
             "MfgDesc": "Honda",
@@ -11,11 +10,9 @@
             "Trans": "9 Speed Automatic",
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         },
         {
-            "Id": 17255,
             "Year": 2018,
             "TypeDesc": "Van",
             "MfgDesc": "Honda",
@@ -25,13 +22,11 @@
             "Trans": "10 Speed Automatic",
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pilot": [
         {
-            "Id": 17256,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -41,11 +36,9 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 17257,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -55,13 +48,11 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Ridgeline": [
         {
-            "Id": 17258,
             "Year": 2018,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -71,11 +62,9 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         },
         {
-            "Id": 17259,
             "Year": 2018,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -85,7 +74,6 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

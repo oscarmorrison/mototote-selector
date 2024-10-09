@@ -1,7 +1,6 @@
 {
     "Aztek": [
         {
-            "Id": 24010,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Pontiac",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Montana": [
         {
-            "Id": 24011,
             "Year": 2002,
             "TypeDesc": "Van",
             "MfgDesc": "Pontiac",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 498567,
             "Year": 2021,
             "TypeDesc": "Minivan",
             "MfgDesc": "Honda",
@@ -11,13 +10,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Towing Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.61",
             "TowCapacity": 3500
         }
     ],
     "Passport": [
         {
-            "Id": 498569,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -27,11 +24,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 3500
         },
         {
-            "Id": 498568,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -41,13 +36,11 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: ATF Cooler.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 5000
         }
     ],
     "Pilot": [
         {
-            "Id": 498571,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -57,11 +50,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: ATF Cooler for max towing of 5000 pounds.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 5000
         },
         {
-            "Id": 498570,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -71,13 +62,11 @@
             "Trans": "9-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 3500
         }
     ],
     "Ridgeline": [
         {
-            "Id": 498573,
             "Year": 2021,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -87,7 +76,6 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Heavy-Duty Transmission Cooler and Towing requires accessory towing equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 5000
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Jimmy": [
         {
-            "Id": 26672,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -11,11 +10,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.08:1",
             "TowCapacity": 4600
         },
         {
-            "Id": 26673,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -25,25 +22,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5600
         },
         {
-            "Id": 26676,
-            "Year": 2000,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Jimmy",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "4.3L V-6",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 5600
-        },
-        {
-            "Id": 26674,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -53,11 +34,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 4000
         },
         {
-            "Id": 26675,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -67,11 +46,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 4500
         },
         {
-            "Id": 26669,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -81,11 +58,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.08:1",
             "TowCapacity": 4900
         },
         {
-            "Id": 26670,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -95,11 +70,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5900
         },
         {
-            "Id": 26671,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -109,13 +82,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 4400
         }
     ],
     "Safari": [
         {
-            "Id": 26680,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -125,11 +96,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5300
         },
         {
-            "Id": 26681,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -139,11 +108,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5800
         },
         {
-            "Id": 26677,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -153,11 +120,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23:1",
             "TowCapacity": 5100
         },
         {
-            "Id": 26678,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -167,11 +132,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5600
         },
         {
-            "Id": 26679,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -181,13 +144,11 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 6100
         }
     ],
     "Savana G1500": [
         {
-            "Id": 26682,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -197,11 +158,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 4900
         },
         {
-            "Id": 26683,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -211,11 +170,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5400
         },
         {
-            "Id": 26684,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -225,11 +182,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5800
         },
         {
-            "Id": 26685,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -239,11 +194,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 6300
         },
         {
-            "Id": 26686,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -253,13 +206,11 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7300
         }
     ],
     "Savana G2500": [
         {
-            "Id": 26687,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -269,11 +220,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 4700
         },
         {
-            "Id": 26688,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -283,11 +232,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 5400
         },
         {
-            "Id": 26689,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -297,11 +244,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5600
         },
         {
-            "Id": 26690,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -311,11 +256,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 6100
         },
         {
-            "Id": 26691,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -325,11 +268,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7100
         },
         {
-            "Id": 26692,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -339,11 +280,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8300
         },
         {
-            "Id": 26693,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -353,13 +292,11 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8900
         }
     ],
     "Savana G3500": [
         {
-            "Id": 26694,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -369,11 +306,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 6600
         },
         {
-            "Id": 26695,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -383,11 +318,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8100
         },
         {
-            "Id": 26696,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -397,11 +330,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8800
         },
         {
-            "Id": 26700,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -411,25 +342,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8900
         },
         {
-            "Id": 26701,
-            "Year": 2000,
-            "TypeDesc": "Van",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Savana G3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": null,
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8800
-        },
-        {
-            "Id": 26697,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -439,11 +354,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 7900
         },
         {
-            "Id": 26698,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -453,11 +366,9 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9400
         },
         {
-            "Id": 26699,
             "Year": 2000,
             "TypeDesc": "Van",
             "MfgDesc": "GMC",
@@ -467,13 +378,11 @@
             "Trans": null,
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         }
     ],
     "Sierra 1500": [
         {
-            "Id": 26707,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -483,11 +392,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5100
         },
         {
-            "Id": 26708,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -497,11 +404,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5600
         },
         {
-            "Id": 26709,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -511,11 +416,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 4100
         },
         {
-            "Id": 26710,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -525,11 +428,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 4600
         },
         {
-            "Id": 26704,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -539,11 +440,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.08:1",
             "TowCapacity": 4900
         },
         {
-            "Id": 26705,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -553,11 +452,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5400
         },
         {
-            "Id": 26706,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -567,11 +464,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5900
         },
         {
-            "Id": 26702,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -581,11 +476,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.08:1",
             "TowCapacity": 3900
         },
         {
-            "Id": 26703,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -595,11 +488,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 4400
         },
         {
-            "Id": 26716,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -609,11 +500,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7500
         },
         {
-            "Id": 26718,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -623,11 +512,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8500
         },
         {
-            "Id": 26715,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -637,11 +524,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5500
         },
         {
-            "Id": 26717,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -651,11 +536,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 6500
         },
         {
-            "Id": 26712,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -665,11 +548,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 6800
         },
         {
-            "Id": 26714,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -679,11 +560,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7800
         },
         {
-            "Id": 26711,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -693,11 +572,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 4800
         },
         {
-            "Id": 26713,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -707,11 +584,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 5800
         },
         {
-            "Id": 26721,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -721,11 +596,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8500
         },
         {
-            "Id": 26722,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -735,11 +608,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 9500
         },
         {
-            "Id": 26719,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -749,11 +620,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 7800
         },
         {
-            "Id": 26720,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -763,13 +632,11 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8800
         }
     ],
     "Sierra 2500": [
         {
-            "Id": 26573,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -779,11 +646,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 6800
         },
         {
-            "Id": 26585,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -793,95 +658,33 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
+            "TowCapacity": 8300
+        },
+        {
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500",
+            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
+            "Engine": "5.7L V-8",
+            "Trans": "Manual",
+            "Notes": "Requires heavy-duty tow package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
             "TowCapacity": 6800
         },
         {
-            "Id": 26574,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
             "MakeTrim": "Sierra 2500",
             "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
             "Engine": "5.7L V-8",
-            "Trans": "Automatic",
+            "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8300
         },
         {
-            "Id": 26586,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.7L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8300
-        },
-        {
-            "Id": 26597,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 6800
-        },
-        {
-            "Id": 26609,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 6800
-        },
-        {
-            "Id": 26598,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8300
-        },
-        {
-            "Id": 26610,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8300
-        },
-        {
-            "Id": 26571,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -891,11 +694,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7100
         },
         {
-            "Id": 26583,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -905,95 +706,33 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
+            "TowCapacity": 8600
+        },
+        {
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 2500",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.7L V-8",
+            "Trans": "Manual",
+            "Notes": "Requires heavy-duty tow package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
             "TowCapacity": 7100
         },
         {
-            "Id": 26572,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
             "MakeTrim": "Sierra 2500",
             "DriveTypeDesc": "Not Available",
             "Engine": "5.7L V-8",
-            "Trans": "Automatic",
+            "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8600
         },
         {
-            "Id": 26584,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8600
-        },
-        {
-            "Id": 26595,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 7100
-        },
-        {
-            "Id": 26607,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 7100
-        },
-        {
-            "Id": 26596,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8600
-        },
-        {
-            "Id": 26608,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8600
-        },
-        {
-            "Id": 26576,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1003,53 +742,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9000
         },
         {
-            "Id": 26588,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 9000
-        },
-        {
-            "Id": 26582,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9000
-        },
-        {
-            "Id": 26594,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9000
-        },
-        {
-            "Id": 26600,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1059,53 +754,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9000
         },
         {
-            "Id": 26612,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 9000
-        },
-        {
-            "Id": 26606,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9000
-        },
-        {
-            "Id": 26618,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9000
-        },
-        {
-            "Id": 26575,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1115,53 +766,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9300
         },
         {
-            "Id": 26587,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 9300
-        },
-        {
-            "Id": 26581,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9300
-        },
-        {
-            "Id": 26593,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9300
-        },
-        {
-            "Id": 26599,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1171,53 +778,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9300
         },
         {
-            "Id": 26611,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 9300
-        },
-        {
-            "Id": 26605,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9300
-        },
-        {
-            "Id": 26617,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9300
-        },
-        {
-            "Id": 26579,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1227,11 +790,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9500
         },
         {
-            "Id": 26591,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1241,25 +802,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 9500
-        },
-        {
-            "Id": 26580,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "7.4L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26592,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1269,11 +814,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11500
         },
         {
-            "Id": 26603,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1283,11 +826,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9500
         },
         {
-            "Id": 26615,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1297,25 +838,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 9500
-        },
-        {
-            "Id": 26604,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "7.4L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26616,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1325,11 +850,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11500
         },
         {
-            "Id": 26577,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1339,11 +862,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9900
         },
         {
-            "Id": 26589,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1353,25 +874,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 9900
-        },
-        {
-            "Id": 26578,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "7.4L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26590,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1381,11 +886,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11900
         },
         {
-            "Id": 26601,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1395,11 +898,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9900
         },
         {
-            "Id": 26613,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1409,25 +910,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 9900
-        },
-        {
-            "Id": 26602,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 2500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "7.4L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26614,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1437,13 +922,11 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11900
         }
     ],
     "Sierra 2500 Heavy Duty": [
         {
-            "Id": 26725,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1453,11 +936,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8800
         },
         {
-            "Id": 26727,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1467,11 +948,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10800
         },
         {
-            "Id": 26726,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1481,11 +960,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8800
         },
         {
-            "Id": 26728,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1495,11 +972,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10800
         },
         {
-            "Id": 26723,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1509,11 +984,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9200
         },
         {
-            "Id": 26724,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1523,13 +996,11 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9200
         }
     ],
     "Sierra 2500 Light Duty": [
         {
-            "Id": 26729,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1539,11 +1010,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 7400
         },
         {
-            "Id": 26730,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1553,11 +1022,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8400
         },
         {
-            "Id": 26731,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1567,11 +1034,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 9400
         },
         {
-            "Id": 26732,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1581,11 +1046,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 9200
         },
         {
-            "Id": 26733,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1595,11 +1058,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11200
         },
         {
-            "Id": 26734,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1609,13 +1070,11 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11200
         }
     ],
     "Sierra 3500": [
         {
-            "Id": 26621,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1625,53 +1084,21 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8300
         },
         {
-            "Id": 26626,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
             "MakeTrim": "Sierra 3500",
             "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
             "Engine": "5.7L V-8",
-            "Trans": "Automatic",
+            "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8300
         },
         {
-            "Id": 26631,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8300
-        },
-        {
-            "Id": 26636,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8300
-        },
-        {
-            "Id": 26619,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1681,11 +1108,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8600
         },
         {
-            "Id": 26624,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1695,39 +1120,21 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
+            "TowCapacity": 10000
+        },
+        {
+            "Year": 2000,
+            "TypeDesc": "Truck",
+            "MfgDesc": "GMC",
+            "MakeTrim": "Sierra 3500",
+            "DriveTypeDesc": "Not Available",
+            "Engine": "5.7L V-8",
+            "Trans": "Manual",
+            "Notes": "Requires heavy-duty tow package.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
             "TowCapacity": 8600
         },
         {
-            "Id": 26620,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26625,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26629,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1737,53 +1144,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8600
-        },
-        {
-            "Id": 26634,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 8600
-        },
-        {
-            "Id": 26630,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26635,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "5.7L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26623,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1793,25 +1156,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 9000
         },
         {
-            "Id": 26628,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9000
-        },
-        {
-            "Id": 26633,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1821,25 +1168,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 9000
         },
         {
-            "Id": 26638,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9000
-        },
-        {
-            "Id": 26639,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1849,11 +1180,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 10000
         },
         {
-            "Id": 26622,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1863,25 +1192,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 9300
         },
         {
-            "Id": 26627,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9300
-        },
-        {
-            "Id": 26649,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1891,11 +1204,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 10000
         },
         {
-            "Id": 26632,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1905,25 +1216,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 9300
         },
         {
-            "Id": 26637,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
-            "TowCapacity": 9300
-        },
-        {
-            "Id": 26642,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1933,11 +1228,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26647,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1947,11 +1240,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11500
         },
         {
-            "Id": 26648,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1961,39 +1252,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
             "TowCapacity": 13500
         },
         {
-            "Id": 26643,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "7.4L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.63:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26644,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "7.4L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "5.13:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26652,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2003,11 +1264,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26657,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2017,11 +1276,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11500
         },
         {
-            "Id": 26658,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2031,39 +1288,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
             "TowCapacity": 13500
         },
         {
-            "Id": 26653,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "7.4L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.63:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26654,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "7.4L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "5.13:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26640,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2073,11 +1300,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26645,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2087,11 +1312,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11800
         },
         {
-            "Id": 26641,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2101,25 +1324,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26646,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "7.4L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
             "TowCapacity": 13800
         },
         {
-            "Id": 26650,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2129,11 +1336,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26655,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2143,11 +1348,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 11800
         },
         {
-            "Id": 26651,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2157,27 +1360,11 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
-            "TowCapacity": 10000
-        },
-        {
-            "Id": 26656,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "7.4L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.56:1",
             "TowCapacity": 13800
         }
     ],
     "Sierra 3500 Heavy Duty": [
         {
-            "Id": 26659,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2187,11 +1374,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.63:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26660,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2201,25 +1386,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.63:1",
             "TowCapacity": 11000
         },
         {
-            "Id": 26662,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500 Heavy Duty",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "5.13:1",
-            "TowCapacity": 11000
-        },
-        {
-            "Id": 26664,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2229,11 +1398,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.63:1",
             "TowCapacity": 10000
         },
         {
-            "Id": 26665,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2243,25 +1410,9 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.63:1",
             "TowCapacity": 11000
         },
         {
-            "Id": 26667,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500 Heavy Duty",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "6.5L Turbo Diesel",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "5.13:1",
-            "TowCapacity": 11000
-        },
-        {
-            "Id": 26661,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2271,25 +1422,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.63:1",
             "TowCapacity": 13000
         },
         {
-            "Id": 26663,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500 Heavy Duty",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "7.4L V-8",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "5.13:1",
-            "TowCapacity": 13000
-        },
-        {
-            "Id": 26666,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2299,27 +1434,11 @@
             "Trans": "Manual",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.63:1",
-            "TowCapacity": 13000
-        },
-        {
-            "Id": 26668,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500 Heavy Duty",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "7.4L V-8",
-            "Trans": "Manual",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "5.13:1",
             "TowCapacity": 13000
         }
     ],
     "Sonoma": [
         {
-            "Id": 26737,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2329,11 +1448,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 3200
         },
         {
-            "Id": 26735,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2343,11 +1460,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 2000
         },
         {
-            "Id": 26736,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2357,11 +1472,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 2300
         },
         {
-            "Id": 26740,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2371,11 +1484,9 @@
             "Trans": "Automatic",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.08:1",
             "TowCapacity": 4900
         },
         {
-            "Id": 26741,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2385,25 +1496,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 5900
         },
         {
-            "Id": 26746,
-            "Year": 2000,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sonoma",
-            "DriveTypeDesc": "4 Wheel Drive / All-Wheel Drive",
-            "Engine": "4.3L V-6",
-            "Trans": "Automatic",
-            "Notes": "Requires heavy-duty tow package.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
-            "TowCapacity": 5900
-        },
-        {
-            "Id": 26743,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2413,11 +1508,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.08:1",
             "TowCapacity": 3900
         },
         {
-            "Id": 26744,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2427,11 +1520,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 4400
         },
         {
-            "Id": 26745,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2441,11 +1532,9 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 4900
         },
         {
-            "Id": 26738,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2455,11 +1544,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.08:1",
             "TowCapacity": 5400
         },
         {
-            "Id": 26739,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2469,11 +1556,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 6400
         },
         {
-            "Id": 26742,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2483,13 +1568,11 @@
             "Trans": "Manual",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.08:1",
             "TowCapacity": 4200
         }
     ],
     "Yukon 1500": [
         {
-            "Id": 26749,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2499,11 +1582,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 6800
         },
         {
-            "Id": 26750,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2513,11 +1594,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 7800
         },
         {
-            "Id": 26747,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2527,11 +1606,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 6100
         },
         {
-            "Id": 26748,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2541,11 +1618,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 7100
         },
         {
-            "Id": 26753,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2555,11 +1630,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 7800
         },
         {
-            "Id": 26754,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2569,11 +1642,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8800
         },
         {
-            "Id": 26751,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2583,11 +1654,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 7100
         },
         {
-            "Id": 26752,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2597,13 +1666,11 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8100
         }
     ],
     "Yukon Denali": [
         {
-            "Id": 26755,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2613,13 +1680,11 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 6600
         }
     ],
     "Yukon XL 1500": [
         {
-            "Id": 26759,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2629,11 +1694,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 7800
         },
         {
-            "Id": 26758,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2643,11 +1706,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 9000
         },
         {
-            "Id": 26756,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2657,11 +1718,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 6600
         },
         {
-            "Id": 26757,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2671,13 +1730,11 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 8000
         }
     ],
     "Yukon XL 2500": [
         {
-            "Id": 26763,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2687,11 +1744,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 8100
         },
         {
-            "Id": 26764,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2701,11 +1756,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10100
         },
         {
-            "Id": 26761,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2715,11 +1768,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42:1",
             "TowCapacity": 8500
         },
         {
-            "Id": 26760,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2729,11 +1780,9 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 8800
         },
         {
-            "Id": 26762,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -2743,7 +1792,6 @@
             "Trans": "Automatic",
             "Notes": "Requires heavy-duty tow package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 10500
         }
     ]

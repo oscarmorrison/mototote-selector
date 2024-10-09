@@ -1,7 +1,6 @@
 {
     "Acadia": [
         {
-            "Id": 509834,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -11,11 +10,9 @@
             "Trans": "9-Speed Automatic (9T60)",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.47",
             "TowCapacity": 1500
         },
         {
-            "Id": 509836,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -25,11 +22,9 @@
             "Trans": "9-Speed Automatic (9T60)",
             "Notes": "Requires: Trailer Towing Package (V92)",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.47",
             "TowCapacity": 3250
         },
         {
-            "Id": 509830,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -39,11 +34,9 @@
             "Trans": "9-Speed Automatic (9T60)",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.47",
             "TowCapacity": 1500
         },
         {
-            "Id": 509832,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -53,11 +46,9 @@
             "Trans": "9-Speed Automatic (9T60)",
             "Notes": "Requires: Trailer Towing Package (V92)",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.47",
             "TowCapacity": 3250
         },
         {
-            "Id": 509835,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -67,11 +58,9 @@
             "Trans": "9-Speed Automatic (9T65)",
             "Notes": "Requires: Trailer Towing Package (V92)",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.49",
             "TowCapacity": 4000
         },
         {
-            "Id": 509837,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -81,11 +70,9 @@
             "Trans": "9-Speed Automatic (9T65)",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.49",
             "TowCapacity": 1000
         },
         {
-            "Id": 509831,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -95,11 +82,9 @@
             "Trans": "9-Speed Automatic (9T65)",
             "Notes": "Requires: Trailer Towing Package (V92)",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.49",
             "TowCapacity": 4000
         },
         {
-            "Id": 509833,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -109,13 +94,11 @@
             "Trans": "9-Speed Automatic (9T65)",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.49",
             "TowCapacity": 1000
         }
     ],
     "Canyon": [
         {
-            "Id": 500808,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -125,11 +108,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: Z82 Trailering Package and G80 limited-slip rear differential.  Note: The weight of passengers, cargo and options or accessories may reduce the amount you can tow.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 7700
         },
         {
-            "Id": 500809,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -139,11 +120,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: ZR2 ot AT4X trim level.  Note: The weight of passengers, cargo and options or accessories may reduce the amount you can tow.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 6000
         },
         {
-            "Id": 500811,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -153,11 +132,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: ZR2 Desert Boss or AT4X Edition One trim level.  Note: The weight of passengers, cargo and options or accessories may reduce the amount you can tow.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 5500
         },
         {
-            "Id": 500806,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -167,11 +144,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The weight of passengers, cargo and options or accessories may reduce the amount you can tow.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 3500
         },
         {
-            "Id": 500807,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -181,13 +156,11 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: Z82 Trailering Package.  Note: The weight of passengers, cargo and options or accessories may reduce the amount you can tow.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 7700
         }
     ],
     "Sierra 1500 Crew Cab Short Bed": [
         {
-            "Id": 500505,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -197,11 +170,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 8900
         },
         {
-            "Id": 500506,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -211,11 +182,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 8600
         },
         {
-            "Id": 500507,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -225,11 +194,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 8600
         },
         {
-            "Id": 500490,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -239,11 +206,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 9200
         },
         {
-            "Id": 500491,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -253,11 +218,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 9100
         },
         {
-            "Id": 500492,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -267,11 +230,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 9100
         },
         {
-            "Id": 500508,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -281,11 +242,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9200
         },
         {
-            "Id": 500510,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -295,11 +254,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 8300
         },
         {
-            "Id": 500511,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -309,11 +266,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 8300
         },
         {
-            "Id": 500509,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -323,11 +278,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 10900
         },
         {
-            "Id": 500512,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -337,11 +290,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 8800
         },
         {
-            "Id": 500513,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -351,11 +302,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 8800
         },
         {
-            "Id": 500493,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -365,11 +314,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9400
         },
         {
-            "Id": 500495,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -379,11 +326,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 8400
         },
         {
-            "Id": 500497,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -393,11 +338,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 8400
         },
         {
-            "Id": 500494,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -407,11 +350,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 11100
         },
         {
-            "Id": 500496,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -421,11 +362,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 9300
         },
         {
-            "Id": 500498,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -435,11 +374,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 9300
         },
         {
-            "Id": 500514,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -449,11 +386,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs. and max trailering capacity is 9,000 lbs.  AT4X max trailering capacity is 8,700 lbs. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8900
         },
         {
-            "Id": 500515,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -463,11 +398,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs and max trailering capacity is 7,400 lbs.  AT4X max trailering capacity is 4,900 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 6400
         },
         {
-            "Id": 500517,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -477,11 +410,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs and max trailering capacity is 7,400 lbs.  AT4X max trailering capacity is 4,900 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 6400
         },
         {
-            "Id": 500522,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -491,11 +422,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 13000
         },
         {
-            "Id": 500516,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -505,11 +434,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 8000
         },
         {
-            "Id": 500518,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -519,11 +446,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 8000
         },
         {
-            "Id": 500519,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -533,11 +458,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8800
         },
         {
-            "Id": 500520,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -547,11 +470,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs. and max trailering capacity is 6,900 lbs. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 6500
         },
         {
-            "Id": 500521,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -561,11 +482,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs. and max trailering capacity is 6,900 lbs. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 6500
         },
         {
-            "Id": 500523,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -575,11 +494,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 13000
         },
         {
-            "Id": 500524,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -589,11 +506,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 8100
         },
         {
-            "Id": 500525,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -603,11 +518,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 8100
         },
         {
-            "Id": 500499,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -617,11 +530,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9200
         },
         {
-            "Id": 500500,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -631,11 +542,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 7600
         },
         {
-            "Id": 500501,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -645,11 +554,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 7600
         },
         {
-            "Id": 500502,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -659,11 +566,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and  20-inch wheels and tires.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 13100
         },
         {
-            "Id": 500503,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -673,11 +578,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and  20-inch wheels and tires.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 8000
         },
         {
-            "Id": 500504,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -687,13 +590,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and  20-inch wheels and tires.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 8000
         }
     ],
     "Sierra 1500 Crew Cab Standard Bed": [
         {
-            "Id": 500528,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -703,11 +604,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 8900
         },
         {
-            "Id": 500529,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -717,11 +616,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 8800
         },
         {
-            "Id": 500530,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -731,11 +628,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 8800
         },
         {
-            "Id": 500531,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -745,11 +640,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9000
         },
         {
-            "Id": 500533,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -759,11 +652,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 7400
         },
         {
-            "Id": 500534,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -773,11 +664,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 7400
         },
         {
-            "Id": 500532,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -787,11 +676,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 10800
         },
         {
-            "Id": 500535,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -801,11 +688,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 8300
         },
         {
-            "Id": 500536,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -815,11 +700,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 8300
         },
         {
-            "Id": 500537,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -829,11 +712,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs. and max trailering capacity is 9,000 lbs. AT4X max trailering capacity is 8,700 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8900
         },
         {
-            "Id": 500538,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -843,11 +724,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs. and max trailering capacity is 7,000 lbs. AT4X max trailering capacity is 8,700 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 6200
         },
         {
-            "Id": 500539,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -857,11 +736,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs. and max trailering capacity is 7,000 lbs. AT4X max trailering capacity is 8,700 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 6200
         },
         {
-            "Id": 500543,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -871,11 +748,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 13000
         },
         {
-            "Id": 500545,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -885,11 +760,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 7700
         },
         {
-            "Id": 500547,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -899,11 +772,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 7700
         },
         {
-            "Id": 500540,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -913,11 +784,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8700
         },
         {
-            "Id": 500541,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -927,11 +796,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs and max trailering capacity is 6,600 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 6000
         },
         {
-            "Id": 500542,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -941,11 +808,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: AT4 max GVWR is 7,100 lbs and max trailering capacity is 6,600 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 6000
         },
         {
-            "Id": 500544,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -955,11 +820,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 12900
         },
         {
-            "Id": 500546,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -969,11 +832,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 7800
         },
         {
-            "Id": 500548,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -983,13 +844,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-inch wheels and tires. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 7800
         }
     ],
     "Sierra 1500 Double Cab Standard Bed": [
         {
-            "Id": 500475,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -999,11 +858,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 8900
         },
         {
-            "Id": 500476,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1013,11 +870,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 8900
         },
         {
-            "Id": 500477,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1027,11 +882,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 8900
         },
         {
-            "Id": 500460,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1041,11 +894,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 9200
         },
         {
-            "Id": 500461,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1055,11 +906,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 9200
         },
         {
-            "Id": 500462,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1069,11 +918,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 9200
         },
         {
-            "Id": 500478,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1083,11 +930,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9300
         },
         {
-            "Id": 500479,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1097,11 +942,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 8200
         },
         {
-            "Id": 500480,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1111,11 +954,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 8200
         },
         {
-            "Id": 500481,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1125,11 +966,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 11000
         },
         {
-            "Id": 500482,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1139,11 +978,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 9600
         },
         {
-            "Id": 500483,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1153,11 +990,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 9600
         },
         {
-            "Id": 500463,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1167,11 +1002,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9400
         },
         {
-            "Id": 500464,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1181,11 +1014,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 8000
         },
         {
-            "Id": 500465,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1195,11 +1026,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 8000
         },
         {
-            "Id": 500466,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1209,11 +1038,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 11200
         },
         {
-            "Id": 500467,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1223,11 +1050,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 9600
         },
         {
-            "Id": 500468,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1237,11 +1062,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 9600
         },
         {
-            "Id": 500484,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1251,11 +1074,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9000
         },
         {
-            "Id": 500485,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1265,11 +1086,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 7300
         },
         {
-            "Id": 500486,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1279,11 +1098,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 7300
         },
         {
-            "Id": 500488,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1293,11 +1110,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-Inch wheels and tires required for 19,000 GCWR.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 8700
         },
         {
-            "Id": 500489,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1307,11 +1122,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-Inch wheels and tires required for 19,000 GCWR.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 8700
         },
         {
-            "Id": 500487,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1321,11 +1134,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-Inch wheels and tires.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "373",
             "TowCapacity": 13000
         },
         {
-            "Id": 500469,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1335,11 +1146,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9300
         },
         {
-            "Id": 500470,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1349,11 +1158,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 7600
         },
         {
-            "Id": 500471,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1363,11 +1170,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 7600
         },
         {
-            "Id": 500472,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1377,11 +1182,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and  20-inch wheels and tires.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 13200
         },
         {
-            "Id": 500473,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1391,11 +1194,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-Inch wheels and tires required for 19,000 GCWR.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 8700
         },
         {
-            "Id": 500474,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1405,13 +1206,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package and 20-Inch wheels and tires required for 19,000 GCWR.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 8700
         }
     ],
     "Sierra 1500 Regular Cab Long Bed": [
         {
-            "Id": 500182,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1421,11 +1220,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 9100
         },
         {
-            "Id": 500183,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1435,11 +1232,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 9100
         },
         {
-            "Id": 500184,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1449,11 +1244,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 9100
         },
         {
-            "Id": 500172,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1463,11 +1256,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 9500
         },
         {
-            "Id": 500173,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1477,11 +1268,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 9400
         },
         {
-            "Id": 500174,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1491,11 +1280,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 9400
         },
         {
-            "Id": 500185,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1505,11 +1292,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9500
         },
         {
-            "Id": 500186,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1519,11 +1304,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 9100
         },
         {
-            "Id": 500187,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1533,11 +1316,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 9100
         },
         {
-            "Id": 500175,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1547,11 +1328,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 9800
         },
         {
-            "Id": 500176,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1561,11 +1340,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.23",
             "TowCapacity": 9700
         },
         {
-            "Id": 500177,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1575,13 +1352,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.23",
             "TowCapacity": 9700
         }
     ],
     "Sierra 1500 Regular Cab Standard Bed": [
         {
-            "Id": 500169,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1591,11 +1366,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 8800
         },
         {
-            "Id": 500170,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1605,11 +1378,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 8800
         },
         {
-            "Id": 500171,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1619,11 +1390,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 8800
         },
         {
-            "Id": 500162,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1633,11 +1402,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 9100
         },
         {
-            "Id": 500163,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1647,11 +1414,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 9000
         },
         {
-            "Id": 500164,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1661,13 +1426,11 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 9000
         }
     ],
     "Sierra 2500 HD Crew Cab Long Bed": [
         {
-            "Id": 505474,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1677,11 +1440,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505473,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1691,11 +1452,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: AT4 max tow rating is 16,270 lbs. and Denali max tow rating is 16,150 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16550
         },
         {
-            "Id": 505477,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1705,11 +1464,9 @@
             "Trans": "Hydra-Matic 6L90 6-Speed Automatic",
             "Notes": "Note: AT4 max tow rating is 16,270 lbs. and Denali max tow rating is 16,150 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16550
         },
         {
-            "Id": 505468,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1719,11 +1476,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505467,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1733,11 +1488,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16840
         },
         {
-            "Id": 505471,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1747,11 +1500,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16840
         },
         {
-            "Id": 505475,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1761,11 +1512,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505476,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1775,11 +1524,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505478,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1789,11 +1536,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505469,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1803,11 +1548,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505470,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1817,11 +1560,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505472,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1831,13 +1572,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         }
     ],
     "Sierra 2500 HD Crew Cab Standard Bed": [
         {
-            "Id": 505462,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1847,11 +1586,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505461,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1861,11 +1598,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: AT4 max tow rating is 16,380 lbs. and Denali max tow rating is 16,260 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16650
         },
         {
-            "Id": 505465,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1875,11 +1610,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: AT4 max tow rating is 16,380 lbs. and Denali max tow rating is 16,260 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16650
         },
         {
-            "Id": 505457,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1889,11 +1622,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505456,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1903,11 +1634,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16940
         },
         {
-            "Id": 505455,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1917,11 +1646,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16940
         },
         {
-            "Id": 505463,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1931,11 +1658,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505464,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1945,11 +1670,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: Denali max tow rating is 17,860 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505466,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1959,11 +1682,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: Denali max tow rating is 17,860 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505458,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1973,11 +1694,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505459,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -1987,11 +1706,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         },
         {
-            "Id": 505460,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2001,13 +1718,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 18500
         }
     ],
     "Sierra 2500 HD Double Cab Long Bed": [
         {
-            "Id": 505452,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2017,11 +1732,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505449,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2031,11 +1744,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16650
         },
         {
-            "Id": 505450,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2045,11 +1756,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16650
         },
         {
-            "Id": 505448,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2059,11 +1768,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505443,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2073,11 +1780,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16930
         },
         {
-            "Id": 505444,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2087,11 +1792,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16930
         },
         {
-            "Id": 505451,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2101,11 +1804,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505453,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2115,11 +1816,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 17750
         },
         {
-            "Id": 505454,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2129,11 +1828,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 17750
         },
         {
-            "Id": 505445,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2143,11 +1840,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505446,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2157,11 +1852,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 18040
         },
         {
-            "Id": 505447,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2171,13 +1864,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 18040
         }
     ],
     "Sierra 2500 HD Double Cab Standard Bed": [
         {
-            "Id": 505439,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2187,11 +1878,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505438,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2201,11 +1890,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16740
         },
         {
-            "Id": 505437,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2215,11 +1902,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16740
         },
         {
-            "Id": 505436,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2229,11 +1914,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505431,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2243,11 +1926,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 17050
         },
         {
-            "Id": 505432,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2257,11 +1938,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 17050
         },
         {
-            "Id": 505440,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2271,11 +1950,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505441,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2285,11 +1962,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 17890
         },
         {
-            "Id": 505442,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2299,11 +1974,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 17890
         },
         {
-            "Id": 505433,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2313,11 +1986,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505434,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2327,11 +1998,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 18200
         },
         {
-            "Id": 505435,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2341,13 +2010,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 18200
         }
     ],
     "Sierra 2500 HD Regular Cab Long Bed": [
         {
-            "Id": 505430,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2357,11 +2024,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505425,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2371,11 +2036,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 17060
         },
         {
-            "Id": 505426,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2385,11 +2048,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 17060
         },
         {
-            "Id": 505424,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2399,11 +2060,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: Towing amounts apply when GVWR is 9,900 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505419,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2413,11 +2072,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: Towing amounts apply when GVWR is 9,900 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 17370
         },
         {
-            "Id": 505420,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2427,11 +2084,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: Towing amounts apply when GVWR is 9,900 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 17370
         },
         {
-            "Id": 505429,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2441,11 +2096,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505427,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2455,11 +2108,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 18190
         },
         {
-            "Id": 505428,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2469,11 +2120,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 18190
         },
         {
-            "Id": 505421,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2483,11 +2132,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505422,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2497,11 +2144,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 18510
         },
         {
-            "Id": 505423,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2511,13 +2156,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 18510
         }
     ],
     "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel": [
         {
-            "Id": 505751,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2527,11 +2170,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505763,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2541,11 +2182,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: Denali max tow rating is 16,010 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 16240
         },
         {
-            "Id": 505752,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2555,11 +2194,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: AT4 max tow rating is 16,210 lbs and Denali max tow rating is 16,090 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16410
         },
         {
-            "Id": 505764,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2569,11 +2206,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: Denali max tow rating is 15,890 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16120
         },
         {
-            "Id": 505755,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2583,11 +2218,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: AT4 max tow rating is 16,210 lbs and Denali max tow rating is 16,090 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16410
         },
         {
-            "Id": 505765,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2597,11 +2230,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: Denali max tow rating is 15,890 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16120
         },
         {
-            "Id": 505745,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2611,11 +2242,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505757,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2625,11 +2254,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 16300
         },
         {
-            "Id": 505746,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2639,11 +2266,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16700
         },
         {
-            "Id": 505758,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2653,11 +2278,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16200
         },
         {
-            "Id": 505747,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2667,11 +2290,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16700
         },
         {
-            "Id": 505759,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2681,11 +2302,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16200
         },
         {
-            "Id": 505753,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2695,25 +2314,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 20000
         },
         {
-            "Id": 505766,
-            "Year": 2023,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-            "DriveTypeDesc": "4 Wheel Drive",
-            "Engine": "Duramax 6.6L V8 Turbo Diesel",
-            "Trans": "Allison 10-Speed Automatic (10L1000)",
-            "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
-            "TowCapacity": 20000
-        },
-        {
-            "Id": 505754,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2723,11 +2326,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: AT4 max tow rating is 21,010 lbs. and Denali max tow rating is 20,890 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 21040
         },
         {
-            "Id": 505767,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2737,11 +2338,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: Denali max tow rating is 30,990 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 31180
         },
         {
-            "Id": 505756,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2751,11 +2350,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: AT4 max tow rating is 21,010 lbs. and Denali max tow rating is 20,890 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 21040
         },
         {
-            "Id": 505768,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2765,11 +2362,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: Denali max tow rating is 30,990 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 31180
         },
         {
-            "Id": 505748,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2779,25 +2374,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 20000
         },
         {
-            "Id": 505760,
-            "Year": 2023,
-            "TypeDesc": "Truck",
-            "MfgDesc": "GMC",
-            "MakeTrim": "Sierra 3500 HD Crew Cab Long Bed Single Rear Wheel",
-            "DriveTypeDesc": "Rear-Wheel Drive",
-            "Engine": "Duramax 6.6L V8 Turbo Diesel",
-            "Trans": "Allison 10-Speed Automatic (10L1000)",
-            "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
-            "TowCapacity": 20000
-        },
-        {
-            "Id": 505749,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2807,11 +2386,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 21330
         },
         {
-            "Id": 505761,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2821,11 +2398,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 31400
         },
         {
-            "Id": 505750,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2835,11 +2410,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 21330
         },
         {
-            "Id": 505762,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2849,13 +2422,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 31400
         }
     ],
     "Sierra 3500 HD Crew Cab Standard Bed Single Rear Wheel": [
         {
-            "Id": 505736,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2865,11 +2436,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505737,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2879,11 +2448,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: AT4 max tow rating is 16,330 lbs and Denali max tow rating is 16,210 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16530
         },
         {
-            "Id": 505740,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2893,11 +2460,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: AT4 max tow rating is 16,330 lbs and Denali max tow rating is 16,210 lbs.  The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16530
         },
         {
-            "Id": 505730,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2907,11 +2472,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505731,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2921,11 +2484,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16700
         },
         {
-            "Id": 505732,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2935,11 +2496,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16700
         },
         {
-            "Id": 505738,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2949,11 +2508,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 20000
         },
         {
-            "Id": 505739,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2963,11 +2520,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: AT4 max tow rating is 21,130 lbs and Denali max tow rating is 21,010 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 21300
         },
         {
-            "Id": 505741,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2977,11 +2532,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: AT4 max tow rating is 21,130 lbs and Denali max tow rating is 21,010 lbs. The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 21300
         },
         {
-            "Id": 505733,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -2991,11 +2544,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 20000
         },
         {
-            "Id": 505734,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3005,11 +2556,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 21500
         },
         {
-            "Id": 505735,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3019,13 +2568,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 21500
         }
     ],
     "Sierra 3500 HD Double Cab Long Bed Double Rear Wheel": [
         {
-            "Id": 505594,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3035,11 +2582,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 16390
         },
         {
-            "Id": 505595,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3049,11 +2594,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16270
         },
         {
-            "Id": 505596,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3063,11 +2606,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16270
         },
         {
-            "Id": 505588,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3077,11 +2618,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 16400
         },
         {
-            "Id": 505589,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3091,11 +2630,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16400
         },
         {
-            "Id": 505590,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3105,11 +2642,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16400
         },
         {
-            "Id": 505597,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3119,11 +2654,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 20000
         },
         {
-            "Id": 505598,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3133,11 +2666,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 31340
         },
         {
-            "Id": 505599,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3147,11 +2678,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 31340
         },
         {
-            "Id": 505591,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3161,11 +2690,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 20000
         },
         {
-            "Id": 505592,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3175,11 +2702,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 31500
         },
         {
-            "Id": 505593,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3189,13 +2714,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 31500
         }
     ],
     "Sierra 3500 HD Double Cab Long Bed Single Rear Wheel": [
         {
-            "Id": 505582,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3205,11 +2728,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505583,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3219,11 +2740,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16500
         },
         {
-            "Id": 505584,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3233,11 +2752,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16500
         },
         {
-            "Id": 505576,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3247,11 +2764,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505577,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3261,11 +2776,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16700
         },
         {
-            "Id": 505578,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3275,11 +2788,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16700
         },
         {
-            "Id": 505585,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3289,11 +2800,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505586,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3303,11 +2812,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 21210
         },
         {
-            "Id": 505587,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3317,11 +2824,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 21210
         },
         {
-            "Id": 505579,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3331,11 +2836,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505580,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3345,11 +2848,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 21490
         },
         {
-            "Id": 505581,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3359,13 +2860,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 21490
         }
     ],
     "Sierra 3500 HD Regular Cab Long Bed Double Rear Wheel": [
         {
-            "Id": 505570,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3375,11 +2874,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 16800
         },
         {
-            "Id": 505571,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3389,11 +2886,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16710
         },
         {
-            "Id": 505572,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3403,11 +2898,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16710
         },
         {
-            "Id": 505564,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3417,11 +2910,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 16800
         },
         {
-            "Id": 505565,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3431,11 +2922,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16800
         },
         {
-            "Id": 505566,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3445,11 +2934,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16800
         },
         {
-            "Id": 505573,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3459,11 +2946,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 20000
         },
         {
-            "Id": 505574,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3473,11 +2958,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 31760
         },
         {
-            "Id": 505575,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3487,11 +2970,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 31760
         },
         {
-            "Id": 505567,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3501,11 +2982,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 20000
         },
         {
-            "Id": 505568,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3515,11 +2994,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 32000
         },
         {
-            "Id": 505569,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3529,13 +3006,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Requires: Max Trailering Package and gooseneck hitch.  Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 36000
         }
     ],
     "Sierra 3500 HD Regular Cab Long Bed Single Rear Wheel": [
         {
-            "Id": 505558,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3545,11 +3020,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505559,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3559,11 +3032,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 16950
         },
         {
-            "Id": 505560,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3573,11 +3044,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 16950
         },
         {
-            "Id": 505555,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3587,11 +3056,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73",
             "TowCapacity": 14500
         },
         {
-            "Id": 505556,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3601,11 +3068,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.73",
             "TowCapacity": 17200
         },
         {
-            "Id": 505557,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3615,11 +3080,9 @@
             "Trans": "Hydra-Matic 6-Speed Automatic (6L90)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.73",
             "TowCapacity": 17200
         },
         {
-            "Id": 505561,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3629,11 +3092,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505562,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3643,11 +3104,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 21500
         },
         {
-            "Id": 505563,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3657,11 +3116,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 21500
         },
         {
-            "Id": 505552,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3671,11 +3128,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.42",
             "TowCapacity": 14500
         },
         {
-            "Id": 505553,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3685,11 +3140,9 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Fifth Wheel",
-            "GearRatio": "3.42",
             "TowCapacity": 21500
         },
         {
-            "Id": 505554,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3699,13 +3152,11 @@
             "Trans": "Allison 10-Speed Automatic (10L1000)",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Gooseneck",
-            "GearRatio": "3.42",
             "TowCapacity": 21500
         }
     ],
     "Terrain": [
         {
-            "Id": 509876,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -3715,11 +3166,9 @@
             "Trans": "9-Speed Automatic (9T45)",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.47",
             "TowCapacity": 1500
         },
         {
-            "Id": 509875,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "GMC",
@@ -3729,13 +3178,11 @@
             "Trans": "9-Speed Automatic (9T45)",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.47",
             "TowCapacity": 1500
         }
     ],
     "Yukon": [
         {
-            "Id": 544820,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3745,11 +3192,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7800
         },
         {
-            "Id": 544821,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3759,11 +3204,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7800
         },
         {
-            "Id": 544814,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3773,11 +3216,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8100
         },
         {
-            "Id": 544815,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3787,11 +3228,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8100
         },
         {
-            "Id": 544822,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3801,11 +3240,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7700
         },
         {
-            "Id": 544823,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3815,11 +3252,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8200
         },
         {
-            "Id": 544816,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3829,11 +3264,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7900
         },
         {
-            "Id": 544817,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3843,11 +3276,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8400
         },
         {
-            "Id": 544824,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3857,11 +3288,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7500
         },
         {
-            "Id": 544825,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3871,11 +3300,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Packages. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8000
         },
         {
-            "Id": 544818,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3885,11 +3312,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7700
         },
         {
-            "Id": 544819,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3899,13 +3324,11 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Packages. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8200
         }
     ],
     "Yukon XL": [
         {
-            "Id": 544832,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3915,11 +3338,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7700
         },
         {
-            "Id": 544833,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3929,11 +3350,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7700
         },
         {
-            "Id": 544826,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3943,11 +3362,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7800
         },
         {
-            "Id": 544827,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3957,11 +3374,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7800
         },
         {
-            "Id": 544834,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3971,11 +3386,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7500
         },
         {
-            "Id": 544835,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3985,11 +3398,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8000
         },
         {
-            "Id": 544828,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -3999,11 +3410,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7800
         },
         {
-            "Id": 544829,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -4013,11 +3422,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8300
         },
         {
-            "Id": 544836,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -4027,11 +3434,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7300
         },
         {
-            "Id": 544837,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -4041,11 +3446,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7800
         },
         {
-            "Id": 544830,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -4055,11 +3458,9 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 7600
         },
         {
-            "Id": 544831,
             "Year": 2023,
             "TypeDesc": "Truck",
             "MfgDesc": "GMC",
@@ -4069,7 +3470,6 @@
             "Trans": "Hydra-Matic 10L80 10-Speed Automatic",
             "Notes": "Requires: Max Trailering Package. Note: The trailering capacity of your specific vehicle may vary. The weight of passengers, cargo and options or accessories may reduce the amount you can trailer.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.23",
             "TowCapacity": 8100
         }
     ]

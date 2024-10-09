@@ -1,7 +1,6 @@
 {
     "4Runner": [
         {
-            "Id": 26838,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Toyota",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Maximum hitch weight is 10 percent of tow limit.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Tundra": [
         {
-            "Id": 26841,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Toyota",
@@ -27,11 +24,9 @@
             "Trans": "Automatic",
             "Notes": "With optional towing package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5200
         },
         {
-            "Id": 26840,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Toyota",
@@ -41,11 +36,9 @@
             "Trans": "Manual",
             "Notes": "With optional towing package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5250
         },
         {
-            "Id": 26844,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Toyota",
@@ -55,11 +48,9 @@
             "Trans": "Automatic",
             "Notes": "With optional towing package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4900
         },
         {
-            "Id": 26843,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Toyota",
@@ -69,11 +60,9 @@
             "Trans": "Manual",
             "Notes": "With optional towing package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4950
         },
         {
-            "Id": 26839,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Toyota",
@@ -83,11 +72,9 @@
             "Trans": null,
             "Notes": "With optional towing package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         },
         {
-            "Id": 26842,
             "Year": 2000,
             "TypeDesc": "Truck",
             "MfgDesc": "Toyota",
@@ -97,7 +84,6 @@
             "Trans": null,
             "Notes": "With optional towing package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6900
         }
     ]

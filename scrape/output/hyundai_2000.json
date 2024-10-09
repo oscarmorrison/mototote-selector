@@ -1,7 +1,6 @@
 {
     "Sonata": [
         {
-            "Id": 26772,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -11,11 +10,9 @@
             "Trans": "Automatic",
             "Notes": "Trailer must have brakes (without brakes = 1000 lbs).",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 26771,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -25,7 +22,6 @@
             "Trans": "Manual",
             "Notes": "Trailer must have brakes (without brakes = 1000 lbs).",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Dodge Durango": [
         {
-            "Id": 2879,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chrysler",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 2877,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chrysler",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 2880,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chrysler",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         },
         {
-            "Id": 2878,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chrysler",
@@ -53,13 +46,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         }
     ],
     "Dodge Grand Caravan": [
         {
-            "Id": 2873,
             "Year": 2015,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Chrysler",
@@ -69,13 +60,11 @@
             "Trans": null,
             "Notes": "Towing pacakge required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3600
         }
     ],
     "Dodge Journey": [
         {
-            "Id": 2875,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chrysler",
@@ -85,11 +74,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         },
         {
-            "Id": 2874,
             "Year": 2015,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Chrysler",
@@ -99,7 +86,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         }
     ]

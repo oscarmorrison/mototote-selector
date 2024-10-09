@@ -1,7 +1,6 @@
 {
     "Ascent": [
         {
-            "Id": 497885,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -11,11 +10,9 @@
             "Trans": "Lineartronic CVT (8-Speed Manual Mode)",
             "Notes": "Requires: Base trim level only.  Note: Trailer brakes may be needed. Some safety features, including Blind-Spot Detection, Rear Cross-Traffic Alert, Smart Rear-View Mirror, and X-MODE may not function properly during towing.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         },
         {
-            "Id": 497886,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -25,13 +22,11 @@
             "Trans": "Lineartronic CVT (8-Speed Manual Mode)",
             "Notes": "Requires: Premium, Limited, or Touring trim level.  Note: Trailer brakes may be needed. Some safety features, including Blind-Spot Detection, Rear Cross-Traffic Alert, Smart Rear-View Mirror, and X-MODE may not function properly during towing.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 5000
         }
     ],
     "Crosstrek": [
         {
-            "Id": 497889,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -41,11 +36,9 @@
             "Trans": "6-Speed Manual",
             "Notes": "Note: Trailer brakes may be needed. Some safety features, including X-MODE, Blind-Spot Detection and Rear Cross-Traffic Alert may not function properly when towing.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         },
         {
-            "Id": 497888,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -55,13 +48,11 @@
             "Trans": "Lineartronic CVT (8-Speed Manual Mode)",
             "Notes": "Note: Trailer brakes may be needed. Some safety features, including X-MODE, Blind-Spot Detection and Rear Cross-Traffic Alert may not function properly when towing.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Crosstrek (Plug-In Hybrid)": [
         {
-            "Id": 497887,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -71,13 +62,11 @@
             "Trans": "Lineartronic CVT",
             "Notes": "Note: Trailer brakes may be needed. Some safety features, including X-MODE, Blind-Spot Detection and Rear Cross-Traffic Alert may not function properly when towing.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1000
         }
     ],
     "Forester": [
         {
-            "Id": 497884,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -87,13 +76,11 @@
             "Trans": "Lineartronic CVT (7-Speed Manual Mode)",
             "Notes": "Note: Trailer brakes may be needed. Some safety features, including X-MODE, Blind-Spot Detection, and Rear Cross-Traffic Alert may not function properly when towing",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Outback": [
         {
-            "Id": 549254,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -103,11 +90,9 @@
             "Trans": "Lineartronic CVT",
             "Notes": "Note: Trailer brakes may be needed. Some safety features, including X-MODE, Blind-Spot Detection, and Rear Cross-Traffic Alert may not function properly when towing",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         },
         {
-            "Id": 549255,
             "Year": 2021,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -117,7 +102,6 @@
             "Trans": "Lineartronic CVT",
             "Notes": "Note: Trailer brakes may be needed. Some safety features, including X-MODE, Blind-Spot Detection, and Rear Cross-Traffic Alert may not function properly when towing",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2700
         }
     ]

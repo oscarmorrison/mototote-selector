@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 23944,
             "Year": 2002,
             "TypeDesc": "Van",
             "MfgDesc": "Honda",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "With transmission fluid and power steering coolers and two occupants. Deduct 150 lbs per passenger up to seven; Without transmission fluid/power steering fluid coolers: 2000 lbs maximum with two occupants.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Passport": [
         {
-            "Id": 23945,
             "Year": 2002,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "Requires load-leveling hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4500
         }
     ]

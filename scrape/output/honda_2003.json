@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 22196,
             "Year": 2003,
             "TypeDesc": "Van",
             "MfgDesc": "Honda",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "With transmission fluid and power-steering fluid coolers and two occupants. Deduct 150 pounds per passenger, up to seven passengers; Without transmission fluid/power-steering fluid coolers: 2000 lbs maximum with two occupants.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pilot": [
         {
-            "Id": 22197,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "With transmission fluid and power-steering fluid coolers and two occupants. Deduct 150 pounds per passenger, up to seven passengers; Without transmission fluid/power-steering fluid coolers: 2000 lbs maximum with two occupants.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

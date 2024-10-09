@@ -1,7 +1,6 @@
 {
     "MKX": [
         {
-            "Id": 2434,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Navigator": [
         {
-            "Id": 2435,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -27,11 +24,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 2436,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -41,25 +36,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 9000
         },
         {
-            "Id": 2437,
-            "Year": 2016,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Lincoln",
-            "MakeTrim": "Navigator",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "3.5L V-6 Turbocharged",
-            "Trans": null,
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
-            "TowCapacity": 6200
-        },
-        {
-            "Id": 2438,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -69,13 +48,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8600
         }
     ],
     "Navigator L": [
         {
-            "Id": 2439,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -85,11 +62,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 2440,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -99,25 +74,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8500
         },
         {
-            "Id": 2441,
-            "Year": 2016,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Lincoln",
-            "MakeTrim": "Navigator L",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "3.5L V-6 Turbocharged",
-            "Trans": null,
-            "Notes": null,
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
-            "TowCapacity": 6200
-        },
-        {
-            "Id": 2442,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lincoln",
@@ -127,7 +86,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8300
         }
     ]

@@ -1,7 +1,6 @@
 {
     "GX 460": [
         {
-            "Id": 29131,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -11,13 +10,11 @@
             "Trans": "6-Speed Automatic",
             "Notes": "Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 6500
         }
     ],
     "LX 570": [
         {
-            "Id": 29132,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -27,13 +24,11 @@
             "Trans": "8-Speed Automaatic",
             "Notes": "Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 7000
         }
     ],
     "NX 300": [
         {
-            "Id": 491033,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -43,11 +38,9 @@
             "Trans": "6-Speed Automatic",
             "Notes": "Requires: All Wheel Drive (AWD).  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         },
         {
-            "Id": 29133,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -57,13 +50,11 @@
             "Trans": "6-Speed Automatic",
             "Notes": "Requires: Front Wheel Drive (FWD).  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         }
     ],
     "NX Hybrid": [
         {
-            "Id": 491034,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -73,13 +64,11 @@
             "Trans": "Continuously Variable Transmission (ECVT)",
             "Notes": "Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "RX": [
         {
-            "Id": 491092,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -89,11 +78,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: 350 AWD trim level.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         },
         {
-            "Id": 491093,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -103,11 +90,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: 350L AWD trim level.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         },
         {
-            "Id": 29134,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -117,11 +102,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: 350 FWD trim level.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         },
         {
-            "Id": 491091,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -131,13 +114,11 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: 350L FWD trim level.  Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "RX Hybrid": [
         {
-            "Id": 29135,
             "Year": 2020,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Lexus",
@@ -147,7 +128,6 @@
             "Trans": "Continuously Variable Transmission (ECVT)",
             "Notes": "Note: The maximum amount you can tow depends on the total weight of any cargo, occupants and available equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ]

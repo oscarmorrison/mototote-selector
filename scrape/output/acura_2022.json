@@ -1,7 +1,6 @@
 {
     "MDX": [
         {
-            "Id": 491505,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -11,11 +10,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: SH-AWD  trim level and Automatic transmission fluid cooler (ATF) for the 5000-lb max towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 5000
         },
         {
-            "Id": 491506,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -25,11 +22,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: SH-AWD without the optional Automatic Transmission Fluid cooler (ATF)   Note: Additional equipment may be required for towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         },
         {
-            "Id": 491504,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -39,13 +34,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Front Wheel Drive (FWD) trim level.  Note: Additional equipment may be required for towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "RDX": [
         {
-            "Id": 491522,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -55,11 +48,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: SH-AWD  trim level.  Note: Automatic transmission fluid cooler (ATF) required for max towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         },
         {
-            "Id": 491521,
             "Year": 2022,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -69,7 +60,6 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Front Wheel Drive (FWD) trim level.  Note: Additional equipment may be required for towing. Consult Acura dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Outlook": [
         {
-            "Id": 14137,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Saturn",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4500
         }
     ],
     "Relay": [
         {
-            "Id": 14138,
             "Year": 2007,
             "TypeDesc": "Van",
             "MfgDesc": "Saturn",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Vue": [
         {
-            "Id": 14139,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Saturn",
@@ -43,7 +38,6 @@
             "Trans": null,
             "Notes": "Trailer brakes required.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

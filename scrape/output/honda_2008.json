@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 12646,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Pilot": [
         {
-            "Id": 12647,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4500
         }
     ],
     "Ridgeline": [
         {
-            "Id": 12648,
             "Year": 2008,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -43,7 +38,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ]

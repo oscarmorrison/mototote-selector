@@ -1,7 +1,6 @@
 {
     "Escalade": [
         {
-            "Id": 11033,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8000
         },
         {
-            "Id": 11034,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7900
         }
     ],
     "Escalade ESV": [
         {
-            "Id": 11035,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -41,13 +36,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         }
     ],
     "Escalade EXT": [
         {
-            "Id": 11036,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -57,13 +50,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         }
     ],
     "SRX": [
         {
-            "Id": 11037,
             "Year": 2008,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Cadillac",
@@ -73,21 +64,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
-            "TowCapacity": 4250
-        },
-        {
-            "Id": 11038,
-            "Year": 2008,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Cadillac",
-            "MakeTrim": "SRX",
-            "DriveTypeDesc": "Not Available",
-            "Engine": "3.6L V-6",
-            "Trans": null,
-            "Notes": "Optional towing package necessary",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 4250
         }
     ]

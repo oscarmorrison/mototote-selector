@@ -1,7 +1,6 @@
 {
     "G-Class": [
         {
-            "Id": 28722,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercedes-Benz",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7000
         }
     ],
     "GLC": [
         {
-            "Id": 28717,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercedes-Benz",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "GLE": [
         {
-            "Id": 28718,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercedes-Benz",
@@ -43,13 +38,11 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         }
     ],
     "GLE 350": [
         {
-            "Id": 28719,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercedes-Benz",
@@ -59,13 +52,11 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6600
         }
     ],
     "GLE 350 4Matic": [
         {
-            "Id": 28720,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercedes-Benz",
@@ -75,13 +66,11 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7200
         }
     ],
     "GLS": [
         {
-            "Id": 28721,
             "Year": 2019,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mercedes-Benz",
@@ -91,7 +80,6 @@
             "Trans": null,
             "Notes": "Towing package/Upgraded Towing Package necessary for max towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7500
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Baja": [
         {
-            "Id": 22275,
             "Year": 2003,
             "TypeDesc": "Truck",
             "MfgDesc": "Subaru",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         }
     ],
     "Forester": [
         {
-            "Id": 22278,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required. Maximum hitch weight 200 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Legacy": [
         {
-            "Id": 22276,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -43,13 +38,11 @@
             "Trans": null,
             "Notes": "Trailer brakes required. Maximum hitch weight 200 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Outback": [
         {
-            "Id": 22277,
             "Year": 2003,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -59,7 +52,6 @@
             "Trans": null,
             "Notes": "Trailer brakes required. Maximum hitch weight 200 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Atlas": [
         {
-            "Id": 526301,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -11,11 +10,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: Dealer-installed trailer hitch.  Note: Vehicle load, other accessories, and options may reduce maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         },
         {
-            "Id": 526303,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -25,11 +22,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: Vehicle load, other accessories, and options may reduce maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 5000
         },
         {
-            "Id": 526302,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -39,13 +34,11 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Note: Vehicle load, other accessories, and options may reduce maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 5000
         }
     ],
     "Atlas Cross Sport": [
         {
-            "Id": 526304,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -55,11 +48,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: Accessory Towing Kit (ATH).  Note: Vehicle load, other accessories, and options may reduce maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         },
         {
-            "Id": 526306,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -69,11 +60,9 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: Factory-installed towing hitch  Note: Vehicle load, other accessories, and options may reduce maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 5000
         },
         {
-            "Id": 526305,
             "Year": 2023,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -83,7 +72,6 @@
             "Trans": "8-Speed Automatic",
             "Notes": "Requires: Factory-installed towing hitch  Note: Vehicle load, other accessories, and options may reduce maximum towing capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 5000
         }
     ]

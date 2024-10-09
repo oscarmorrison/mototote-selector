@@ -1,7 +1,6 @@
 {
     "B2300 Regular Cab": [
         {
-            "Id": 14085,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -11,13 +10,11 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 2260
         }
     ],
     "B3000 Cab Plus": [
         {
-            "Id": 14090,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -27,11 +24,9 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 2440
         },
         {
-            "Id": 14087,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -41,11 +36,9 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 2480
         },
         {
-            "Id": 14091,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -55,11 +48,9 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 2340
         },
         {
-            "Id": 14088,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -69,11 +60,9 @@
             "Trans": "Manual Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.73:1",
             "TowCapacity": 2480
         },
         {
-            "Id": 14086,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -83,11 +72,9 @@
             "Trans": "Manual Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 2540
         },
         {
-            "Id": 14089,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -97,13 +84,11 @@
             "Trans": "Manual Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 2380
         }
     ],
     "B4000 Cab Plus": [
         {
-            "Id": 14094,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -113,11 +98,9 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 5580
         },
         {
-            "Id": 14092,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -127,11 +110,9 @@
             "Trans": "Manual Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 3120
         },
         {
-            "Id": 14095,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -141,11 +122,9 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 5580
         },
         {
-            "Id": 14093,
             "Year": 2007,
             "TypeDesc": "Truck",
             "MfgDesc": "Mazda",
@@ -155,13 +134,11 @@
             "Trans": "Manual Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.10:1",
             "TowCapacity": 3120
         }
     ],
     "CX-7": [
         {
-            "Id": 14096,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -171,13 +148,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "CX-9": [
         {
-            "Id": 14097,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -187,13 +162,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Tribute": [
         {
-            "Id": 14098,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -203,7 +176,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

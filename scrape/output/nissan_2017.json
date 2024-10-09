@@ -1,7 +1,6 @@
 {
     "Armada": [
         {
-            "Id": 1334,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 8500
         }
     ],
     "Pathfinder": [
         {
-            "Id": 1335,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6000
         }
     ],
     "Quest": [
         {
-            "Id": 1336,
             "Year": 2017,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Nissan",
@@ -43,13 +38,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Titan": [
         {
-            "Id": 1337,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -59,11 +52,9 @@
             "Trans": null,
             "Notes": "Maximum tow rathing, properly equipped",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 9390
         },
         {
-            "Id": 1338,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -73,13 +64,11 @@
             "Trans": null,
             "Notes": "Maximum tow rathing, properly equipped",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 9230
         }
     ],
     "Titan XD": [
         {
-            "Id": 1340,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -89,11 +78,9 @@
             "Trans": null,
             "Notes": "Maximum tow rathing, properly equipped",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 12314
         },
         {
-            "Id": 1342,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -103,11 +90,9 @@
             "Trans": null,
             "Notes": "Maximum tow rathing, properly equipped",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 12037
         },
         {
-            "Id": 1339,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -117,11 +102,9 @@
             "Trans": null,
             "Notes": "Maximum tow rathing, properly equipped",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 11270
         },
         {
-            "Id": 1341,
             "Year": 2017,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Nissan",
@@ -131,7 +114,6 @@
             "Trans": null,
             "Notes": "Maximum tow rathing, properly equipped",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 11000
         }
     ]

@@ -1,7 +1,6 @@
 {
     "Atlas": [
         {
-            "Id": 17410,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         },
         {
-            "Id": 17411,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -25,13 +22,11 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5000
         }
     ],
     "Tiguan Limited": [
         {
-            "Id": 17412,
             "Year": 2018,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Volkswagen",
@@ -41,7 +36,6 @@
             "Trans": null,
             "Notes": "Tow package/Upgraded Tow Package required for maximum tow capacity",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2200
         }
     ]

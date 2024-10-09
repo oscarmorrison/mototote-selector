@@ -1,7 +1,6 @@
 {
     "B9 TribExtended Caba": [
         {
-            "Id": 14140,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "Forester": [
         {
-            "Id": 14141,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Subaru",
@@ -27,13 +24,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2400
         }
     ],
     "Impreza": [
         {
-            "Id": 14142,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Subaru",
@@ -43,13 +38,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2000
         }
     ],
     "Legacy": [
         {
-            "Id": 14143,
             "Year": 2007,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Subaru",
@@ -59,13 +52,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2700
         }
     ],
     "Outback": [
         {
-            "Id": 14144,
             "Year": 2007,
             "TypeDesc": "Station Wagon",
             "MfgDesc": "Subaru",
@@ -75,11 +66,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2700
         },
         {
-            "Id": 14145,
             "Year": 2007,
             "TypeDesc": "Station Wagon",
             "MfgDesc": "Subaru",
@@ -89,7 +78,6 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3000
         }
     ]

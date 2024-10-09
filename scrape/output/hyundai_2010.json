@@ -1,7 +1,6 @@
 {
     "Sante Fe": [
         {
-            "Id": 9119,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -11,25 +10,9 @@
             "Trans": null,
             "Notes": "Towing Capacity TBD",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 0
         },
         {
-            "Id": 9120,
-            "Year": 2010,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Hyundai",
-            "MakeTrim": "Sante Fe",
-            "DriveTypeDesc": "2 Wheel Drive",
-            "Engine": null,
-            "Trans": null,
-            "Notes": "Towing Capacity TBD",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
-            "TowCapacity": 0
-        },
-        {
-            "Id": 9121,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -39,27 +22,11 @@
             "Trans": null,
             "Notes": "Towing Capacity TBD",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
-            "TowCapacity": 0
-        },
-        {
-            "Id": 9122,
-            "Year": 2010,
-            "TypeDesc": "Sport Utility Vehicle",
-            "MfgDesc": "Hyundai",
-            "MakeTrim": "Sante Fe",
-            "DriveTypeDesc": "4 Wheel Drive",
-            "Engine": null,
-            "Trans": null,
-            "Notes": "Towing Capacity TBD",
-            "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 0
         }
     ],
     "Tucson": [
         {
-            "Id": 9123,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -69,13 +36,11 @@
             "Trans": null,
             "Notes": "Towing Capacity TBD",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 0
         }
     ],
     "Veracruz (All)": [
         {
-            "Id": 9124,
             "Year": 2010,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Hyundai",
@@ -85,7 +50,6 @@
             "Trans": null,
             "Notes": "Towing Package Required",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

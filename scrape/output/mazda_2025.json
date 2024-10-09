@@ -1,7 +1,6 @@
 {
     "CX-5": [
         {
-            "Id": 555039,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -11,13 +10,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Requires: Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.62",
             "TowCapacity": 2000
         }
     ],
     "CX-5 (Turbo)": [
         {
-            "Id": 555040,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -27,13 +24,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Requires: Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.41",
             "TowCapacity": 2000
         }
     ],
     "CX-50": [
         {
-            "Id": 555034,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -43,13 +38,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Requires: Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.37",
             "TowCapacity": 2000
         }
     ],
     "CX-50 (Turbo)": [
         {
-            "Id": 555035,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -59,13 +52,11 @@
             "Trans": "SKYACTIV-Drive 6-Speed Automatic",
             "Notes": "Requires: Tow Package. Note: Available Towing mode on select trims requires use of a Genuine Mazda Hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.84",
             "TowCapacity": 3500
         }
     ],
     "CX-70 (Turbo)": [
         {
-            "Id": 555041,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -75,13 +66,11 @@
             "Trans": "e-SKYACTIV-Drive 8-Speed Automatic",
             "Notes": "Requires: Tow Package. Note: Available Towing mode on select trims requires use of a Genuine Mazda Hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.69",
             "TowCapacity": 5000
         }
     ],
     "CX-90  (PHEV)": [
         {
-            "Id": 555038,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -91,13 +80,11 @@
             "Trans": "PHEV e-SKYACTIV-Drive 8-Speed Automatic",
             "Notes": "Requires: Tow Package. Note: Available Towing mode on select trims requires use of a Genuine Mazda Hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.44",
             "TowCapacity": 3500
         }
     ],
     "CX-90  (Turbo)": [
         {
-            "Id": 555036,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -107,11 +94,9 @@
             "Trans": "e-SKYACTIV-Drive 8-Speed Automatic",
             "Notes": "Requires: Tow Package. Note: Available Towing mode on select trims requires use of a Genuine Mazda Hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.69",
             "TowCapacity": 3500
         },
         {
-            "Id": 555037,
             "Year": 2025,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mazda",
@@ -121,7 +106,6 @@
             "Trans": "e-SKYACTIV-Drive 8-Speed Automatic",
             "Notes": "Requires: Tow Package. Note: Available Towing mode on select trims requires use of a Genuine Mazda Hitch.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.69",
             "TowCapacity": 5000
         }
     ]

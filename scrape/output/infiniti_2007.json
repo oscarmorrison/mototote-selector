@@ -1,7 +1,6 @@
 {
     "FX 35": [
         {
-            "Id": 14030,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -11,13 +10,11 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "FX 45": [
         {
-            "Id": 14031,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -27,13 +24,11 @@
             "Trans": "Automatic Transmission",
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "QX 56": [
         {
-            "Id": 14032,
             "Year": 2007,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Infiniti",
@@ -43,7 +38,6 @@
             "Trans": "Automatic Transmission",
             "Notes": "Optional towing package necessary.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 9000
         }
     ]

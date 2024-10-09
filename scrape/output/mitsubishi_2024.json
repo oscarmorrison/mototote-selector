@@ -1,7 +1,6 @@
 {
     "Eclipse Cross (AWD)": [
         {
-            "Id": 550021,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -11,13 +10,11 @@
             "Trans": "CVT with 8-Speed Sport Mode",
             "Notes": "Requires: Tow Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Eclipse Cross (FWD)": [
         {
-            "Id": 550020,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -27,13 +24,11 @@
             "Trans": "CVT with 8-Speed Sport Mode",
             "Notes": "Requires: Tow Package",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 1500
         }
     ],
     "Outlander (AWD)": [
         {
-            "Id": 550023,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -43,13 +38,11 @@
             "Trans": "Continuously Variable Transmission (CVT)",
             "Notes": "Requires: Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         }
     ],
     "Outlander (FWD)": [
         {
-            "Id": 550022,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Mitsubishi",
@@ -59,7 +52,6 @@
             "Trans": "Continuously Variable Transmission (CVT)",
             "Notes": "Requires: Tow Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 2000
         }
     ]

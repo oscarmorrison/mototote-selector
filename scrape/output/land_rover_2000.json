@@ -1,7 +1,6 @@
 {
     "Discovery Series II": [
         {
-            "Id": 26793,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": "Maximum trailer weight without brakes is 1650 lbs. Off-road maximum is 2200 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 5500
         }
     ],
     "Range Rover": [
         {
-            "Id": 26794,
             "Year": 2000,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Land Rover",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "Maximum trailer weight without brakes is 1650 lbs. Off-road maximum is 2200 lbs.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6500
         }
     ]

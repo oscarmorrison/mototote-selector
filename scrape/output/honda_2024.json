@@ -1,7 +1,6 @@
 {
     "Odyssey": [
         {
-            "Id": 545284,
             "Year": 2024,
             "TypeDesc": "Minivan",
             "MfgDesc": "Honda",
@@ -11,13 +10,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Towing Package.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "3.61",
             "TowCapacity": 3500
         }
     ],
     "Passport": [
         {
-            "Id": 545287,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -27,11 +24,9 @@
             "Trans": "9-Speed Automatic",
             "Notes": "",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 3500
         },
         {
-            "Id": 545288,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -41,13 +36,11 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: ATF Cooler.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 5000
         }
     ],
     "Pilot": [
         {
-            "Id": 545283,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -57,11 +50,9 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Accessory Towing Equipment. Please see your Honda dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 5000
         },
         {
-            "Id": 545282,
             "Year": 2024,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Honda",
@@ -71,13 +62,11 @@
             "Trans": "10-Speed Automatic",
             "Notes": "Requires: Accessory Towing Equipment. Please see your Honda dealer for details.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "",
             "TowCapacity": 3500
         }
     ],
     "Ridgeline": [
         {
-            "Id": 545300,
             "Year": 2024,
             "TypeDesc": "Truck",
             "MfgDesc": "Honda",
@@ -87,7 +76,6 @@
             "Trans": "9-Speed Automatic",
             "Notes": "Requires: Heavy-Duty Transmission Cooler and Towing requires accessory towing equipment.",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": "4.33",
             "TowCapacity": 5000
         }
     ]

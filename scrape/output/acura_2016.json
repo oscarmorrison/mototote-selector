@@ -1,7 +1,6 @@
 {
     "MDX": [
         {
-            "Id": 1417,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -11,13 +10,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ],
     "MDX SH": [
         {
-            "Id": 1418,
             "Year": 2016,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Acura",
@@ -27,7 +24,6 @@
             "Trans": null,
             "Notes": "Towing capacity can be incread to 5000 lbs, with dealer-instAlled accesory",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3500
         }
     ]

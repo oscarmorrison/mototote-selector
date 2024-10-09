@@ -1,7 +1,6 @@
 {
     "Durango": [
         {
-            "Id": 6176,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -11,11 +10,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 6174,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -25,11 +22,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 6200
         },
         {
-            "Id": 6177,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -39,11 +34,9 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         },
         {
-            "Id": 6175,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -53,13 +46,11 @@
             "Trans": null,
             "Notes": null,
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 7400
         }
     ],
     "Grand Caravan": [
         {
-            "Id": 6170,
             "Year": 2012,
             "TypeDesc": "Passenger Van",
             "MfgDesc": "Dodge",
@@ -69,13 +60,11 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 3600
         }
     ],
     "Journey": [
         {
-            "Id": 6172,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -85,11 +74,9 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         },
         {
-            "Id": 6171,
             "Year": 2012,
             "TypeDesc": "Sport Utility Vehicle",
             "MfgDesc": "Dodge",
@@ -99,7 +86,6 @@
             "Trans": null,
             "Notes": "Optional towing package necessary",
             "TowDesc": "Bumper Pull - Weight Carrying",
-            "GearRatio": null,
             "TowCapacity": 2500
         }
     ]
