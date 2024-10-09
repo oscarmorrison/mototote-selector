@@ -6,7 +6,7 @@ const Widget = () => {
     const [chosenMake, setChosenMake] = useState('');
     const [chosenYear, setChosenYear] = useState('');
     const [chosenModel, setChosenModel] = useState('');
-    const [chosenTrim, setChosenTrim] = useState(null);
+    const [chosenVehicle, setChosenVehicle] = useState();
 
     // Data driven
     const [models, setModels] = useState(null);
@@ -70,7 +70,16 @@ const Widget = () => {
         setChosenModel(selectedModel);
     };
 
+    const selectVehicle = (vehicle) => {
+        console.log('chosenVehicle: ', chosenVehicle);
+        setChosenVehicle(vehicle);
+    };
+
     console.log('chosenModel: ', chosenModel);
+
+    if (chosenVehicle) {
+        return <VehicleDisplay chosenVehicle={chosenVehicle} />;
+    }
 
     return (
         <Fragment>
@@ -84,7 +93,7 @@ const Widget = () => {
                     <MakeSelector chosenMake={chosenMake} makes={makes} handleMakeChange={handleMakeChange} />
                     {!!chosenMake && <YearSelector chosenYear={chosenYear} years={chosenMake.years} handleYearChange={handleYearChange} />}
                     {!!models && <ModelSelector chosenModel={chosenModel} models={models} handleModelChange={handleModelChange} />}
-                    {!!chosenModel && <TrimSelector trimOptions={models[chosenModel]} />}
+                    {!!chosenModel && <TrimSelector trimOptions={models[chosenModel]} selectVehicle={selectVehicle} />}
                 </div>
             </form>
         </Fragment>
@@ -147,29 +156,47 @@ const ModelSelector = (props) => {
 };
 
 const TrimSelector = (props) => {
-    const { trimOptions } = props;
+    const { trimOptions, selectVehicle } = props;
     return (
         <Fragment>
-            {trimOptions.map(trim => (<Trim trim={trim} />))}
+            {trimOptions.map(trim => (<Trim trim={trim} selectVehicle={selectVehicle} />))}
         </Fragment>
     );
 };
 
 
-const Trim = ({trim}) => (
-    <Fragment>
-    <div>
-        <h3>{trim.MfgDesc} {trim.MakeTrim} ({trim.Year})</h3>
-        <ul>
-            <li><strong>Drive Type:</strong> {trim.DriveTypeDesc}</li>
-            <li><strong>Engine:</strong> {trim.Engine}</li>
-            <li><strong>Transmission:</strong> {trim.Trans}</li>
-            <li><strong>Type:</strong> {trim.TypeDesc}</li>
-            <li><strong>Towing Capacity:</strong> {trim.TowCapacity} lbs</li>
-            <li><strong>Towing Description:</strong> {trim.TowDesc}</li>
-        </ul>
-        </div>
-    </Fragment>
-);
+const Trim = ({trim, selectVehicle}) => {
+    const onClick = (e) => {
+        e.preventDefault();
+        selectVehicle(trim);
+    };
+
+    return (
+        <Fragment>
+        <div>
+            <h3>{trim.MfgDesc} {trim.MakeTrim} ({trim.Year})</h3>
+            <ul>
+                <li><strong>Drive Type:</strong> {trim.DriveTypeDesc}</li>
+                <li><strong>Engine:</strong> {trim.Engine}</li>
+                <li><strong>Transmission:</strong> {trim.Trans}</li>
+                <li><strong>Type:</strong> {trim.TypeDesc}</li>
+                <li><strong>Towing Capacity:</strong> {trim.TowCapacity} lbs</li>
+                <li><strong>Towing Description:</strong> {trim.TowDesc}</li>
+            </ul>
+            <button className="select-button" onClick={onClick}>Select Vehicle</button>
+            </div>
+        </Fragment>
+    );
+};
+
+const VehicleDisplay = (props) => {
+    const { chosenVehicle } = props;
+    return (
+        <Fragment>
+            <h3>{chosenVehicle.MfgDesc} {chosenVehicle.MakeTrim} ({chosenVehicle.Year})</h3>
+            <div><strong>Towing Capacity:</strong> {chosenVehicle.TowCapacity} lbs</div>
+        </Fragment>
+    );
+};
 
 export default Widget;
