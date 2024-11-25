@@ -191,3 +191,8 @@ brands = get_brands.get_brands()
 # url = "https://bikez.com/motorcycles/yamaha_xsr900_2024.php"
 # data = get_motorcycle_data(url, brands)
 # print(data)
+
+# url = "https://bikez.com/motorcycles/demak_dms_2014.php"
+url = "https://bikez.com/motorcycles/yamaha_grizzly_350_2wd_2017.php"
+data = get_motorcycle_data(url, brands)
+print(json.dumps(data, indent=4))
