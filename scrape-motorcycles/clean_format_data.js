@@ -15,6 +15,7 @@ const files = readdirSync(dataDir).filter(file =>
 
 const sanitizeMakeName = (fileName) => {
     return fileName
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '') // Remove diacritics (converts ü to u)
         .replace(/[\/:*?"<>|]/g, '') // Remove invalid characters
         .replace(/\s+/g, '_') // Replace spaces with underscores
         .replace(/_+/g, '_') // Replace multiple underscores with a single underscore
