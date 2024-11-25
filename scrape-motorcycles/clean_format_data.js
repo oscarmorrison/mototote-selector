@@ -13,8 +13,15 @@ const files = readdirSync(dataDir).filter(file =>
     /^\d{4}_motorcycles\.json$/.test(file)
 );
 
-const sanitizeMakeName = (make) => {
-    return make.replace(/[\/:*?"<>|]/g, '').replace(/\s+/g, '_');
+const sanitizeMakeName = (fileName) => {
+    return fileName
+        .replace(/[\/:*?"<>|]/g, '') // Remove invalid characters
+        .replace(/\s+/g, '_') // Replace spaces with underscores
+        .replace(/_+/g, '_') // Replace multiple underscores with a single underscore
+        .replace(/_\(.*?\)/g, '') // Remove anything in parentheses
+        .replace(/_+/g, '_') // Clean up any remaining underscores
+        .replace(/^_+|_+$/g, '')
+        .toLowerCase();
 }
 
 
@@ -76,6 +83,7 @@ const transformMotorcycle = (motorcycle) => {
     cleanData.key = sanitizeMakeName(motorcycle.make);
     cleanData.url = motorcycle.url;
     cleanData.make = motorcycle.make;
+    cleanData.model = motorcycle.model;
     cleanData.year = motorcycle.year;
     cleanData.type = motorcycle.data.type || null;
     cleanData.wet_weight = getWeight(motorcycle.data.wet_weight, motorcycle.data.dry_weight);

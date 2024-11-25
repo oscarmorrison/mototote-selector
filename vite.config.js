@@ -14,7 +14,11 @@ export default defineConfig({
                 },
                 {
                     src: 'scrape/output/**/*',
-                    dest: 'data'
+                    dest: 'data/car_data'
+                },
+                {
+                    src: 'scrape-motorcycles/motorcycle_data/**/*',
+                    dest: 'data/motorcycle_data'
                 }
             ]
         }),

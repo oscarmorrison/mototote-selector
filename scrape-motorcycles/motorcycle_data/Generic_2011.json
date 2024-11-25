@@ -1,8 +1,9 @@
 [
   {
-    "key": "Generic",
+    "key": "generic",
     "url": "https://bikez.com/motorcycles/generic_race_2_50_2011.php",
     "make": "Generic",
+    "model": "Race 2 50",
     "year": 2011,
     "type": "Scooter",
     "wet_weight": 202.8,
@@ -11,9 +12,10 @@
     "wheelbase": 50.4
   },
   {
-    "key": "Generic",
+    "key": "generic",
     "url": "https://bikez.com/motorcycles/generic_xor_2_50_2011.php",
     "make": "Generic",
+    "model": "XOR 2 50",
     "year": 2011,
     "type": "Scooter",
     "wet_weight": 211.6,
@@ -22,9 +24,10 @@
     "wheelbase": 50.2
   },
   {
-    "key": "Generic",
+    "key": "generic",
     "url": "https://bikez.com/motorcycles/generic_cracker_50_2011.php",
     "make": "Generic",
+    "model": "Cracker 50",
     "year": 2011,
     "type": "Scooter",
     "wet_weight": 202.8,
@@ -33,9 +36,10 @@
     "wheelbase": 50.2
   },
   {
-    "key": "Generic",
+    "key": "generic",
     "url": "https://bikez.com/motorcycles/generic_stream_2011.php",
     "make": "Generic",
+    "model": "Stream",
     "year": 2011,
     "type": "Scooter",
     "wet_weight": 286.6,

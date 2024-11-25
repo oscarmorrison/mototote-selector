@@ -1,8 +1,9 @@
 [
   {
-    "key": "Docker",
+    "key": "docker",
     "url": "https://bikez.com/motorcycles/docker_alpha_s50_2023.php",
     "make": "Docker",
+    "model": "Alpha S50",
     "year": 2023,
     "type": "Scooter",
     "wet_weight": 213.8,
@@ -11,9 +12,10 @@
     "wheelbase": 48.4
   },
   {
-    "key": "Docker",
+    "key": "docker",
     "url": "https://bikez.com/motorcycles/docker_c50_nouvelle_2023.php",
     "make": "Docker",
+    "model": "C50 Nouvelle",
     "year": 2023,
     "type": "Scooter",
     "wet_weight": 205,

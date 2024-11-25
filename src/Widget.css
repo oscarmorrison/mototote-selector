@@ -108,3 +108,65 @@ button:hover {
 .select-button:hover {
   background-color: #0056b3;
 }
+
+.motorcycle-details {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.motorcycle-details h3 {
+    margin-top: 0;
+}
+
+.motorcycle-details ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.motorcycle-details li {
+    margin: 5px 0;
+}
+
+.selector-group {
+    margin-bottom: 15px;
+}
+
+.selector-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.vehicle-select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.vehicle-select:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 2px rgba(0,123,255,.25);
+}
+
+.vehicle-details {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.vehicle-details ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.vehicle-details li {
+    margin-bottom: 8px;
+}

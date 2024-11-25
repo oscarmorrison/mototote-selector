@@ -1,8 +1,9 @@
 [
   {
-    "key": "CPI",
+    "key": "cpi",
     "url": "https://bikez.com/motorcycles/cpi_oliver_sport_2010.php",
     "make": "CPI",
+    "model": "Oliver Sport",
     "year": 2010,
     "type": "Scooter",
     "wet_weight": 207.4,
@@ -11,9 +12,10 @@
     "wheelbase": 49.6
   },
   {
-    "key": "CPI",
+    "key": "cpi",
     "url": "https://bikez.com/motorcycles/cpi_oliver_city_2010.php",
     "make": "CPI",
+    "model": "Oliver City",
     "year": 2010,
     "type": "Scooter",
     "wet_weight": null,
@@ -22,9 +24,10 @@
     "wheelbase": null
   },
   {
-    "key": "CPI",
+    "key": "cpi",
     "url": "https://bikez.com/motorcycles/cpi_gtr_50_2010.php",
     "make": "CPI",
+    "model": "GTR 50",
     "year": 2010,
     "type": "Scooter",
     "wet_weight": null,

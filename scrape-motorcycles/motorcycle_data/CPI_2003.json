@@ -1,8 +1,9 @@
 [
   {
-    "key": "CPI",
+    "key": "cpi",
     "url": "https://bikez.com/motorcycles/cpi_popcorn_50_2003.php",
     "make": "CPI",
+    "model": "Popcorn 50",
     "year": 2003,
     "type": "Scooter",
     "wet_weight": 198.8,
@@ -11,9 +12,10 @@
     "wheelbase": null
   },
   {
-    "key": "CPI",
+    "key": "cpi",
     "url": "https://bikez.com/motorcycles/cpi_hussar_2003.php",
     "make": "CPI",
+    "model": "Hussar",
     "year": 2003,
     "type": "Scooter",
     "wet_weight": 216,

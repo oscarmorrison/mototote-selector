@@ -1,8 +1,9 @@
 [
   {
-    "key": "Enfield",
+    "key": "enfield",
     "url": "https://bikez.com/motorcycles/enfield_lightning_500_2000.php",
     "make": "Enfield",
+    "model": "Lightning 500",
     "year": 2000,
     "type": "Custom / cruiser",
     "wet_weight": null,
@@ -11,9 +12,10 @@
     "wheelbase": null
   },
   {
-    "key": "Enfield",
+    "key": "enfield",
     "url": "https://bikez.com/motorcycles/enfield_bullet_500_2000.php",
     "make": "Enfield",
+    "model": "Bullet 500",
     "year": 2000,
     "type": "Classic",
     "wet_weight": 414.8,
@@ -22,9 +24,10 @@
     "wheelbase": 53.9
   },
   {
-    "key": "Enfield",
+    "key": "enfield",
     "url": "https://bikez.com/motorcycles/enfield_diesel-taurus_2000.php",
     "make": "Enfield",
+    "model": "Diesel - Taurus",
     "year": 2000,
     "type": "Classic",
     "wet_weight": 432.1,
