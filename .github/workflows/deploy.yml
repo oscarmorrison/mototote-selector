@@ -26,6 +26,9 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Clean public directory 🧹
+        run: rm -rf ./public/*
+
       - name: Install dependencies 🔧
         run: yarn install
 
