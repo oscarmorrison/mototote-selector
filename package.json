@@ -10,8 +10,8 @@
     "clean-build": "rm -rf ./public",
     "lint": "eslint .",
     "preview": "vite preview",
-    "scrape:clean": "rm scrape/output/*",
-    "scrape:split": "node scrape/split_by_year_and_make.js scrape/outputdata_v1.json scrape/output",
+    "scrape:clean": "rm scrape-cars/output/*",
+    "scrape:split": "node scrape-cars/split_by_year_and_make.js scrape-cards/outputdata_v1.json scrape-cars/output",
     "scrape:clean-and-split": "npm run scrape:clean && npm run scrape:split"
   },
   "dependencies": {

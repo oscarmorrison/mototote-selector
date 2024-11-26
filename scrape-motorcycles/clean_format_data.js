@@ -103,6 +103,8 @@ if (!existsSync(outputDir)) {
 // Create a map to collect makes and their years
 const makesMap = new Map();
 
+let totalMotorcycles = 0;
+
 // Read and process all files
 files.forEach(file => {
     const filePath = join(dataDir, file);
@@ -128,6 +130,7 @@ files.forEach(file => {
                     makesMap.set(cleanData.make, new Set());
                 }
                 makesMap.get(cleanData.make).add(cleanData.year.toString());
+                totalMotorcycles++;
             }
         });
         
@@ -141,6 +144,8 @@ files.forEach(file => {
         console.error(`Error processing ${file}:`, error.message);
     }
 });
+
+console.log(`Total motorcycles processed: ${totalMotorcycles}`);
 
 // Convert makesMap to the desired format and write MAKES.json
 const makesArray = Array.from(makesMap).map(([name, yearsSet]) => ({
