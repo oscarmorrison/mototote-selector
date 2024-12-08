@@ -27,7 +27,7 @@ jobs:
           node-version: '22'
 
       - name: Clean public directory 🧹
-        run: rm -rf ./public/*
+        run: rm -rf ./dist/*
 
       - name: Install dependencies 🔧
         run: yarn install
@@ -35,13 +35,13 @@ jobs:
       - name: Build with Vite 🏗️
         run: yarn build
 
-      - name: List build files in public directory 📂
-        run: ls -R ./public
+      - name: List build files in dist directory 📂
+        run: ls -R ./dist
 
       - name: Upload artifact 📡
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./dist
 
   deploy:
     environment:

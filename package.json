@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "clean-build": "rm -rf ./public",
+    "clean-build": "rm -rf ./dist",
     "lint": "eslint .",
     "preview": "vite preview",
     "scrape:clean": "rm scrape-cars/output/*",
