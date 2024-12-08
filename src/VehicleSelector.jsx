@@ -18,7 +18,7 @@ const VehicleSelector = ({ onVehicleSelect }) => {
             }, {});
             setMakes(modelObjects);
         };
-        fetchData('./data/car_data/MAKES.json', formatAndSetMakes, "Error loading makes");
+        fetchData('./data/car_data/AUTO_MAKES.json', formatAndSetMakes, "Error loading makes");
     }, []);
 
     const handleMakeChange = (event) => {

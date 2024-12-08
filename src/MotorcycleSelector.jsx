@@ -16,7 +16,7 @@ const MotorcycleSelector = ({ onMotorcycleSelect }) => {
             }, {});
             setMakes(modelObjects);
         };
-        fetchData('./data/motorcycle_data/MAKES.json', formatAndSetMakes, "Error loading motorcycle makes");
+        fetchData('./data/motorcycle_data/MOTO_MAKES.json', formatAndSetMakes, "Error loading motorcycle makes");
     }, []);
 
     const handleMakeChange = async (make) => {
