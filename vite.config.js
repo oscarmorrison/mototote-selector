@@ -9,16 +9,20 @@ export default defineConfig({
         viteStaticCopy({
             targets: [
                 {
-                    src: 'src/index.html',
+                    src: 'src/webpage/index.html',
                     dest: '.'
                 },
                 {
-                    src: 'data/car_data/**/*',
+                    src: 'scrape-cars/output/*',
                     dest: 'data/car_data'
                 },
                 {
-                    src: 'data/motorcycle_data/**/*',
+                    src: 'scrape-motorcycles/motorcycle_data/*',
                     dest: 'data/motorcycle_data'
+                },
+                {
+                    src: 'src/data/mototote_carrier_metrics.csv',
+                    dest: 'data'
                 }
             ]
         }),
@@ -30,10 +34,10 @@ export default defineConfig({
         outDir: 'dist',
         rollupOptions: {
             input: {
-                main: 'src/index.html',
+                main: 'src/main.jsx',
             },
             output: {
-                entryFileNames: 'assets/[name].js',
+                entryFileNames: 'assets/mototote-widget.js',
                 chunkFileNames: 'assets/[name].[hash].js',
                 assetFileNames: 'assets/[name].[hash].[ext]',
                 globals: {
