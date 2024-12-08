@@ -38,14 +38,18 @@ export default defineConfig({
             },
             output: {
                 entryFileNames: 'assets/mototote-widget.js',
-                chunkFileNames: 'assets/[name].[hash].js',
-                assetFileNames: 'assets/[name].[hash].[ext]',
+                chunkFileNames: 'assets/[name].js',
+                assetFileNames: ({ name }) => {
+                    if (name.endsWith('.css')) return 'assets/index.css';
+                    return 'assets/[name].[ext]';
+                },
                 globals: {
                     react: 'React',
                     'react-dom': 'ReactDOM',
                 },
             },
         },
+        cssCodeSplit: false,
         emptyOutDir: true,
     },
     base: '/mototote-selector/',
