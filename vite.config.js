@@ -9,15 +9,15 @@ export default defineConfig({
         viteStaticCopy({
             targets: [
                 {
-                    src: './src/webpage/index.html',
+                    src: 'src/index.html',
                     dest: '.'
                 },
                 {
-                    src: 'scrape/output/**/*',
+                    src: 'data/car_data/**/*',
                     dest: 'data/car_data'
                 },
                 {
-                    src: 'scrape-motorcycles/motorcycle_data/**/*',
+                    src: 'data/motorcycle_data/**/*',
                     dest: 'data/motorcycle_data'
                 }
             ]
@@ -27,12 +27,15 @@ export default defineConfig({
         }),
     ],
     build: {
-        outDir: 'public',
+        outDir: 'dist',
         rollupOptions: {
+            input: {
+                main: 'src/index.html',
+            },
             output: {
-                entryFileNames: 'assets/mototote-widget.js', // Specify the output filename
-                chunkFileNames: 'assets/[name].js',
-                assetFileNames: 'assets/[name].[ext]',
+                entryFileNames: 'assets/[name].js',
+                chunkFileNames: 'assets/[name].[hash].js',
+                assetFileNames: 'assets/[name].[hash].[ext]',
                 globals: {
                     react: 'React',
                     'react-dom': 'ReactDOM',
@@ -42,4 +45,9 @@ export default defineConfig({
         emptyOutDir: true,
     },
     base: '/mototote-selector/',
+    resolve: {
+        alias: {
+            '@': '/src'
+        }
+    }
 });
