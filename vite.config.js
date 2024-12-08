@@ -23,6 +23,10 @@ export default defineConfig({
                 {
                     src: 'src/data/mototote_carrier_metrics.csv',
                     dest: 'data'
+                },
+                {
+                    src: 'help.html',
+                    dest: '.'
                 }
             ]
         }),
