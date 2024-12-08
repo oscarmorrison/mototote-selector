@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MotoTote Selector Widget - Implementation Guide</title>
+    <style>
+        body {
+            font-family: 'Roboto Condensed', sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        pre {
+            background: #f5f5f5;
+            padding: 1rem;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        
+        code {
+            background: #f5f5f5;
+            padding: 0.2rem 0.4rem;
+            border-radius: 2px;
+        }
+        
+        .note {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 1rem;
+            margin: 1rem 0;
+        }
+        
+        h2 {
+            margin-top: 2rem;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>MotoTote Selector Widget Implementation Guide</h1>
+    
+    <h2>Quick Start</h2>
+    <p>Add the MotoTote selector widget to your website by including these two lines in your HTML:</p>
+    <pre><code>&lt;!-- Add the CSS file in your &lt;head&gt; tag --&gt;
+&lt;link rel="stylesheet" href="https://oscarmorrison.com/mototote-selector/assets/index.css"&gt;
+
+&lt;!-- Add this where you want the widget to appear --&gt;
+&lt;div id="mototote-selector"&gt;&lt;/div&gt;
+
+&lt;!-- Add the JavaScript file just before your closing &lt;/body&gt; tag --&gt;
+&lt;script src="https://oscarmorrison.com/mototote-selector/assets/mototote-widget.js"&gt;&lt;/script&gt;</code></pre>
+
+    <h2>Example Implementation</h2>
+    <pre><code>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;My Website - MotoTote Selector&lt;/title&gt;
+    &lt;link rel="stylesheet" href="https://oscarmorrison.com/mototote-selector/assets/index.css"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;h1&gt;Welcome to My Website&lt;/h1&gt;
+    
+    &lt;!-- The widget will appear here --&gt;
+    &lt;div id="mototote-selector"&gt;&lt;/div&gt;
+
+    &lt;script src="https://oscarmorrison.com/mototote-selector/assets/mototote-widget.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
+
+    <h2>Features</h2>
+    <ul>
+        <li>Vehicle compatibility checker</li>
+        <li>Motorcycle fit calculator</li>
+        <li>Automatic carrier recommendations</li>
+        <li>Mobile-responsive design</li>
+        <li>Easy integration</li>
+    </ul>
+
+    <h2>Customization</h2>
+    <p>The widget automatically inherits your website's font styles. If you want to override the default styles, you can add your own CSS:</p>
+    <pre><code>/* Custom CSS examples */
+#mototote-selector {
+    max-width: 900px;  /* Change maximum width */
+    margin: 2rem auto;  /* Adjust margins */
+}
+
+#mototote-selector select {
+    /* Customize dropdown styles */
+    border-color: #your-color;
+    background-color: #your-bg-color;
+}
+
+#mototote-selector button {
+    /* Customize button styles */
+    background-color: #your-brand-color;
+}</code></pre>
+
+    <div class="note">
+        <strong>Note:</strong> The widget requires a container element with the ID <code>mototote-selector</code>. Make sure this ID is unique on your page.
+    </div>
+
+    <h2>Testing</h2>
+    <p>To test the widget implementation, add <code>?test=true</code> to your URL. This will enable a "Test Fill" button that populates the form with sample data.</p>
+
+    <h2>Live Demo</h2>
+    <p>See the widget in action: <a href="https://oscarmorrison.com/mototote-selector/">https://oscarmorrison.com/mototote-selector/</a></p>
+</body>
+</html> 
