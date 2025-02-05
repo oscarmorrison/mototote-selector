@@ -47,7 +47,8 @@ const Widget = () => {
                 Trans: "10-Speed Automatic",
                 Notes: "Requires: SH-AWD  trim level.  Note: Automatic transmission fluid cooler (ATF) required for max towing. Consult Acura dealer for details.",
                 TowDesc: "Bumper Pull - Weight Carrying",
-                TowCapacity: null
+                TowCapacity: null,
+                tongueWeight: 0
             },
             {
                 Year: 2020,
@@ -59,7 +60,8 @@ const Widget = () => {
                 Trans: "10-Speed Automatic",
                 Notes: "Requires: SH-AWD  trim level.  Note: Automatic transmission fluid cooler (ATF) required for max towing. Consult Acura dealer for details.",
                 TowDesc: "Bumper Pull - Weight Carrying",
-                TowCapacity: 1500
+                TowCapacity: 1500,
+                tongueWeight: 150
             },
             {
                 Year: 2023,
@@ -71,7 +73,8 @@ const Widget = () => {
                 Trans: "9-Speed Automatic",
                 Notes: "Requires: ATF Cooler for max towing of 5000 pounds.",
                 TowDesc: "Bumper Pull - Weight Carrying",
-                TowCapacity: 5000
+                TowCapacity: 5000,
+                tongueWeight: 500
             },
             {
                 Year: 2024,
@@ -83,7 +86,8 @@ const Widget = () => {
                 Trans: "10-Speed Automatic",
                 Notes: "Requires Class III trailer hitch package",
                 TowDesc: "Bumper Pull - Weight Carrying",
-                TowCapacity: 8200
+                TowCapacity: 8200,
+                tongueWeight: 820
             },
             {
                 Year: 2024,
@@ -95,7 +99,21 @@ const Widget = () => {
                 Trans: "5-Speed Automatic",
                 Notes: "With factory tow package",
                 TowDesc: "Bumper Pull - Weight Carrying",
-                TowCapacity: 5000
+                TowCapacity: 5000,
+                tongueWeight: 500
+            },
+            {
+                Year: 2020,
+                TypeDesc: "Cargo Van",
+                MfgDesc: "Mercedes-Benz",
+                MakeTrim: "Sprinter 2500 Cargo Van SRW",
+                DriveTypeDesc: "Rear-Wheel Drive",
+                Engine: "2.0L I4 Turbo",
+                Trans: "9G-TRONIC 9-Speed Automatic",
+                Notes: "Note: Towing amount applies to both standard and high roof trims",
+                TowDesc: "Bumper Pull - Weight Carrying",
+                TowCapacity: 5000,
+                tongueWeight: 500
             }
         ];
 
@@ -172,6 +190,18 @@ const Widget = () => {
                 front_tire_width: 4.5,
                 rear_tire_width: 5.9,
                 wheelbase: 53.9
+            },
+            {
+                key: "yamaha",
+                url: "https://bikez.com/motorcycles/yamaha_tw200_2018.php",
+                make: "Yamaha",
+                model: "TW200",
+                year: 2018,
+                type: "Enduro / offroad",
+                wet_weight: 278,
+                front_tire_width: 5.12,
+                rear_tire_width: 7.09,
+                wheelbase: 52.2
             }
         ];
 

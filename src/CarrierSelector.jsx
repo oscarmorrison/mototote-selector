@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { getCarrierData } from './utils/data-utils';
 
+const isTestMode = new URLSearchParams(window.location.search).get('test') === 'true';
 
 const CarrierSelector = ({ chosenMotorcycle, manualValues, tongueWeight }) => {
     const [carriers, setCarriers] = useState([]);
@@ -32,19 +33,14 @@ const CarrierSelector = ({ chosenMotorcycle, manualValues, tongueWeight }) => {
         );
     }
 
+    // Calculate necessary values for compatibility check
+    const bikeWeight = chosenMotorcycle?.wet_weight || parseFloat(manualValues.wet_weight);
+    const frontTireWidth = chosenMotorcycle?.front_tire_width || parseFloat(manualValues.front_tire_width);
+    const rearTireWidth = chosenMotorcycle?.rear_tire_width || parseFloat(manualValues.rear_tire_width);
+    const wheelbase = chosenMotorcycle?.wheelbase || parseFloat(manualValues.wheelbase);
+
     const getCompatibleCarriers = () => {
-        if (!carriers.length) return [];
-
-        // Get actual motorcycle weight (from data or manual input)
-        const bikeWeight = chosenMotorcycle?.wet_weight || parseFloat(manualValues.wet_weight);
-        if (!bikeWeight) return [];
-
-        // Get tire widths (from data or manual input)
-        const frontTireWidth = chosenMotorcycle?.front_tire_width || parseFloat(manualValues.front_tire_width);
-        const rearTireWidth = chosenMotorcycle?.rear_tire_width || parseFloat(manualValues.rear_tire_width);
-        const wheelbase = chosenMotorcycle?.wheelbase || parseFloat(manualValues.wheelbase);
-
-        if (!frontTireWidth || !rearTireWidth || !wheelbase) return [];
+        if (!carriers.length || !bikeWeight || !frontTireWidth || !rearTireWidth || !wheelbase) return [];
 
         return carriers.filter(carrier => {
             // Check total weight (bike + carrier) against tongue weight capacity
@@ -94,6 +90,18 @@ const CarrierSelector = ({ chosenMotorcycle, manualValues, tongueWeight }) => {
                     </div>
                 ))}
             </div>
+
+            {isTestMode && (
+                <div className="carrier-calculations">
+                    <h5>Calculations:</h5>
+                    <ul>
+                        <li>Total Weight: {bikeWeight + MOTOTOTE_WEIGHT} lbs</li>
+                        <li>Front Tire Width: {frontTireWidth}"</li>
+                        <li>Rear Tire Width: {rearTireWidth}"</li>
+                        <li>Wheelbase: {wheelbase}"</li>
+                    </ul>
+                </div>
+            )}
 
             {compatibleCarriers.length === 0 && carriers.length > 0 && (
                 <div style={{ color: 'red', marginTop: '1rem' }}>
