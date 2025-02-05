@@ -138,5 +138,117 @@
             "TowDesc": "Bumper Pull - Weight Carrying",
             "TowCapacity": 7200
         }
+    ],
+    "Sprinter 2500 Cargo Van": [
+        {
+            "Year": 2016,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "Sprinter 2500 Cargo Van",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "2.1L Turbo Inline-4 Diesel",
+            "Trans": "7-Speed Automatic",
+            "Notes": "Available in Standard Roof with 144\" WB, High Roof with 144\" WB, High Roof with 170\" WB, and High Roof Extended with 170\" WB configurations.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "TowCapacity": 5000
+        }
+    ],
+    "Sprinter 2500 Crew Van": [
+        {
+            "Year": 2016,
+            "TypeDesc": "Crew Van",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "Sprinter 2500 Crew Van",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "2.1L Turbo Inline-4 Diesel",
+            "Trans": "7-Speed Automatic",
+            "Notes": "Available in Standard Roof with 144\" WB and High Roof with 170\" WB configurations.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "TowCapacity": 5000
+        }
+    ],
+    "Sprinter 2500 Passenger Van": [
+        {
+            "Year": 2016,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "Sprinter 2500 Passenger Van",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "2.1L Turbo Inline-4 Diesel",
+            "Trans": "7-Speed Automatic",
+            "Notes": "Available in Standard Roof with 144\" WB and High Roof with 170\" WB configurations.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "TowCapacity": 5000
+        }
+    ],
+    "Sprinter 3500 Cargo Van": [
+        {
+            "Year": 2016,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "Sprinter 3500 Cargo Van",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "3.0L V6 Turbo Diesel",
+            "Trans": "5-Speed Automatic",
+            "Notes": "Available in Standard Roof with 144\" WB, High Roof with 170\" WB, and High Roof Extended with 170\" WB configurations.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "TowCapacity": 7500
+        }
+    ],
+    "Sprinter 3500 Crew Van": [
+        {
+            "Year": 2016,
+            "TypeDesc": "Crew Van",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "Sprinter 3500 Crew Van",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "3.0L V6 Turbo Diesel",
+            "Trans": "5-Speed Automatic",
+            "Notes": "Available in High Roof with 170\" WB configuration.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "TowCapacity": 7500
+        }
+    ],
+    "Sprinter 3500XD Cargo Van": [
+        {
+            "Year": 2016,
+            "TypeDesc": "Cargo Van",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "Sprinter 3500XD Cargo Van",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "3.0L V6 Turbo Diesel",
+            "Trans": "5-Speed Automatic",
+            "Notes": "Available in High Roof with 170\" WB and High Roof Extended with 170\" WB configurations.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "TowCapacity": 7500
+        }
+    ],
+    "Sprinter 3500XD Crew Van": [
+        {
+            "Year": 2016,
+            "TypeDesc": "Crew Van",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "Sprinter 3500XD Crew Van",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "3.0L V6 Turbo Diesel",
+            "Trans": "5-Speed Automatic",
+            "Notes": "Available in High Roof with 170\" WB configuration.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "TowCapacity": 7500
+        }
+    ],
+    "Sprinter 3500XD Passenger Van": [
+        {
+            "Year": 2016,
+            "TypeDesc": "Passenger Van",
+            "MfgDesc": "Mercedes-Benz",
+            "MakeTrim": "Sprinter 3500XD Passenger Van",
+            "DriveTypeDesc": "Rear-Wheel Drive",
+            "Engine": "3.0L V6 Turbo Diesel",
+            "Trans": "5-Speed Automatic",
+            "Notes": "Available in High Roof with 170\" WB configuration.",
+            "TowDesc": "Bumper Pull - Weight Carrying",
+            "TowCapacity": 7500
+        }
     ]
 }
