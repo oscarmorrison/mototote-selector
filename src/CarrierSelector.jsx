@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { getCarrierData } from './utils/data-utils';
 
 
-const CarrierSelector = ({ chosenMotorcycle, manualValues, towingCapacity }) => {
+const CarrierSelector = ({ chosenMotorcycle, manualValues, tongueWeight }) => {
     const [carriers, setCarriers] = useState([]);
     const MOTOTOTE_WEIGHT = 60; // lbs
 
@@ -20,7 +20,7 @@ const CarrierSelector = ({ chosenMotorcycle, manualValues, towingCapacity }) => 
         !chosenMotorcycle?.front_tire_width && !manualValues.front_tire_width ||
         !chosenMotorcycle?.rear_tire_width && !manualValues.rear_tire_width ||
         !chosenMotorcycle?.wheelbase && !manualValues.wheelbase ||
-        !towingCapacity;
+        !tongueWeight;
 
     if (hasMissingData) {
         return (
@@ -39,9 +39,6 @@ const CarrierSelector = ({ chosenMotorcycle, manualValues, towingCapacity }) => 
         const bikeWeight = chosenMotorcycle?.wet_weight || parseFloat(manualValues.wet_weight);
         if (!bikeWeight) return [];
 
-        // Calculate tongue weight capacity (10% of towing capacity)
-        const tongueWeightCapacity = towingCapacity * 0.1;
-
         // Get tire widths (from data or manual input)
         const frontTireWidth = chosenMotorcycle?.front_tire_width || parseFloat(manualValues.front_tire_width);
         const rearTireWidth = chosenMotorcycle?.rear_tire_width || parseFloat(manualValues.rear_tire_width);
@@ -52,7 +49,7 @@ const CarrierSelector = ({ chosenMotorcycle, manualValues, towingCapacity }) => 
         return carriers.filter(carrier => {
             // Check total weight (bike + carrier) against tongue weight capacity
             const totalWeight = bikeWeight + MOTOTOTE_WEIGHT;
-            if (totalWeight > tongueWeightCapacity) return false;
+            if (totalWeight > tongueWeight) return false;
             if (totalWeight > parseFloat(carrier.weight_lbs)) return false;
 
             // Check tire width compatibility

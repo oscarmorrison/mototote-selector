@@ -14,12 +14,8 @@ const Widget = () => {
         wheelbase: ''
     });
     const [aftermarketHitch, setAftermarketHitch] = useState(false);
-    const [customTowCapacity, setCustomTowCapacity] = useState('');
 
     const isTestMode = new URLSearchParams(window.location.search).get('test') === 'true';
-
-    console.log('chosenVehicle', chosenVehicle);
-    console.log('chosenMotorcycle', chosenMotorcycle);
 
     useEffect(() => {
         if (chosenVehicle && !chosenVehicle.TowCapacity) {
@@ -28,7 +24,10 @@ const Widget = () => {
     }, [chosenVehicle]);
 
     const handleVehicleSelection = (vehicle) => {
-        setChosenVehicle(vehicle);
+        setChosenVehicle({
+            ...vehicle,
+            tongueWeight: vehicle.TowCapacity ? vehicle.TowCapacity * 0.1 : 0
+        });
         setChosenMotorcycle(null); // Reset motorcycle selection when vehicle changes
     };
 
@@ -190,15 +189,19 @@ const Widget = () => {
         }));
     };
 
+    const handleManualTongueWeightChange = (value) => {
+        setChosenVehicle(prevVehicle => ({
+            ...prevVehicle,
+            tongueWeight: parseInt(value)
+        }));
+    };
+
     const getTowingCapacity = () => {
-        if (aftermarketHitch && customTowCapacity) {
-            return parseInt(customTowCapacity);
-        }
         return chosenVehicle?.TowCapacity || 0;
     };
 
-    const hasValidTowingCapacity = () => {
-        return chosenVehicle?.TowCapacity || (aftermarketHitch && customTowCapacity);
+    const hasValidTongueWeight = () => {
+        return chosenVehicle?.tongueWeight;
     };
 
     return (
@@ -228,21 +231,23 @@ const Widget = () => {
                             </label>
                         </div>
                         {(!chosenVehicle.TowCapacity || aftermarketHitch) && (
-                            <div style={{ color: !customTowCapacity ? 'red' : 'inherit' }}>
+                            <div style={{ color: !chosenVehicle.tongueWeight ? 'red' : 'inherit' }}>
                                 <input
                                     type="number"
-                                    value={customTowCapacity}
-                                    onChange={(e) => setCustomTowCapacity(e.target.value)}
-                                    placeholder="Enter towing capacity"
-                                    style={{ borderColor: !customTowCapacity ? 'red' : 'inherit' }}
+                                    value={chosenVehicle.tongueWeight}
+                                    onChange={(e) => handleManualTongueWeightChange(e.target.value)}
+                                    placeholder="Enter tongue weight"
+                                    style={{ borderColor: !chosenVehicle.tongueWeight ? 'red' : 'inherit' }}
                                 /> lbs
                             </div>
                         )}
-                        <div><strong>Towing Capacity:</strong> {getTowingCapacity()} lbs</div>
-                        <div><strong>Tongue Weight Capacity:</strong> {(getTowingCapacity() * 0.1).toFixed(1)} lbs</div>
+                        {!aftermarketHitch && (
+                            <div><strong>Towing Capacity:</strong> {getTowingCapacity()} lbs</div>
+                        )}
+                        <div><strong>Tongue Weight:</strong> {chosenVehicle.tongueWeight} lbs</div>
                     </div>
                     
-                    {hasValidTowingCapacity() ? (
+                    {hasValidTongueWeight() ? (
                         !chosenMotorcycle ? (
                             <MotorcycleSelector onMotorcycleSelect={handleMotorcycleSelection} />
                         ) : (
@@ -318,7 +323,7 @@ const Widget = () => {
                                 <CarrierSelector 
                                     chosenMotorcycle={chosenMotorcycle}
                                     manualValues={manualValues}
-                                    towingCapacity={getTowingCapacity()}
+                                    tongueWeight={chosenVehicle.tongueWeight || 0}
                                 />
                             </Fragment>
                         )

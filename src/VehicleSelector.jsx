@@ -38,7 +38,7 @@ const VehicleSelector = ({ onVehicleSelect }) => {
     return (
         <form onSubmit={(e) => e.preventDefault()}>
             <Selector
-                label="Make"
+                label="Vehicle Make"
                 value={chosenMake?.normalizedName || ''}
                 options={Object.keys(makes).sort().map(makeKey => ({
                     value: makes[makeKey].normalizedName,
@@ -48,7 +48,7 @@ const VehicleSelector = ({ onVehicleSelect }) => {
             />
             {!!chosenMake && (
                 <Selector
-                    label="Year"
+                    label="Vehicle Year"
                     value={chosenYear}
                     options={(chosenMake.years || []).sort().reverse().map(year => ({
                         value: year,
@@ -59,7 +59,7 @@ const VehicleSelector = ({ onVehicleSelect }) => {
             )}
             {!!models && (
                 <Selector
-                    label="Model"
+                    label="Vehicle Model"
                     value={chosenModel}
                     options={Object.keys(models).sort().map(model => ({
                         value: model,
