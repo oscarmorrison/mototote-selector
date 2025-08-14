@@ -3,7 +3,7 @@
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
-    font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+    font-family: "Roboto Condensed", sans-serif;
 }
 
 h2 {
@@ -40,7 +40,6 @@ select {
     border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 1.1rem;
-    font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
     background-color: #fff;
     transition: border-color 0.3s, box-shadow 0.3s;
 }
@@ -58,11 +57,10 @@ input[type="checkbox"] {
 button {
     padding: 1rem;
     border: none;
-    border-radius: 50px;
-    background-color: #cc0000;
+    border-radius: 4px;
+    background-color: #007BFF;
     color: white;
     font-size: 1.2rem;
-    font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
     cursor: pointer;
     margin-top: 1rem;
     width: 100%;
@@ -70,7 +68,7 @@ button {
 }
 
 button:hover {
-    background-color: #000000;
+    background-color: #0056b3;
 }
 
 .container {
@@ -98,18 +96,17 @@ button:hover {
 }
 
 .select-button {
-  background-color: #cc0000;
+  background-color: #007BFF;
   color: white;
   border: none;
-  border-radius: 25px;
+  border-radius: 4px;
   padding: 8px 16px;
-  font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
 .select-button:hover {
-  background-color: #000000;
+  background-color: #0056b3;
 }
 
 .vehicle-summary {
@@ -201,12 +198,12 @@ button:hover {
     display: inline-block;
     margin-top: 0.5rem;
     padding: 0.5rem 1rem;
-    background: #cc0000;
+    background: #007bff;
     color: white;
     text-decoration: none;
-    border-radius: 25px;
+    border-radius: 4px;
 }
 
 .carrier-item a:hover {
-    background: #000000;
+    background: #0056b3;
 }

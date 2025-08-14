@@ -16,20 +16,16 @@ export default defineConfig(({ mode }) => {
             dest: '.'
           },
           {
+            src: 'scrape-cars/output/*',
+            dest: 'data/car_data'
+          },
+          {
+            src: 'scrape-motorcycles/motorcycle_data/*',
+            dest: 'data/motorcycle_data'
+          },
+          {
             src: 'src/data/mototote_carrier_metrics.csv',
-            dest: '.'
-          },
-          {
-            src: 'src/data/index.json',
-            dest: '.'
-          },
-          {
-            src: 'src/data/vehicle_*.json',
-            dest: '.'
-          },
-          {
-            src: 'src/data/motorcycle_*.json',
-            dest: '.'
+            dest: 'data'
           },
           {
             src: 'help.html',
@@ -50,14 +46,14 @@ export default defineConfig(({ mode }) => {
           // Usually, Vite's dev server is used, so this might be minimal:
           outDir: 'dist-dev',
           rollupOptions: {
-            input: './index.html'
+            input: './index.html' // or wherever your test HTML is
           }
         }
       : {
           // Production library build (UMD) for embedding
           outDir: 'dist',
           lib: {
-            entry: 'src/widget-main.jsx',
+            entry: 'src/main.jsx',
             name: 'MotoToteWidget', // Global name in UMD
             formats: ['umd'],
             fileName: () => 'mototote-widget.js'
