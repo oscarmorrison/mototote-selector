@@ -1,55 +1,83 @@
 import { useState, useEffect } from 'react';
 import Selector from './Selector';
-import { fetchData } from './utils/utils';
+import { getAllMotorcycleBrands, getMotorcycleData } from './utils/data-utils';
 
 const MotorcycleSelector = ({ onMotorcycleSelect }) => {
-    const [makes, setMakes] = useState([]);
-    const [chosenMake, setChosenMake] = useState('');
+    const [brands, setBrands] = useState([]);
+    const [chosenBrand, setChosenBrand] = useState('');
     const [chosenYear, setChosenYear] = useState('');
     const [models, setModels] = useState(null);
+    const [availableYears, setAvailableYears] = useState([]);
+    const [loading, setLoading] = useState(false);
 
     useEffect(() => {
-        const formatAndSetMakes = (data) => {
-            const modelObjects = data.reduce((acc, make) => {
-                acc[make.normalizedName] = make;
-                return acc;
-            }, {});
-            setMakes(modelObjects);
+        const loadBrands = async () => {
+            try {
+                const brandsList = await getAllMotorcycleBrands();
+                setBrands(brandsList);
+            } catch (error) {
+                console.error('Error loading motorcycle brands:', error);
+                setBrands([]);
+            }
         };
-        fetchData('./data/motorcycle_data/MOTO_MAKES.json', formatAndSetMakes, "Error loading motorcycle makes");
+        loadBrands();
     }, []);
 
-    const handleMakeChange = async (make) => {
-        setChosenMake(make);
+    const handleBrandChange = async (brand) => {
+        setChosenBrand(brand);
         setChosenYear('');
+        setAvailableYears([]);
+        setLoading(true);
+
+        try {
+            const motorcycles = await getMotorcycleData(brand);
+            const years = [...new Set(motorcycles.map(m => m.year))];
+            setAvailableYears(years.sort().reverse());
+        } catch (error) {
+            console.error('Error loading motorcycle data:', error);
+            setAvailableYears([]);
+        } finally {
+            setLoading(false);
+        }
     };
 
     const handleYearChange = async (year) => {
         setChosenYear(year);
-        const url = `./data/motorcycle_data/${chosenMake.normalizedName}_${year}.json`;
-        fetchData(url, setModels, "Error fetching motorcycle models");
+        setLoading(true);
+
+        try {
+            const motorcycles = await getMotorcycleData(chosenBrand);
+            const yearMotorcycles = motorcycles.filter(m => m.year === parseInt(year));
+            setModels(yearMotorcycles);
+        } catch (error) {
+            console.error('Error loading motorcycle data:', error);
+            setModels([]);
+        } finally {
+            setLoading(false);
+        }
     };
 
     return (
         <form onSubmit={(e) => e.preventDefault()}>
             <Selector
                 label="Motorcycle Make"
-                value={chosenMake?.normalizedName || ''}
-                options={Object.keys(makes).sort().map(makeKey => ({
-                    value: makes[makeKey].normalizedName,
-                    label: makes[makeKey].name
+                value={chosenBrand}
+                options={brands.map(brand => ({
+                    value: brand,
+                    label: brand.charAt(0).toUpperCase() + brand.slice(1)
                 }))}
-                onChange={(e) => handleMakeChange(makes[e.target.value])}
+                onChange={(e) => handleBrandChange(e.target.value)}
             />
-            {!!chosenMake && (
+            {!!chosenBrand && (
                 <Selector
                     label="Motorcycle Year"
                     value={chosenYear}
-                    options={(chosenMake.years || []).sort().reverse().map(year => ({
+                    options={availableYears.map(year => ({
                         value: year,
                         label: year
                     }))}
                     onChange={(e) => handleYearChange(e.target.value)}
+                    disabled={loading}
                 />
             )}
             {!!models && (

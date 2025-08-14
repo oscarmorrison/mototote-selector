@@ -276,7 +276,7 @@ const Widget = () => {
                         )}
                         <div><strong>Tongue Weight:</strong> {chosenVehicle.tongueWeight} lbs</div>
                     </div>
-                    
+
                     {hasValidTongueWeight() ? (
                         !chosenMotorcycle ? (
                             <MotorcycleSelector onMotorcycleSelect={handleMotorcycleSelection} />
@@ -289,13 +289,13 @@ const Widget = () => {
                                     <ul>
                                         <li style={{ color: !chosenMotorcycle.wet_weight && !manualValues.wet_weight ? 'red' : 'inherit' }}>
                                             <strong>Weight:</strong>{' '}
-                                            {chosenMotorcycle.wet_weight || 
+                                            {chosenMotorcycle.wet_weight ||
                                                 <>
                                                     <input
                                                         type="number"
                                                         value={manualValues.wet_weight}
                                                         onChange={(e) => handleManualInput('wet_weight', e.target.value)}
-                                                        placeholder="Enter weight"
+                                                        placeholder="Enter weight (lbs)"
                                                     />
                                                     <div className="helper-text">
                                                         Typical weights: Standard: 400-500 lbs | Sport: 350-450 lbs | Cruiser/Touring: 600-900 lbs
@@ -312,7 +312,7 @@ const Widget = () => {
                                                         step="0.01"
                                                         value={manualValues.front_tire_width}
                                                         onChange={(e) => handleManualInput('front_tire_width', e.target.value)}
-                                                        placeholder="Enter front width"
+                                                        placeholder="Enter front width (inches)"
                                                     />
                                                     <div className="helper-text">Average front tire width: 4-4.7 inches</div>
                                                 </>
@@ -327,7 +327,7 @@ const Widget = () => {
                                                         step="0.01"
                                                         value={manualValues.rear_tire_width}
                                                         onChange={(e) => handleManualInput('rear_tire_width', e.target.value)}
-                                                        placeholder="Enter rear width"
+                                                        placeholder="Enter rear width (inches)"
                                                     />
                                                     <div className="helper-text">Average rear tire width: 6-8 inches</div>
                                                 </>
@@ -342,7 +342,7 @@ const Widget = () => {
                                                         step="0.1"
                                                         value={manualValues.wheelbase}
                                                         onChange={(e) => handleManualInput('wheelbase', e.target.value)}
-                                                        placeholder="Enter wheelbase"
+                                                        placeholder="Enter wheelbase (inches)"
                                                     />
                                                     <div className="helper-text">Average wheelbase: 54-63 inches</div>
                                                 </>
@@ -350,7 +350,7 @@ const Widget = () => {
                                         </li>
                                     </ul>
                                 </div>
-                                <CarrierSelector 
+                                <CarrierSelector
                                     chosenMotorcycle={chosenMotorcycle}
                                     manualValues={manualValues}
                                     tongueWeight={chosenVehicle.tongueWeight || 0}

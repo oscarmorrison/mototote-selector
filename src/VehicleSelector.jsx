@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import Selector from './Selector';
 import TrimSelector from './TrimSelector';
-import { fetchData } from './utils/utils';
+import { getAllVehicleMakes, getVehicleData } from './utils/data-utils';
 
 const VehicleSelector = ({ onVehicleSelect }) => {
     const [makes, setMakes] = useState([]);
@@ -9,40 +9,76 @@ const VehicleSelector = ({ onVehicleSelect }) => {
     const [chosenYear, setChosenYear] = useState('');
     const [chosenModel, setChosenModel] = useState('');
     const [models, setModels] = useState(null);
+    const [availableYears, setAvailableYears] = useState([]);
+    const [loading, setLoading] = useState(false);
 
     useEffect(() => {
-        const formatAndSetMakes = (data) => {
-            const modelObjects = data.reduce((acc, make) => {
-                acc[make.normalizedName] = make;
-                return acc;
-            }, {});
-            setMakes(modelObjects);
+        const loadMakes = async () => {
+            try {
+                const makesList = await getAllVehicleMakes();
+                setMakes(makesList);
+            } catch (error) {
+                console.error('Error loading vehicle makes:', error);
+                setMakes([]);
+            }
         };
-        fetchData('./data/car_data/AUTO_MAKES.json', formatAndSetMakes, "Error loading makes");
+        loadMakes();
     }, []);
 
-    const handleMakeChange = (event) => {
-        const make_key = event.target.value;
-        setChosenMake(makes[make_key]);
+    const handleMakeChange = async (event) => {
+        const makeName = event.target.value;
+        setChosenMake(makeName);
         setChosenYear('');
         setChosenModel('');
+        setAvailableYears([]);
+        setLoading(true);
+
+        try {
+            const vehicles = await getVehicleData(makeName);
+            const years = [...new Set(vehicles.map(v => v.Year))];
+            setAvailableYears(years.sort().reverse());
+        } catch (error) {
+            console.error('Error loading vehicle data:', error);
+            setAvailableYears([]);
+        } finally {
+            setLoading(false);
+        }
     };
 
     const handleYearChange = async (year) => {
         setChosenYear(year);
         setChosenModel('');
-        const url = `./data/car_data/${chosenMake.normalizedName}_${year}.json`;
-        fetchData(url, setModels, "Error fetching models");
+        setLoading(true);
+
+        try {
+            const vehicles = await getVehicleData(chosenMake);
+            const yearVehicles = vehicles.filter(v => v.Year === parseInt(year));
+
+            const modelGroups = {};
+            yearVehicles.forEach(vehicle => {
+                if (!modelGroups[vehicle.MakeTrim]) {
+                    modelGroups[vehicle.MakeTrim] = [];
+                }
+                modelGroups[vehicle.MakeTrim].push(vehicle);
+            });
+
+            setModels(modelGroups);
+        } catch (error) {
+            console.error('Error loading vehicle data:', error);
+            setModels({});
+        } finally {
+            setLoading(false);
+        }
     };
 
     return (
         <form onSubmit={(e) => e.preventDefault()}>
             <Selector
                 label="Vehicle Make"
-                value={chosenMake?.normalizedName || ''}
-                options={Object.keys(makes).sort().map(makeKey => ({
-                    value: makes[makeKey].normalizedName,
-                    label: makes[makeKey].name
+                value={chosenMake}
+                options={makes.map(make => ({
+                    value: make,
+                    label: make.charAt(0).toUpperCase() + make.slice(1)
                 }))}
                 onChange={handleMakeChange}
             />
@@ -50,11 +86,12 @@ const VehicleSelector = ({ onVehicleSelect }) => {
                 <Selector
                     label="Vehicle Year"
                     value={chosenYear}
-                    options={(chosenMake.years || []).sort().reverse().map(year => ({
+                    options={availableYears.map(year => ({
                         value: year,
                         label: year
                     }))}
                     onChange={(e) => handleYearChange(e.target.value)}
+                    disabled={loading}
                 />
             )}
             {!!models && (
