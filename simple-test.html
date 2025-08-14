@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Widget Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .test-box {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            margin: 20px 0;
+        }
+        .debug {
+            background: #f8f9fa;
+            padding: 15px;
+            border-left: 4px solid #007bff;
+            margin: 15px 0;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-box">
+        <h1>🧪 Simple Widget Test</h1>
+        <p>Testing widget directly from build files, no dev server needed.</p>
+        
+        <h2>Widget Container:</h2>
+        <div id="mototote-widget" style="border: 2px dashed #ccc; padding: 20px; min-height: 200px;">
+            <p>Widget loading...</p>
+        </div>
+        
+        <h2>Debug Information:</h2>
+        <div id="debug" class="debug">
+            <p>Checking widget status...</p>
+        </div>
+    </div>
+
+    <!-- Load the widget from build -->
+    <script src="./dist/widget.js"></script>
+    
+    <script>
+        // Debug the widget loading
+        function checkWidget() {
+            const debug = document.getElementById('debug');
+            const container = document.getElementById('mototote-widget');
+            let status = [];
+            
+            // Check if widget API is available
+            status.push(`Widget API available: ${!!window.MotoToteWidget ? '✅ YES' : '❌ NO'}`);
+            
+            // Check if container is initialized
+            const isInitialized = container.dataset.motototeInitialized === 'true';
+            status.push(`Container initialized: ${isInitialized ? '✅ YES' : '❌ NO'}`);
+            
+            // Check if CSS is injected
+            const cssElement = document.getElementById('mototote-widget-styles');
+            status.push(`CSS injected: ${cssElement ? '✅ YES' : '❌ NO'}`);
+            
+            // Check for widget content
+            const hasForm = container.querySelector('form');
+            const hasSelect = container.querySelector('select');
+            status.push(`Form found: ${hasForm ? '✅ YES' : '❌ NO'}`);
+            status.push(`Select found: ${hasSelect ? '✅ YES' : '❌ NO'}`);
+            
+            // Check select styling if it exists
+            if (hasSelect) {
+                const style = window.getComputedStyle(hasSelect);
+                status.push(`Select border-radius: ${style.borderRadius}`);
+                status.push(`Select height: ${style.height}`);
+                status.push(`Select background: ${style.backgroundColor}`);
+            }
+            
+            debug.innerHTML = status.map(s => `<p>${s}</p>`).join('');
+        }
+        
+        // Check immediately and after delays
+        setTimeout(checkWidget, 500);
+        setTimeout(checkWidget, 2000);
+        setTimeout(checkWidget, 5000);
+    </script>
+</body>
+</html>

@@ -39,84 +39,129 @@ label {
   display: block;
 }
 
-select {
-  box-sizing: border-box;
-  width: 100%;
-  height: 54px;
-  padding: 13px 20px;
-  border: 1px solid #d3d3d3;
-  border-radius: 30px;
-  background: #fff;
-  color: #000;
-  font: 400 16px/26px Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+#mototote-widget select,
+[data-mototote-initialized] select,
+.mototote-widget select,
+div[data-mototote-initialized="true"] select {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  height: 54px !important;
+  padding: 13px 20px !important;
+  border: 1px solid #d3d3d3 !important;
+  border-radius: 30px !important;
+  background: #fff !important;
+  color: #000 !important;
+  font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
   -webkit-font-smoothing: antialiased;
-  margin-bottom: 1rem;
-  transition: border-color 0.3s;
-  cursor: pointer;
+  margin-bottom: 1rem !important;
+  transition: border-color 0.3s !important;
+  cursor: pointer !important;
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
 }
 
-select:hover,
-select:focus {
-  border-color: #cc0000;
-  outline: none;
+#mototote-widget select:hover,
+#mototote-widget select:focus,
+[data-mototote-initialized] select:hover,
+[data-mototote-initialized] select:focus,
+.mototote-widget select:hover,
+.mototote-widget select:focus,
+div[data-mototote-initialized="true"] select:hover,
+div[data-mototote-initialized="true"] select:focus {
+  border-color: #cc0000 !important;
+  outline: none !important;
 }
 
-input[type="text"],
-input[type="number"] {
-  box-sizing: border-box;
-  width: 100%;
-  height: 54px;
-  padding: 13px 20px;
-  border: 1px solid #d3d3d3;
-  border-radius: 30px;
-  background: #fff;
-  color: #000;
-  font: 400 16px/26px Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif;
+#mototote-widget input[type="text"],
+#mototote-widget input[type="number"],
+[data-mototote-initialized] input[type="text"],
+[data-mototote-initialized] input[type="number"],
+.mototote-widget input[type="text"],
+.mototote-widget input[type="number"],
+div[data-mototote-initialized="true"] input[type="text"],
+div[data-mototote-initialized="true"] input[type="number"] {
+  box-sizing: border-box !important;
+  width: 100% !important;
+  height: 54px !important;
+  padding: 13px 20px !important;
+  border: 1px solid #d3d3d3 !important;
+  border-radius: 30px !important;
+  background: #fff !important;
+  color: #000 !important;
+  font-family: Helvetica, "Helvetica Neue", Arial, "Lucida Grande", sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 400 !important;
+  line-height: 26px !important;
   -webkit-font-smoothing: antialiased;
-  caret-color: #000;
-  margin-bottom: 1rem;
-  transition: border-color 0.3s;
+  caret-color: #000 !important;
+  margin-bottom: 1rem !important;
+  transition: border-color 0.3s !important;
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  -moz-appearance: none !important;
 }
 
-input[type="text"]:hover,
-input[type="text"]:focus,
-input[type="number"]:hover,
-input[type="number"]:focus {
-  border-color: #cc0000;
-  outline: none;
+#mototote-widget input[type="text"]:hover,
+#mototote-widget input[type="text"]:focus,
+#mototote-widget input[type="number"]:hover,
+#mototote-widget input[type="number"]:focus,
+[data-mototote-initialized] input[type="text"]:hover,
+[data-mototote-initialized] input[type="text"]:focus,
+[data-mototote-initialized] input[type="number"]:hover,
+[data-mototote-initialized] input[type="number"]:focus,
+.mototote-widget input[type="text"]:hover,
+.mototote-widget input[type="text"]:focus,
+.mototote-widget input[type="number"]:hover,
+.mototote-widget input[type="number"]:focus {
+  border-color: #cc0000 !important;
+  outline: none !important;
 }
 
 /* Remove number spinners */
-input[type="number"] {
-  -moz-appearance: textfield;
+#mototote-widget input[type="number"],
+[data-mototote-initialized] input[type="number"],
+.mototote-widget input[type="number"] {
+  -moz-appearance: textfield !important;
 }
-input[type="number"]::-webkit-outer-spin-button,
-input[type="number"]::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
+#mototote-widget input[type="number"]::-webkit-outer-spin-button,
+#mototote-widget input[type="number"]::-webkit-inner-spin-button,
+[data-mototote-initialized] input[type="number"]::-webkit-outer-spin-button,
+[data-mototote-initialized] input[type="number"]::-webkit-inner-spin-button,
+.mototote-widget input[type="number"]::-webkit-outer-spin-button,
+.mototote-widget input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  margin: 0 !important;
 }
 
 input[type="checkbox"] {
   margin-right: 0.5rem;
 }
 
-button {
-  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 1rem;
-  color: #fff;
-  background: #cc0000;
-  border-radius: 30px;
-  border: none;
-  padding: 10px 18px;
-  cursor: pointer;
-  margin-top: 1rem;
-  width: 100%;
-  transition: background-color 0.3s;
+#mototote-widget button,
+[data-mototote-initialized] button,
+.mototote-widget button {
+  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif !important;
+  font-size: 1rem !important;
+  color: #fff !important;
+  background: #cc0000 !important;
+  border-radius: 30px !important;
+  border: none !important;
+  padding: 10px 18px !important;
+  cursor: pointer !important;
+  margin-top: 1rem !important;
+  width: 100% !important;
+  transition: background-color 0.3s !important;
 }
 
-button:hover {
-  background: #000;
-  color: #fff;
+#mototote-widget button:hover,
+[data-mototote-initialized] button:hover,
+.mototote-widget button:hover {
+  background: #000 !important;
+  color: #fff !important;
 }
 
 .container {
@@ -143,21 +188,25 @@ button:hover {
   padding-top: 16px;
 }
 
-.select-button {
-  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 1rem;
-  color: #fff;
-  background: #cc0000;
-  border-radius: 30px;
-  border: none;
-  padding: 10px 18px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+#mototote-widget .select-button,
+[data-mototote-initialized] .select-button,
+.mototote-widget .select-button {
+  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif !important;
+  font-size: 1rem !important;
+  color: #fff !important;
+  background: #cc0000 !important;
+  border-radius: 30px !important;
+  border: none !important;
+  padding: 10px 18px !important;
+  cursor: pointer !important;
+  transition: background-color 0.3s ease !important;
 }
 
-.select-button:hover {
-  background: #000;
-  color: #fff;
+#mototote-widget .select-button:hover,
+[data-mototote-initialized] .select-button:hover,
+.mototote-widget .select-button:hover {
+  background: #000 !important;
+  color: #fff !important;
 }
 
 .vehicle-summary {
@@ -245,23 +294,27 @@ button:hover {
   margin: 0.25rem 0;
 }
 
-.carrier-item a {
-  display: inline-block;
-  margin-top: 0.5rem;
-  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 1rem;
-  color: #fff;
-  background: #cc0000;
-  border-radius: 30px;
-  border: none;
-  padding: 10px 18px;
-  text-decoration: none;
-  transition: background-color 0.3s;
+#mototote-widget .carrier-item a,
+[data-mototote-initialized] .carrier-item a,
+.mototote-widget .carrier-item a {
+  display: inline-block !important;
+  margin-top: 0.5rem !important;
+  font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif !important;
+  font-size: 1rem !important;
+  color: #fff !important;
+  background: #cc0000 !important;
+  border-radius: 30px !important;
+  border: none !important;
+  padding: 10px 18px !important;
+  text-decoration: none !important;
+  transition: background-color 0.3s !important;
 }
 
-.carrier-item a:hover {
-  background: #000;
-  color: #fff;
+#mototote-widget .carrier-item a:hover,
+[data-mototote-initialized] .carrier-item a:hover,
+.mototote-widget .carrier-item a:hover {
+  background: #000 !important;
+  color: #fff !important;
 }
 
 .helper-text {
@@ -292,6 +345,9 @@ const injectCSS = () => {
   style.id = cssId
   style.textContent = CSS_STYLES
   document.head.appendChild(style)
+
+  // Debug: log that CSS was injected
+  console.log('MotoTote Widget: CSS injected')
 }
 
 const WIDGET_BASE_URL = 'https://oscarmorrison.com/mototote-selector/'

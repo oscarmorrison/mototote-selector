@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Widget Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .test-section {
+            background: white;
+            padding: 30px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 { color: #333; }
+        h2 { color: #666; }
+    </style>
+</head>
+<body>
+    <div class="test-section">
+        <h1>🧪 Local Widget Test</h1>
+        <p>Testing the MotoTote widget with local build files.</p>
+
+        <h2>Widget Container:</h2>
+        <div id="mototote-widget" style="border: 2px dashed #ccc; padding: 20px; min-height: 100px;">
+            Widget will load here...
+        </div>
+
+        <h2>Debug Info:</h2>
+        <div id="debug-info">
+            <p>Loading...</p>
+        </div>
+    </div>
+
+    <!-- Load the local widget -->
+    <script src="./dist/widget.js"></script>
+
+    <script>
+        // Debug information
+        setTimeout(() => {
+            const debugDiv = document.getElementById('debug-info');
+            const widgetContainer = document.getElementById('mototote-widget');
+
+            let debugInfo = [];
+            debugInfo.push(`✅ Widget script loaded: ${!!window.MotoToteWidget}`);
+            debugInfo.push(`✅ Widget initialized: ${widgetContainer.dataset.motototeInitialized === 'true'}`);
+            debugInfo.push(`✅ CSS injected: ${!!document.getElementById('mototote-widget-styles')}`);
+
+            // Check if styles are applied
+            const select = widgetContainer.querySelector('select');
+            if (select) {
+                const computedStyle = window.getComputedStyle(select);
+                debugInfo.push(`✅ Select found: true`);
+                debugInfo.push(`📏 Border radius: ${computedStyle.borderRadius}`);
+                debugInfo.push(`📏 Height: ${computedStyle.height}`);
+                debugInfo.push(`🎨 Background: ${computedStyle.backgroundColor}`);
+            } else {
+                debugInfo.push(`❌ No select element found yet`);
+            }
+
+            debugDiv.innerHTML = debugInfo.map(info => `<p>${info}</p>`).join('');
+        }, 2000);
+    </script>
+</body>
+</html>

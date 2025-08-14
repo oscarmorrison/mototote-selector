@@ -28,7 +28,7 @@ export default defineConfig(({ mode, command }) => {
             src: 'help.html',
             dest: '.'
           },
-          ...(!isWidget ? [{
+          ...(!isWidget && !isDev ? [{
             src: 'index.html',
             dest: '.'
           }] : [])
@@ -43,7 +43,7 @@ export default defineConfig(({ mode, command }) => {
       ? {
           outDir: 'dist-dev',
           rollupOptions: {
-            input: './dev.html'
+            input: './index-dev.html'
           }
         }
       : isWidget
@@ -72,7 +72,7 @@ export default defineConfig(({ mode, command }) => {
           emptyOutDir: false
         },
 
-    base: '/mototote-selector/',
+    base: isDev ? '/' : '/mototote-selector/',
 
     resolve: {
       alias: {
