@@ -1,5 +1,4 @@
 import { Fragment, useState, useEffect } from 'react';
-import './Widget.css';
 import VehicleSelector from './VehicleSelector';
 import MotorcycleSelector from './MotorcycleSelector';
 import CarrierSelector from './CarrierSelector';

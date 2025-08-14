@@ -56,7 +56,10 @@ export default defineConfig(({ mode, command }) => {
             fileName: () => 'widget.js'
           },
           rollupOptions: {
-            external: []
+            external: [],
+            output: {
+              inlineDynamicImports: true
+            }
           },
           cssCodeSplit: false,
           emptyOutDir: false
