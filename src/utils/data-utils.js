@@ -1,5 +1,6 @@
 import Papa from 'papaparse';
 import carriersCSV from '../data/mototote_carrier_metrics.csv?raw';
+import { sanitizeFilename } from './filename-utils.js';
 
 // Cache for loaded data
 const dataCache = {
@@ -13,7 +14,7 @@ const loadIndexData = async () => {
     if (dataCache.index) return dataCache.index;
 
     try {
-        const response = await fetch('./index.json');
+        const response = await fetch('./mototote-widget-index.json');
         if (!response.ok) throw new Error('Failed to load index data');
         dataCache.index = await response.json();
         return dataCache.index;
@@ -38,7 +39,8 @@ const getVehicleData = async (make) => {
     }
 
     try {
-        const response = await fetch(`./vehicle_${make}.json`);
+        const sanitizedMake = sanitizeFilename(make);
+        const response = await fetch(`./mototote-widget-vehicle-${sanitizedMake}.json`);
         if (!response.ok) throw new Error(`Failed to load ${make} data`);
         const data = await response.json();
         dataCache.vehicles[make] = data;
@@ -56,7 +58,8 @@ const getMotorcycleData = async (brand) => {
     }
 
     try {
-        const response = await fetch(`./motorcycle_${brand}.json`);
+        const sanitizedBrand = sanitizeFilename(brand);
+        const response = await fetch(`./mototote-widget-motorcycle-${sanitizedBrand}.json`);
         if (!response.ok) throw new Error(`Failed to load ${brand} data`);
         const data = await response.json();
         dataCache.motorcycles[brand] = data;

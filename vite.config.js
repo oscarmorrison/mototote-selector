@@ -54,19 +54,25 @@ export default defineConfig(({ mode }) => {
           }
         }
       : {
-          // Production library build (UMD) for embedding
+          // Production build with stable filenames
           outDir: 'dist',
-          lib: {
-            entry: 'src/widget-main.jsx',
-            name: 'MotoToteWidget', // Global name in UMD
-            formats: ['umd'],
-            fileName: () => 'mototote-widget.js'
-          },
-          rollupOptions: {
-            // If you want everything bundled (including React), leave external empty
-            external: []
-          },
+          assetsDir: '',
           cssCodeSplit: false,
+          rollupOptions: {
+            input: {
+              'widget-main': 'src/widget-main.js',
+              'mototote-widget': 'src/widget-main.jsx'
+            },
+            output: {
+              entryFileNames: '[name].js',
+              chunkFileNames: '[name].js',
+              assetFileNames: (info) => {
+                const n = info.name || '';
+                if (/\.(json|csv|css)$/i.test(n)) return n;
+                return '[name][extname]';
+              }
+            }
+          },
           emptyOutDir: true
         },
 
