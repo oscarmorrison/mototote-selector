@@ -275,7 +275,7 @@ const Widget = () => {
                         )}
                         <div><strong>Tongue Weight:</strong> {chosenVehicle.tongueWeight} lbs</div>
                     </div>
-                    
+
                     {hasValidTongueWeight() ? (
                         !chosenMotorcycle ? (
                             <MotorcycleSelector onMotorcycleSelect={handleMotorcycleSelection} />
@@ -288,7 +288,7 @@ const Widget = () => {
                                     <ul>
                                         <li style={{ color: !chosenMotorcycle.wet_weight && !manualValues.wet_weight ? 'red' : 'inherit' }}>
                                             <strong>Weight:</strong>{' '}
-                                            {chosenMotorcycle.wet_weight || 
+                                            {chosenMotorcycle.wet_weight ||
                                                 <>
                                                     <input
                                                         type="number"
@@ -349,7 +349,7 @@ const Widget = () => {
                                         </li>
                                     </ul>
                                 </div>
-                                <CarrierSelector 
+                                <CarrierSelector
                                     chosenMotorcycle={chosenMotorcycle}
                                     manualValues={manualValues}
                                     tongueWeight={chosenVehicle.tongueWeight || 0}
