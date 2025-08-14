@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MotoTote Widget Demo</title>
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+        line-height: 1.6;
+        margin: 0;
+        padding: 20px;
+        background-color: #f5f5f5;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        background: white;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      }
+      .demo-section {
+        margin: 40px 0;
+        padding: 20px;
+        border: 2px dashed #ddd;
+        border-radius: 8px;
+        background: #fafafa;
+      }
+      .code-block {
+        background: #f8f8f8;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 15px;
+        margin: 15px 0;
+        font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+        font-size: 14px;
+        overflow-x: auto;
+      }
+      h1 { color: #333; }
+      h2 { color: #555; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+      .widget-container {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 20px 0;
+        background: white;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>🏍️ MotoTote Widget Demo</h1>
+      <p>This page demonstrates how to embed the MotoTote vehicle compatibility widget on any website.</p>
+
+      <h2>📋 Basic Usage</h2>
+      <p>Simply include the widget script and add a div with the correct ID:</p>
+      <div class="code-block">
+&lt;script src="https://oscarmorrison.com/mototote-selector/widget.js"&gt;&lt;/script&gt;
+&lt;div id="mototote-widget"&gt;&lt;/div&gt;
+      </div>
+
+      <div class="demo-section">
+        <h3>Live Widget Demo</h3>
+        <div class="widget-container">
+          <div id="mototote-widget"></div>
+        </div>
+      </div>
+
+      <h2>⚙️ Advanced Usage</h2>
+      <p>You can also initialize the widget manually with custom options:</p>
+      <div class="code-block">
+&lt;script src="https://oscarmorrison.com/mototote-selector/widget.js"&gt;&lt;/script&gt;
+&lt;div id="my-custom-widget"&gt;&lt;/div&gt;
+&lt;script&gt;
+  MotoToteWidget.init('my-custom-widget', {
+    baseUrl: 'https://oscarmorrison.com/mototote-selector/',
+    theme: 'custom'
+  });
+&lt;/script&gt;
+      </div>
+
+      <div class="demo-section">
+        <h3>Custom Container Demo</h3>
+        <div class="widget-container">
+          <div id="custom-demo-widget"></div>
+        </div>
+      </div>
+
+      <h2>🎨 Multiple Widgets</h2>
+      <p>You can have multiple widgets on the same page:</p>
+      <div class="code-block">
+&lt;div class="mototote-widget"&gt;&lt;/div&gt;
+&lt;div class="mototote-widget"&gt;&lt;/div&gt;
+      </div>
+
+      <div class="demo-section">
+        <h3>Multiple Widgets Demo</h3>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+          <div class="widget-container">
+            <h4>Widget 1</h4>
+            <div class="mototote-widget"></div>
+          </div>
+          <div class="widget-container">
+            <h4>Widget 2</h4>
+            <div class="mototote-widget"></div>
+          </div>
+        </div>
+      </div>
+
+      <h2>📚 API Reference</h2>
+      <div class="code-block">
+// Initialize widget in specific container
+MotoToteWidget.init(containerId, options)
+
+// Initialize all widgets on page
+MotoToteWidget.initAll(options)
+
+// Options:
+{
+  baseUrl: 'https://oscarmorrison.com/mototote-selector/', // Data source URL
+  theme: 'default' // Theme name
+}
+      </div>
+
+      <h2>🔗 Resources</h2>
+      <ul>
+        <li><a href="https://github.com/oscarmorrison/mototote-selector">GitHub Repository</a></li>
+        <li><a href="https://mototote.com/pages/fit">MotoTote Official Fit Guide</a></li>
+        <li><a href="./help.html">Widget Help Documentation</a></li>
+      </ul>
+    </div>
+
+    <script src="./widget.js"></script>
+    <script>
+      setTimeout(() => {
+        MotoToteWidget.init('custom-demo-widget', {
+          theme: 'custom'
+        });
+      }, 1000);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cross-Domain Widget Test</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f0f0f0;
+      }
+      .test-container {
+        background: white;
+        padding: 20px;
+        margin: 20px 0;
+        border-radius: 8px;
+        border: 2px solid #ddd;
+      }
+      h1 { color: #333; }
+      h2 { color: #666; }
+    </style>
+  </head>
+  <body>
+    <h1>🧪 Cross-Domain Widget Test</h1>
+    <p>This page tests loading the MotoTote widget from the GitHub Pages CDN.</p>
+
+    <div class="test-container">
+      <h2>Test 1: Auto-initialization</h2>
+      <p>Widget should automatically load in the div below:</p>
+      <div id="mototote-widget" style="border: 1px dashed #ccc; min-height: 100px; padding: 10px;">
+        Loading widget...
+      </div>
+    </div>
+
+    <div class="test-container">
+      <h2>Test 2: Manual initialization</h2>
+      <p>Widget initialized manually with custom container:</p>
+      <div id="manual-widget" style="border: 1px dashed #ccc; min-height: 100px; padding: 10px;">
+        Loading widget...
+      </div>
+    </div>
+
+    <div class="test-container">
+      <h2>Test 3: Multiple widgets</h2>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+        <div>
+          <h3>Widget A</h3>
+          <div class="mototote-widget" style="border: 1px dashed #ccc; min-height: 100px; padding: 10px;">
+            Loading widget...
+          </div>
+        </div>
+        <div>
+          <h3>Widget B</h3>
+          <div class="mototote-widget" style="border: 1px dashed #ccc; min-height: 100px; padding: 10px;">
+            Loading widget...
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      console.log('Test page loaded, attempting to load widget...');
+
+      // For local testing, use local path
+      const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+      const widgetUrl = isLocal
+        ? './dist/widget.js'
+        : 'https://oscarmorrison.com/mototote-selector/widget.js';
+
+      const script = document.createElement('script');
+      script.src = widgetUrl;
+      script.onload = function() {
+        console.log('Widget script loaded successfully');
+
+        // Manual initialization after 2 seconds
+        setTimeout(() => {
+          if (window.MotoToteWidget) {
+            console.log('Manually initializing widget');
+            window.MotoToteWidget.init('manual-widget');
+          }
+        }, 2000);
+      };
+      script.onerror = function() {
+        console.error('Failed to load widget script from:', widgetUrl);
+        document.getElementById('mototote-widget').innerHTML =
+          '<p style="color: red;">❌ Failed to load widget script</p>';
+      };
+
+      document.head.appendChild(script);
+    </script>
+  </body>
+</html>

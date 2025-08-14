@@ -38,7 +38,7 @@ jobs:
       - name: Install dependencies 🔧
         run: yarn install
 
-      - name: Build with Vite 🏗️
+      - name: Build Everything 🏗️
         run: yarn build
 
       - name: List build files in dist directory 📂

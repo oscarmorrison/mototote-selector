@@ -6,7 +6,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run build:widget && npm run build:demo && npm run build:post",
+    "build:widget": "BUILD_TARGET=widget vite build",
+    "build:demo": "vite build",
+    "build:post": "test -f dist/src/demo.html && mv dist/src/demo.html dist/demo.html && rm -rf dist/src || echo 'Demo file already in place'",
     "clean-build": "rm -rf ./dist",
     "lint": "eslint .",
     "preview": "vite preview",

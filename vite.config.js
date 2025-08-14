@@ -3,18 +3,15 @@ import react from '@vitejs/plugin-react'
 import { viteStaticCopy } from 'vite-plugin-static-copy'
 import EnvironmentPlugin from 'vite-plugin-environment'
 
-export default defineConfig(({ mode }) => {
+export default defineConfig(({ mode, command }) => {
   const isDev = mode === 'development'
+  const isWidget = process.env.BUILD_TARGET === 'widget'
 
   return {
     plugins: [
       react(),
       viteStaticCopy({
         targets: [
-          {
-            src: 'src/webpage/index.html',
-            dest: '.'
-          },
           {
             src: 'scrape-cars/output/*',
             dest: 'data/car_data'
@@ -30,7 +27,11 @@ export default defineConfig(({ mode }) => {
           {
             src: 'help.html',
             dest: '.'
-          }
+          },
+          ...(!isWidget ? [{
+            src: 'index.html',
+            dest: '.'
+          }] : [])
         ]
       }),
       EnvironmentPlugin({
@@ -38,35 +39,36 @@ export default defineConfig(({ mode }) => {
       })
     ],
 
-    // If you want to test HMR, run `npm run dev` or `vite dev`.
-    // This config automatically chooses dev or production build.
     build: isDev
       ? {
-          // Normal dev build (still served via `vite dev`).
-          // Usually, Vite's dev server is used, so this might be minimal:
           outDir: 'dist-dev',
           rollupOptions: {
-            input: './index.html' // or wherever your test HTML is
+            input: './dev.html'
           }
         }
-      : {
-          // Production library build (UMD) for embedding
+      : isWidget
+      ? {
           outDir: 'dist',
           lib: {
-            entry: 'src/main.jsx',
-            name: 'MotoToteWidget', // Global name in UMD
+            entry: 'src/widget-entry.js',
+            name: 'MotoToteWidget',
             formats: ['umd'],
-            fileName: () => 'mototote-widget.js'
+            fileName: () => 'widget.js'
           },
           rollupOptions: {
-            // If you want everything bundled (including React), leave external empty
             external: []
           },
           cssCodeSplit: false,
-          emptyOutDir: true
+          emptyOutDir: false
+        }
+      : {
+          outDir: 'dist',
+          rollupOptions: {
+            input: 'src/demo.html'
+          },
+          emptyOutDir: false
         },
 
-    // If you’re deploying under a specific path, keep `base`
     base: '/mototote-selector/',
 
     resolve: {
@@ -75,7 +77,6 @@ export default defineConfig(({ mode }) => {
       }
     },
 
-    // Optionally auto-open browser in dev mode
     server: {
       open: true
     }
