@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { sanitizeFilename } from '../src/utils/filename-utils.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -13,8 +12,7 @@ console.log('Renaming assets with mototote-widget prefix...');
 // Files to rename
 const filesToRename = [
   { from: 'index.json', to: 'mototote-widget-index.json' },
-  { from: 'mototote_carrier_metrics.csv', to: 'mototote-widget-carrier-metrics.csv' },
-  { from: 'mototote-widget.js', to: 'mototote-widget.js' } // Keep the main widget file as is
+  { from: 'mototote_carrier_metrics.csv', to: 'mototote-widget-carrier-metrics.csv' }
 ];
 
 // Rename specific files
@@ -28,8 +26,6 @@ filesToRename.forEach(({ from, to }) => {
   }
 });
 
-
-
 // Rename vehicle files
 const vehicleFiles = fs.readdirSync(distDir).filter(file =>
   file.startsWith('vehicle_') && file.endsWith('.json')
@@ -37,8 +33,7 @@ const vehicleFiles = fs.readdirSync(distDir).filter(file =>
 
 vehicleFiles.forEach(file => {
   const make = file.replace('vehicle_', '').replace('.json', '');
-  const sanitizedMake = sanitizeFilename(make);
-  const newName = `mototote-widget-vehicle-${sanitizedMake}.json`;
+  const newName = `mototote-widget-vehicle-${make}.json`;
   const fromPath = path.join(distDir, file);
   const toPath = path.join(distDir, newName);
 
@@ -53,8 +48,7 @@ const motorcycleFiles = fs.readdirSync(distDir).filter(file =>
 
 motorcycleFiles.forEach(file => {
   const brand = file.replace('motorcycle_', '').replace('.json', '');
-  const sanitizedBrand = sanitizeFilename(brand);
-  const newName = `mototote-widget-motorcycle-${sanitizedBrand}.json`;
+  const newName = `mototote-widget-motorcycle-${brand}.json`;
   const fromPath = path.join(distDir, file);
   const toPath = path.join(distDir, newName);
 
